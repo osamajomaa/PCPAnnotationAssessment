@@ -35,7 +35,7 @@ def pmid2doi(pmid_list):
         pmid_doi = dict(list(pmid_doi.items()) + list(pmid2doi_Helper(pmid_list[i:j]).items()))
         i = j
         j += 200
-    j = len(pmid_doi)
+    j = len(pmid_list)
     pmid_doi = dict(list(pmid_doi.items()) + list(pmid2doi_Helper(pmid_list[i:j]).items()))
     return pmid_doi
 
@@ -68,11 +68,12 @@ def multi_get_citations(pmid_list):
         i += 1
         citations = get_citations(pmid)
         if citations == []:
-            print i, "poop", pmid
+            print (i, "poop", pmid)
         else:
             cites[pmid] = citations
         if i == 15: break
     return cites
+
 def save_citations(cites,outhandle):
     for citing in cites:
         outhandle.write("%s\t" % citing)
@@ -82,7 +83,14 @@ def save_citations(cites,outhandle):
 
 
 
-if __name__ == '__main__':
-    z = get_citations(sys.argv[1])
-    for i in z:
-        print i
+#if __name__ == '__main__':
+ #   z = get_citations(sys.argv[1])
+  #  for i in z:
+   #     print i
+
+goa_handle = open("gene_association.goa_dicty")
+pmids = pmids_from_gaf(goa_handle)
+pmid_dois = pmid2doi(pmids)
+scopusQ = make_scopus_query(pmid_dois.values())
+qFile = open("ScopusQ.txt",'w')
+qFile.write(scopusQ)
