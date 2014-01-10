@@ -1,0 +1,10 @@
+Establish the following:
+
+* Gene-Gene (GG) network in Dicty
+* Gene-Citation-Gene (GCG) network in Dicty
+
+Collect data on functional similarity, in all 3 GO aspects. Functional similarity will be measured using precision / recall as in CAFA.
+
+1. Are we seeing a better functional similarity in one GO aspect over the others?
+
+Remove high-throughput papers from the dataset, check again.
