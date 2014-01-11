@@ -50,8 +50,12 @@ def pmid2doi_Helper(pmid_list):
             if art_id.attributes['IdType'] == 'doi':
                 doi = str(art_id)
             elif art_id.attributes['IdType'] == 'pubmed':
-                pmid = str(art_id)
-        pmid_doi[pmid] = doi
+                if str(art_id) == "8016318":
+                    ff = 9
+                pmid = str(art_id)        
+        if doi != '':
+            pmid_doi[pmid] = doi
+            doi = ''
     return pmid_doi
     
 def make_scopus_query(doi_list):
