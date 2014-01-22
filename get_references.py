@@ -44,7 +44,7 @@ def search(doi):
     more_button = browser.find_element_by_class_name("arrowDownMore")
     more_button.click()
     
-    reference_viewer_anchor = browser.find_element_by_class_name("viewReferences")
+    reference_viewer_anchor = browser.find_element_by_xpath('//*[@id="reqMenuList"]/li[1]/a')
     reference_viewer_anchor.click()
     
     selectAll = browser.find_element_by_id("selectAllTop")
@@ -79,6 +79,7 @@ def parse_scopus_output(scopus_output):
     '''
         Parses the output of the scopus text format.
     '''
+    
     return scopus_output
 
 if __name__ == "__main__":
