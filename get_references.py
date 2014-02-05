@@ -3,24 +3,21 @@ from selenium import webdriver
 from Bio import Entrez as ez
 from Bio.UniProt import GOA
 import networkx as nx
-import pickle
+import cPickle
 import os
 
-ez.email = "jomaao@miamioh.edu" 
+ez.email = "i.friedberg@miamioh.edu" 
 
 
 """
     Global Variables
         pmid_go: Dictionary of all papers in the Uniprot_GOA file and the GO terms in each one.
         pmid_pmid: Dictionary of all papers in the Uniprot_GOA and their references.
-        PP: The Protein-Protein Network.
-        PCP: The Protein-Citation-Protein Network.
+        prot_prot: The Protein-Protein Network.
+        pcp: The Protein-Citation-Protein Network.
 """
 
-pmid_go = {}
 pmid_pmid = {}
-PP = nx.Graph()
-PCP = nx.Graph()
 
 SCOPUS_QUERY_URL = "http://www.scopus.com/search/form.url?display=advanced&clear=t&origin=searchbasic"
 DOI_FORMAT = 'DOI("{0}")'
@@ -34,6 +31,7 @@ def pmids_from_gaf(gaf_file):
         @ param unigoa_file: Uniprot_GOA association file in gaf format. 
     """
     
+    pmid_go = {}
     unigoa_file = open(gaf_file)
     pmids = {}
     for inrec in GOA.gafiterator(unigoa_file):
@@ -45,7 +43,8 @@ def pmids_from_gaf(gaf_file):
                     pmid_go[pmid] = [inrec['GO_ID'][3:]]
                 else:
                     pmid_go[pmid].append(inrec['GO_ID'][3:])
-    return list(pmids.keys()) # I enforced the list cast here because the dict_key is not subscriptable
+    # I enforced the list cast here because the dict_key is not subscriptable
+    return list(pmids.keys()), pmid_go 
 
 def pmid2doi(pmid_list):
     """
@@ -101,7 +100,7 @@ def get_references(pmids_dois):
         pmid_refs[pmid] = parse_scopus_output(search(doi))
     pmid_pmid = pmid_refs
     fHandler = open("pmid_pmid", 'wb')
-    pickle.dump(pmid_pmid, fHandler)
+    cPickle.dump(pmid_pmid, fHandler)
     fHandler.close()
     
 
@@ -179,13 +178,13 @@ def parse_scopus_output(scopus_output):
     return references
 
 
-def create_PCP_network():
+def create_pcp_network(pmid_pmid,pmid_go):
     """
         Create a One Depth Citation Relationship (1DCR) Protein-Citation-Protein network where nodes are GO terms and edges 
         are the hidden relationships between two proteins that are in two papers where one cites the other.
         
     """
-    
+    pcp = nx.Graph()
     remove_term = False
     for pmid,go_terms in pmid_go.items():
         for term in go_terms:
@@ -196,39 +195,40 @@ def create_PCP_network():
                 for ref_pmid in pmid_pmid[pmid]:
                     if pmid_go.has_key(ref_pmid):
                         for ref_term in pmid_go[ref_pmid]:
-                            if not PCP.has_edge(term, ref_term):
-                                PCP.add_edge(term, ref_term, co_ocrnce=1)
+                            if not pcp.has_edge(term, ref_term):
+                                pcp.add_edge(term, ref_term, co_ocrnce=1)
                                 pmid_go[ref_pmid].remove(ref_term) # Keep the 1DCR
                                 remove_term = True
                             else:
-                                PCP[term][ref_term]['co_ocrnce'] += 1
+                                pcp[term][ref_term]['co_ocrnce'] += 1
                                     
     
+    return pcp
 
-def create_PP_network():
+def create_prot_prot_network(pmid_go):
     """
         Create a Protein-Protein network where nodes are GO terms and edges 
         are the hidden relationships between two proteins that are in the same paper.
     """    
+    prot_prot = nx.Graph()
     
     for pmid in pmid_go:
         n = len(pmid_go[pmid])
         for i in range(0,n-1):
             for j in range(i+1,n):
-                if not PP.has_edge(pmid_go[pmid][i], pmid_go[pmid][j]):
-                    PP.add_edge(pmid_go[pmid][i], pmid_go[pmid][j], co_ocrnce=1)
+                if not prot_prot.has_edge(pmid_go[pmid][i], pmid_go[pmid][j]):
+                    prot_prot.add_edge(pmid_go[pmid][i], pmid_go[pmid][j], co_ocrnce=1)
                 else:
-                    PP[pmid_go[pmid][i]][pmid_go[pmid][j]]['co_ocrnce'] += 1
-                
+                    prot_prot[pmid_go[pmid][i]][pmid_go[pmid][j]]['co_ocrnce'] += 1
+    return prot_prot
 
 if __name__ == "__main__":
     
-    pmids = pmids_from_gaf("gene_association.goa_dicty")
+    pmids,pmid_go = pmids_from_gaf("gene_association.goa_dicty")
     pmid_dois = pmid2doi(pmids)  
     #get_references(pmid_dois)
-    d_file = open("pmid_pmid")
-    pmid_pmid = pickle.load(d_file)
-    create_PP_network()
-    create_PCP_network()
+    pmid_pmid = cPickle.load(open("pmid_pmid"))
+    prot_prot = create_prot_prot_network(pmid_go)
+    create_pcp_network(pmid_go)
     
     
