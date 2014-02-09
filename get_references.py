@@ -5,6 +5,11 @@ from Bio.UniProt import GOA
 import networkx as nx
 import cPickle
 import os
+import sys
+
+# Graphic stuff
+import networkx as nx
+import matplotlib.pyplot as plt
 
 ez.email = "i.friedberg@miamioh.edu" 
 
@@ -224,11 +229,14 @@ def create_prot_prot_network(pmid_go):
 
 if __name__ == "__main__":
     
-    pmids,pmid_go = pmids_from_gaf("gene_association.goa_dicty")
-    pmid_dois = pmid2doi(pmids)  
+    pmids,pmid_go = pmids_from_gaf(sys.argv[1])
+    #pmid_dois = pmid2doi(pmids)  
     #get_references(pmid_dois)
     pmid_pmid = cPickle.load(open("pmid_pmid"))
     prot_prot = create_prot_prot_network(pmid_go)
-    create_pcp_network(pmid_go)
+    pos=nx.graphviz_layout(prot_prot,prog='neato',args='')
+    nx.draw(prot_prot,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
+    plt.savefig("prot_prot.png")
+    pcp = create_pcp_network(pmid_go,pmid_go)
     
     
