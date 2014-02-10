@@ -38,6 +38,7 @@ def pmids_from_gaf(gaf_file):
     pmid_go = {}
     unigoa_file = open(gaf_file)
     pmids = {}
+    pmid_prot = {}
     go_terms = []
     for inrec in GOA.gafiterator(unigoa_file):
         for dbref in inrec['DB:Reference']:
@@ -49,15 +50,20 @@ def pmids_from_gaf(gaf_file):
                     pmid_go[pmid] = [inrec['GO_ID']]
                 else:
                     pmid_go[pmid].append(inrec['GO_ID'])
+                if pmid not in pmid_prot:
+                    pmid_prot[pmid] = [inrec['DB_Object_ID']]
+                elif inrec['DB_Object_ID'] not in pmid_prot[pmid]:
+                    pmid_prot[pmid].append(inrec['DB_Object_ID'])
     # I enforced the list cast here because the dict_key is not subscriptableds))
-    return list(pmids.keys()), pmid_go, go_terms
+    return list(pmids.keys()), pmid_go, go_terms, pmid_prot
 
 
-def remove_high_throughput_papers(pmid_go):
+def remove_high_throughput_papers(pmid_go, pmid_prot):
     
-    for pmid in pmid_go.keys():
-        if (len(pmid_go[pmid]) >= 50):
+    for pmid in pmid_prot.keys():
+        if (len(pmid_prot[pmid]) >= 50):
             del pmid_go[pmid]
+            del pmid_prot[pmid]
 
 def pmid2doi(pmid_list):
     """
@@ -283,11 +289,11 @@ def get_stats(pmid_pmid, pmid_go, go_terms):
     
 if __name__ == "__main__":
     
-    pmids,pmid_go, go_terms = pmids_from_gaf(sys.argv[1])
+    pmids,pmid_go, go_terms, pmid_prot = pmids_from_gaf("gene_association.goa_dicty")
     #pmid_dois = pmid2doi(pmids)  
     #get_references(pmid_dois)
     
-    remove_high_throughput_papers(pmid_go)
+    remove_high_throughput_papers(pmid_go, pmid_prot)
     
     pmid_pmid = cPickle.load(open("/home/jomaao/GitHub/PCPAnnotationAssessment/pmid_pmid"))
     
