@@ -8,10 +8,9 @@ import os
 import sys
 
 # Graphic stuff
-import networkx as nx
 import matplotlib.pyplot as plt
 
-ez.email = "i.friedberg@miamioh.edu" 
+ez.email = "jomaao@miamioh.edu" 
 
 
 """
@@ -39,17 +38,26 @@ def pmids_from_gaf(gaf_file):
     pmid_go = {}
     unigoa_file = open(gaf_file)
     pmids = {}
+    go_terms = []
     for inrec in GOA.gafiterator(unigoa_file):
         for dbref in inrec['DB:Reference']:
             if dbref[:4] == 'PMID':
                 pmid = dbref[5:]
                 pmids[pmid] = None
+                go_terms.append(inrec['GO_ID'])
                 if pmid not in pmid_go:
-                    pmid_go[pmid] = [inrec['GO_ID'][3:]]
+                    pmid_go[pmid] = [inrec['GO_ID']]
                 else:
-                    pmid_go[pmid].append(inrec['GO_ID'][3:])
-    # I enforced the list cast here because the dict_key is not subscriptable
-    return list(pmids.keys()), pmid_go 
+                    pmid_go[pmid].append(inrec['GO_ID'])
+    # I enforced the list cast here because the dict_key is not subscriptableds))
+    return list(pmids.keys()), pmid_go, go_terms
+
+
+def remove_high_throughput_papers(pmid_go):
+    
+    for pmid in pmid_go.keys():
+        if (len(pmid_go[pmid]) >= 50):
+            del pmid_go[pmid]
 
 def pmid2doi(pmid_list):
     """
@@ -203,6 +211,7 @@ def create_pcp_network(pmid_pmid,pmid_go):
                             if not pcp.has_edge(term, ref_term):
                                 pcp.add_edge(term, ref_term, co_ocrnce=1)
                                 pmid_go[ref_pmid].remove(ref_term) # Keep the 1DCR
+                                
                                 remove_term = True
                             else:
                                 pcp[term][ref_term]['co_ocrnce'] += 1
@@ -227,16 +236,69 @@ def create_prot_prot_network(pmid_go):
                     prot_prot[pmid_go[pmid][i]][pmid_go[pmid][j]]['co_ocrnce'] += 1
     return prot_prot
 
+def get_stats(pmid_pmid, pmid_go, go_terms):
+    
+    #Number of go terms in dicty file
+    num_go_terms = len(go_terms)
+    
+    #Number of pmids in dicty file
+    num_pmids = len(pmid_pmid)
+    
+    #Avg number of go terms for each pmid
+    sum = 0
+    for pmid in pmid_go:
+        sum += len(pmid_go[pmid])
+    avg_go_terms = sum/len(pmid_pmid)
+    
+    #Avg number of references for each pmid
+    sum = 0
+    for pmid in pmid_pmid:
+        sum += len(pmid_pmid[pmid])
+    avg_pmid_ref = sum/len(pmid_pmid)
+    
+    #Avg number of references for each pmid that are in the dicty file
+    sum = 0
+    for pmid in pmid_pmid:
+        for ref in pmid_pmid[pmid]:
+            if ref in pmid_pmid.keys():
+                sum += 1
+    avg_pmid_dicty_ref = sum/len(pmid_pmid)
+    
+    #Avg number of occurences in a pmid in the dicty file for each go term
+    sum = 0
+    for term in go_terms:
+        for pmid in pmid_go:
+            if term in pmid_go[pmid]:
+                sum += 1
+    avg_terms_pmid = sum/len(go_terms) 
+    
+    print "Number of go terms in dicty file = " + str(num_go_terms)
+    print "Number of pmids in dicty file = " + str(num_pmids)
+    print "Avg number of go terms for each pmid = " + str(avg_go_terms)
+    print "Avg number of references for each pmid = " + str(avg_pmid_ref)
+    print "Avg number of references for each pmid that are in the dicty file = " + str(avg_pmid_dicty_ref)
+    print "Avg number of occurences for each go term in each pmid in dicty file = " + str(avg_terms_pmid)
+    
+    
+    
 if __name__ == "__main__":
     
-    pmids,pmid_go = pmids_from_gaf(sys.argv[1])
+    pmids,pmid_go, go_terms = pmids_from_gaf(sys.argv[1])
     #pmid_dois = pmid2doi(pmids)  
     #get_references(pmid_dois)
-    pmid_pmid = cPickle.load(open("pmid_pmid"))
+    
+    remove_high_throughput_papers(pmid_go)
+    
+    pmid_pmid = cPickle.load(open("/home/jomaao/GitHub/PCPAnnotationAssessment/pmid_pmid"))
+    
     prot_prot = create_prot_prot_network(pmid_go)
-    pos=nx.graphviz_layout(prot_prot,prog='neato',args='')
+    pos = nx.graphviz_layout(prot_prot, prog='neato', args='')
     nx.draw(prot_prot,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
-    plt.savefig("prot_prot.png")
-    pcp = create_pcp_network(pmid_go,pmid_go)
+    plt.savefig("/home/jomaao/GitHub/PCPAnnotationAssessment/prot_prot.png")
     
+    pcp = create_pcp_network(pmid_pmid,pmid_go)
+    pos = nx.graphviz_layout(pcp, prog='neato', args='')
+    nx.draw(pcp,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
+    plt.savefig("/home/jomaao/GitHub/PCPAnnotationAssessment/prot_citation_prot.png")
     
+    get_stats(pmid_pmid, pmid_go, go_terms)
