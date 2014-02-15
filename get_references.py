@@ -2,6 +2,7 @@
 from selenium import webdriver
 from Bio import Entrez as ez
 from Bio.UniProt import GOA
+import copy
 import networkx as nx
 import cPickle
 import os
@@ -55,15 +56,28 @@ def pmids_from_gaf(gaf_file):
                 elif inrec['DB_Object_ID'] not in pmid_prot[pmid]:
                     pmid_prot[pmid].append(inrec['DB_Object_ID'])
     # I enforced the list cast here because the dict_key is not subscriptableds))
+    
+    for pmid in pmid_go:
+        list(set(pmid_go[pmid]))
+        
+    for pmid in pmid_prot:
+        list(set(pmid_prot[pmid]))
+    
+    list(set(go_terms))
+        
     return list(pmids.keys()), pmid_go, go_terms, pmid_prot
 
 
-def remove_high_throughput_papers(pmid_go, pmid_prot):
+def remove_high_throughput_papers(pmid_go, pmid_prot, threshold):
     
+    out_pmid_go = {}
+    out_pmid_prot = {}
     for pmid in pmid_prot.keys():
-        if (len(pmid_prot[pmid]) >= 50):
-            del pmid_go[pmid]
-            del pmid_prot[pmid]
+        if (len(pmid_prot[pmid]) < threshold):
+            out_pmid_go[pmid] = copy.deepcopy(pmid_go[pmid])
+            out_pmid_prot[pmid] = copy.deepcopy(pmid_prot[pmid])
+    
+    return out_pmid_go, out_pmid_prot
 
 def pmid2doi(pmid_list):
     """
@@ -197,32 +211,72 @@ def parse_scopus_output(scopus_output):
     return references
 
 
-def create_pcp_network(pmid_pmid,pmid_go):
+def remove_go_term(pmid_go, term):
+    
+    out_pmid_go = {}  
+      
+    for pmid in pmid_go:
+        out_pmid_go[pmid] = []
+        for go_term in pmid_go[pmid]:
+            if go_term != term:
+                out_pmid_go[pmid].append(go_term)
+    
+    return out_pmid_go
+
+def search_for_term(pmid_go, term):
+    
+    for pmid in pmid_go:
+        for go_term in pmid_go[pmid]:
+            if go_term == term:
+                return True
+    return False
+                
+
+def check_network(pcp):
+    
+    for n1 in pcp.nodes():
+        for n2 in pcp.nodes():
+            for n3 in pcp.nodes():
+                if (pcp.has_edge(n1,n2) and pcp.has_edge(n2,n3) and n1 != n3):
+                    print "Got it"
+
+def check_1DCR(pcp, src_node, dest_node):
+    
+    for neighbor in pcp.neighbors(src_node):        
+        if neighbor == dest_node or dest_node in pcp.neighbors(neighbor):
+            return False
+    return True
+    
+
+
+def create_pcp_network(pmid_pmid,pmid_go, go_terms):
     """
         Create a One Depth Citation Relationship (1DCR) Protein-Citation-Protein network where nodes are GO terms and edges 
         are the hidden relationships between two proteins that are in two papers where one cites the other.
         
     """
+    
     pcp = nx.Graph()
-    remove_term = False
-    for pmid,go_terms in pmid_go.items():
-        for term in go_terms:
-            if remove_term == True: # Keep the 1DCR
-                go_terms.remove(term)
-                remove_term = False
-            if pmid_pmid.has_key(pmid):
-                for ref_pmid in pmid_pmid[pmid]:
-                    if pmid_go.has_key(ref_pmid):
-                        for ref_term in pmid_go[ref_pmid]:
-                            if not pcp.has_edge(term, ref_term):
-                                pcp.add_edge(term, ref_term, co_ocrnce=1)
-                                pmid_go[ref_pmid].remove(ref_term) # Keep the 1DCR
-                                
-                                remove_term = True
-                            else:
-                                pcp[term][ref_term]['co_ocrnce'] += 1
+    pcp.add_nodes_from(go_terms)
+    visited = []
+    for pmid in pmid_go.keys():
+        if pmid not in visited:
+            for term in pmid_go[pmid]:
+                if pmid_pmid.has_key(pmid):
+                    for ref_pmid in pmid_pmid[pmid]:
+                        if pmid_go.has_key(ref_pmid) and ref_pmid not in visited:        
+                            for ref_term in pmid_go[ref_pmid]:
+                                if pcp.has_edge(term, ref_term):
+                                    pcp[term][ref_term]['co_ocrnce'] += 1
+                                else:
+                                    pcp.add_edge(term, ref_term, co_ocrnce=1)
+                            visited.append(ref_pmid)
+            visited.append(pmid)
+
+                                          
                                     
     
+    #check_network(pcp)
     return pcp
 
 def create_prot_prot_network(pmid_go):
@@ -293,8 +347,9 @@ if __name__ == "__main__":
     #pmid_dois = pmid2doi(pmids)  
     #get_references(pmid_dois)
     
-    remove_high_throughput_papers(pmid_go, pmid_prot)
-    
+    print len(pmid_prot)
+    pmid_go, pmid_prot = remove_high_throughput_papers(pmid_go, pmid_prot,20)
+    print len(pmid_prot)
     pmid_pmid = cPickle.load(open("/home/jomaao/GitHub/PCPAnnotationAssessment/pmid_pmid"))
     
     prot_prot = create_prot_prot_network(pmid_go)
@@ -302,7 +357,7 @@ if __name__ == "__main__":
     nx.draw(prot_prot,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
     plt.savefig("/home/jomaao/GitHub/PCPAnnotationAssessment/prot_prot.png")
     
-    pcp = create_pcp_network(pmid_pmid,pmid_go)
+    pcp = create_pcp_network(pmid_pmid,pmid_go, go_terms)
     pos = nx.graphviz_layout(pcp, prog='neato', args='')
     nx.draw(pcp,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
     plt.savefig("/home/jomaao/GitHub/PCPAnnotationAssessment/prot_citation_prot.png")
