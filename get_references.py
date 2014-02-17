@@ -2,33 +2,26 @@
 from selenium import webdriver
 from Bio import Entrez as ez
 from Bio.UniProt import GOA
-import copy
 import networkx as nx
 import cPickle
 import os
-import sys
+import operator
+import pylab
+from collections import OrderedDict
 
 # Graphic stuff
 import matplotlib.pyplot as plt
 
 ez.email = "jomaao@miamioh.edu" 
 
-
-"""
-    Global Variables
-        pmid_go: Dictionary of all papers in the Uniprot_GOA file and the GO terms in each one.
-        pmid_pmid: Dictionary of all papers in the Uniprot_GOA and their references.
-        prot_prot: The Protein-Protein Network.
-        pcp: The Protein-Citation-Protein Network.
-"""
-
 pmid_pmid = {}
 
 SCOPUS_QUERY_URL = "http://www.scopus.com/search/form.url?display=advanced&clear=t&origin=searchbasic"
 DOI_FORMAT = 'DOI("{0}")'
 
+CURR_PATH = os.path.dirname(os.path.realpath(__file__))
+CHROMEDRIVER = os.path.join(CURR_PATH, "chromedriver")
 
-CHROMEDRIVER = os.path.join(os.path.dirname(os.path.realpath(__file__)), "chromedriver")
 
 def pmids_from_gaf(gaf_file):
     """
@@ -40,44 +33,85 @@ def pmids_from_gaf(gaf_file):
     unigoa_file = open(gaf_file)
     pmids = {}
     pmid_prot = {}
-    go_terms = []
     for inrec in GOA.gafiterator(unigoa_file):
         for dbref in inrec['DB:Reference']:
             if dbref[:4] == 'PMID':
                 pmid = dbref[5:]
                 pmids[pmid] = None
-                go_terms.append(inrec['GO_ID'])
                 if pmid not in pmid_go:
                     pmid_go[pmid] = [inrec['GO_ID']]
-                else:
+                elif inrec['GO_ID'] not in pmid_go[pmid]:
                     pmid_go[pmid].append(inrec['GO_ID'])
                 if pmid not in pmid_prot:
                     pmid_prot[pmid] = [inrec['DB_Object_ID']]
                 elif inrec['DB_Object_ID'] not in pmid_prot[pmid]:
                     pmid_prot[pmid].append(inrec['DB_Object_ID'])
     # I enforced the list cast here because the dict_key is not subscriptableds))
-    
-    for pmid in pmid_go:
-        list(set(pmid_go[pmid]))
         
-    for pmid in pmid_prot:
-        list(set(pmid_prot[pmid]))
-    
-    list(set(go_terms))
-        
-    return list(pmids.keys()), pmid_go, go_terms, pmid_prot
+    return list(pmids.keys()), pmid_go, pmid_prot
 
 
 def remove_high_throughput_papers(pmid_go, pmid_prot, threshold):
-    
-    out_pmid_go = {}
-    out_pmid_prot = {}
+
     for pmid in pmid_prot.keys():
-        if (len(pmid_prot[pmid]) < threshold):
-            out_pmid_go[pmid] = copy.deepcopy(pmid_go[pmid])
-            out_pmid_prot[pmid] = copy.deepcopy(pmid_prot[pmid])
+        if (len(pmid_prot[pmid]) >= threshold):
+            del pmid_go[pmid]
+            del pmid_prot[pmid]
     
-    return out_pmid_go, out_pmid_prot
+
+def get_network_degrees(network):
+       
+    ent_deg = OrderedDict()
+    
+    for node in network.nodes():
+        ent_deg[node] = len(network.neighbors(node))
+    
+    ent_deg = OrderedDict(sorted(ent_deg.iteritems(), key=operator.itemgetter(1), reverse=True))
+    
+    return ent_deg
+
+def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
+    
+    xaxis = list(range(0,len(net_deg)))
+    yaxis = list(net_deg.values())
+    xvals = list(net_deg.keys())
+        
+    
+    if (all_nodes):
+        pylab.plot(xaxis, yaxis)
+        pylab.fill_between(xaxis,yaxis,0,color='cyan')
+        pylab.xticks(visible = False)
+        pylab.title("Degrees of nodes in the " + net_name + " " + "network")
+        
+        
+    else:
+        pylab.bar(xaxis, yaxis, align='center')
+        pylab.gcf().subplots_adjust(bottom=0.25)
+        pylab.xticks(xaxis, xvals, rotation=90)
+        pylab.title("Top nodes that have the highest degree in the " + net_name + " " + "network")
+    
+    
+    
+    pylab.xlabel(xtitle)
+    pylab.ylabel('Network Degree')        
+    pylab.grid(True)
+    pylab.tight_layout()
+    pylab.savefig(path_name)
+    pylab.close()
+ 
+        
+        
+
+def get_entities (pmid_ent):
+    
+    entities = {}
+    for pmid in pmid_ent.keys():
+        for ent in pmid_ent[pmid]:
+            entities[ent] = None
+    
+    return list(entities.keys())
+        
+
 
 def pmid2doi(pmid_list):
     """
@@ -211,90 +245,79 @@ def parse_scopus_output(scopus_output):
     return references
 
 
-def remove_go_term(pmid_go, term):
-    
-    out_pmid_go = {}  
-      
-    for pmid in pmid_go:
-        out_pmid_go[pmid] = []
-        for go_term in pmid_go[pmid]:
-            if go_term != term:
-                out_pmid_go[pmid].append(go_term)
-    
-    return out_pmid_go
-
-def search_for_term(pmid_go, term):
-    
-    for pmid in pmid_go:
-        for go_term in pmid_go[pmid]:
-            if go_term == term:
-                return True
-    return False
-                
-
-def check_network(pcp):
-    
-    for n1 in pcp.nodes():
-        for n2 in pcp.nodes():
-            for n3 in pcp.nodes():
-                if (pcp.has_edge(n1,n2) and pcp.has_edge(n2,n3) and n1 != n3):
-                    print "Got it"
-
-def check_1DCR(pcp, src_node, dest_node):
-    
-    for neighbor in pcp.neighbors(src_node):        
-        if neighbor == dest_node or dest_node in pcp.neighbors(neighbor):
-            return False
-    return True
-    
 
 
-def create_pcp_network(pmid_pmid,pmid_go, go_terms):
+def create_ece_network(pmid_pmid,pmid_ent):
     """
-        Create a One Depth Citation Relationship (1DCR) Protein-Citation-Protein network where nodes are GO terms and edges 
-        are the hidden relationships between two proteins that are in two papers where one cites the other.
+        Create a One Depth Citation Relationship (1DCR) Entity-Citation-Entity network where nodes are entities and edges 
+        are the hidden relationships between two entities that are in two papers where one cites the other.
         
     """
     
-    pcp = nx.Graph()
-    pcp.add_nodes_from(go_terms)
+    ece = nx.Graph()
+    ece.add_nodes_from(get_entities(pmid_ent))
     visited = []
-    for pmid in pmid_go.keys():
+    for pmid in pmid_ent.keys():
         if pmid not in visited:
-            for term in pmid_go[pmid]:
+            for ent in pmid_ent[pmid]:
                 if pmid_pmid.has_key(pmid):
                     for ref_pmid in pmid_pmid[pmid]:
-                        if pmid_go.has_key(ref_pmid) and ref_pmid not in visited:        
-                            for ref_term in pmid_go[ref_pmid]:
-                                if pcp.has_edge(term, ref_term):
-                                    pcp[term][ref_term]['co_ocrnce'] += 1
+                        if pmid_ent.has_key(ref_pmid) and ref_pmid not in visited:        
+                            for ref_ent in pmid_ent[ref_pmid]:
+                                if ece.has_edge(ent, ref_ent):
+                                    ece[ent][ref_ent]['co_ocrnce'] += 1
                                 else:
-                                    pcp.add_edge(term, ref_term, co_ocrnce=1)
+                                    ece.add_edge(ent, ref_ent, co_ocrnce=1)
                             visited.append(ref_pmid)
             visited.append(pmid)
 
-                                          
-                                    
-    
-    #check_network(pcp)
-    return pcp
+    return ece
 
-def create_prot_prot_network(pmid_go):
+def create_ee_network(pmid_ent):
     """
-        Create a Protein-Protein network where nodes are GO terms and edges 
-        are the hidden relationships between two proteins that are in the same paper.
+        Create a Entity-Entity network where nodes are entities and edges 
+        are the hidden relationships between two entities that are in the same paper.
     """    
-    prot_prot = nx.Graph()
-    
-    for pmid in pmid_go:
-        n = len(pmid_go[pmid])
+    ee = nx.Graph()
+    ee.add_nodes_from(get_entities(pmid_ent))
+    for pmid in pmid_ent:
+        n = len(pmid_ent[pmid])
         for i in range(0,n-1):
             for j in range(i+1,n):
-                if not prot_prot.has_edge(pmid_go[pmid][i], pmid_go[pmid][j]):
-                    prot_prot.add_edge(pmid_go[pmid][i], pmid_go[pmid][j], co_ocrnce=1)
+                if not ee.has_edge(pmid_ent[pmid][i], pmid_ent[pmid][j]):
+                    ee.add_edge(pmid_ent[pmid][i], pmid_ent[pmid][j], co_ocrnce=1)
                 else:
-                    prot_prot[pmid_go[pmid][i]][pmid_go[pmid][j]]['co_ocrnce'] += 1
-    return prot_prot
+                    ee[pmid_ent[pmid][i]][pmid_ent[pmid][j]]['co_ocrnce'] += 1
+    return ee
+
+
+def draw_network(network, net_name, image_path):
+    
+    
+    if net_name == 'pp':
+        plt.title("Protein-Protein Network")
+    elif net_name == 'pcp':
+        plt.title("Protein-Citation-Protein Network")
+    elif net_name == 'gg':
+        plt.title("GO-GO Network")
+    elif net_name == 'gcg':
+        plt.title("GO-Citation-GO Network")
+    
+    pos = nx.graphviz_layout(network, prog='neato', args='')
+    nx.draw(network,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
+    
+    plt.tight_layout()
+    plt.savefig(image_path)
+    plt.close()
+    
+
+def remove_high_degree_nodes(hd_nodes, network, topx):
+    
+    top_deg = OrderedDict(hd_nodes.items()[:topx])
+    for node in top_deg:
+        network.remove_node(node)
+    
+    return network
 
 def get_stats(pmid_pmid, pmid_go, go_terms):
     
@@ -343,23 +366,56 @@ def get_stats(pmid_pmid, pmid_go, go_terms):
     
 if __name__ == "__main__":
     
-    pmids,pmid_go, go_terms, pmid_prot = pmids_from_gaf("gene_association.goa_dicty")
+    pmids,pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"gene_association.goa_dicty"))
     #pmid_dois = pmid2doi(pmids)  
     #get_references(pmid_dois)
     
     print len(pmid_prot)
-    pmid_go, pmid_prot = remove_high_throughput_papers(pmid_go, pmid_prot,20)
+    remove_high_throughput_papers(pmid_go, pmid_prot,100)
     print len(pmid_prot)
-    pmid_pmid = cPickle.load(open("/home/jomaao/GitHub/PCPAnnotationAssessment/pmid_pmid"))
+    pmid_pmid = cPickle.load(open(os.path.join(CURR_PATH,"pmid_pmid")))
     
-    prot_prot = create_prot_prot_network(pmid_go)
-    pos = nx.graphviz_layout(prot_prot, prog='neato', args='')
-    nx.draw(prot_prot,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
-    plt.savefig("/home/jomaao/GitHub/PCPAnnotationAssessment/prot_prot.png")
     
-    pcp = create_pcp_network(pmid_pmid,pmid_go, go_terms)
-    pos = nx.graphviz_layout(pcp, prog='neato', args='')
-    nx.draw(pcp,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
-    plt.savefig("/home/jomaao/GitHub/PCPAnnotationAssessment/prot_citation_prot.png")
+    #GO Terms
+    gg_net = create_ee_network(pmid_go)
+    draw_network(gg_net, 'gg', os.path.join(CURR_PATH,"gg_net.png"))
     
-    get_stats(pmid_pmid, pmid_go, go_terms)
+    gcg_net = create_ece_network(pmid_pmid, pmid_go)
+    draw_network(gcg_net, 'gcg', os.path.join(CURR_PATH,"gcg_net.png"))
+    
+    net_deg_gcg = get_network_degrees(gcg_net)
+    draw_network_degrees(OrderedDict(net_deg_gcg.items()[:10]), os.path.join(CURR_PATH,"net_deg_top_gcg.png"), 'Go Terms', "GCG", False)
+    draw_network_degrees(net_deg_gcg, os.path.join(CURR_PATH,"net_deg_all_gcg.png"), 'Go Terms', "GCG")
+    
+    net_deg_gg = get_network_degrees(gg_net)
+    draw_network_degrees(OrderedDict(net_deg_gg.items()[:10]), os.path.join(CURR_PATH,"net_deg_top_gg.png"), 'Go Terms', "GG", False)
+    draw_network_degrees(net_deg_gg, os.path.join(CURR_PATH,"net_deg_all_gg.png"), 'Go Terms', "GG")
+    
+    gg_nohigh_net = remove_high_degree_nodes(net_deg_gg, gg_net, 10)
+    gcg_nohigh_net = remove_high_degree_nodes(net_deg_gcg, gcg_net, 10)
+    draw_network(gg_nohigh_net, 'gg', os.path.join(CURR_PATH,"gg_nohigh_net.png"))
+    draw_network(gcg_nohigh_net, 'gcg', os.path.join(CURR_PATH,"gcg_nohigh_net.png"))
+    
+    
+    
+    #Poteins
+    pp_net = create_ee_network(pmid_prot)
+    draw_network(pp_net, 'pp', os.path.join(CURR_PATH,"pp_net.png"))
+    
+    pcp_net = create_ece_network(pmid_pmid, pmid_prot)
+    draw_network(pp_net, 'pcp', os.path.join(CURR_PATH,"pcp_net.png"))
+    
+    net_deg_pcp = get_network_degrees(pcp_net)
+    draw_network_degrees(OrderedDict(net_deg_pcp.items()[:10]), os.path.join(CURR_PATH,"net_deg_top_pcp.png"), 'Proteins', "PCP", False)
+    draw_network_degrees(net_deg_pcp, os.path.join(CURR_PATH,"net_deg_all_pcp.png"), 'Proteins', "PCP")
+    
+    net_deg_pp = get_network_degrees(pp_net)
+    draw_network_degrees(OrderedDict(net_deg_pp.items()[:10]), os.path.join(CURR_PATH,"net_deg_top_pp.png"), 'Proteins', "PP", False)
+    draw_network_degrees(net_deg_pp, os.path.join(CURR_PATH,"net_deg_all_pp.png"), 'Proteins', "PP")
+    
+    pp_nohigh_net = remove_high_degree_nodes(net_deg_pp, pp_net, 10)
+    pcp_nohigh_net = remove_high_degree_nodes(net_deg_pcp, pcp_net, 10)
+    draw_network(pp_nohigh_net, 'pp', os.path.join(CURR_PATH,"pp_nohigh_net.png"))
+    draw_network(pcp_nohigh_net, 'pcp', os.path.join(CURR_PATH,"pcp_nohigh_net.png"))
+    
+
