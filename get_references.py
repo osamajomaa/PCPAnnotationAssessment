@@ -122,6 +122,7 @@ def pmid2doi(pmid_list):
     i = 0 
     j = 200
     pmid_doi = {}
+    x = len(pmid_list)
     while (j <= len(pmid_list)):
         pmid_doi = dict(list(pmid_doi.items()) + list(pmid2doi_Helper(pmid_list[i:j]).items()))
         i = j
@@ -255,7 +256,7 @@ def create_ece_network(pmid_pmid,pmid_ent):
     """
     
     ece = nx.Graph()
-    ece.add_nodes_from(get_entities(pmid_ent))
+    #ece.add_nodes_from(get_entities(pmid_ent))
     visited = []
     for pmid in pmid_ent.keys():
         if pmid not in visited:
@@ -279,7 +280,7 @@ def create_ee_network(pmid_ent):
         are the hidden relationships between two entities that are in the same paper.
     """    
     ee = nx.Graph()
-    ee.add_nodes_from(get_entities(pmid_ent))
+    #ee.add_nodes_from(get_entities(pmid_ent))
     for pmid in pmid_ent:
         n = len(pmid_ent[pmid])
         for i in range(0,n-1):
@@ -366,10 +367,11 @@ def get_stats(pmid_pmid, pmid_go, go_terms):
     
 if __name__ == "__main__":
     
-    pmids,pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"gene_association.goa_dicty"))
-    #pmid_dois = pmid2doi(pmids)  
-    #get_references(pmid_dois)
+    pmids,pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"gene_association.goa_human"))
+    pmid_dois = pmid2doi(pmids)  
+    get_references(pmid_dois)
     
+    '''
     print len(pmid_prot)
     remove_high_throughput_papers(pmid_go, pmid_prot,100)
     print len(pmid_prot)
@@ -418,4 +420,4 @@ if __name__ == "__main__":
     draw_network(pp_nohigh_net, 'pp', os.path.join(CURR_PATH,"pp_nohigh_net.png"))
     draw_network(pcp_nohigh_net, 'pcp', os.path.join(CURR_PATH,"pcp_nohigh_net.png"))
     
-
+'''
