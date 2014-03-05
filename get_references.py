@@ -1,13 +1,14 @@
 #!/usr/bin/env python
+from collections import OrderedDict
 from selenium import webdriver
 from Bio import Entrez as ez
 from Bio.UniProt import GOA
 import networkx as nx
-import cPickle
-import os
 import operator
+import cPickle
 import pylab
-from collections import OrderedDict
+import os
+
 
 # Graphic stuff
 import matplotlib.pyplot as plt
@@ -20,13 +21,13 @@ SCOPUS_QUERY_URL = "http://www.scopus.com/search/form.url?display=advanced&clear
 DOI_FORMAT = 'DOI("{0}")'
 
 CURR_PATH = os.path.dirname(os.path.realpath(__file__))
-CHROMEDRIVER = os.path.join(CURR_PATH, "chromedriver")
+CHROMEDRIVER = os.path.join(CURR_PATH, "Utilities/chromedriver")
 
 
 def pmids_from_gaf(gaf_file):
     """
-        Get the papers cited in the Uniprot_GOA file by their PMID and get the GO terms each paper contain.
-        @ param unigoa_file: Uniprot_GOA association file in gaf format. 
+        Get the papers cited in the Uniprot_GOA file by their PMID and get the GO terms each paper contained.
+        @param unigoa_file: Uniprot_GOA association file in gaf format. 
     """
     
     pmid_go = {}
@@ -46,13 +47,16 @@ def pmids_from_gaf(gaf_file):
                     pmid_prot[pmid] = [inrec['DB_Object_ID']]
                 elif inrec['DB_Object_ID'] not in pmid_prot[pmid]:
                     pmid_prot[pmid].append(inrec['DB_Object_ID'])
-    # I enforced the list cast here because the dict_key is not subscriptableds))
         
     return list(pmids.keys()), pmid_go, pmid_prot
 
 
 def remove_high_throughput_papers(pmid_go, pmid_prot, threshold):
-
+    '''
+        Remove the high throughput papers according to a threshold
+        @param pmid_go: A dictionary of papers and the GO terms they are annotated to
+        @param pmid_prot: A dictionary of papers and the proteins they contain  
+    '''    
     for pmid in pmid_prot.keys():
         if (len(pmid_prot[pmid]) >= threshold):
             del pmid_go[pmid]
@@ -60,7 +64,10 @@ def remove_high_throughput_papers(pmid_go, pmid_prot, threshold):
     
 
 def get_network_degrees(network):
-       
+    '''
+        Get the degrees of nodes in a EE or ECE network
+        @param network: The network to get calculate the degrees for its nodes
+    '''
     ent_deg = OrderedDict()
     
     for node in network.nodes():
@@ -71,7 +78,14 @@ def get_network_degrees(network):
     return ent_deg
 
 def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
-    
+    '''
+        Plot a histogram of the top N nodes having the highest degrees in a network
+        @param net_deg: dictionary of nodes in the network with their corresponding degree
+        @param path_name: the path to store the exported graph image to
+        @param xtitle: the title of the x axis in the graph
+        @param net_name: the network name: EE or ECE
+        @param all_nodes: a flag to determine whether to draw the whole nodes or just the top N 
+    '''
     xaxis = list(range(0,len(net_deg)))
     yaxis = list(net_deg.values())
     xvals = list(net_deg.keys())
@@ -116,13 +130,12 @@ def get_entities (pmid_ent):
 def pmid2doi(pmid_list):
     """
         Divide the pmid list to 200 sublists and query PubMed database for the dois
-        @ param pmid_list: list of pmids to get the dois for.
+        @param pmid_list: list of pmids to get the dois for.
     """
     
     i = 0 
     j = 200
     pmid_doi = {}
-    x = len(pmid_list)
     while (j <= len(pmid_list)):
         pmid_doi = dict(list(pmid_doi.items()) + list(pmid2doi_Helper(pmid_list[i:j]).items()))
         i = j
@@ -131,10 +144,11 @@ def pmid2doi(pmid_list):
     pmid_doi = dict(list(pmid_doi.items()) + list(pmid2doi_Helper(pmid_list[i:j]).items()))
     return pmid_doi
 
+
 def pmid2doi_Helper(pmid_list):
     """
         Query PubMed database to get doi for each pmid which are in 200 sublists
-        @ param pmid_list: 200-element list of pmids.
+        @param pmid_list: 200-element list of pmids.
     """
     
     pmid_doi = {}
@@ -232,6 +246,7 @@ def search(doi):
 def parse_scopus_output(scopus_output):
     '''
         Parses the output of the scopus text format.
+        @param scopus_output: the whole text string that Scopus spits out
     '''
     
     references = []
@@ -252,7 +267,8 @@ def create_ece_network(pmid_pmid,pmid_ent):
     """
         Create a One Depth Citation Relationship (1DCR) Entity-Citation-Entity network where nodes are entities and edges 
         are the hidden relationships between two entities that are in two papers where one cites the other.
-        
+        @param pmid_pmid: the dictionary of the paper and their ciations
+        @param pmid_ent: the dictionary of the papers and their entites (in our case protein IDs or GO terms)
     """
     
     ece = nx.Graph()
@@ -278,6 +294,7 @@ def create_ee_network(pmid_ent):
     """
         Create a Entity-Entity network where nodes are entities and edges 
         are the hidden relationships between two entities that are in the same paper.
+        @param pmid_ent: the dictionary of the papers and their entities (in our case protein IDs or GO terms)
     """    
     ee = nx.Graph()
     #ee.add_nodes_from(get_entities(pmid_ent))
@@ -293,7 +310,12 @@ def create_ee_network(pmid_ent):
 
 
 def draw_network(network, net_name, image_path):
-    
+    '''
+        Draw a network
+        @param network: the network to draw.
+        @param net_name: the name of the network; EE or ECE.
+        @param imag_path: the path to store the exported graph image to.
+    '''
     
     if net_name == 'pp':
         plt.title("Protein-Protein Network")
@@ -313,61 +335,22 @@ def draw_network(network, net_name, image_path):
     
 
 def remove_high_degree_nodes(hd_nodes, network, topx):
-    
+    '''
+        Remove the N highest degree nodes from a network.
+        @param hd_nodes: the dictionary of nodes and their corresponding degrees.
+        @param network: the network to remove the highest N degree nodes from.
+        @param topx: N; the number of nodes to remove from the network.
+    '''
     top_deg = OrderedDict(hd_nodes.items()[:topx])
     for node in top_deg:
         network.remove_node(node)
     
-    return network
-
-def get_stats(pmid_pmid, pmid_go, go_terms):
-    
-    #Number of go terms in dicty file
-    num_go_terms = len(go_terms)
-    
-    #Number of pmids in dicty file
-    num_pmids = len(pmid_pmid)
-    
-    #Avg number of go terms for each pmid
-    sum = 0
-    for pmid in pmid_go:
-        sum += len(pmid_go[pmid])
-    avg_go_terms = sum/len(pmid_pmid)
-    
-    #Avg number of references for each pmid
-    sum = 0
-    for pmid in pmid_pmid:
-        sum += len(pmid_pmid[pmid])
-    avg_pmid_ref = sum/len(pmid_pmid)
-    
-    #Avg number of references for each pmid that are in the dicty file
-    sum = 0
-    for pmid in pmid_pmid:
-        for ref in pmid_pmid[pmid]:
-            if ref in pmid_pmid.keys():
-                sum += 1
-    avg_pmid_dicty_ref = sum/len(pmid_pmid)
-    
-    #Avg number of occurences in a pmid in the dicty file for each go term
-    sum = 0
-    for term in go_terms:
-        for pmid in pmid_go:
-            if term in pmid_go[pmid]:
-                sum += 1
-    avg_terms_pmid = sum/len(go_terms) 
-    
-    print "Number of go terms in dicty file = " + str(num_go_terms)
-    print "Number of pmids in dicty file = " + str(num_pmids)
-    print "Avg number of go terms for each pmid = " + str(avg_go_terms)
-    print "Avg number of references for each pmid = " + str(avg_pmid_ref)
-    print "Avg number of references for each pmid that are in the dicty file = " + str(avg_pmid_dicty_ref)
-    print "Avg number of occurences for each go term in each pmid in dicty file = " + str(avg_terms_pmid)
-    
+    return network    
     
     
 if __name__ == "__main__":
     
-    pmids,pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"gene_association.goa_human"))
+    pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/gene_association.goa_human"))
     pmid_dois = pmid2doi(pmids)  
     get_references(pmid_dois)
     
