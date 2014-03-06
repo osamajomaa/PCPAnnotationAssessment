@@ -345,20 +345,28 @@ def remove_high_degree_nodes(hd_nodes, network, topx):
     for node in top_deg:
         network.remove_node(node)
     
-    return network    
+    for node in network.nodes():
+        if network.degree(node) < 1:
+            network.remove_node(node)
+    
+    return network
+
+    
     
     
 if __name__ == "__main__":
     
     pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/gene_association.goa_human"))
+    
     pmid_dois = pmid2doi(pmids)  
+    
     get_references(pmid_dois)
     
     '''
     print len(pmid_prot)
-    remove_high_throughput_papers(pmid_go, pmid_prot,100)
+    remove_high_throughput_papers(pmid_go, pmid_prot,60)
     print len(pmid_prot)
-    pmid_pmid = cPickle.load(open(os.path.join(CURR_PATH,"pmid_pmid")))
+    pmid_pmid = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/pmid_pmid_human")))
     
     
     #GO Terms
