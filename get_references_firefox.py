@@ -219,15 +219,21 @@ def get_references(pmids_dois):
     fHandler.close()
     
 
+def firefox_setup():
+    
+    fp = webdriver.FirefoxProfile()
+    fp.add_extension(extension='Utilities/firebug-1.11.0.xpi')
+    fp.set_preference("extensions.firebug.currentVersion", "1.11.0") #Avoid startup screen
+    return fp
+
 def search(doi):
     '''
         Searches one DOI on Scopus and returns a list of references.        
         @param doi: The DOI to search.
     '''
-    
     try:
-        os.environ["webdriver.chrome.driver"] = CHROMEDRIVER
-        browser = webdriver.Chrome(CHROMEDRIVER)
+        #os.environ["webdriver.chrome.driver"] = CHROMEDRIVER
+        browser = webdriver.Firefox(firefox_profile=firefox_setup())
         browser.get(SCOPUS_QUERY_URL)
         search_field = browser.find_element_by_id("searchfield")
         search_field.send_keys(DOI_FORMAT.format(doi))
@@ -389,13 +395,13 @@ def remove_high_degree_nodes(hd_nodes, network, topx):
     
 if __name__ == "__main__":
     
-    pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/gene_association.goa_dicty"))
+    pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/gene_association.goa_human"))
     
-    #pmid_dois = pmid2doi(pmids)  
+    pmid_dois = pmid2doi(pmids)  
     
-    #get_references(pmid_dois)
+    get_references(pmid_dois)
     
-    
+    '''
     print len(pmid_prot)
     remove_high_throughput_papers(pmid_go, pmid_prot,60)
     print len(pmid_prot)
@@ -445,3 +451,4 @@ if __name__ == "__main__":
     draw_network(pcp_nohigh_net, 'pcp', os.path.join(CURR_PATH,"pcp_nohigh_net.png"))
     
 
+'''
