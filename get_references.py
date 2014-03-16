@@ -389,13 +389,13 @@ def remove_high_degree_nodes(hd_nodes, network, topx):
     
 if __name__ == "__main__":
     
-    pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/gene_association.goa_dicty"))
+    pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/gene_association.goa_human"))
     
-    #pmid_dois = pmid2doi(pmids)  
+    pmid_dois = pmid2doi(pmids)  
     
-    #get_references(pmid_dois)
+    get_references(pmid_dois)
     
-    
+    '''
     print len(pmid_prot)
     remove_high_throughput_papers(pmid_go, pmid_prot,60)
     print len(pmid_prot)
@@ -444,4 +444,4 @@ if __name__ == "__main__":
     draw_network(pp_nohigh_net, 'pp', os.path.join(CURR_PATH,"pp_nohigh_net.png"))
     draw_network(pcp_nohigh_net, 'pcp', os.path.join(CURR_PATH,"pcp_nohigh_net.png"))
     
-
+'''
