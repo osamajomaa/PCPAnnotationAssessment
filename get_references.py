@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 from collections import OrderedDict
-from Bio import SwissProt
 from selenium import webdriver
 from Bio import Entrez as ez
 from Bio.UniProt import GOA
@@ -11,8 +10,12 @@ import pylab
 import os
 
 
+# Logging
+from log import Logger
+
 # Graphic stuff
 import matplotlib.pyplot as plt
+
 
 ez.email = "jomaao@miamioh.edu" 
 
@@ -78,39 +81,6 @@ def get_network_degrees(network):
     
     return ent_deg
 
-
-def create_desc_file(net_deg, net_type):
-    
-    handle = open("uniprot_sprot_19_feb_2014.dat")
-    
-    net_deg_desc = OrderedDict()
-    for prot in net_deg.keys():
-        net_deg_desc[prot] = [net_deg[prot],'']
-    
-    
-    desc_text = "{0[0]:<15}{0[1]:<15}{0[2]:<5}".format("Protein Degree Description".split()) + "\n"
-    line = [0,0,0] 
-    for record in SwissProt.parse(handle):
-        for acc in record.accessions:
-            if acc in net_deg_desc.keys():
-                net_deg_desc[acc][1] = record.description
-                break
-        
-    for prot in net_deg_desc.keys():
-        line[0] = prot
-        line[1] = net_deg_desc[prot][0]
-        line[2] = net_deg_desc[prot][1]
-        desc_text += "{0[0]:<15}{0[1]:<15}{0[2]:<5}".format(line) + "\n"
-        
-
-    if net_type == "PP":
-        desc_file = open("PP.desc", 'w')
-    elif net_type == "PCP":
-        desc_file = open("PCP.desc", 'w')
-        
-    desc_file.write(desc_text)
-        
-
 def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
     '''
         Plot a histogram of the top N nodes having the highest degrees in a network
@@ -120,7 +90,6 @@ def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
         @param net_name: the network name: EE or ECE
         @param all_nodes: a flag to determine whether to draw the whole nodes or just the top N 
     '''
-    
     xaxis = list(range(0,len(net_deg)))
     yaxis = list(net_deg.values())
     xvals = list(net_deg.keys())
@@ -137,10 +106,10 @@ def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
         pylab.bar(xaxis, yaxis, align='center')
         pylab.gcf().subplots_adjust(bottom=0.25)
         pylab.xticks(xaxis, xvals, rotation=90)
-        pylab.title("Top nodes that have the highest degree in the " + net_name + " " + "network")        
-        if net_name in ["PP", "PCP"]:
-            create_desc_file(net_deg, net_name)
-              
+        pylab.title("Top nodes that have the highest degree in the " + net_name + " " + "network")
+    
+    
+    
     pylab.xlabel(xtitle)
     pylab.ylabel('Network Degree')        
     pylab.grid(True)
@@ -148,6 +117,8 @@ def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
     pylab.savefig(path_name)
     pylab.close()
  
+        
+        
 
 def get_entities (pmid_ent):
     
@@ -204,37 +175,58 @@ def pmid2doi_Helper(pmid_list):
 class QueryError(Exception):
     pass
 
-def get_references(pmids_dois):
+def firefox_setup():
+    
+    fp = webdriver.FirefoxProfile()
+    fp.add_extension(extension='Utilities/firebug-1.11.0.xpi')
+    fp.set_preference("extensions.firebug.currentVersion", "1.11.0") #Avoid startup screen
+    return fp
+
+def get_references(pmids_dois, webBrowser='CHROME'):
     '''
         Starts the process of getting references for a list of dois.        
         @param pmids_dois: Dictionary of pmids and their corresponding dois to search Scopus for their references.
     '''
     
     pmid_refs = {}
+    
+    if webBrowser == "CHROME":
+        os.environ["webdriver.chrome.driver"] = CHROMEDRIVER
+        browser = webdriver.Chrome(CHROMEDRIVER)
+    elif webBrowser == "FIREFOX":
+        browser = webdriver.Firefox(firefox_profile=firefox_setup())
+    else:
+        return Exception('Please choose either FIREFOX or CHROME as your browser')
+
     for pmid, doi in pmids_dois.iteritems():
-        pmid_refs[pmid] = parse_scopus_output(search(doi))
+        logger = Logger(pmid + ".log")
+        pmid_refs[pmid] = parse_scopus_output(search(browser, doi, logger))
+
+    browser.quit()
     pmid_pmid = pmid_refs
     fHandler = open("pmid_pmid", 'wb')
     cPickle.dump(pmid_pmid, fHandler)
     fHandler.close()
     
 
-def search(doi):
+def search(browser, doi, logger):
     '''
         Searches one DOI on Scopus and returns a list of references.        
         @param doi: The DOI to search.
     '''
     
     try:
-        os.environ["webdriver.chrome.driver"] = CHROMEDRIVER
-        browser = webdriver.Chrome(CHROMEDRIVER)
+        logger.log("Entering Scopus at url: " + SCOPUS_QUERY_URL)
         browser.get(SCOPUS_QUERY_URL)
+
+        logger.log("Searching for DOI: " + doi)
         search_field = browser.find_element_by_id("searchfield")
         search_field.send_keys(DOI_FORMAT.format(doi))
         
         search_button = browser.find_element_by_class_name("searchButton")
         search_button.click()
         
+        logger.log("Selecting all results from the query...")
         selectAll = browser.find_element_by_id("selectAllTop")
         selectAll.click()
         
@@ -249,10 +241,14 @@ def search(doi):
         
         export_button = browser.find_element_by_id("export")
         export_button.click()
+
+        logger.log("Moving to export screen")
         
         format_select = browser.find_element_by_css_selector("#exportFormat > option[value=TEXT]")
         format_select.click()
         
+
+        logger.log("Specifying PMID option only")
         output_select = browser.find_element_by_css_selector("select[name=view] > option[value=SpecifyFields]")
         output_select.click()
         
@@ -268,11 +264,8 @@ def search(doi):
         pre = browser.find_element_by_css_selector("pre")
         text = pre.text
         
-        browser.quit()
-        
         return text
-    except:
-        browser.quit()
+    except Exception as e:
         return ""
 
 
@@ -393,13 +386,13 @@ if __name__ == "__main__":
     
     pmid_dois = pmid2doi(pmids)  
     
-    get_references(pmid_dois)
+    get_references(pmid_dois, 'FIREFOX')
     
     '''
     print len(pmid_prot)
     remove_high_throughput_papers(pmid_go, pmid_prot,60)
     print len(pmid_prot)
-    pmid_pmid = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/pmid_pmid_dicty")))
+    pmid_pmid = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/pmid_pmid_human")))
     
     
     #GO Terms

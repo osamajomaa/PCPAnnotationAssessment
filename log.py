@@ -12,6 +12,6 @@ class Logger(object):
 
     def log(self, message, status="INFO"):
         with open(self.logfile, 'a') as logfile:
-            logfile.write("[" + status + "]" + str(datetime.datetime.now() + "\n")
+            logfile.write("[" + status + "]" + str(datetime.datetime.now()) + "\n")
             logfile.write(message + "\n")
 
