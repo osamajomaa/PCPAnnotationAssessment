@@ -1,0 +1,50 @@
+!gaf-version: 2.0
+!
+!The set of protein accessions included in this file is based on UniProt complete proteomes, which may provide more than one protein per gene.
+!They include all Swiss-Prot entries for the species plus any TrEMBL entries that have an Ensembl DR line. The TrEMBL entries are likely to overlap with the Swiss-Prot entries or their isoforms.
+!If a particular protein accession is not annotated with GO, then it will not appear in this file.
+!
+!Note that the annotation set in this file is filtered in order to reduce redundancy; the full, unfiltered set can be found in
+!ftp://ftp.ebi.ac.uk/pub/databases/GO/goa/UNIPROT/gene_association.goa_uniprot.gz
+!
+UniProtKB	A0AV96	RBM47		GO:0044822	PMID:22658674	IDA		F	RNA-binding protein 47	RBM47_HUMAN|RBM47	protein	taxon:9606	20140203	UniProt		
+UniProtKB	A0AV96	RBM47		GO:0044822	PMID:22681889	IDA		F	RNA-binding protein 47	RBM47_HUMAN|RBM47	protein	taxon:9606	20140203	UniProt		
+UniProtKB	A0AVK6	E2F8		GO:0001047	PMID:22903062	IDA		F	Transcription factor E2F8	E2F8_HUMAN|E2F8	protein	taxon:9606	20121102	UniProt		
+UniProtKB	A0AVK6	E2F8		GO:0002040	PMID:22903062	IMP		P	Transcription factor E2F8	E2F8_HUMAN|E2F8	protein	taxon:9606	20121102	UniProt		
+UniProtKB	A0AVK6	E2F8		GO:0003700	PMID:22903062	IMP		F	Transcription factor E2F8	E2F8_HUMAN|E2F8	protein	taxon:9606	20121102	UniProt		
+UniProtKB	A0AVK6	E2F8		GO:0005515	PMID:18202719	IPI	UniProtKB:Q96AV8	F	Transcription factor E2F8	E2F8_HUMAN|E2F8	protein	taxon:9606	20140217	IntAct		
+UniProtKB	A0AVK6	E2F8		GO:0045944	PMID:22903062	IMP		P	Transcription factor E2F8	E2F8_HUMAN|E2F8	protein	taxon:9606	20121102	UniProt		
+UniProtKB	A0AVT1	UBA6		GO:0005515	PMID:17889673	IPI	UniProtKB:O15205	F	Ubiquitin-like modifier-activating enzyme 6	UBA6_HUMAN|UBA6|MOP4|UBE1L2	protein	taxon:9606	20100325	UniProt		
+UniProtKB	A0AVT1	UBA6		GO:0006511	PMID:17889673	IMP		P	Ubiquitin-like modifier-activating enzyme 6	UBA6_HUMAN|UBA6|MOP4|UBE1L2	protein	taxon:9606	20100326	UniProt		
+UniProtKB	A0AVT1	UBA6		GO:0016567	PMID:17889673	IMP		P	Ubiquitin-like modifier-activating enzyme 6	UBA6_HUMAN|UBA6|MOP4|UBE1L2	protein	taxon:9606	20100326	UniProt		
+UniProtKB	A0AVT1	UBA6		GO:0019780	PMID:17889673	IMP		F	Ubiquitin-like modifier-activating enzyme 6	UBA6_HUMAN|UBA6|MOP4|UBE1L2	protein	taxon:9606	20100401	UniProt		
+UniProtKB	A0FGR8	ESYT2		GO:0005515	PMID:23791178	IPI	UniProtKB:A0FGR9	F	Extended synaptotagmin-2	ESYT2_HUMAN|ESYT2|FAM62B|KIAA1228	protein	taxon:9606	20140217	IntAct	occurs_in(GO:0032541)	
+UniProtKB	A0FGR8	ESYT2		GO:0005515	PMID:23791178	IPI	UniProtKB:Q9BSJ8	F	Extended synaptotagmin-2	ESYT2_HUMAN|ESYT2|FAM62B|KIAA1228	protein	taxon:9606	20140217	IntAct	occurs_in(GO:0032541)	
+UniProtKB	A0FGR8	ESYT2		GO:0005544	PMID:17360437	IDA		F	Extended synaptotagmin-2	ESYT2_HUMAN|ESYT2|FAM62B|KIAA1228	protein	taxon:9606	20131121	FlyBase		
+UniProtKB	A0FGR8	ESYT2		GO:0005887	PMID:17360437	IDA		C	Extended synaptotagmin-2	ESYT2_HUMAN|ESYT2|FAM62B|KIAA1228	protein	taxon:9606	20131121	FlyBase		
+UniProtKB	A0FGR9	ESYT3		GO:0005515	PMID:23791178	IPI	UniProtKB:A0FGR8	F	Extended synaptotagmin-3	ESYT3_HUMAN|ESYT3|FAM62C	protein	taxon:9606	20140217	IntAct	occurs_in(GO:0032541)	
+UniProtKB	A0FGR9	ESYT3		GO:0005515	PMID:23791178	IPI	UniProtKB:Q9BSJ8	F	Extended synaptotagmin-3	ESYT3_HUMAN|ESYT3|FAM62C	protein	taxon:9606	20140217	IntAct	occurs_in(GO:0032541)	
+UniProtKB	A0FGR9	ESYT3		GO:0005887	PMID:17360437	IDA		C	Extended synaptotagmin-3	ESYT3_HUMAN|ESYT3|FAM62C	protein	taxon:9606	20131121	FlyBase		
+UniProtKB	A0PJK1	SLC5A10		GO:0070062	PMID:19056867	IDA		C	Sodium/glucose cotransporter 5	SC5AA_HUMAN|SLC5A10|SGLT5	protein	taxon:9606	20131024	UniProt	part_of(UBERON:0001088)	
+UniProtKB	A0PJZ3	GXYLT2		GO:0016266	PMID:19940119	IDA		P	Glucoside xylosyltransferase 2	GXLT2_HUMAN|GXYLT2|GLT8D4	protein	taxon:9606	20091209	UniProt		
+UniProtKB	A0PJZ3	GXYLT2		GO:0035252	PMID:19940119	IDA		F	Glucoside xylosyltransferase 2	GXLT2_HUMAN|GXYLT2|GLT8D4	protein	taxon:9606	20091209	UniProt		
+UniProtKB	A1A4S6	ARHGAP10		GO:0005515	PMID:11432776	IPI	UniProtKB:Q6P5Z2	F	Rho GTPase-activating protein 10	RHG10_HUMAN|ARHGAP10|GRAF2	protein	taxon:9606	20140217	IntAct		
+UniProtKB	A1A519	FAM170A		GO:0005634	PMID:20162441	IDA		C	Protein FAM170A	F170A_HUMAN|FAM170A|ZNFD	protein	taxon:9606	20130815	UniProt		
+UniProtKB	A1A519	FAM170A		GO:0006366	PMID:20162441	IDA		P	Protein FAM170A	F170A_HUMAN|FAM170A|ZNFD	protein	taxon:9606	20130815	UniProt		
+UniProtKB	A1A519	FAM170A		GO:0045893	PMID:20162441	IDA		P	Protein FAM170A	F170A_HUMAN|FAM170A|ZNFD	protein	taxon:9606	20130815	UniProt		
+UniProtKB	A1A5B4	ANO9	NOT	GO:0005229	PMID:21984732	IDA		F	Anoctamin-9	ANO9_HUMAN|ANO9|PIG5|TMEM16J|TP53I5	protein	taxon:9606	20121119	UniProt		
+UniProtKB	A1A5B4	ANO9	NOT	GO:0005229	PMID:22178883	IDA		F	Anoctamin-9	ANO9_HUMAN|ANO9|PIG5|TMEM16J|TP53I5	protein	taxon:9606	20121119	UniProt		
+UniProtKB	A1E959	ODAM		GO:0042475	PMID:16674676	IEP		P	Odontogenic ameloblast-associated protein	ODAM_HUMAN|ODAM|APIN	protein	taxon:9606	20090803	HGNC		
+UniProtKB	A1E959	ODAM		GO:0043205	PMID:14647039	IDA		C	Odontogenic ameloblast-associated protein	ODAM_HUMAN|ODAM|APIN	protein	taxon:9606	20090803	UniProt		
+UniProtKB	A1L020	MEX3A		GO:0044822	PMID:22681889	IDA		F	RNA-binding protein MEX3A	MEX3A_HUMAN|MEX3A|RKHD4	protein	taxon:9606	20140203	UniProt		
+UniProtKB	A1L3X0	ELOVL7		GO:0005515	PMID:20937905	IPI	UniProtKB:Q53GQ0	F	Elongation of very long chain fatty acids protein 7	ELOV7_HUMAN|ELOVL7	protein	taxon:9606	20110125	UniProt		
+UniProtKB	A1L3X0	ELOVL7		GO:0005783	PMID:20937905	IDA		C	Elongation of very long chain fatty acids protein 7	ELOV7_HUMAN|ELOVL7	protein	taxon:9606	20110125	UniProt		
+UniProtKB	A1L3X0	ELOVL7		GO:0019367	PMID:19826053	IDA		P	Elongation of very long chain fatty acids protein 7	ELOV7_HUMAN|ELOVL7	protein	taxon:9606	20110412	UniProt		
+UniProtKB	A1L3X0	ELOVL7		GO:0034626	PMID:20937905	IDA		P	Elongation of very long chain fatty acids protein 7	ELOV7_HUMAN|ELOVL7	protein	taxon:9606	20110125	UniProt		
+UniProtKB	A1L3X0	ELOVL7		GO:0042761	PMID:19826053	IDA		P	Elongation of very long chain fatty acids protein 7	ELOV7_HUMAN|ELOVL7	protein	taxon:9606	20110412	UniProt		
+UniProtKB	A1L3X0	ELOVL7		GO:0042761	PMID:20937905	IDA		P	Elongation of very long chain fatty acids protein 7	ELOV7_HUMAN|ELOVL7	protein	taxon:9606	20110125	UniProt		
+UniProtKB	A1X283	SH3PXD2B		GO:0001501	PMID:20137777	IMP		P	SH3 and PX domain-containing protein 2B	SPD2B_HUMAN|SH3PXD2B|FAD49|KIAA1295|TKS4	protein	taxon:9606	20110224	UniProt		
+UniProtKB	A1X283	SH3PXD2B		GO:0001654	PMID:20137777	IMP		P	SH3 and PX domain-containing protein 2B	SPD2B_HUMAN|SH3PXD2B|FAD49|KIAA1295|TKS4	protein	taxon:9606	20110224	UniProt		
+UniProtKB	A1X283	SH3PXD2B		GO:0005515	PMID:19755710	IPI	UniProtKB:Q86UR1	F	SH3 and PX domain-containing protein 2B	SPD2B_HUMAN|SH3PXD2B|FAD49|KIAA1295|TKS4	protein	taxon:9606	20110719	UniProt		
+UniProtKB	A1X283	SH3PXD2B		GO:0005515	PMID:20609497	IPI	UniProtKB:Q86UR1	F	SH3 and PX domain-containing protein 2B	SPD2B_HUMAN|SH3PXD2B|FAD49|KIAA1295|TKS4	protein	taxon:9606	20110629	UniProt		
+UniProtKB	A1X283	SH3PXD2B		GO:0006801	PMID:19755710	IDA		P	SH3 and PX domain-containing protein 2B	SPD2B_HUMAN|SH3PXD2B|FAD49|KIAA1295|TKS4	protein	taxon:9606	20110719	UniProt		
