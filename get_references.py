@@ -7,6 +7,7 @@ import networkx as nx
 import operator
 import cPickle
 import pylab
+import sys
 import os
 
 
@@ -81,6 +82,38 @@ def get_network_degrees(network):
     
     return ent_deg
 
+def create_desc_file(net_deg, net_type):
+    
+    handle = open("uniprot_sprot_19_feb_2014.dat")
+    
+    net_deg_desc = OrderedDict()
+    for prot in net_deg.keys():
+        net_deg_desc[prot] = [net_deg[prot],'']
+    
+    
+    desc_text = "{0[0]:<15}{0[1]:<15}{0[2]:<5}".format("Protein Degree Description".split()) + "\n"
+    line = [0,0,0] 
+    for record in SwissProt.parse(handle):
+        for acc in record.accessions:
+            if acc in net_deg_desc.keys():
+                net_deg_desc[acc][1] = record.description
+                break
+        
+    for prot in net_deg_desc.keys():
+        line[0] = prot
+        line[1] = net_deg_desc[prot][0]
+        line[2] = net_deg_desc[prot][1]
+        desc_text += "{0[0]:<15}{0[1]:<15}{0[2]:<5}".format(line) + "\n"
+        
+
+    if net_type == "PP":
+        desc_file = open("PP.desc", 'w')
+    elif net_type == "PCP":
+        desc_file = open("PCP.desc", 'w')
+        
+    desc_file.write(desc_text)
+    
+    
 def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
     '''
         Plot a histogram of the top N nodes having the highest degrees in a network
@@ -90,6 +123,7 @@ def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
         @param net_name: the network name: EE or ECE
         @param all_nodes: a flag to determine whether to draw the whole nodes or just the top N 
     '''
+    
     xaxis = list(range(0,len(net_deg)))
     yaxis = list(net_deg.values())
     xvals = list(net_deg.keys())
@@ -106,10 +140,10 @@ def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
         pylab.bar(xaxis, yaxis, align='center')
         pylab.gcf().subplots_adjust(bottom=0.25)
         pylab.xticks(xaxis, xvals, rotation=90)
-        pylab.title("Top nodes that have the highest degree in the " + net_name + " " + "network")
-    
-    
-    
+        pylab.title("Top nodes that have the highest degree in the " + net_name + " " + "network")        
+        if net_name in ["PP", "PCP"]:
+            create_desc_file(net_deg, net_name)
+              
     pylab.xlabel(xtitle)
     pylab.ylabel('Network Degree')        
     pylab.grid(True)
@@ -182,7 +216,7 @@ def firefox_setup():
     fp.set_preference("extensions.firebug.currentVersion", "1.11.0") #Avoid startup screen
     return fp
 
-def get_references(pmids_dois, webBrowser='CHROME'):
+def get_references(pmids_dois, species, webBrowser='chrome'):
     '''
         Starts the process of getting references for a list of dois.        
         @param pmids_dois: Dictionary of pmids and their corresponding dois to search Scopus for their references.
@@ -190,10 +224,10 @@ def get_references(pmids_dois, webBrowser='CHROME'):
     
     pmid_refs = {}
     
-    if webBrowser == "CHROME":
+    if webBrowser.lower() == "chrome":
         os.environ["webdriver.chrome.driver"] = CHROMEDRIVER
         browser = webdriver.Chrome(CHROMEDRIVER)
-    elif webBrowser == "FIREFOX":
+    elif webBrowser.lower() == "firefox":
         browser = webdriver.Firefox(firefox_profile=firefox_setup())
     else:
         return Exception('Please choose either FIREFOX or CHROME as your browser')
@@ -204,7 +238,7 @@ def get_references(pmids_dois, webBrowser='CHROME'):
 
     browser.quit()
     pmid_pmid = pmid_refs
-    fHandler = open("pmid_pmid", 'wb')
+    fHandler = open("pmid_pmid_"+species, 'wb')
     cPickle.dump(pmid_pmid, fHandler)
     fHandler.close()
     
@@ -382,11 +416,17 @@ def remove_high_degree_nodes(hd_nodes, network, topx):
     
 if __name__ == "__main__":
     
-    pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/gene_association.goa_human"))
+    species = sys.argv[1][21:]
+    
+    pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/"+sys.argv[1]))
     
     pmid_dois = pmid2doi(pmids)  
     
-    get_references(pmid_dois, 'FIREFOX')
+    if (len(sys.argv) == 3):
+        get_references(pmid_dois, species, sys.argv[2])
+    elif (len(sys.argv) == 2):
+        get_references(pmid_dois, species)
+    
     
     '''
     print len(pmid_prot)
