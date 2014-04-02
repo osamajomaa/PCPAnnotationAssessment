@@ -27,7 +27,7 @@ CURR_PATH = os.path.dirname(os.path.realpath(__file__))
 CHROMEDRIVER = os.path.join(CURR_PATH, "Utilities/chromedriver")
 
 CACHED_RESULTS = {}
-PAGE_TIMEOUT = 100
+PAGE_TIMEOUT = 30
 
 def pmids_from_gaf(gaf_file):
     """
@@ -127,7 +127,7 @@ def get_references(pmids_dois, species, browsername, verbose=0):
     else:
         return Exception('Please choose either FIREFOX or CHROME as your browser')
 
-    count, total, formatResults = 0, len(pmid_dois.keys()), True
+    count, total = 0, len(pmid_dois.keys())
 
     bar = progressbar.ProgressBar(maxval=total, \
         widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
@@ -136,9 +136,8 @@ def get_references(pmids_dois, species, browsername, verbose=0):
     for pmid, doi in pmids_dois.iteritems():
         logger = Logger(pmid + ".log")
         if pmid not in CACHED_RESULTS:
-            pmid_refs[pmid] = parse_scopus_output(search(browser, doi, logger, formatResults))
+            pmid_refs[pmid] = parse_scopus_output(search(browser, doi, logger))
             CACHED_RESULTS[pmid] = pmid_refs[pmid]
-            formatResults = False
         else:
             logger.log("Using cached result for this pmid...")
             pmid_refs[pmid] = CACHED_RESULTS[pmid]
@@ -155,7 +154,7 @@ def get_references(pmids_dois, species, browsername, verbose=0):
         json.dump(pmid_refs, out, indent=4)
 
 
-def search(browser, doi, logger, formatResults):
+def search(browser, doi, logger):
     '''
         Searches one DOI on Scopus and returns a list of references.        
         @param doi: The DOI to search.
@@ -202,12 +201,13 @@ def search(browser, doi, logger, formatResults):
         output_select = browser.find_element_by_css_selector('#exportViewSelectBoxItOptions li:last-child')
         output_select.click()
 
-        if formatResults:
-            uncheck = WebDriverWait(browser, PAGE_TIMEOUT).until(EC.presence_of_element_located((By.ID, "selectedCitationInformationItemsAll-Export")))
-            uncheck.click()
+        uncheck = WebDriverWait(browser, PAGE_TIMEOUT).until(EC.presence_of_element_located((By.ID, "selectedCitationInformationItemsAll-Export")))
+        if uncheck.is_selected():
+	    uncheck.click()
         
-            check = browser.find_element_by_id("selectedBibliographicalInformationItems-Export4")
-            check.click()
+        check = browser.find_element_by_id("selectedBibliographicalInformationItems-Export4")
+        if not check.is_selected():
+	    check.click()
 
         logger.log("Triggering the export process")
         export_button = browser.find_element_by_id("exportTrigger")
@@ -222,7 +222,7 @@ def search(browser, doi, logger, formatResults):
         return text
     except Exception as e:
         logger.log(str(e), "ERROR")
-        return ""
+	return ""
 
 
 def parse_scopus_output(scopus_output):
