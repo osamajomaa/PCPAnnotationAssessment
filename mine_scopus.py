@@ -12,6 +12,7 @@ import os
 import argparse
 import json
 import progressbar
+from multiprocessing import Process, Manager
 
 # Logging
 from log import Logger
@@ -27,7 +28,7 @@ CURR_PATH = os.path.dirname(os.path.realpath(__file__))
 CHROMEDRIVER = os.path.join(CURR_PATH, "Utilities/chromedriver")
 
 CACHED_RESULTS = {}
-PAGE_TIMEOUT = 30
+PAGE_TIMEOUT = 8
 
 def pmids_from_gaf(gaf_file):
     """
@@ -108,13 +109,11 @@ def firefox_setup():
     fp.set_preference("extensions.firebug.currentVersion", "1.11.0") #Avoid startup screen
     return fp
 
-def get_references(pmids_dois, species, browsername, verbose=0):
+def get_references(pmids_dois, species, browsername, results, verbose=0):
     '''
         Starts the process of getting references for a list of dois.        
         @param pmids_dois: Dictionary of pmids and their corresponding dois to search Scopus for their references.
     '''
-    
-    pmid_refs = {}
     
     if verbose > 0:
         print "Starting selected browser..."
@@ -135,24 +134,14 @@ def get_references(pmids_dois, species, browsername, verbose=0):
 
     for pmid, doi in pmids_dois.iteritems():
         logger = Logger(pmid + ".log")
-        if pmid not in CACHED_RESULTS:
-            pmid_refs[pmid] = parse_scopus_output(search(browser, doi, logger))
-            CACHED_RESULTS[pmid] = pmid_refs[pmid]
-        else:
-            logger.log("Using cached result for this pmid...")
-            pmid_refs[pmid] = CACHED_RESULTS[pmid]
+        if pmid not in results:
+            results[pmid] = parse_scopus_output(search(browser, doi, logger))
         count += 1
         bar.update(count)
 
     browser.quit()
 
     bar.finish()
-
-    if verbose > 0:
-        print "Writing out results to pmid_pmid_" + species + "_scopus.json..."
-    with open("pmid_pmid_" + species + "_scopus.json", 'wb') as out:
-        json.dump(pmid_refs, out, indent=4)
-
 
 def search(browser, doi, logger):
     '''
@@ -245,6 +234,8 @@ if __name__ == "__main__":
     parser.add_argument('-s', '--species', help='Name of the species which is being mined')    
     parser.add_argument('-v', '--verbose', action='count', help='Increases the verbosity level. Prints progress information')
     parser.add_argument('-c', '--cache', help="A json file to start from mapping pmids to references")
+    parser.add_argument('-l', '--list', action='count', help="Specifies that the goa_file is a JSON list of pmids")
+    parser.add_argument('-n', '--nodes', type=int, default=1, help="The number of browsers to use when running at a time")
 
     args = parser.parse_args()
     goa_file = args.goa_file[0]
@@ -252,7 +243,14 @@ if __name__ == "__main__":
 
     if args.verbose > 0:
         print "Extracting pmids from the goa file..."
-    pmids, pmid_go, pmid_prot = pmids_from_gaf(goa_file)
+    
+    # allows the list parameter to be given to assume that the file
+    # is a valid JSON file with a list of pmids
+    if args.list > 0:
+        with open(goa_file, 'r') as goa_file_handle:
+            pmids = json.load(goa_file_handle)
+    else:
+        pmids, pmid_go, pmid_prot = pmids_from_gaf(goa_file)
     
     if args.verbose > 0:
         print "Converting pmids to DOIs for searching..."
@@ -272,5 +270,29 @@ if __name__ == "__main__":
     if args.verbose > 0:
        print "Getting the references for each pmid from Scopus (this could take a long while)..."
  
-    get_references(pmid_dois, species, args.browser, args.verbose)
-    
+
+    splitup = [{} for _ in range(args.nodes)]
+    count = 0
+    for pmid, doi in pmid_dois.iteritems():
+        splitup[count % args.nodes][pmid] = doi
+	count +=1
+
+    manager = Manager()
+    processes, results = [], manager.dict()
+    results.update(CACHED_RESULTS)
+    for split in splitup:
+        process = Process(target=get_references, args=(split, species, args.browser, results, args.verbose))
+	process.start()
+        processes.append(process)
+
+    # wait for each process to finish
+    for p in processes:
+        p.join()
+
+    # save the results in json
+    if args.verbose > 0:
+        print "Writing out results to pmid_pmid_" + species + "_scopus.json..."
+
+    with open("pmid_pmid_" + species + "_scopus.json", 'wb') as out:
+        json.dump(dict(results), out, indent=4)
+
