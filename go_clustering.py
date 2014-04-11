@@ -63,20 +63,20 @@ def build_clusters(species):
                 add_to_pmid(go_prot, inrec['GO_ID'], inrec['DB_Object_ID'])
                 
         
-    pickle_data(pmid_go_mf, os.path.join(CURR_PATH, "Pickled_Data/"+species+"pmid_go_mf_"+species))
-    pickle_data(pmid_go_cc, os.path.join(CURR_PATH, "Pickled_Data/"+species+"pmid_go_cc_"+species))
-    pickle_data(pmid_go_bp, os.path.join(CURR_PATH, "Pickled_Data/"+species+"pmid_go_bp_"+species))
-    pickle_data(pmid_go, os.path.join(CURR_PATH, "Pickled_Data/"+species+"pmid_go_"+species))
+    pickle_data(pmid_go_mf, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_go_mf_"+species))
+    pickle_data(pmid_go_cc, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_go_cc_"+species))
+    pickle_data(pmid_go_bp, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_go_bp_"+species))
+    pickle_data(pmid_go, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_go_"+species))
     
-    pickle_data(pmid_prot_mf, os.path.join(CURR_PATH, "Pickled_Data/"+species+"pmid_prot_mf_"+species))
-    pickle_data(pmid_prot_cc, os.path.join(CURR_PATH, "Pickled_Data/"+species+"pmid_prot_cc_"+species))
-    pickle_data(pmid_prot_bp, os.path.join(CURR_PATH, "Pickled_Data/"+species+"pmid_prot_bp_"+species))
-    pickle_data(pmid_prot, os.path.join(CURR_PATH, "Pickled_Data/"+species+"pmid_prot_"+species))
+    pickle_data(pmid_prot_mf, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_prot_mf_"+species))
+    pickle_data(pmid_prot_cc, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_prot_cc_"+species))
+    pickle_data(pmid_prot_bp, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_prot_bp_"+species))
+    pickle_data(pmid_prot, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_prot_"+species))
     
-    pickle_data(go_prot_mf, os.path.join(CURR_PATH, "Pickled_Data/"+species+"go_prot_mf_"+species))
-    pickle_data(go_prot_cc, os.path.join(CURR_PATH, "Pickled_Data/"+species+"go_prot_cc_"+species))
-    pickle_data(go_prot_bp, os.path.join(CURR_PATH, "Pickled_Data/"+species+"go_prot_bp_"+species))
-    pickle_data(go_prot, os.path.join(CURR_PATH, "Pickled_Data/"+species+"go_prot_"+species))
+    pickle_data(go_prot_mf, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/go_prot_mf_"+species))
+    pickle_data(go_prot_cc, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/go_prot_cc_"+species))
+    pickle_data(go_prot_bp, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/go_prot_bp_"+species))
+    pickle_data(go_prot, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/go_prot_"+species))
 
 
 def pickle_data(data, path):
@@ -91,24 +91,24 @@ def load_data(species, onto='all'):
     pmid_prot = OrderedDict()
     
     if onto.lower() == 'all':
-        pmid_go = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"pmid_go_"+species)))
-        pmid_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"pmid_prot_"+species)))
-        go_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"go_prot_"+species)))
+        pmid_go = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_go_"+species)))
+        pmid_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_prot_"+species)))
+        go_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/go_prot_"+species)))
         
     elif onto.lower() == 'mf':
-        pmid_go = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"pmid_go_mf_"+species)))
-        pmid_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"pmid_prot_mf_"+species)))
-        go_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"go_prot_mf_"+species)))
+        pmid_go = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_go_mf_"+species)))
+        pmid_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_prot_mf_"+species)))
+        go_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/go_prot_mf_"+species)))
     
     elif onto.lower() == 'cc':
-        pmid_go = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"pmid_go_cc_"+species)))
-        pmid_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"pmid_prot_cc_"+species)))
-        go_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"go_prot_cc_"+species)))
+        pmid_go = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_go_cc_"+species)))
+        pmid_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_prot_cc_"+species)))
+        go_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/go_prot_cc_"+species)))
     
     elif onto.lower() == 'bp':
-        pmid_go = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"pmid_go_bp_"+species)))
-        pmid_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"pmid_prot_bp_"+species)))
-        go_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"go_prot_bp_"+species)))
+        pmid_go = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_go_bp_"+species)))
+        pmid_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_prot_bp_"+species)))
+        go_prot = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/go_prot_bp_"+species)))
     
     return pmid_go, pmid_prot, go_prot
 
@@ -214,8 +214,8 @@ def draw_go_pmid_histogram(go_cats, species, onto='all'):
 
 if __name__ == "__main__":
 
-    species = "human"
-    onto = 'cc'
+    species = "dicty"
+    onto = 'all'
     #build_clusters(species)
     pmid_go, pmid_prot, go_prot = load_data(species, onto=onto)
     go_cats, pmid_coh  = calc_cohesion(pmid_go, pmid_prot, 1)
