@@ -2,6 +2,7 @@
 from collections import OrderedDict
 from selenium import webdriver
 from Bio import Entrez as ez
+from Bio import SwissProt
 from Bio.UniProt import GOA
 import networkx as nx
 import operator
