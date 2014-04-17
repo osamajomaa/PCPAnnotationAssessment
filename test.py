@@ -1,10 +1,11 @@
 from collections import OrderedDict
 from sets import Set
+import json
 
-x = "osama"
+def func(a, b, c):
+    pass
 
-q = Set([x])
+a = b = c = 2
+func(a, b, c)
+print 1
 
-q.add("bassel")
-
-print q

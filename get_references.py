@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from collections import OrderedDict
+from go_clustering import load_data
 from selenium import webdriver
 from Bio import Entrez as ez
 from Bio import SwissProt
@@ -8,6 +9,7 @@ import networkx as nx
 import operator
 import cPickle
 import pylab
+import json
 import sys
 import os
 
@@ -84,7 +86,8 @@ def get_network_degrees(network):
     return ent_deg
 
 def create_desc_file(net_deg, net_type):
-    
+    pass
+    '''
     handle = open("uniprot_sprot_19_feb_2014.dat")
     
     net_deg_desc = OrderedDict()
@@ -113,7 +116,7 @@ def create_desc_file(net_deg, net_type):
         desc_file = open("PCP.desc", 'w')
         
     desc_file.write(desc_text)
-    
+    '''
     
 def draw_network_degrees(net_deg, path_name, xtitle, net_name, all_nodes=True):
     '''
@@ -322,8 +325,6 @@ def parse_scopus_output(scopus_output):
     return references
 
 
-
-
 def create_ece_network(pmid_pmid,pmid_ent):
     """
         Create a One Depth Citation Relationship (1DCR) Entity-Citation-Entity network where nodes are entities and edges 
@@ -351,6 +352,62 @@ def create_ece_network(pmid_pmid,pmid_ent):
 
     return ece
 
+def create_mch_network(mpmid_hpmid, mpmid_ent, hpmid_ent):
+    """
+        Create a One Depth Citation Relationship (1DCR) Entity-Citation-Entity network where nodes are entities and edges 
+        are the hidden relationships between two entities that are in two papers where one cites the other.
+        @param pmid_pmid: the dictionary of the paper and their ciations
+        @param pmid_ent: the dictionary of the papers and their entites (in our case protein IDs or GO terms)
+    """
+    
+    ece = nx.Graph()
+    #ece.add_nodes_from(get_entities(pmid_ent))
+    visited = []
+    for mpmid in mpmid_ent.keys():
+        if mpmid not in visited:
+            for ment in mpmid_ent[mpmid]:
+                if mpmid_hpmid.has_key(mpmid):
+                    for hpmid in mpmid_hpmid[mpmid]:
+                        if hpmid_ent.has_key(hpmid) and hpmid not in visited:        
+                            for hent in hpmid_ent[hpmid]:
+                                if ece.has_edge(ment, hent):
+                                    ece[ment][hent]['co_ocrnce'] += 1
+                                else:
+                                    ece.add_edge(ment, hent, co_ocrnce=1)
+                            visited.append(hpmid)
+            visited.append(mpmid)
+
+    return ece
+
+
+def create_hcm_network(hpmid_mpmid, hpmid_ent, mpmid_ent):
+    """
+        Create a One Depth Citation Relationship (1DCR) Entity-Citation-Entity network where nodes are entities and edges 
+        are the hidden relationships between two entities that are in two papers where one cites the other.
+        @param pmid_pmid: the dictionary of the paper and their ciations
+        @param pmid_ent: the dictionary of the papers and their entites (in our case protein IDs or GO terms)
+    """
+    
+    ece = nx.Graph()
+    #ece.add_nodes_from(get_entities(pmid_ent))
+    visited = []
+    for hpmid in hpmid_ent.keys():
+        if hpmid not in visited:
+            for hent in hpmid_ent[hpmid]:
+                if hpmid_mpmid.has_key(hpmid):
+                    for mpmid in hpmid_mpmid[hpmid]:
+                        if mpmid_ent.has_key(mpmid) and mpmid not in visited:        
+                            for ment in mpmid_ent[mpmid]:
+                                if ece.has_edge(hent, ment):
+                                    ece[hent][ment]['co_ocrnce'] += 1
+                                else:
+                                    ece.add_edge(hent, ment, co_ocrnce=1)
+                            visited.append(mpmid)
+            visited.append(hpmid)
+
+    return ece
+
+
 def create_ee_network(pmid_ent):
     """
         Create a Entity-Entity network where nodes are entities and edges 
@@ -358,7 +415,7 @@ def create_ee_network(pmid_ent):
         @param pmid_ent: the dictionary of the papers and their entities (in our case protein IDs or GO terms)
     """    
     ee = nx.Graph()
-    #ee.add_nodes_from(get_entities(pmid_ent))
+    #ee.add_nodes_from(get_entitihpmid_entes(pmid_ent))
     for pmid in pmid_ent:
         n = len(pmid_ent[pmid])
         for i in range(0,n-1):
@@ -386,6 +443,14 @@ def draw_network(network, net_name, image_path):
         plt.title("GO-GO Network")
     elif net_name == 'gcg':
         plt.title("GO-Citation-GO Network")
+    elif net_name == 'gcg_hcm':
+        plt.title("GO-Citation-GO Network - Human Citing Mouse")
+    elif net_name == 'gcg_mch':
+        plt.title("GO-Citation-GO Network - Mouse Citing Human")
+    elif net_name == 'pcp_hcm':
+        plt.title("Protein-Citation-Protein Network - Human Citing Mouse")
+    elif net_name == 'pcp_mch':
+        plt.title("Protein-Citation-Protein Network - Mouse Citing Human")
     
     pos = nx.graphviz_layout(network, prog='neato', args='')
     nx.draw(network,pos,node_size=10,alpha=0.5,node_color="red", with_labels=False)
@@ -412,11 +477,135 @@ def remove_high_degree_nodes(hd_nodes, network, topx):
     
     return network
 
+
+def human_mouse_cross_ref(hu_pmid_pmid, mo_pmid_pmid):
     
+    hpmid_mpmid = {}
+    mpmid_hpmid = {}
+    
+    for hpmid in hu_pmid_pmid.keys():
+        hpmid_mpmid[hpmid] = []
+        for ref_hpmid in hu_pmid_pmid[hpmid]:
+            if ref_hpmid in mo_pmid_pmid:
+                hpmid_mpmid[hpmid].append(ref_hpmid)
+    
+    for pmid in hpmid_mpmid.keys():
+        print pmid + "            " + str(hpmid_mpmid[pmid])
+    for mpmid in mo_pmid_pmid.keys():
+        mpmid_hpmid[mpmid] = []
+        for ref_mpmid in mo_pmid_pmid[mpmid]:
+            if ref_mpmid in hu_pmid_pmid:
+                mpmid_hpmid[mpmid].append(ref_mpmid)
+    
+    return hpmid_mpmid, mpmid_hpmid
+
+def write_cross_ref(spec1, spec2, s1pmid_s2pmid, file_path):
+    
+    ref_num = 0    
+    desc_text = "{0[0]:<15}{0[1]:<15}".format([spec1, spec2])
+    desc_text += "\n"
+    for pmid in s1pmid_s2pmid.keys():
+        citations = ""
+        for ref_pmid in s1pmid_s2pmid[pmid]:
+            citations += ref_pmid + ', '
+            ref_num += 1
+        desc_text += "{0[0]:<15}{0[1]:<15}".format([pmid, citations[:-2]]) + "\n"
+    desc_text = "Number of " + spec1 + " to " + spec2 + " citations = " + str(ref_num) + "\n" + desc_text
+    
+    desc_file = open(file_path, 'w')
+    desc_file.write(desc_text)
+            
+
+def to_list(data):
+    for key in data.keys():
+        data[key] = list(data[key]) 
+
     
     
 if __name__ == "__main__":
     
+    '''
+    #Mouse Citing Human      
+    
+    onto = 'all'
+    species = 'M_Cit_H'
+    hu_pmid_go, hu_pmid_prot, hu_go_prot = load_data('human', onto=onto)
+    mo_pmid_go, mo_pmid_prot, mo_go_prot = load_data('mouse', onto=onto)    
+    remove_high_throughput_papers(hu_pmid_go, hu_pmid_prot,60)
+    remove_high_throughput_papers(mo_pmid_go, mo_pmid_prot, 60)
+    hu_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/human/pmid_pmid_human.json")))
+    mo_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/mouse/pmid_pmid_mouse.json")))
+    hpmid_mpmid, mpmid_hpmid = human_mouse_cross_ref(hu_pmid_pmid, mo_pmid_pmid)
+    
+    #GO Terms
+    
+    go_mch_net = create_mch_network(mpmid_hpmid, mo_pmid_go, hu_pmid_go)
+    draw_network(go_mch_net, 'gcg_mch', os.path.join(CURR_PATH,species+"/go_mch_net.png"))
+    
+    net_deg_go_mch = get_network_degrees(go_mch_net)
+    draw_network_degrees(OrderedDict(net_deg_go_mch.items()[:10]), os.path.join(CURR_PATH,species+"/net_deg_top_go_mch.png"), 'Go Terms', "GCG - Mouse Citing Human", False)
+    draw_network_degrees(net_deg_go_mch, os.path.join(CURR_PATH,species+"/net_deg_all_go_mch.png"), 'Go Terms', "GCG - Mouse Citing Human")
+    
+    go_mch_nohigh_net = remove_high_degree_nodes(net_deg_go_mch, go_mch_net, 10)
+    draw_network(go_mch_nohigh_net, 'gcg_mch', os.path.join(CURR_PATH,species+"/go_mch_nohigh_net.png"))
+    
+    
+    
+    #Poteins
+    p_mch_net = create_mch_network(mpmid_hpmid, mo_pmid_prot, hu_pmid_prot)
+    draw_network(p_mch_net, 'pcp_mch', os.path.join(CURR_PATH,species+"/p_mch_net.png"))
+    
+    net_deg_p_mch = get_network_degrees(p_mch_net)
+    draw_network_degrees(OrderedDict(net_deg_p_mch.items()[:10]), os.path.join(CURR_PATH,species+"/net_deg_top_p_mch.png"), 'Proteins', "PCP - Mouse Citing Human", False)
+    draw_network_degrees(net_deg_p_mch, os.path.join(CURR_PATH,species+"/net_deg_all_p_mch.png"), 'Proteins', "PCP - Mouse Citing Human")
+    
+    
+    p_mch_nohigh_net = remove_high_degree_nodes(net_deg_p_mch, p_mch_net, 10)
+    draw_network(p_mch_nohigh_net, 'pcp_mch', os.path.join(CURR_PATH,species+"/p_mch_nohigh_net.png"))
+    
+'''
+    '''
+    #Human Citing Mouse
+    onto = 'all'
+    species = 'H_Cit_M'
+    hu_pmid_go, hu_pmid_prot, hu_go_prot = load_data('human', onto=onto)
+    mo_pmid_go, mo_pmid_prot, mo_go_prot = load_data('mouse', onto=onto)
+    remove_high_throughput_papers(hu_pmid_go, hu_pmid_prot,60)
+    remove_high_throughput_papers(mo_pmid_go, mo_pmid_prot, 60)
+    hu_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/human/pmid_pmid_human.json")))
+    mo_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/mouse/pmid_pmid_mouse.json")))
+    hpmid_mpmid, mpmid_hpmid = human_mouse_cross_ref(hu_pmid_pmid, mo_pmid_pmid)
+    
+    #GO Terms
+    
+    go_hcm_net = create_hcm_network(hpmid_mpmid, hu_pmid_go, mo_pmid_go)
+    draw_network(go_hcm_net, 'gcg_hcm', os.path.join(CURR_PATH,species+"/go_hcm_net.png"))
+    
+    net_deg_go_hcm = get_network_degrees(go_hcm_net)
+    draw_network_degrees(OrderedDict(net_deg_go_hcm.items()[:10]), os.path.join(CURR_PATH,species+"/net_deg_top_go_hcm.png"), 'Go Terms', "GCG - Human Citing Mouse", False)
+    draw_network_degrees(net_deg_go_hcm, os.path.join(CURR_PATH,species+"/net_deg_all_go_hcm.png"), 'Go Terms', "GCG - Human Citing Mouse")
+    
+    go_hcm_nohigh_net = remove_high_degree_nodes(net_deg_go_hcm, go_hcm_net, 10)
+    draw_network(go_hcm_nohigh_net, 'gcg_hcm', os.path.join(CURR_PATH,species+"/go_hcm_nohigh_net.png"))
+
+    
+    
+    #Poteins
+    p_hcm_net = create_hcm_network(hpmid_mpmid, hu_pmid_prot, mo_pmid_prot)
+    draw_network(p_hcm_net, 'pcp_hcm', os.path.join(CURR_PATH,species+"/p_hcm_net.png"))
+    
+    net_deg_p_hcm = get_network_degrees(p_hcm_net)
+    draw_network_degrees(OrderedDict(net_deg_p_hcm.items()[:10]), os.path.join(CURR_PATH,species+"/net_deg_top_p_hcm.png"), 'Proteins', "PCP - Human Citing Mouse", False)
+    draw_network_degrees(net_deg_p_hcm, os.path.join(CURR_PATH,species+"/net_deg_all_p_hcm.png"), 'Proteins', "PCP - Human Citing Mouse")
+    
+    
+    p_hcm_nohigh_net = remove_high_degree_nodes(net_deg_p_hcm, p_hcm_net, 10)
+    draw_network(p_hcm_nohigh_net, 'pcp_hcm', os.path.join(CURR_PATH,species+"/p_hcm_nohigh_net.png"))
+    
+'''
+    
+    
+    '''
     species = sys.argv[1][21:]
     
     pmids, pmid_go, pmid_prot = pmids_from_gaf(os.path.join(CURR_PATH,"GOA_Files/"+sys.argv[1]))
@@ -428,54 +617,74 @@ if __name__ == "__main__":
     elif (len(sys.argv) == 2):
         get_references(pmid_dois, species)
     
+    '''
     
     '''
+    onto = 'all'
+    species = 'mouse'
+    pmid_go, pmid_prot, go_prot = load_data(species, onto=onto)
+
+    to_list(pmid_go)
+    to_list(pmid_prot)
+    to_list(go_prot)
+    
     print len(pmid_prot)
     remove_high_throughput_papers(pmid_go, pmid_prot,60)
     print len(pmid_prot)
-    pmid_pmid = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/pmid_pmid_human")))
-    
+    #pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_pmid_"+species+".json")))
+    pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/"+species+"/pmid_pmid_"+species+".json")))
     
     #GO Terms
     gg_net = create_ee_network(pmid_go)
-    draw_network(gg_net, 'gg', os.path.join(CURR_PATH,"gg_net.png"))
+    draw_network(gg_net, 'gg', os.path.join(CURR_PATH,species+"/gg_net.png"))
     
     gcg_net = create_ece_network(pmid_pmid, pmid_go)
-    draw_network(gcg_net, 'gcg', os.path.join(CURR_PATH,"gcg_net.png"))
+    draw_network(gcg_net, 'gcg', os.path.join(CURR_PATH,species+"/gcg_net.png"))
     
     net_deg_gcg = get_network_degrees(gcg_net)
-    draw_network_degrees(OrderedDict(net_deg_gcg.items()[:10]), os.path.join(CURR_PATH,"net_deg_top_gcg.png"), 'Go Terms', "GCG", False)
-    draw_network_degrees(net_deg_gcg, os.path.join(CURR_PATH,"net_deg_all_gcg.png"), 'Go Terms', "GCG")
-    
+    draw_network_degrees(OrderedDict(net_deg_gcg.items()[:10]), os.path.join(CURR_PATH,species+"/net_deg_top_gcg.png"), 'Go Terms', "GCG", False)
+    draw_network_degrees(net_deg_gcg, os.path.join(CURR_PATH,species+"/net_deg_all_gcg.png"), 'Go Terms', "GCG")
+     
     net_deg_gg = get_network_degrees(gg_net)
-    draw_network_degrees(OrderedDict(net_deg_gg.items()[:10]), os.path.join(CURR_PATH,"net_deg_top_gg.png"), 'Go Terms', "GG", False)
-    draw_network_degrees(net_deg_gg, os.path.join(CURR_PATH,"net_deg_all_gg.png"), 'Go Terms', "GG")
-    
+    draw_network_degrees(OrderedDict(net_deg_gg.items()[:10]), os.path.join(CURR_PATH,species+"/net_deg_top_gg.png"), 'Go Terms', "GG", False)
+    draw_network_degrees(net_deg_gg, os.path.join(CURR_PATH,species+"/net_deg_all_gg.png"), 'Go Terms', "GG")
+     
     gg_nohigh_net = remove_high_degree_nodes(net_deg_gg, gg_net, 10)
     gcg_nohigh_net = remove_high_degree_nodes(net_deg_gcg, gcg_net, 10)
-    draw_network(gg_nohigh_net, 'gg', os.path.join(CURR_PATH,"gg_nohigh_net.png"))
-    draw_network(gcg_nohigh_net, 'gcg', os.path.join(CURR_PATH,"gcg_nohigh_net.png"))
-    
-    
-    
+    draw_network(gg_nohigh_net, 'gg', os.path.join(CURR_PATH,species+"/gg_nohigh_net.png"))
+    draw_network(gcg_nohigh_net, 'gcg', os.path.join(CURR_PATH,species+"/gcg_nohigh_net.png"))
+
     #Poteins
     pp_net = create_ee_network(pmid_prot)
-    draw_network(pp_net, 'pp', os.path.join(CURR_PATH,"pp_net.png"))
+    draw_network(pp_net, 'pp', os.path.join(CURR_PATH,species+"/pp_net.png"))
     
     pcp_net = create_ece_network(pmid_pmid, pmid_prot)
-    draw_network(pp_net, 'pcp', os.path.join(CURR_PATH,"pcp_net.png"))
+    draw_network(pcp_net, 'pcp', os.path.join(CURR_PATH,species+"/pcp_net.png"))
     
     net_deg_pcp = get_network_degrees(pcp_net)
-    draw_network_degrees(OrderedDict(net_deg_pcp.items()[:10]), os.path.join(CURR_PATH,"net_deg_top_pcp.png"), 'Proteins', "PCP", False)
-    draw_network_degrees(net_deg_pcp, os.path.join(CURR_PATH,"net_deg_all_pcp.png"), 'Proteins', "PCP")
+    draw_network_degrees(OrderedDict(net_deg_pcp.items()[:10]), os.path.join(CURR_PATH,species+"/net_deg_top_pcp.png"), 'Proteins', "PCP", False)
+    draw_network_degrees(net_deg_pcp, os.path.join(CURR_PATH,species+"/net_deg_all_pcp.png"), 'Proteins', "PCP")
     
     net_deg_pp = get_network_degrees(pp_net)
-    draw_network_degrees(OrderedDict(net_deg_pp.items()[:10]), os.path.join(CURR_PATH,"net_deg_top_pp.png"), 'Proteins', "PP", False)
-    draw_network_degrees(net_deg_pp, os.path.join(CURR_PATH,"net_deg_all_pp.png"), 'Proteins', "PP")
+    draw_network_degrees(OrderedDict(net_deg_pp.items()[:10]), os.path.join(CURR_PATH,species+"/net_deg_top_pp.png"), 'Proteins', "PP", False)
+    draw_network_degrees(net_deg_pp, os.path.join(CURR_PATH,species+"/net_deg_all_pp.png"), 'Proteins', "PP")
     
     pp_nohigh_net = remove_high_degree_nodes(net_deg_pp, pp_net, 10)
     pcp_nohigh_net = remove_high_degree_nodes(net_deg_pcp, pcp_net, 10)
-    draw_network(pp_nohigh_net, 'pp', os.path.join(CURR_PATH,"pp_nohigh_net.png"))
-    draw_network(pcp_nohigh_net, 'pcp', os.path.join(CURR_PATH,"pcp_nohigh_net.png"))
+    draw_network(pp_nohigh_net, 'pp', os.path.join(CURR_PATH,species+"/pp_nohigh_net.png"))
+    draw_network(pcp_nohigh_net, 'pcp', os.path.join(CURR_PATH,species+"/pcp_nohigh_net.png"))
     
 '''
+
+
+    hu_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/human/pmid_pmid_human.json")))
+    mo_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/mouse/pmid_pmid_mouse.json")))
+    hpmid_mpmid, mpmid_hpmid = human_mouse_cross_ref(hu_pmid_pmid, mo_pmid_pmid)
+    write_cross_ref('Human', 'Mouse', hpmid_mpmid, os.path.join(CURR_PATH,"H_Cit_M/hu_cit_mo.txt"))
+    write_cross_ref('Mouse', 'Human', mpmid_hpmid, os.path.join(CURR_PATH,"M_Cit_H/mo_cit_hu.txt"))
+
+
+
+
+
+

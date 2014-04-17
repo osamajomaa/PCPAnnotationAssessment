@@ -214,8 +214,8 @@ def draw_go_pmid_histogram(go_cats, species, onto='all'):
 
 if __name__ == "__main__":
 
-    species = "dicty"
-    onto = 'all'
+    species = "human"
+    onto = 'bp'
     #build_clusters(species)
     pmid_go, pmid_prot, go_prot = load_data(species, onto=onto)
     go_cats, pmid_coh  = calc_cohesion(pmid_go, pmid_prot, 1)
