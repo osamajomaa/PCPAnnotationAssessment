@@ -1,0 +1,13 @@
+1- For tomorrow presenation: 
+First find the bug
+Distribution of human to everything and mouse to humans
+
+Categorizing the papers into:
+methods and non-methods papers : mesh_headings header
+review and non-review papers : PublicationTypeList --> PublicationType 
+
+Drawing histograms of the GO terms for each pmid and its citaions:
+count the paper and its citaitons. 
+
+
+

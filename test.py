@@ -2,10 +2,5 @@ from collections import OrderedDict
 from sets import Set
 import json
 
-def func(a, b, c):
-    pass
-
-a = b = c = 2
-func(a, b, c)
-print 1
+s = [ [1,2], [3,4], [5,6]]
 
