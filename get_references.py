@@ -16,6 +16,7 @@ import sys
 import os
 
 
+
 # Logging
 from log import Logger
 
@@ -526,34 +527,58 @@ def to_list(data):
 def search_species(meshHeadings):
     desc_names = []
     for heading in meshHeadings:
+        for qual_name in heading['QualifierName']:
+            desc_names.append(qual_name)
         desc_names.append(heading['DescriptorName'])
     return desc_names
 
+def search_headings(mesh_hds, term):
+    for heading in mesh_hds:
+        if heading.lower().find(term) != -1:
+            return True
+    return False
+
+def add_to_crosspec(crosspec_pmid, pubmed_val, desc_names, pmid):
+    if 'Humans' in desc_names and 'Mice' in desc_names:
+        crosspec_pmid[pmid].append({'pmid':pubmed_val, 'species':'Humans,Mice'})
+    elif 'Humans' in desc_names:
+        crosspec_pmid[pmid].append({'pmid':pubmed_val, 'species':'Humans'})
+    elif 'Mice' in desc_names:
+        crosspec_pmid[pmid].append({'pmid':pubmed_val, 'species':'Mice'})
+    else:
+        crosspec_pmid[pmid].append({'pmid':pubmed_val, 'species':'None'})
+    return crosspec_pmid
+        
+
 def medline(pmid_pmid, spec1, spec2):
     
-    crosspec_pmid = {}
+    #crosspec_pmid = {}
+    crosspec_pmid_methods = {}
+    crosspec_pmid_review = {}
+    crosspec_pmid_research = {}
     
     for pmid in pmid_pmid.keys():
         try:
             handle = ez.efetch(db="pubmed", id=pmid_pmid[pmid], rettype="medline", retmode="xml")
-            crosspec_pmid[pmid] = []
+            crosspec_pmid_methods[pmid] = []
+            crosspec_pmid_review[pmid] = []
+            crosspec_pmid_research[pmid] = []
             records = ez.parse(handle)
             
             for pubmed_rec in records:
                 desc_names = search_species(pubmed_rec['MedlineCitation']['MeshHeadingList'])
-                if 'Humans' in desc_names and 'Mice' in desc_names:
-                    crosspec_pmid[pmid].append({'pmid':pubmed_rec['MedlineCitation']['PMID'], 'species':'Humans,Mice'})
-                elif 'Humans' in desc_names:
-                    crosspec_pmid[pmid].append({'pmid':pubmed_rec['MedlineCitation']['PMID'], 'species':'Humans'})
-                elif 'Mice' in desc_names:
-                    crosspec_pmid[pmid].append({'pmid':pubmed_rec['MedlineCitation']['PMID'], 'species':'Mice'})
+                if search_headings(desc_names, 'methods'):
+                    crosspec_pmid_methods = add_to_crosspec(crosspec_pmid_methods, pubmed_rec['MedlineCitation']['PMID'], desc_names, pmid)
+                elif search_headings(desc_names, 'review'):
+                    crosspec_pmid_review = add_to_crosspec(crosspec_pmid_review, pubmed_rec['MedlineCitation']['PMID'], desc_names, pmid)
                 else:
-                    crosspec_pmid[pmid].append({'pmid':pubmed_rec['MedlineCitation']['PMID'], 'species':'None'})
-                    
+                    crosspec_pmid_research = add_to_crosspec(crosspec_pmid_research, pubmed_rec['MedlineCitation']['PMID'], desc_names, pmid)                    
         except Exception:
             pass
     
-    pickle_data(crosspec_pmid, os.path.join(CURR_PATH, "mesh_headings/"+spec1+"_cit_"+spec2))
+    pickle_data(crosspec_pmid_methods, os.path.join(CURR_PATH, "mesh_headings/methods/"+spec1+"_citations"))
+    pickle_data(crosspec_pmid_review, os.path.join(CURR_PATH, "mesh_headings/review/"+spec1+"_citations"))
+    pickle_data(crosspec_pmid_research, os.path.join(CURR_PATH, "mesh_headings/research/"+spec1+"_citations"))
 
 
 def uniquify_list(crosspec_rec):
@@ -566,7 +591,7 @@ def uniquify_list(crosspec_rec):
             visited.append(pair['pmid'])
     return new_crosspec_rec
 
-def build_crosspec_files(crosspec_pmid, spec1, spec2):
+def build_crosspec_files(crosspec_pmid, spec1, spec2, paper_type):
     desc_text_s1s1 = "{0[0]:<15}{0[1]:<15}".format([spec1, spec1])+ "\n"
     desc_text_s1s2 = "{0[0]:<15}{0[1]:<15}".format([spec1, spec2])+ "\n"
     desc_text_s1n = "{0[0]:<15}{0[1]:<15}".format([spec1, 'Other'])+ "\n"
@@ -600,31 +625,32 @@ def build_crosspec_files(crosspec_pmid, spec1, spec2):
     desc_text_s1s2 = "Number of " + spec1 + " to " + spec2 + " citations = " + str(count_s1s2) + "\n\n" + desc_text_s1s2
     desc_text_s1n  = "Number of " + spec1 + " to " + "Other" + " citations = " + str(count_s1n) + "\n\n" + desc_text_s1n
     
-    desc_file_s1s1 = open(os.path.join(CURR_PATH,"mesh_headings/"+spec1+"/"+spec1+"_cit_"+spec1), 'w')
+    desc_file_s1s1 = open(os.path.join(CURR_PATH,"mesh_headings/"+paper_type+"/"+spec1+"/"+spec1+"_cit_"+spec1), 'w')
     desc_file_s1s1.write(desc_text_s1s1)
-    desc_file_s1s2 = open(os.path.join(CURR_PATH,"mesh_headings/"+spec1+"/"+spec1+"_cit_"+spec2), 'w')
+    desc_file_s1s2 = open(os.path.join(CURR_PATH,"mesh_headings/"+paper_type+"/"+spec1+"/"+spec1+"_cit_"+spec2), 'w')
     desc_file_s1s2.write(desc_text_s1s2)
-    desc_file_s1n = open(os.path.join(CURR_PATH,"mesh_headings/"+spec1+"/"+spec1+"_cit_Other"), 'w')
+    desc_file_s1n = open(os.path.join(CURR_PATH,"mesh_headings/"+paper_type+"/"+spec1+"/"+spec1+"_cit_Other"), 'w')
     desc_file_s1n.write(desc_text_s1n)
 
-def draw_histograms(crosspec_pmid, spec1, spec2):
+def draw_histograms(crosspec_pmid, spec1, spec2, paper_type):
     
     s1s1_data, s1s2_data, s1n_data = get_histogram_data(crosspec_pmid, spec1, spec2)
     
-    draw_histogram_helper(s1s1_data, spec1, spec1, 'red')
-    draw_histogram_helper(s1s2_data, spec1, spec2, 'green')
-    draw_histogram_helper(s1n_data, spec1, 'Others', 'blue')
+    draw_histogram_helper(s1s1_data, spec1, spec1, 'red', paper_type)
+    draw_histogram_helper(s1s2_data, spec1, spec2, 'green', paper_type)
+    draw_histogram_helper(s1n_data, spec1, 'Others', 'blue', paper_type)
 
-def draw_cited_histograms(crosspec_pmid, spec1, spec2, top):
+def draw_cited_histograms(crosspec_pmid, spec1, spec2, top, paper_type):
     
     s1s1_data, s1s2_data, s1n_data = get_cited_histogram_data(crosspec_pmid, spec1, spec2)
     
-    draw_cited_histogram_helper(s1s1_data, spec1, spec1, top, 'red')
-    draw_cited_histogram_helper(s1s2_data, spec1, spec2, top, 'green')
-    draw_cited_histogram_helper(s1n_data, spec1, 'Others', top, 'blue')
+    draw_cited_histogram_helper(s1s1_data, spec1, spec1, top, 'red', paper_type)
+    draw_cited_histogram_helper(s1s2_data, spec1, spec2, top, 'green', paper_type)
+    draw_cited_histogram_helper(s1n_data, spec1, 'Others', top, 'blue', paper_type)
     
     
-def draw_histogram_helper(hist_data, spec1, spec2, bcolor):
+def draw_histogram_helper(hist_data, spec1, spec2, bcolor, paper_type):
+    
     xaxis = []
     yaxis = []
     for key,value in hist_data.items():
@@ -644,12 +670,14 @@ def draw_histogram_helper(hist_data, spec1, spec2, bcolor):
     pylab.ylabel("Number of papers in " + spec1)        
     pylab.grid(True)
     pylab.tight_layout()
-    pylab.savefig(os.path.join(CURR_PATH,"mesh_headings/"+spec1+"/histograms/"+spec1+"_cit_"+spec2+".png"))
+    pylab.savefig(os.path.join(CURR_PATH,"mesh_headings/"+paper_type+"/"+spec1+"/histograms/"+spec1+"_cit_"+spec2+".png"))
     pylab.close()
     
 
-def draw_cited_histogram_helper(hist_data, spec1, spec2, top, bcolor):
+def draw_cited_histogram_helper(hist_data, spec1, spec2, top, bcolor, paper_type):
     #print hist_data.values()
+    if len(hist_data) < top:
+        top = len(hist_data)
     xvalues = hist_data.keys()[:top]
     yaxis = hist_data.values()[:top]
     xaxis = list(range(0,top))
@@ -665,7 +693,7 @@ def draw_cited_histogram_helper(hist_data, spec1, spec2, top, bcolor):
     pylab.ylabel("Number of times the paper has been cited by " + spec1 + " papers")        
     pylab.grid(True)
     pylab.tight_layout()
-    pylab.savefig(os.path.join(CURR_PATH,"mesh_headings/"+spec1+"/histograms/top"+spec2+"_citedby_"+spec1+".png"))
+    pylab.savefig(os.path.join(CURR_PATH,"mesh_headings/"+paper_type+"/"+spec1+"/histograms/top"+spec2+"_citedby_"+spec1+".png"))
     pylab.close()
     
 
@@ -753,18 +781,22 @@ def get_cited_histogram_data(crosspec_pmid, spec1, spec2):
         
     
 if __name__ == "__main__":
+    '''
+    hu_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/human/pmid_pmid_human.json")))
+    mo_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/mouse/pmid_pmid_mouse.json")))
 
-    #hu_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/human/pmid_pmid_human.json")))
-    #mo_pmid_pmid = json.load(open(os.path.join(CURR_PATH,"Pickled_Data/mouse/pmid_pmid_mouse.json")))
-
-    #crosspec_pmid = medline(mo_pmid_pmid, 'mouse', 'human')
-    crosspec_pmid = cPickle.load(open(os.path.join(CURR_PATH,"mesh_headings/human_citations")))
-    #crosspec_pmid = cPickle.load(open(os.path.join(CURR_PATH,"mesh_headings/mouse_citations")))
-    #build_crosspec_files(crosspec_pmid, 'Humans', 'Mice')
-    spec1 = "Humans"
-    spec2 = "Mice"
-    #draw_cited_histograms(crosspec_pmid, spec1, spec2, 10)
-    draw_histograms(crosspec_pmid, spec1, spec2)
+    medline(mo_pmid_pmid, 'mouse', 'human')
+    medline(hu_pmid_pmid, 'human', 'mouse')
+    '''
+    
+    paper_type = 'research'
+    spec2 = 'Mice'
+    spec1 = 'Humans'
+    crosspec_pmid = cPickle.load(open(os.path.join(CURR_PATH,"mesh_headings/"+paper_type+"/human_citations")))
+    build_crosspec_files(crosspec_pmid, spec1, spec2, paper_type)
+    draw_cited_histograms(crosspec_pmid, spec1, spec2, 10, paper_type)
+    draw_histograms(crosspec_pmid, spec1, spec2, paper_type)
+    
     
     '''
     #Mouse Citing Human      
