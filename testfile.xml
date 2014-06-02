@@ -1,0 +1,3945 @@
+<abstracts-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/abstract/dtd" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>http://api.elsevier.com/content/abstract/scopus_id/84870020040</prism:url><dc:identifier>SCOPUS_ID:84870020040</dc:identifier><eid>2-s2.0-84870020040</eid><pubmed-id>23178117</pubmed-id><prism:doi>10.1016/j.cell.2012.10.035</prism:doi><dc:title>MED12 controls the response to multiple cancer drugs through regulation of TGF-β receptor signaling</dc:title><prism:aggregationType>Journal</prism:aggregationType><srctype>j</srctype><citedby-count>43</citedby-count><prism:publicationName>Cell</prism:publicationName><prism:issn>00928674</prism:issn><prism:volume>151</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>937</prism:startingPage><prism:endingPage>950</prism:endingPage><prism:pageRange>937-950</prism:pageRange><prism:coverDate>2012-11-21</prism:coverDate><dc:creator><author auid="8758521400" seq="1"><ce:initials>S.</ce:initials><ce:indexed-name>Huang S.</ce:indexed-name><ce:surname>Huang</ce:surname><ce:given-name>Sidong</ce:given-name><preferred-name>
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Huang S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+<ce:given-name>Sidong</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/8758521400</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author></dc:creator><dc:description><abstract original="y" xml:lang="eng">
+<ce:para>Inhibitors of the ALK and EGF receptor tyrosine kinases provoke dramatic but short-lived responses in lung cancers harboring EML4-ALK translocations or activating mutations of EGFR, respectively. We used a large-scale RNAi screen to identify MED12, a component of the transcriptional MEDIATOR complex that is mutated in cancers, as a determinant of response to ALK and EGFR inhibitors. MED12 is in part cytoplasmic where it negatively regulates TGF-βR2 through physical interaction. MED12 suppression therefore results in activation of TGF-βR signaling, which is both necessary and sufficient for drug resistance. TGF-β signaling causes MEK/ERK activation, and consequently MED12 suppression also confers resistance to MEK and BRAF inhibitors in other cancers. MED12 loss induces an EMT-like phenotype, which is associated with chemotherapy resistance in colon cancer patients and to gefitinib in lung cancer. Inhibition of TGF-βR signaling restores drug responsiveness in MED12<sup>KD</sup> cells, suggesting a strategy to treat drug-resistant tumors that have lost MED12. © 2012 Elsevier Inc.</ce:para>
+</abstract></dc:description><intid>526069461</intid><link href="http://api.elsevier.com/content/abstract/scopus_id/84870020040" rel="self"/><link href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&amp;scp=84870020040" rel="scopus"/><link href="http://api.elsevier.com/content/search/scopus?query=refeid(2-s2.0-84870020040)" rel="cited-by"/></coredata><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/111385318" id="111385318"><affilname>Agendia Inc.</affilname></affiliation><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"><affilname>The Netherlands Cancer Institute</affilname></affiliation><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015633" id="60015633"><affilname>Institute Catala Oncologia</affilname></affiliation><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60030465" id="60030465"><affilname/></affiliation><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60005517" id="60005517"><affilname>Wellcome Trust Sanger Institute</affilname></affiliation><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/110149991" id="110149991"><affilname>Agendia NV</affilname></affiliation><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60002775" id="60002775"><affilname>University of Occupational and Environmental Health</affilname></affiliation><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015618" id="60015618"><affilname>Leiden University Medical Center - LUMC</affilname></affiliation><authors><author auid="8758521400" seq="1"><ce:initials>S.</ce:initials><ce:indexed-name>Huang S.</ce:indexed-name><ce:surname>Huang</ce:surname><ce:given-name>Sidong</ce:given-name><preferred-name>
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Huang S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+<ce:given-name>Sidong</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/8758521400</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="6508011738" seq="2"><ce:initials>M.</ce:initials><ce:indexed-name>Holzel M.</ce:indexed-name><ce:surname>Hölzel</ce:surname><ce:given-name>Michael</ce:given-name><preferred-name>
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Hölzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/6508011738</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60030465" id="60030465"/></author><author auid="12775043700" seq="3"><ce:initials>T.</ce:initials><ce:indexed-name>Knijnenburg T.</ce:indexed-name><ce:surname>Knijnenburg</ce:surname><ce:given-name>Theo</ce:given-name><preferred-name>
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Knijnenburg T.</ce:indexed-name>
+<ce:surname>Knijnenburg</ce:surname>
+<ce:given-name>Theo</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/12775043700</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="16310524900" seq="4"><ce:initials>A.</ce:initials><ce:indexed-name>Schlicker A.</ce:indexed-name><ce:surname>Schlicker</ce:surname><ce:given-name>Andreas</ce:given-name><preferred-name>
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Schlicker A.</ce:indexed-name>
+<ce:surname>Schlicker</ce:surname>
+<ce:given-name>Andreas</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/16310524900</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="8855796500" seq="5"><ce:initials>P.</ce:initials><ce:indexed-name>Roepman P.</ce:indexed-name><ce:surname>Roepman</ce:surname><ce:given-name>Paul</ce:given-name><preferred-name>
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Roepman P.</ce:indexed-name>
+<ce:surname>Roepman</ce:surname>
+<ce:given-name>Paul</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/8855796500</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/111385318" id="111385318"/><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/110149991" id="110149991"/></author><author auid="23393316600" seq="6"><ce:initials>U.</ce:initials><ce:indexed-name>McDermott U.</ce:indexed-name><ce:surname>McDermott</ce:surname><ce:given-name>Ultan</ce:given-name><preferred-name>
+<ce:initials>U.</ce:initials>
+<ce:indexed-name>McDermott U.</ce:indexed-name>
+<ce:surname>McDermott</ce:surname>
+<ce:given-name>Ultan</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/23393316600</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60005517" id="60005517"/></author><author auid="10043242600" seq="7"><ce:initials>M.</ce:initials><ce:indexed-name>Garnett M.</ce:indexed-name><ce:surname>Garnett</ce:surname><ce:given-name>Mathew</ce:given-name><preferred-name>
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Garnett M.</ce:indexed-name>
+<ce:surname>Garnett</ce:surname>
+<ce:given-name>Mathew</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/10043242600</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60005517" id="60005517"/></author><author auid="55501767700" seq="8"><ce:initials>W.</ce:initials><ce:indexed-name>Grernrum W.</ce:indexed-name><ce:surname>Grernrum</ce:surname><ce:given-name>Wipawadee</ce:given-name><preferred-name>
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Grernrum W.</ce:indexed-name>
+<ce:surname>Grernrum</ce:surname>
+<ce:given-name>Wipawadee</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/55501767700</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="55277096300" seq="9"><ce:initials>C.</ce:initials><ce:indexed-name>Sun C.</ce:indexed-name><ce:surname>Sun</ce:surname><ce:given-name>Chong</ce:given-name><preferred-name>
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Sun C.</ce:indexed-name>
+<ce:surname>Sun</ce:surname>
+<ce:given-name>Chong</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/55277096300</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="55276876900" seq="10"><ce:initials>A.</ce:initials><ce:indexed-name>Prahallad A.</ce:indexed-name><ce:surname>Prahallad</ce:surname><ce:given-name>Anirudh</ce:given-name><preferred-name>
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Prahallad A.</ce:indexed-name>
+<ce:surname>Prahallad</ce:surname>
+<ce:given-name>Anirudh</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/55276876900</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="56116385900" seq="11"><ce:initials>F.H.</ce:initials><ce:indexed-name>Groenendijk F.H.</ce:indexed-name><ce:surname>Groenendijk</ce:surname><ce:given-name>Floris H.</ce:given-name><preferred-name>
+<ce:initials>F.H.</ce:initials>
+<ce:indexed-name>Groenendijk F.</ce:indexed-name>
+<ce:surname>Groenendijk</ce:surname>
+<ce:given-name>Floris H.</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/56116385900</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="26421298400" seq="12"><ce:initials>L.</ce:initials><ce:indexed-name>Mittempergher L.</ce:indexed-name><ce:surname>Mittempergher</ce:surname><ce:given-name>Lorenza</ce:given-name><preferred-name>
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Mittempergher L.</ce:indexed-name>
+<ce:surname>Mittempergher</ce:surname>
+<ce:given-name>Lorenza</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/26421298400</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="15757871800" seq="13"><ce:initials>W.</ce:initials><ce:indexed-name>Nijkamp W.</ce:indexed-name><ce:surname>Nijkamp</ce:surname><ce:given-name>Wouter</ce:given-name><preferred-name>
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Nijkamp W.</ce:indexed-name>
+<ce:surname>Nijkamp</ce:surname>
+<ce:given-name>Wouter</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/15757871800</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="16224387800" seq="14"><ce:initials>J.</ce:initials><ce:indexed-name>Neefjes J.</ce:indexed-name><ce:surname>Neefjes</ce:surname><ce:given-name>Jacques</ce:given-name><preferred-name>
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Neefjes J.</ce:indexed-name>
+<ce:surname>Neefjes</ce:surname>
+<ce:given-name>Jacques</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/16224387800</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="14120233400" seq="15"><ce:initials>R.</ce:initials><ce:indexed-name>Salazar R.</ce:indexed-name><ce:surname>Salazar</ce:surname><ce:given-name>Ramon</ce:given-name><preferred-name>
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Salazar R.</ce:indexed-name>
+<ce:surname>Salazar</ce:surname>
+<ce:given-name>Ramon</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/14120233400</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015633" id="60015633"/></author><author auid="7005886796" seq="16"><ce:initials>P.</ce:initials><ce:indexed-name>Ten Dijke P.</ce:indexed-name><ce:surname>Ten Dijke</ce:surname><ce:given-name>Peter</ce:given-name><preferred-name>
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Ten Dijke P.</ce:indexed-name>
+<ce:surname>Ten Dijke</ce:surname>
+<ce:given-name>Peter</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/7005886796</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015618" id="60015618"/></author><author auid="7004012170" seq="17"><ce:initials>H.</ce:initials><ce:indexed-name>Uramoto H.</ce:indexed-name><ce:surname>Uramoto</ce:surname><ce:given-name>Hidetaka</ce:given-name><preferred-name>
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Uramoto H.</ce:indexed-name>
+<ce:surname>Uramoto</ce:surname>
+<ce:given-name>Hidetaka</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/7004012170</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60002775" id="60002775"/></author><author auid="55292876300" seq="18"><ce:initials>F.</ce:initials><ce:indexed-name>Tanaka F.</ce:indexed-name><ce:surname>Tanaka</ce:surname><ce:given-name>Fumihiro</ce:given-name><preferred-name>
+<ce:initials>F.</ce:initials>
+<ce:indexed-name>Tanaka F.</ce:indexed-name>
+<ce:surname>Tanaka</ce:surname>
+<ce:given-name>Fumihiro</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/55292876300</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60002775" id="60002775"/></author><author auid="6602095873" seq="19"><ce:initials>R.L.</ce:initials><ce:indexed-name>Beijersbergen R.L.</ce:indexed-name><ce:surname>Beijersbergen</ce:surname><ce:given-name>Roderick L.</ce:given-name><preferred-name>
+<ce:initials>R.L.</ce:initials>
+<ce:indexed-name>Beijersbergen R.</ce:indexed-name>
+<ce:surname>Beijersbergen</ce:surname>
+<ce:given-name>Roderick L.</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/6602095873</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="6603692712" seq="20"><ce:initials>L.F.A.</ce:initials><ce:indexed-name>Wessels L.F.A.</ce:indexed-name><ce:surname>Wessels</ce:surname><ce:given-name>Lodewyk F.A.</ce:given-name><preferred-name>
+<ce:initials>L.F.A.</ce:initials>
+<ce:indexed-name>Wessels L.</ce:indexed-name>
+<ce:surname>Wessels</ce:surname>
+<ce:given-name>Lodewyk F A</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/6603692712</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/></author><author auid="35453790200" seq="21"><ce:initials>R.</ce:initials><ce:indexed-name>Bernards R.</ce:indexed-name><ce:surname>Bernards</ce:surname><ce:given-name>René</ce:given-name><preferred-name>
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+<ce:given-name>René</ce:given-name>
+</preferred-name><author-url>http://api.elsevier.com/content/author/author_id/35453790200</author-url><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/60015205" id="60015205"/><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/111385318" id="111385318"/><affiliation href="http://api.elsevier.com/content/affiliation/affiliation_id/110149991" id="110149991"/></author></authors><subject-areas><subject-area abbrev="BIOC" code="1300">Biochemistry, Genetics and Molecular Biology (all)</subject-area></subject-areas><item xmlns=""><ait:process-info><ait:date-delivered day="30" month="04" timestamp="2014-04-30T14:44:27.000027+01:00" year="2014"/><ait:date-sort day="21" month="11" year="2012"/><ait:status stage="S300" state="update" type="core"/></ait:process-info><bibrecord><item-info><copyright type="Elsevier">Copyright 2013 Elsevier B.V., All rights reserved.</copyright><copyright type="Medline Descriptors">MEDLINE® is the source for the MeSH terms of this document.</copyright><itemidlist>
+<ce:pii>S0092867412012962</ce:pii>
+<ce:doi>10.1016/j.cell.2012.10.035</ce:doi>
+<itemid idtype="PUI">366128648</itemid>
+<itemid idtype="EMBASE">2012691473</itemid>
+<itemid idtype="CABS">2012362416</itemid>
+<itemid idtype="EMBIO">2012437206</itemid>
+<itemid idtype="BSTEIN">2012158401</itemid>
+<itemid idtype="MEDL">23178117</itemid>
+<itemid idtype="SCP">84870020040</itemid>
+<itemid idtype="SGR">84870020040</itemid>
+</itemidlist><history>
+<date-created day="30" month="11" year="2012"/>
+</history><dbcollection>EMBASE</dbcollection><dbcollection>CABS</dbcollection><dbcollection>EMBIO</dbcollection><dbcollection>BSTEIN</dbcollection><dbcollection>MEDL</dbcollection><dbcollection>Scopusbase</dbcollection></item-info><head><citation-info><citation-type code="ar"/><citation-language xml:lang="eng"/><abstract-language xml:lang="eng"/></citation-info><citation-title><titletext original="y" xml:lang="eng">MED12 controls the response to multiple cancer drugs through regulation of TGF-β receptor signaling</titletext></citation-title><author-group><author auid="8758521400" seq="1">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Huang S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+<ce:given-name>Sidong</ce:given-name>
+<preferred-name>
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Huang S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+<ce:given-name>Sidong</ce:given-name>
+</preferred-name>
+</author><author auid="6508011738" seq="2">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Holzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+<preferred-name>
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Hölzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</preferred-name>
+</author><author auid="12775043700" seq="3">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Knijnenburg T.</ce:indexed-name>
+<ce:surname>Knijnenburg</ce:surname>
+<ce:given-name>Theo</ce:given-name>
+<preferred-name>
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Knijnenburg T.</ce:indexed-name>
+<ce:surname>Knijnenburg</ce:surname>
+<ce:given-name>Theo</ce:given-name>
+</preferred-name>
+</author><author auid="16310524900" seq="4">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Schlicker A.</ce:indexed-name>
+<ce:surname>Schlicker</ce:surname>
+<ce:given-name>Andreas</ce:given-name>
+<preferred-name>
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Schlicker A.</ce:indexed-name>
+<ce:surname>Schlicker</ce:surname>
+<ce:given-name>Andreas</ce:given-name>
+</preferred-name>
+</author><author auid="55501767700" seq="8">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Grernrum W.</ce:indexed-name>
+<ce:surname>Grernrum</ce:surname>
+<ce:given-name>Wipawadee</ce:given-name>
+<preferred-name>
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Grernrum W.</ce:indexed-name>
+<ce:surname>Grernrum</ce:surname>
+<ce:given-name>Wipawadee</ce:given-name>
+</preferred-name>
+</author><author auid="55277096300" seq="9">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Sun C.</ce:indexed-name>
+<ce:surname>Sun</ce:surname>
+<ce:given-name>Chong</ce:given-name>
+<preferred-name>
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Sun C.</ce:indexed-name>
+<ce:surname>Sun</ce:surname>
+<ce:given-name>Chong</ce:given-name>
+</preferred-name>
+</author><author auid="55276876900" seq="10">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Prahallad A.</ce:indexed-name>
+<ce:surname>Prahallad</ce:surname>
+<ce:given-name>Anirudh</ce:given-name>
+<preferred-name>
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Prahallad A.</ce:indexed-name>
+<ce:surname>Prahallad</ce:surname>
+<ce:given-name>Anirudh</ce:given-name>
+</preferred-name>
+</author><author auid="56116385900" seq="11">
+<ce:initials>F.H.</ce:initials>
+<ce:indexed-name>Groenendijk F.H.</ce:indexed-name>
+<ce:surname>Groenendijk</ce:surname>
+<ce:given-name>Floris H.</ce:given-name>
+<preferred-name>
+<ce:initials>F.H.</ce:initials>
+<ce:indexed-name>Groenendijk F.</ce:indexed-name>
+<ce:surname>Groenendijk</ce:surname>
+<ce:given-name>Floris H.</ce:given-name>
+</preferred-name>
+</author><author auid="26421298400" seq="12">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Mittempergher L.</ce:indexed-name>
+<ce:surname>Mittempergher</ce:surname>
+<ce:given-name>Lorenza</ce:given-name>
+<preferred-name>
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Mittempergher L.</ce:indexed-name>
+<ce:surname>Mittempergher</ce:surname>
+<ce:given-name>Lorenza</ce:given-name>
+</preferred-name>
+</author><author auid="15757871800" seq="13">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Nijkamp W.</ce:indexed-name>
+<ce:surname>Nijkamp</ce:surname>
+<ce:given-name>Wouter</ce:given-name>
+<preferred-name>
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Nijkamp W.</ce:indexed-name>
+<ce:surname>Nijkamp</ce:surname>
+<ce:given-name>Wouter</ce:given-name>
+</preferred-name>
+</author><author auid="6602095873" seq="19">
+<ce:initials>R.L.</ce:initials>
+<ce:indexed-name>Beijersbergen R.L.</ce:indexed-name>
+<ce:surname>Beijersbergen</ce:surname>
+<ce:given-name>Roderick L.</ce:given-name>
+<preferred-name>
+<ce:initials>R.L.</ce:initials>
+<ce:indexed-name>Beijersbergen R.</ce:indexed-name>
+<ce:surname>Beijersbergen</ce:surname>
+<ce:given-name>Roderick L.</ce:given-name>
+</preferred-name>
+</author><author auid="6603692712" seq="20">
+<ce:initials>L.F.A.</ce:initials>
+<ce:indexed-name>Wessels L.F.A.</ce:indexed-name>
+<ce:surname>Wessels</ce:surname>
+<ce:given-name>Lodewyk F.A.</ce:given-name>
+<preferred-name>
+<ce:initials>L.F.A.</ce:initials>
+<ce:indexed-name>Wessels L.</ce:indexed-name>
+<ce:surname>Wessels</ce:surname>
+<ce:given-name>Lodewyk F A</ce:given-name>
+</preferred-name>
+</author><author auid="35453790200" seq="21">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+<ce:given-name>René</ce:given-name>
+<preferred-name>
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+<ce:given-name>René</ce:given-name>
+</preferred-name>
+<ce:e-address type="email">r.bernards@nki.nl</ce:e-address>
+</author><affiliation afid="60015205" country="nld" dptid="103786399">
+<organization>Division of Molecular Carcinogenesis</organization>
+<organization>Cancer Genomics Center and Cancer Systems Biology Center</organization>
+<organization>Netherlands Cancer Institute</organization>
+<address-part>Plesmanlaan 121</address-part>
+<city-group>1066 CX Amsterdam</city-group>
+</affiliation></author-group><author-group><author auid="16224387800" seq="14">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Neefjes J.</ce:indexed-name>
+<ce:surname>Neefjes</ce:surname>
+<ce:given-name>Jacques</ce:given-name>
+<preferred-name>
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Neefjes J.</ce:indexed-name>
+<ce:surname>Neefjes</ce:surname>
+<ce:given-name>Jacques</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60015205" country="nld" dptid="113338626">
+<organization>Division of Cell Biology</organization>
+<organization>Netherlands Cancer Institute</organization>
+<address-part>Plesmanlaan 121</address-part>
+<city-group>1066 CX Amsterdam</city-group>
+</affiliation></author-group><author-group><author auid="8855796500" seq="5">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Roepman P.</ce:indexed-name>
+<ce:surname>Roepman</ce:surname>
+<ce:given-name>Paul</ce:given-name>
+<preferred-name>
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Roepman P.</ce:indexed-name>
+<ce:surname>Roepman</ce:surname>
+<ce:given-name>Paul</ce:given-name>
+</preferred-name>
+</author><author auid="35453790200" seq="21">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+<ce:given-name>René</ce:given-name>
+<preferred-name>
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+<ce:given-name>René</ce:given-name>
+</preferred-name>
+<ce:e-address type="email">r.bernards@nki.nl</ce:e-address>
+</author><affiliation afid="111385318" country="usa">
+<organization>Agendia Inc.</organization>
+<address-part>22 Morgan Drive</address-part>
+<city-group>Irvine, CA 92618</city-group>
+</affiliation></author-group><author-group><author auid="8855796500" seq="5">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Roepman P.</ce:indexed-name>
+<ce:surname>Roepman</ce:surname>
+<ce:given-name>Paul</ce:given-name>
+<preferred-name>
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Roepman P.</ce:indexed-name>
+<ce:surname>Roepman</ce:surname>
+<ce:given-name>Paul</ce:given-name>
+</preferred-name>
+</author><author auid="35453790200" seq="21">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+<ce:given-name>René</ce:given-name>
+<preferred-name>
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+<ce:given-name>René</ce:given-name>
+</preferred-name>
+<ce:e-address type="email">r.bernards@nki.nl</ce:e-address>
+</author><affiliation afid="110149991" country="nld">
+<organization>Agendia NV</organization>
+<address-part>Science Park 406</address-part>
+<city-group>1098 XH Amsterdam</city-group>
+</affiliation></author-group><author-group><author auid="23393316600" seq="6">
+<ce:initials>U.</ce:initials>
+<ce:indexed-name>McDermott U.</ce:indexed-name>
+<ce:surname>McDermott</ce:surname>
+<ce:given-name>Ultan</ce:given-name>
+<preferred-name>
+<ce:initials>U.</ce:initials>
+<ce:indexed-name>McDermott U.</ce:indexed-name>
+<ce:surname>McDermott</ce:surname>
+<ce:given-name>Ultan</ce:given-name>
+</preferred-name>
+</author><author auid="10043242600" seq="7">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Garnett M.</ce:indexed-name>
+<ce:surname>Garnett</ce:surname>
+<ce:given-name>Mathew</ce:given-name>
+<preferred-name>
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Garnett M.</ce:indexed-name>
+<ce:surname>Garnett</ce:surname>
+<ce:given-name>Mathew</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60005517" country="gbr">
+<organization>Wellcome Trust Sanger Institute</organization>
+<organization>Wellcome Trust Genome Campus</organization>
+<city-group>Hinxton, Cambridge CB10 1SA</city-group>
+</affiliation></author-group><author-group><author auid="14120233400" seq="15">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Salazar R.</ce:indexed-name>
+<ce:surname>Salazar</ce:surname>
+<ce:given-name>Ramon</ce:given-name>
+<preferred-name>
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Salazar R.</ce:indexed-name>
+<ce:surname>Salazar</ce:surname>
+<ce:given-name>Ramon</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60015633" country="esp">
+<organization>Institut Català d'Oncologia (IDIBELL)</organization>
+<city-group>08908 l'Hospitalet de Llobregat</city-group>
+</affiliation></author-group><author-group><author auid="7005886796" seq="16">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Ten Dijke P.</ce:indexed-name>
+<ce:surname>Ten Dijke</ce:surname>
+<ce:given-name>Peter</ce:given-name>
+<preferred-name>
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Ten Dijke P.</ce:indexed-name>
+<ce:surname>Ten Dijke</ce:surname>
+<ce:given-name>Peter</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60015618" country="nld" dptid="112767621">
+<organization>Department of Molecular Cell Biology</organization>
+<organization>Centre for Biomedical Genetics</organization>
+<organization>Leiden University Medical Center</organization>
+<address-part>Postbus 9600</address-part>
+<city-group>2300 RC Leiden</city-group>
+</affiliation></author-group><author-group><author auid="7004012170" seq="17">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Uramoto H.</ce:indexed-name>
+<ce:surname>Uramoto</ce:surname>
+<ce:given-name>Hidetaka</ce:given-name>
+<preferred-name>
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Uramoto H.</ce:indexed-name>
+<ce:surname>Uramoto</ce:surname>
+<ce:given-name>Hidetaka</ce:given-name>
+</preferred-name>
+</author><author auid="55292876300" seq="18">
+<ce:initials>F.</ce:initials>
+<ce:indexed-name>Tanaka F.</ce:indexed-name>
+<ce:surname>Tanaka</ce:surname>
+<ce:given-name>Fumihiro</ce:given-name>
+<preferred-name>
+<ce:initials>F.</ce:initials>
+<ce:indexed-name>Tanaka F.</ce:indexed-name>
+<ce:surname>Tanaka</ce:surname>
+<ce:given-name>Fumihiro</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60002775" country="jpn" dptid="100300442">
+<organization>Second Department of Surgery</organization>
+<organization>School of Medicine</organization>
+<organization>University of Occupational and Environmental Health</organization>
+<address-part>1-1 Iseigaoka</address-part>
+<city-group>Yahatanishi-ku, Kitakyushu 807-8555</city-group>
+</affiliation></author-group><author-group><author auid="6508011738" seq="2">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Holzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+<preferred-name>
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Hölzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60030465" country="deu" dptid="106382510">
+<organization>Institute of Clinical Chemistry and Clinical Pharmacology</organization>
+<organization>University Hospital Bonn</organization>
+<city-group>53127 Bonn</city-group>
+</affiliation></author-group><correspondence><person>
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+</person><affiliation country="nld">
+<organization>Division of Molecular Carcinogenesis</organization>
+<organization>Cancer Genomics Center and Cancer Systems Biology Center</organization>
+<organization>Netherlands Cancer Institute</organization>
+<address-part>Plesmanlaan 121</address-part>
+<city-group>1066 CX Amsterdam</city-group>
+</affiliation><ce:e-address type="email">r.bernards@nki.nl</ce:e-address></correspondence><abstracts><abstract original="y" xml:lang="eng">
+<ce:para>Inhibitors of the ALK and EGF receptor tyrosine kinases provoke dramatic but short-lived responses in lung cancers harboring EML4-ALK translocations or activating mutations of EGFR, respectively. We used a large-scale RNAi screen to identify MED12, a component of the transcriptional MEDIATOR complex that is mutated in cancers, as a determinant of response to ALK and EGFR inhibitors. MED12 is in part cytoplasmic where it negatively regulates TGF-βR2 through physical interaction. MED12 suppression therefore results in activation of TGF-βR signaling, which is both necessary and sufficient for drug resistance. TGF-β signaling causes MEK/ERK activation, and consequently MED12 suppression also confers resistance to MEK and BRAF inhibitors in other cancers. MED12 loss induces an EMT-like phenotype, which is associated with chemotherapy resistance in colon cancer patients and to gefitinib in lung cancer. Inhibition of TGF-βR signaling restores drug responsiveness in MED12<sup>KD</sup> cells, suggesting a strategy to treat drug-resistant tumors that have lost MED12. © 2012 Elsevier Inc.</ce:para>
+</abstract></abstracts><source country="usa" srcid="18434" type="j"><sourcetitle>Cell</sourcetitle><sourcetitle-abbrev>Cell</sourcetitle-abbrev><issn type="print">00928674</issn><issn type="electronic">10974172</issn><codencode>CELLB</codencode><volisspag>
+<voliss issue="5" volume="151"/>
+<pagerange first="937" last="950"/>
+</volisspag><publicationyear first="2012"/><publicationdate>
+<year>2012</year>
+<month>11</month>
+<day>21</day>
+<date-text xfab-added="true">21 November 2012</date-text></publicationdate></source><enhancement><descriptorgroup>
+<descriptors controlled="y" type="DRG">
+<descriptor>
+<mainterm candidate="n" weight="b">crizotinib</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">gefitinib</mainterm>
+<link>drug therapy</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="a">mediator complex</mainterm>
+<link>endogenous compound</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="y" weight="a">mediator transcription complex 12</mainterm>
+<link>endogenous compound</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">mitogen activated protein kinase kinase</mainterm>
+<link>endogenous compound</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">recombinant transforming growth factor beta</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="a">transforming growth factor beta receptor</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">unclassified drug</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="y" type="MED">
+<descriptor>
+<mainterm candidate="n" weight="b">article</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">cancer cell</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">cancer resistance</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">case report</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">controlled study</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">enzyme activation</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">human</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">human cell</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">human tissue</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">lung non small cell cancer</mainterm>
+<link>drug resistance</link>
+<link>drug therapy</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">mutation</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">phenotype</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">priority journal</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">protein analysis</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">protein interaction</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">signal transduction</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="y" type="MSH">
+<descriptor>
+<mainterm candidate="n" weight="a">Antineoplastic Agents</mainterm>
+<link>therapeutic use</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">Carcinoma, Non-Small-Cell Lung</mainterm>
+<link>drug therapy</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="a">Drug Resistance, Neoplasm</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">Epithelial-Mesenchymal Transition</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">Humans</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">Lung Neoplasms</mainterm>
+<link>drug therapy</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="b">MAP Kinase Signaling System</mainterm>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="a">Mediator Complex</mainterm>
+<link>genetics</link>
+<link>metabolism</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="a">Neoplasms</mainterm>
+<link>drug therapy</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="a">Receptors, Transforming Growth Factor beta</mainterm>
+<link>metabolism</link>
+</descriptor>
+<descriptor>
+<mainterm candidate="n" weight="a">Signal Transduction</mainterm>
+</descriptor>
+</descriptors>
+</descriptorgroup><classificationgroup>
+<classifications type="ASJC">
+<classification>1300</classification>
+</classifications>
+<classifications type="CABSCLASS">
+<classification> <classification-code>87.4.1.15</classification-code> <classification-description>CANCER RESEARCH; TREATMENT; Chemotherapy; Resistance</classification-description> </classification>
+</classifications>
+<classifications type="EMCLASS">
+<classification> <classification-code>16.2.5</classification-code> <classification-description>Cancer; CANCER RESEARCH; Cell biology</classification-description> </classification>
+<classification> <classification-code>16.4.1</classification-code> <classification-description>Cancer; TREATMENT AND PATIENT MANAGEMENT; Chemotherapy</classification-description> </classification>
+<classification> <classification-code>29.4</classification-code> <classification-description>Clinical and Experimental Biochemistry; MOLECULAR BIOLOGY</classification-description> </classification>
+<classification> <classification-code>37</classification-code> <classification-description>Drug Literature Index</classification-description> </classification>
+</classifications>
+</classificationgroup><chemicalgroup>
+<chemicals source="esbd">
+<chemical>
+<chemical-name>crizotinib</chemical-name>
+<cas-registry-number>877399-52-5</cas-registry-number>
+</chemical>
+<chemical>
+<chemical-name>gefitinib</chemical-name>
+<cas-registry-number>184475-35-2</cas-registry-number>
+<cas-registry-number>184475-55-6</cas-registry-number>
+<cas-registry-number>184475-56-7</cas-registry-number>
+</chemical>
+<chemical>
+<chemical-name>mitogen activated protein kinase kinase</chemical-name>
+<cas-registry-number>142805-58-1</cas-registry-number>
+</chemical>
+</chemicals>
+<chemicals source="nlm">
+<chemical>
+<chemical-name>Antineoplastic Agents</chemical-name>
+<cas-registry-number>0</cas-registry-number>
+</chemical>
+<chemical>
+<chemical-name>MED12 protein, human</chemical-name>
+<cas-registry-number>0</cas-registry-number>
+</chemical>
+<chemical>
+<chemical-name>Mediator Complex</chemical-name>
+<cas-registry-number>0</cas-registry-number>
+</chemical>
+<chemical>
+<chemical-name>Receptors, Transforming Growth Factor beta</chemical-name>
+<cas-registry-number>0</cas-registry-number>
+</chemical>
+</chemicals>
+</chemicalgroup></enhancement></head><tail><bibliography refcount="55">
+<reference id="1">
+<ref-info>
+<ref-title>
+<ref-titletext>Exome sequencing identifies recurrent SPOP, FOXA1 and MED12 mutations in prostate cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">84861581164</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.E.</ce:initials>
+<ce:indexed-name>Barbieri C.E.</ce:indexed-name>
+<ce:surname>Barbieri</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.C.</ce:initials>
+<ce:indexed-name>Baca S.C.</ce:indexed-name>
+<ce:surname>Baca</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.S.</ce:initials>
+<ce:indexed-name>Lawrence M.S.</ce:indexed-name>
+<ce:surname>Lawrence</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>F.</ce:initials>
+<ce:indexed-name>Demichelis F.</ce:indexed-name>
+<ce:surname>Demichelis</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Blattner M.</ce:indexed-name>
+<ce:surname>Blattner</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>J.P.</ce:initials>
+<ce:indexed-name>Theurillat J.P.</ce:indexed-name>
+<ce:surname>Theurillat</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>T.A.</ce:initials>
+<ce:indexed-name>White T.A.</ce:indexed-name>
+<ce:surname>White</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Stojanov P.</ce:indexed-name>
+<ce:surname>Stojanov</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Van Allen E.</ce:indexed-name>
+<ce:surname>Van Allen</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Stransky N.</ce:indexed-name>
+<ce:surname>Stransky</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nat. Genet.</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-volisspag>
+<voliss volume="44"/>
+<pagerange first="685" last="689"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>C.E. Barbieri, S.C. Baca, M.S. Lawrence, F. Demichelis, M. Blattner, J.P. Theurillat, T.A. White, P. Stojanov, E. Van Allen, and N. Stransky Exome sequencing identifies recurrent SPOP, FOXA1 and MED12 mutations in prostate cancer Nat. Genet. 44 2012 685 689</ref-fulltext>
+</reference>
+<reference id="2">
+<ref-info>
+<ref-title>
+<ref-titletext>A large-scale RNAi screen in human cells identifies new components of the p53 pathway</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">12144289681</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Berns K.</ce:indexed-name>
+<ce:surname>Berns</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.M.</ce:initials>
+<ce:indexed-name>Hijmans E.M.</ce:indexed-name>
+<ce:surname>Hijmans</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Mullenders J.</ce:indexed-name>
+<ce:surname>Mullenders</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.R.</ce:initials>
+<ce:indexed-name>Brummelkamp T.R.</ce:indexed-name>
+<ce:surname>Brummelkamp</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Velds A.</ce:indexed-name>
+<ce:surname>Velds</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Heimerikx M.</ce:indexed-name>
+<ce:surname>Heimerikx</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Kerkhoven R.M.</ce:indexed-name>
+<ce:surname>Kerkhoven</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Madiredjo M.</ce:indexed-name>
+<ce:surname>Madiredjo</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Nijkamp W.</ce:indexed-name>
+<ce:surname>Nijkamp</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Weigelt B.</ce:indexed-name>
+<ce:surname>Weigelt</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nature</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-volisspag>
+<voliss volume="428"/>
+<pagerange first="431" last="437"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>K. Berns, E.M. Hijmans, J. Mullenders, T.R. Brummelkamp, A. Velds, M. Heimerikx, R.M. Kerkhoven, M. Madiredjo, W. Nijkamp, and B. Weigelt A large-scale RNAi screen in human cells identifies new components of the p53 pathway Nature 428 2004 431 437</ref-fulltext>
+</reference>
+<reference id="3">
+<ref-info>
+<ref-title>
+<ref-titletext>A functional genetic approach identifies the PI3K pathway as a major determinant of trastuzumab resistance in breast cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">35148885729</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Berns K.</ce:indexed-name>
+<ce:surname>Berns</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.M.</ce:initials>
+<ce:indexed-name>Horlings H.M.</ce:indexed-name>
+<ce:surname>Horlings</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>B.T.</ce:initials>
+<ce:indexed-name>Hennessy B.T.</ce:indexed-name>
+<ce:surname>Hennessy</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Madiredjo M.</ce:indexed-name>
+<ce:surname>Madiredjo</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>E.M.</ce:initials>
+<ce:indexed-name>Hijmans E.M.</ce:indexed-name>
+<ce:surname>Hijmans</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Beelen K.</ce:indexed-name>
+<ce:surname>Beelen</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>S.C.</ce:initials>
+<ce:indexed-name>Linn S.C.</ce:indexed-name>
+<ce:surname>Linn</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>A.M.</ce:initials>
+<ce:indexed-name>Gonzalez-Angulo A.M.</ce:indexed-name>
+<ce:surname>Gonzalez-Angulo</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Stemke-Hale K.</ce:indexed-name>
+<ce:surname>Stemke-Hale</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Hauptmann M.</ce:indexed-name>
+<ce:surname>Hauptmann</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cancer Cell</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-volisspag>
+<voliss volume="12"/>
+<pagerange first="395" last="402"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>K. Berns, H.M. Horlings, B.T. Hennessy, M. Madiredjo, E.M. Hijmans, K. Beelen, S.C. Linn, A.M. Gonzalez-Angulo, K. Stemke-Hale, and M. Hauptmann A functional genetic approach identifies the PI3K pathway as a major determinant of trastuzumab resistance in breast cancer Cancer Cell 12 2007 395 402</ref-fulltext>
+</reference>
+<reference id="4">
+<ref-info>
+<ref-title>
+<ref-titletext>An shRNA barcode screen provides insight into cancer cell vulnerability to MDM2 inhibitors</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">33646343474</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.R.</ce:initials>
+<ce:indexed-name>Brummelkamp T.R.</ce:indexed-name>
+<ce:surname>Brummelkamp</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.W.</ce:initials>
+<ce:indexed-name>Fabius A.W.</ce:indexed-name>
+<ce:surname>Fabius</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Mullenders J.</ce:indexed-name>
+<ce:surname>Mullenders</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Madiredjo M.</ce:indexed-name>
+<ce:surname>Madiredjo</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Velds A.</ce:indexed-name>
+<ce:surname>Velds</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Kerkhoven R.M.</ce:indexed-name>
+<ce:surname>Kerkhoven</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>R.L.</ce:initials>
+<ce:indexed-name>Beijersbergen R.L.</ce:indexed-name>
+<ce:surname>Beijersbergen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nat. Chem. Biol.</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-volisspag>
+<voliss volume="2"/>
+<pagerange first="202" last="206"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>T.R. Brummelkamp, A.W. Fabius, J. Mullenders, M. Madiredjo, A. Velds, R.M. Kerkhoven, R. Bernards, and R.L. Beijersbergen An shRNA barcode screen provides insight into cancer cell vulnerability to MDM2 inhibitors Nat. Chem. Biol. 2 2006 202 206</ref-fulltext>
+</reference>
+<reference id="5">
+<ref-info>
+<ref-title>
+<ref-titletext>Improved survival with vemurafenib in melanoma with BRAF V600E mutation</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">79959795786</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.B.</ce:initials>
+<ce:indexed-name>Chapman P.B.</ce:indexed-name>
+<ce:surname>Chapman</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Hauschild A.</ce:indexed-name>
+<ce:surname>Hauschild</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Robert C.</ce:indexed-name>
+<ce:surname>Robert</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.B.</ce:initials>
+<ce:indexed-name>Haanen J.B.</ce:indexed-name>
+<ce:surname>Haanen</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Ascierto P.</ce:indexed-name>
+<ce:surname>Ascierto</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Larkin J.</ce:indexed-name>
+<ce:surname>Larkin</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Dummer R.</ce:indexed-name>
+<ce:surname>Dummer</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Garbe C.</ce:indexed-name>
+<ce:surname>Garbe</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Testori A.</ce:indexed-name>
+<ce:surname>Testori</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Maio M.</ce:indexed-name>
+<ce:surname>Maio</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>N. Engl. J. Med.</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="364"/>
+<pagerange first="2507" last="2516"/>
+</ref-volisspag>
+<ref-text>BRIM-,3 Study Group</ref-text>
+</ref-info>
+<ref-fulltext>P.B. Chapman, A. Hauschild, C. Robert, J.B. Haanen, P. Ascierto, J. Larkin, R. Dummer, C. Garbe, A. Testori, M. Maio BRIM-,3 Study Group Improved survival with vemurafenib in melanoma with BRAF V600E mutation N. Engl. J. Med. 364 2011 2507 2516</ref-fulltext>
+</reference>
+<reference id="6">
+<ref-info>
+<ref-title>
+<ref-titletext>EML4-ALK mutations in lung cancer that confer resistance to ALK inhibitors</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">78049426513</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.L.</ce:initials>
+<ce:indexed-name>Choi Y.L.</ce:indexed-name>
+<ce:surname>Choi</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Soda M.</ce:indexed-name>
+<ce:surname>Soda</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>Y.</ce:initials>
+<ce:indexed-name>Yamashita Y.</ce:indexed-name>
+<ce:surname>Yamashita</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Ueno T.</ce:indexed-name>
+<ce:surname>Ueno</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Takashima J.</ce:indexed-name>
+<ce:surname>Takashima</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Nakajima T.</ce:indexed-name>
+<ce:surname>Nakajima</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>Y.</ce:initials>
+<ce:indexed-name>Yatabe Y.</ce:indexed-name>
+<ce:surname>Yatabe</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Takeuchi K.</ce:indexed-name>
+<ce:surname>Takeuchi</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Hamada T.</ce:indexed-name>
+<ce:surname>Hamada</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Haruta H.</ce:indexed-name>
+<ce:surname>Haruta</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>N. Engl. J. Med.</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="363"/>
+<pagerange first="1734" last="1739"/>
+</ref-volisspag>
+<ref-text>ALK Lung Cancer Study Group</ref-text>
+</ref-info>
+<ref-fulltext>Y.L. Choi, M. Soda, Y. Yamashita, T. Ueno, J. Takashima, T. Nakajima, Y. Yatabe, K. Takeuchi, T. Hamada, H. Haruta ALK Lung Cancer Study Group EML4-ALK mutations in lung cancer that confer resistance to ALK inhibitors N. Engl. J. Med. 363 2010 1734 1739</ref-fulltext>
+</reference>
+<reference id="7">
+<ref-info>
+<ref-title>
+<ref-titletext>The mammalian Mediator complex and its role in transcriptional regulation</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">18844378166</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.C.</ce:initials>
+<ce:indexed-name>Conaway R.C.</ce:indexed-name>
+<ce:surname>Conaway</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Sato S.</ce:indexed-name>
+<ce:surname>Sato</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Tomomori-Sato C.</ce:indexed-name>
+<ce:surname>Tomomori-Sato</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Yao T.</ce:indexed-name>
+<ce:surname>Yao</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>J.W.</ce:initials>
+<ce:indexed-name>Conaway J.W.</ce:indexed-name>
+<ce:surname>Conaway</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Trends Biochem. Sci.</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-volisspag>
+<voliss volume="30"/>
+<pagerange first="250" last="255"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>R.C. Conaway, S. Sato, C. Tomomori-Sato, T. Yao, and J.W. Conaway The mammalian Mediator complex and its role in transcriptional regulation Trends Biochem. Sci. 30 2005 250 255</ref-fulltext>
+</reference>
+<reference id="8">
+<ref-info>
+<ref-title>
+<ref-titletext>CDK8 is a colorectal cancer oncogene that regulates beta-catenin activity</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">52949111487</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Firestein R.</ce:indexed-name>
+<ce:surname>Firestein</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.J.</ce:initials>
+<ce:indexed-name>Bass A.J.</ce:indexed-name>
+<ce:surname>Bass</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.Y.</ce:initials>
+<ce:indexed-name>Kim S.Y.</ce:indexed-name>
+<ce:surname>Kim</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>I.F.</ce:initials>
+<ce:indexed-name>Dunn I.F.</ce:indexed-name>
+<ce:surname>Dunn</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>S.J.</ce:initials>
+<ce:indexed-name>Silver S.J.</ce:indexed-name>
+<ce:surname>Silver</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>I.</ce:initials>
+<ce:indexed-name>Guney I.</ce:indexed-name>
+<ce:surname>Guney</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Freed E.</ce:indexed-name>
+<ce:surname>Freed</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>A.H.</ce:initials>
+<ce:indexed-name>Ligon A.H.</ce:indexed-name>
+<ce:surname>Ligon</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Vena N.</ce:indexed-name>
+<ce:surname>Vena</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Ogino S.</ce:indexed-name>
+<ce:surname>Ogino</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nature</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-volisspag>
+<voliss volume="455"/>
+<pagerange first="547" last="551"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>R. Firestein, A.J. Bass, S.Y. Kim, I.F. Dunn, S.J. Silver, I. Guney, E. Freed, A.H. Ligon, N. Vena, and S. Ogino CDK8 is a colorectal cancer oncogene that regulates beta-catenin activity Nature 455 2008 547 551</ref-fulltext>
+</reference>
+<reference id="9">
+<ref-info>
+<ref-title>
+<ref-titletext>COSMIC (the Catalogue of Somatic Mutations in Cancer): A resource to investigate acquired mutations in human cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">75549087826</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.A.</ce:initials>
+<ce:indexed-name>Forbes S.A.</ce:indexed-name>
+<ce:surname>Forbes</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>G.</ce:initials>
+<ce:indexed-name>Tang G.</ce:indexed-name>
+<ce:surname>Tang</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Bindal N.</ce:indexed-name>
+<ce:surname>Bindal</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Bamford S.</ce:indexed-name>
+<ce:surname>Bamford</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Dawson E.</ce:indexed-name>
+<ce:surname>Dawson</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Cole C.</ce:indexed-name>
+<ce:surname>Cole</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>C.Y.</ce:initials>
+<ce:indexed-name>Kok C.Y.</ce:indexed-name>
+<ce:surname>Kok</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Jia M.</ce:indexed-name>
+<ce:surname>Jia</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Ewing R.</ce:indexed-name>
+<ce:surname>Ewing</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Menzies A.</ce:indexed-name>
+<ce:surname>Menzies</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nucleic Acids Res.</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss issue="DATABASE ISSUE" volume="38"/>
+<pages>652-D657</pages>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>S.A. Forbes, G. Tang, N. Bindal, S. Bamford, E. Dawson, C. Cole, C.Y. Kok, M. Jia, R. Ewing, and A. Menzies COSMIC (the Catalogue of Somatic Mutations in Cancer): a resource to investigate acquired mutations in human cancer Nucleic Acids Res. 38 Database issue 2010 D652 D657</ref-fulltext>
+</reference>
+<reference id="10">
+<ref-info>
+<ref-title>
+<ref-titletext>Epithelial-to-mesenchymal transition and integrin-linked kinase mediate sensitivity to epidermal growth factor receptor inhibition in human hepatoma cells</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">42049116522</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.C.</ce:initials>
+<ce:indexed-name>Fuchs B.C.</ce:indexed-name>
+<ce:surname>Fuchs</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Fujii T.</ce:indexed-name>
+<ce:surname>Fujii</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.D.</ce:initials>
+<ce:indexed-name>Dorfman J.D.</ce:indexed-name>
+<ce:surname>Dorfman</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.M.</ce:initials>
+<ce:indexed-name>Goodwin J.M.</ce:indexed-name>
+<ce:surname>Goodwin</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.X.</ce:initials>
+<ce:indexed-name>Zhu A.X.</ce:indexed-name>
+<ce:surname>Zhu</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Lanuti M.</ce:indexed-name>
+<ce:surname>Lanuti</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>K.K.</ce:initials>
+<ce:indexed-name>Tanabe K.K.</ce:indexed-name>
+<ce:surname>Tanabe</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cancer Res.</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-volisspag>
+<voliss volume="68"/>
+<pagerange first="2391" last="2399"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>B.C. Fuchs, T. Fujii, J.D. Dorfman, J.M. Goodwin, A.X. Zhu, M. Lanuti, and K.K. Tanabe Epithelial-to-mesenchymal transition and integrin-linked kinase mediate sensitivity to epidermal growth factor receptor inhibition in human hepatoma cells Cancer Res. 68 2008 2391 2399</ref-fulltext>
+</reference>
+<reference id="11">
+<ref-info>
+<ref-title>
+<ref-titletext>Systematic identification of genomic markers of drug sensitivity in cancer cells</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">84859187259</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.J.</ce:initials>
+<ce:indexed-name>Garnett M.J.</ce:indexed-name>
+<ce:surname>Garnett</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.J.</ce:initials>
+<ce:indexed-name>Edelman E.J.</ce:indexed-name>
+<ce:surname>Edelman</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.J.</ce:initials>
+<ce:indexed-name>Heidorn S.J.</ce:indexed-name>
+<ce:surname>Heidorn</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>C.D.</ce:initials>
+<ce:indexed-name>Greenman C.D.</ce:indexed-name>
+<ce:surname>Greenman</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Dastur A.</ce:indexed-name>
+<ce:surname>Dastur</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>K.W.</ce:initials>
+<ce:indexed-name>Lau K.W.</ce:indexed-name>
+<ce:surname>Lau</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Greninger P.</ce:indexed-name>
+<ce:surname>Greninger</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>I.R.</ce:initials>
+<ce:indexed-name>Thompson I.R.</ce:indexed-name>
+<ce:surname>Thompson</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>X.</ce:initials>
+<ce:indexed-name>Luo X.</ce:indexed-name>
+<ce:surname>Luo</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Soares J.</ce:indexed-name>
+<ce:surname>Soares</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nature</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-volisspag>
+<voliss volume="483"/>
+<pagerange first="570" last="575"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>M.J. Garnett, E.J. Edelman, S.J. Heidorn, C.D. Greenman, A. Dastur, K.W. Lau, P. Greninger, I.R. Thompson, X. Luo, and J. Soares Systematic identification of genomic markers of drug sensitivity in cancer cells Nature 483 2012 570 575</ref-fulltext>
+</reference>
+<reference id="12">
+<ref-info>
+<ref-title>
+<ref-titletext>Clinical resistance to STI-571 cancer therapy caused by BCR-ABL gene mutation or amplification</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0035800507</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.E.</ce:initials>
+<ce:indexed-name>Gorre M.E.</ce:indexed-name>
+<ce:surname>Gorre</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Mohammed M.</ce:indexed-name>
+<ce:surname>Mohammed</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Ellwood K.</ce:indexed-name>
+<ce:surname>Ellwood</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Hsu N.</ce:indexed-name>
+<ce:surname>Hsu</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Paquette R.</ce:indexed-name>
+<ce:surname>Paquette</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>P.N.</ce:initials>
+<ce:indexed-name>Rao P.N.</ce:indexed-name>
+<ce:surname>Rao</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>C.L.</ce:initials>
+<ce:indexed-name>Sawyers C.L.</ce:indexed-name>
+<ce:surname>Sawyers</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Science</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<ref-volisspag>
+<voliss volume="293"/>
+<pagerange first="876" last="880"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>M.E. Gorre, M. Mohammed, K. Ellwood, N. Hsu, R. Paquette, P.N. Rao, and C.L. Sawyers Clinical resistance to STI-571 cancer therapy caused by BCR-ABL gene mutation or amplification Science 293 2001 876 880</ref-fulltext>
+</reference>
+<reference id="13">
+<ref-info>
+<ref-title>
+<ref-titletext>NF1 is a tumor suppressor in neuroblastoma that determines retinoic acid response and disease outcome</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">77955038485</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Holzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Huang S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Koster J.</ce:indexed-name>
+<ce:surname>Koster</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>I.</ce:initials>
+<ce:indexed-name>Ora I.</ce:indexed-name>
+<ce:surname>Ora</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Lakeman A.</ce:indexed-name>
+<ce:surname>Lakeman</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Caron H.</ce:indexed-name>
+<ce:surname>Caron</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Nijkamp W.</ce:indexed-name>
+<ce:surname>Nijkamp</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Xie J.</ce:indexed-name>
+<ce:surname>Xie</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Callens T.</ce:indexed-name>
+<ce:surname>Callens</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Asgharzadeh S.</ce:indexed-name>
+<ce:surname>Asgharzadeh</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cell</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="142"/>
+<pagerange first="218" last="229"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>M. Hölzel, S. Huang, J. Koster, I. Ora, A. Lakeman, H. Caron, W. Nijkamp, J. Xie, T. Callens, and S. Asgharzadeh NF1 is a tumor suppressor in neuroblastoma that determines retinoic acid response and disease outcome Cell 142 2010 218 229</ref-fulltext>
+</reference>
+<reference id="14">
+<ref-info>
+<ref-title>
+<ref-titletext>ZNF423 is critically required for retinoic acid-induced differentiation and is a marker of neuroblastoma outcome</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">63449100807</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Huang S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Laoukili J.</ce:indexed-name>
+<ce:surname>Laoukili</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.T.</ce:initials>
+<ce:indexed-name>Epping M.T.</ce:indexed-name>
+<ce:surname>Epping</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Koster J.</ce:indexed-name>
+<ce:surname>Koster</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Holzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>B.A.</ce:initials>
+<ce:indexed-name>Westerman B.A.</ce:indexed-name>
+<ce:surname>Westerman</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Nijkamp W.</ce:indexed-name>
+<ce:surname>Nijkamp</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Hata A.</ce:indexed-name>
+<ce:surname>Hata</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Asgharzadeh S.</ce:indexed-name>
+<ce:surname>Asgharzadeh</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>R.C.</ce:initials>
+<ce:indexed-name>Seeger R.C.</ce:indexed-name>
+<ce:surname>Seeger</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cancer Cell</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-volisspag>
+<voliss volume="15"/>
+<pagerange first="328" last="340"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>S. Huang, J. Laoukili, M.T. Epping, J. Koster, M. Hölzel, B.A. Westerman, W. Nijkamp, A. Hata, S. Asgharzadeh, and R.C. Seeger ZNF423 is critically required for retinoic acid-induced differentiation and is a marker of neuroblastoma outcome Cancer Cell 15 2009 328 340</ref-fulltext>
+</reference>
+<reference id="15">
+<ref-info>
+<ref-title>
+<ref-titletext>COT drives resistance to RAF inhibition through MAP kinase pathway reactivation</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">78650309875</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.M.</ce:initials>
+<ce:indexed-name>Johannessen C.M.</ce:indexed-name>
+<ce:surname>Johannessen</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.S.</ce:initials>
+<ce:indexed-name>Boehm J.S.</ce:indexed-name>
+<ce:surname>Boehm</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.Y.</ce:initials>
+<ce:indexed-name>Kim S.Y.</ce:indexed-name>
+<ce:surname>Kim</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.R.</ce:initials>
+<ce:indexed-name>Thomas S.R.</ce:indexed-name>
+<ce:surname>Thomas</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Wardwell L.</ce:indexed-name>
+<ce:surname>Wardwell</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>L.A.</ce:initials>
+<ce:indexed-name>Johnson L.A.</ce:indexed-name>
+<ce:surname>Johnson</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>C.M.</ce:initials>
+<ce:indexed-name>Emery C.M.</ce:indexed-name>
+<ce:surname>Emery</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Stransky N.</ce:indexed-name>
+<ce:surname>Stransky</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>A.P.</ce:initials>
+<ce:indexed-name>Cogdill A.P.</ce:indexed-name>
+<ce:surname>Cogdill</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Barretina J.</ce:indexed-name>
+<ce:surname>Barretina</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nature</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="468"/>
+<pagerange first="968" last="972"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>C.M. Johannessen, J.S. Boehm, S.Y. Kim, S.R. Thomas, L. Wardwell, L.A. Johnson, C.M. Emery, N. Stransky, A.P. Cogdill, and J. Barretina COT drives resistance to RAF inhibition through MAP kinase pathway reactivation Nature 468 2010 968 972</ref-fulltext>
+</reference>
+<reference id="16">
+<ref-info>
+<ref-title>
+<ref-titletext>K-ras mutations and benefit from cetuximab in advanced colorectal cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">54949085398</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.S.</ce:initials>
+<ce:indexed-name>Karapetis C.S.</ce:indexed-name>
+<ce:surname>Karapetis</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Khambata-Ford S.</ce:indexed-name>
+<ce:surname>Khambata-Ford</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.J.</ce:initials>
+<ce:indexed-name>Jonker D.J.</ce:indexed-name>
+<ce:surname>Jonker</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>C.J.</ce:initials>
+<ce:indexed-name>O'Callaghan C.J.</ce:indexed-name>
+<ce:surname>O'Callaghan</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Tu D.</ce:indexed-name>
+<ce:surname>Tu</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>N.C.</ce:initials>
+<ce:indexed-name>Tebbutt N.C.</ce:indexed-name>
+<ce:surname>Tebbutt</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>R.J.</ce:initials>
+<ce:indexed-name>Simes R.J.</ce:indexed-name>
+<ce:surname>Simes</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Chalchal H.</ce:indexed-name>
+<ce:surname>Chalchal</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>J.D.</ce:initials>
+<ce:indexed-name>Shapiro J.D.</ce:indexed-name>
+<ce:surname>Shapiro</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Robitaille S.</ce:indexed-name>
+<ce:surname>Robitaille</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>N. Engl. J. Med.</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-volisspag>
+<voliss volume="359"/>
+<pagerange first="1757" last="1765"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>C.S. Karapetis, S. Khambata-Ford, D.J. Jonker, C.J. O'Callaghan, D. Tu, N.C. Tebbutt, R.J. Simes, H. Chalchal, J.D. Shapiro, and S. Robitaille K-ras mutations and benefit from cetuximab in advanced colorectal cancer N. Engl. J. Med. 359 2008 1757 1765</ref-fulltext>
+</reference>
+<reference id="17">
+<ref-info>
+<ref-title>
+<ref-titletext>TGF-β sensitivity is determined by N-linked glycosylation of the type II TGF-β receptor</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">84864345961</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.W.</ce:initials>
+<ce:indexed-name>Kim Y.W.</ce:indexed-name>
+<ce:surname>Kim</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Park J.</ce:indexed-name>
+<ce:surname>Park</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>H.J.</ce:initials>
+<ce:indexed-name>Lee H.J.</ce:indexed-name>
+<ce:surname>Lee</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.Y.</ce:initials>
+<ce:indexed-name>Lee S.Y.</ce:indexed-name>
+<ce:surname>Lee</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>S.J.</ce:initials>
+<ce:indexed-name>Kim S.J.</ce:indexed-name>
+<ce:surname>Kim</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Biochem. J.</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-volisspag>
+<voliss volume="445"/>
+<pagerange first="403" last="411"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Y.W. Kim, J. Park, H.J. Lee, S.Y. Lee, and S.J. Kim TGF-β sensitivity is determined by N-linked glycosylation of the type II TGF-β receptor Biochem. J. 445 2012 403 411</ref-fulltext>
+</reference>
+<reference id="18">
+<ref-info>
+<ref-title>
+<ref-titletext>Anaplastic lymphoma kinase inhibition in non-small-cell lung cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">78049425319</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.L.</ce:initials>
+<ce:indexed-name>Kwak E.L.</ce:indexed-name>
+<ce:surname>Kwak</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.J.</ce:initials>
+<ce:indexed-name>Bang Y.J.</ce:indexed-name>
+<ce:surname>Bang</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.R.</ce:initials>
+<ce:indexed-name>Camidge D.R.</ce:indexed-name>
+<ce:surname>Camidge</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>A.T.</ce:initials>
+<ce:indexed-name>Shaw A.T.</ce:indexed-name>
+<ce:surname>Shaw</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Solomon B.</ce:indexed-name>
+<ce:surname>Solomon</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>R.G.</ce:initials>
+<ce:indexed-name>Maki R.G.</ce:indexed-name>
+<ce:surname>Maki</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>S.H.</ce:initials>
+<ce:indexed-name>Ou S.H.</ce:indexed-name>
+<ce:surname>Ou</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>B.J.</ce:initials>
+<ce:indexed-name>Dezube B.J.</ce:indexed-name>
+<ce:surname>Dezube</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>P.A.</ce:initials>
+<ce:indexed-name>Janne P.A.</ce:indexed-name>
+<ce:surname>Jänne</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>D.B.</ce:initials>
+<ce:indexed-name>Costa D.B.</ce:indexed-name>
+<ce:surname>Costa</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>N. Engl. J. Med.</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="363"/>
+<pagerange first="1693" last="1703"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>E.L. Kwak, Y.J. Bang, D.R. Camidge, A.T. Shaw, B. Solomon, R.G. Maki, S.H. Ou, B.J. Dezube, P.A. Jänne, and D.B. Costa Anaplastic lymphoma kinase inhibition in non-small-cell lung cancer N. Engl. J. Med. 363 2010 1693 1703</ref-fulltext>
+</reference>
+<reference id="19">
+<ref-info>
+<ref-title>
+<ref-titletext>EMT is the dominant program in human colon cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">84864936518</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Loboda A.</ce:indexed-name>
+<ce:surname>Loboda</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.V.</ce:initials>
+<ce:indexed-name>Nebozhyn M.V.</ce:indexed-name>
+<ce:surname>Nebozhyn</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>James W.</ce:indexed-name>
+<ce:surname>James</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.W.</ce:initials>
+<ce:indexed-name>Watters J.W.</ce:indexed-name>
+<ce:surname>Watters</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Carolyne A.</ce:indexed-name>
+<ce:surname>Carolyne</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>C.A.</ce:initials>
+<ce:indexed-name>Buser C.A.</ce:indexed-name>
+<ce:surname>Buser</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>P.M.</ce:initials>
+<ce:indexed-name>Shaw P.M.</ce:indexed-name>
+<ce:surname>Shaw</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>P.S.</ce:initials>
+<ce:indexed-name>Huang P.S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>L.J.</ce:initials>
+<ce:indexed-name>Van'T Veer L.J.</ce:indexed-name>
+<ce:surname>Van'T Veer</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>R.A.E.M.</ce:initials>
+<ce:indexed-name>Tollenaar R.A.E.M.</ce:indexed-name>
+<ce:surname>Tollenaar</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>BMC Medical Genomics</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="2011"/>
+<pagerange first="4" last="9"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>A. Loboda, M.V. Nebozhyn, W. James, J.W. Watters, A. Carolyne, C.A. Buser, P.M. Shaw, P.S. Huang, L.J. Van't Veer, and R.A.E.M. Tollenaar EMT is the dominant program in human colon cancer BMC Medical Genomics 2011 2011 4 9</ref-fulltext>
+</reference>
+<reference id="20">
+<ref-info>
+<ref-title>
+<ref-titletext>Gefitinib or chemotherapy for non-small-cell lung cancer with mutated EGFR</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">77953930730</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Maemondo M.</ce:indexed-name>
+<ce:surname>Maemondo</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Inoue A.</ce:indexed-name>
+<ce:surname>Inoue</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Kobayashi K.</ce:indexed-name>
+<ce:surname>Kobayashi</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Sugawara S.</ce:indexed-name>
+<ce:surname>Sugawara</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Oizumi S.</ce:indexed-name>
+<ce:surname>Oizumi</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Isobe H.</ce:indexed-name>
+<ce:surname>Isobe</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Gemma A.</ce:indexed-name>
+<ce:surname>Gemma</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Harada M.</ce:indexed-name>
+<ce:surname>Harada</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Yoshizawa H.</ce:indexed-name>
+<ce:surname>Yoshizawa</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>I.</ce:initials>
+<ce:indexed-name>Kinoshita I.</ce:indexed-name>
+<ce:surname>Kinoshita</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>N. Engl. J. Med.</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="362"/>
+<pagerange first="2380" last="2388"/>
+</ref-volisspag>
+<ref-text>North-East Japan Study Group</ref-text>
+</ref-info>
+<ref-fulltext>M. Maemondo, A. Inoue, K. Kobayashi, S. Sugawara, S. Oizumi, H. Isobe, A. Gemma, M. Harada, H. Yoshizawa, I. Kinoshita North-East Japan Study Group Gefitinib or chemotherapy for non-small-cell lung cancer with mutated EGFR N. Engl. J. Med. 362 2010 2380 2388</ref-fulltext>
+</reference>
+<reference id="21">
+<ref-info>
+<ref-title>
+<ref-titletext>MED12, the mediator complex subunit, 12 gene is mutated at high frequency in uterine leiomyomas</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">80054097980</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Makinen N.</ce:indexed-name>
+<ce:surname>Mäkinen</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Mehine M.</ce:indexed-name>
+<ce:surname>Mehine</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Tolvanen J.</ce:indexed-name>
+<ce:surname>Tolvanen</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Kaasinen E.</ce:indexed-name>
+<ce:surname>Kaasinen</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>Y.</ce:initials>
+<ce:indexed-name>Li Y.</ce:indexed-name>
+<ce:surname>Li</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>H.J.</ce:initials>
+<ce:indexed-name>Lehtonen H.J.</ce:indexed-name>
+<ce:surname>Lehtonen</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Gentile M.</ce:indexed-name>
+<ce:surname>Gentile</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Yan J.</ce:indexed-name>
+<ce:surname>Yan</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Enge M.</ce:indexed-name>
+<ce:surname>Enge</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Taipale M.</ce:indexed-name>
+<ce:surname>Taipale</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Science</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="334"/>
+<pagerange first="252" last="255"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>N. Mäkinen, M. Mehine, J. Tolvanen, E. Kaasinen, Y. Li, H.J. Lehtonen, M. Gentile, J. Yan, M. Enge, and M. Taipale MED12, the mediator complex subunit, 12 gene is mutated at high frequency in uterine leiomyomas Science 334 2011 252 255</ref-fulltext>
+</reference>
+<reference id="22">
+<ref-info>
+<ref-title>
+<ref-titletext>The protein kinase complement of the human genome</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0037032835</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:indexed-name>Manning G.</ce:indexed-name>
+<ce:surname>Manning</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.B.</ce:initials>
+<ce:indexed-name>Whyte D.B.</ce:indexed-name>
+<ce:surname>Whyte</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Martinez R.</ce:indexed-name>
+<ce:surname>Martinez</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Hunter T.</ce:indexed-name>
+<ce:surname>Hunter</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Sudarsanam S.</ce:indexed-name>
+<ce:surname>Sudarsanam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Science</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-volisspag>
+<voliss volume="298"/>
+<pagerange first="1912" last="1934"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>G. Manning, D.B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam The protein kinase complement of the human genome Science 298 2002 1912 1934</ref-fulltext>
+</reference>
+<reference id="23">
+<ref-info>
+<ref-title>
+<ref-titletext>Genomic alterations of anaplastic lymphoma kinase may sensitize tumors to anaplastic lymphoma kinase inhibitors</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">44849126091</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>U.</ce:initials>
+<ce:indexed-name>McDermott U.</ce:indexed-name>
+<ce:surname>McDermott</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.J.</ce:initials>
+<ce:indexed-name>Iafrate A.J.</ce:indexed-name>
+<ce:surname>Iafrate</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>N.S.</ce:initials>
+<ce:indexed-name>Gray N.S.</ce:indexed-name>
+<ce:surname>Gray</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Shioda T.</ce:indexed-name>
+<ce:surname>Shioda</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Classon M.</ce:indexed-name>
+<ce:surname>Classon</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Maheswaran S.</ce:indexed-name>
+<ce:surname>Maheswaran</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Zhou W.</ce:indexed-name>
+<ce:surname>Zhou</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>H.G.</ce:initials>
+<ce:indexed-name>Choi H.G.</ce:indexed-name>
+<ce:surname>Choi</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>S.L.</ce:initials>
+<ce:indexed-name>Smith S.L.</ce:indexed-name>
+<ce:surname>Smith</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Dowell L.</ce:indexed-name>
+<ce:surname>Dowell</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cancer Res.</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-volisspag>
+<voliss volume="68"/>
+<pagerange first="3389" last="3395"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>U. McDermott, A.J. Iafrate, N.S. Gray, T. Shioda, M. Classon, S. Maheswaran, W. Zhou, H.G. Choi, S.L. Smith, and L. Dowell Genomic alterations of anaplastic lymphoma kinase may sensitize tumors to anaplastic lymphoma kinase inhibitors Cancer Res. 68 2008 3389 3395</ref-fulltext>
+</reference>
+<reference id="24">
+<ref-info>
+<ref-title>
+<ref-titletext>Gene expression signature to improve prognosis prediction of stage II and III colorectal cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">79951506562</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Salazar R.</ce:indexed-name>
+<ce:surname>Salazar</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Roepman P.</ce:indexed-name>
+<ce:surname>Roepman</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:indexed-name>Capella G.</ce:indexed-name>
+<ce:surname>Capella</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>V.</ce:initials>
+<ce:indexed-name>Moreno V.</ce:indexed-name>
+<ce:surname>Moreno</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>I.</ce:initials>
+<ce:indexed-name>Simon I.</ce:indexed-name>
+<ce:surname>Simon</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Dreezen C.</ce:indexed-name>
+<ce:surname>Dreezen</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Lopez-Doriga A.</ce:indexed-name>
+<ce:surname>Lopez-Doriga</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Santos C.</ce:indexed-name>
+<ce:surname>Santos</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Marijnen C.</ce:indexed-name>
+<ce:surname>Marijnen</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Westerga J.</ce:indexed-name>
+<ce:surname>Westerga</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>J. Clin. Oncol.</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="29"/>
+<pagerange first="17" last="24"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>R. Salazar, P. Roepman, G. Capella, V. Moreno, I. Simon, C. Dreezen, A. Lopez-Doriga, C. Santos, C. Marijnen, and J. Westerga Gene expression signature to improve prognosis prediction of stage II and III colorectal cancer J. Clin. Oncol. 29 2011 17 24</ref-fulltext>
+</reference>
+<reference id="25">
+<ref-info>
+<ref-title>
+<ref-titletext>Genotypic and histological evolution of lung cancers acquiring resistance to EGFR inhibitors</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">79953118839</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.V.</ce:initials>
+<ce:indexed-name>Sequist L.V.</ce:indexed-name>
+<ce:surname>Sequist</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>B.A.</ce:initials>
+<ce:indexed-name>Waltman B.A.</ce:indexed-name>
+<ce:surname>Waltman</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Dias-Santagata D.</ce:indexed-name>
+<ce:surname>Dias-Santagata</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Digumarthy S.</ce:indexed-name>
+<ce:surname>Digumarthy</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.B.</ce:initials>
+<ce:indexed-name>Turke A.B.</ce:indexed-name>
+<ce:surname>Turke</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Fidias P.</ce:indexed-name>
+<ce:surname>Fidias</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Bergethon K.</ce:indexed-name>
+<ce:surname>Bergethon</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>A.T.</ce:initials>
+<ce:indexed-name>Shaw A.T.</ce:indexed-name>
+<ce:surname>Shaw</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Gettinger S.</ce:indexed-name>
+<ce:surname>Gettinger</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>A.K.</ce:initials>
+<ce:indexed-name>Cosper A.K.</ce:indexed-name>
+<ce:surname>Cosper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sci. Transl. Med.</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="3"/>
+</ref-volisspag>
+<ref-text>75ra26</ref-text>
+</ref-info>
+<ref-fulltext>L.V. Sequist, B.A. Waltman, D. Dias-Santagata, S. Digumarthy, A.B. Turke, P. Fidias, K. Bergethon, A.T. Shaw, S. Gettinger, and A.K. Cosper Genotypic and histological evolution of lung cancers acquiring resistance to EGFR inhibitors Sci. Transl. Med. 3 2011 75ra26</ref-fulltext>
+</reference>
+<reference id="26">
+<ref-info>
+<ref-title>
+<ref-titletext>Multiple BCR-ABL kinase domain mutations confer polyclonal resistance to the tyrosine kinase inhibitor imatinib (STI571) in chronic phase and blast crisis chronic myeloid leukemia</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0001686739</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.P.</ce:initials>
+<ce:indexed-name>Shah N.P.</ce:indexed-name>
+<ce:surname>Shah</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.M.</ce:initials>
+<ce:indexed-name>Nicoll J.M.</ce:indexed-name>
+<ce:surname>Nicoll</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Nagar B.</ce:indexed-name>
+<ce:surname>Nagar</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.E.</ce:initials>
+<ce:indexed-name>Gorre M.E.</ce:indexed-name>
+<ce:surname>Gorre</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>R.L.</ce:initials>
+<ce:indexed-name>Paquette R.L.</ce:indexed-name>
+<ce:surname>Paquette</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Kuriyan J.</ce:indexed-name>
+<ce:surname>Kuriyan</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>C.L.</ce:initials>
+<ce:indexed-name>Sawyers C.L.</ce:indexed-name>
+<ce:surname>Sawyers</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cancer Cell</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-volisspag>
+<voliss volume="2"/>
+<pagerange first="117" last="125"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>N.P. Shah, J.M. Nicoll, B. Nagar, M.E. Gorre, R.L. Paquette, J. Kuriyan, and C.L. Sawyers Multiple BCR-ABL kinase domain mutations confer polyclonal resistance to the tyrosine kinase inhibitor imatinib (STI571) in chronic phase and blast crisis chronic myeloid leukemia Cancer Cell 2 2002 117 125</ref-fulltext>
+</reference>
+<reference id="27">
+<ref-info>
+<ref-title>
+<ref-titletext>A chromatin-mediated reversible drug-tolerant state in cancer cell subpopulations</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">77950809059</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.V.</ce:initials>
+<ce:indexed-name>Sharma S.V.</ce:indexed-name>
+<ce:surname>Sharma</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.Y.</ce:initials>
+<ce:indexed-name>Lee D.Y.</ce:indexed-name>
+<ce:surname>Lee</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Li B.</ce:indexed-name>
+<ce:surname>Li</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.P.</ce:initials>
+<ce:indexed-name>Quinlan M.P.</ce:indexed-name>
+<ce:surname>Quinlan</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>F.</ce:initials>
+<ce:indexed-name>Takahashi F.</ce:indexed-name>
+<ce:surname>Takahashi</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Maheswaran S.</ce:indexed-name>
+<ce:surname>Maheswaran</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>U.</ce:initials>
+<ce:indexed-name>McDermott U.</ce:indexed-name>
+<ce:surname>McDermott</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Azizian N.</ce:indexed-name>
+<ce:surname>Azizian</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Zou L.</ce:indexed-name>
+<ce:surname>Zou</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>M.A.</ce:initials>
+<ce:indexed-name>Fischbach M.A.</ce:indexed-name>
+<ce:surname>Fischbach</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cell</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="141"/>
+<pagerange first="69" last="80"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>S.V. Sharma, D.Y. Lee, B. Li, M.P. Quinlan, F. Takahashi, S. Maheswaran, U. McDermott, N. Azizian, L. Zou, and M.A. Fischbach A chromatin-mediated reversible drug-tolerant state in cancer cell subpopulations Cell 141 2010 69 80</ref-fulltext>
+</reference>
+<reference id="28">
+<ref-info>
+<ref-title>
+<ref-titletext>Epithelial-mesenchymal transitions in development and disease</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">70450198396</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.P.</ce:initials>
+<ce:indexed-name>Thiery J.P.</ce:indexed-name>
+<ce:surname>Thiery</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Acloque H.</ce:indexed-name>
+<ce:surname>Acloque</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>R.Y.</ce:initials>
+<ce:indexed-name>Huang R.Y.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.A.</ce:initials>
+<ce:indexed-name>Nieto M.A.</ce:indexed-name>
+<ce:surname>Nieto</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cell</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-volisspag>
+<voliss volume="139"/>
+<pagerange first="871" last="890"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>J.P. Thiery, H. Acloque, R.Y. Huang, and M.A. Nieto Epithelial- mesenchymal transitions in development and disease Cell 139 2009 871 890</ref-fulltext>
+</reference>
+<reference id="29">
+<ref-info>
+<ref-title>
+<ref-titletext>Expression of selected gene for acquired drug resistance to EGFR-TKI in lung adenocarcinoma</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">79953687627</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Uramoto H.</ce:indexed-name>
+<ce:surname>Uramoto</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Shimokawa H.</ce:indexed-name>
+<ce:surname>Shimokawa</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Hanagiri T.</ce:indexed-name>
+<ce:surname>Hanagiri</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Kuwano M.</ce:indexed-name>
+<ce:surname>Kuwano</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Ono M.</ce:indexed-name>
+<ce:surname>Ono</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Lung Cancer</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="73"/>
+<pagerange first="361" last="365"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>H. Uramoto, H. Shimokawa, T. Hanagiri, M. Kuwano, and M. Ono Expression of selected gene for acquired drug resistance to EGFR-TKI in lung adenocarcinoma Lung Cancer 73 2011 361 365</ref-fulltext>
+</reference>
+<reference id="30">
+<ref-info>
+<ref-title>
+<ref-titletext>Dissecting therapeutic resistance to RAF inhibition in melanoma by tumor genomic profiling</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">80051625929</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Wagle N.</ce:indexed-name>
+<ce:surname>Wagle</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Emery C.</ce:indexed-name>
+<ce:surname>Emery</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.F.</ce:initials>
+<ce:indexed-name>Berger M.F.</ce:indexed-name>
+<ce:surname>Berger</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.J.</ce:initials>
+<ce:indexed-name>Davis M.J.</ce:indexed-name>
+<ce:surname>Davis</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Sawyer A.</ce:indexed-name>
+<ce:surname>Sawyer</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Pochanard P.</ce:indexed-name>
+<ce:surname>Pochanard</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>S.M.</ce:initials>
+<ce:indexed-name>Kehoe S.M.</ce:indexed-name>
+<ce:surname>Kehoe</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>C.M.</ce:initials>
+<ce:indexed-name>Johannessen C.M.</ce:indexed-name>
+<ce:surname>Johannessen</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>L.E.</ce:initials>
+<ce:indexed-name>MacConaill L.E.</ce:indexed-name>
+<ce:surname>MacConaill</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>W.C.</ce:initials>
+<ce:indexed-name>Hahn W.C.</ce:indexed-name>
+<ce:surname>Hahn</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>J. Clin. Oncol.</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="29"/>
+<pagerange first="3085" last="3096"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>N. Wagle, C. Emery, M.F. Berger, M.J. Davis, A. Sawyer, P. Pochanard, S.M. Kehoe, C.M. Johannessen, L.E. Macconaill, and W.C. Hahn Dissecting therapeutic resistance to RAF inhibition in melanoma by tumor genomic profiling J. Clin. Oncol. 29 2011 3085 3096</ref-fulltext>
+</reference>
+<reference id="31">
+<ref-info>
+<ref-title>
+<ref-titletext>TGF-beta IL-6 axis mediates selective and adaptive mechanisms of resistance to molecular targeted therapy in lung cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">77957273623</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>Z.</ce:initials>
+<ce:indexed-name>Yao Z.</ce:indexed-name>
+<ce:surname>Yao</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Fenoglio S.</ce:indexed-name>
+<ce:surname>Fenoglio</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.C.</ce:initials>
+<ce:indexed-name>Gao D.C.</ce:indexed-name>
+<ce:surname>Gao</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Camiolo M.</ce:indexed-name>
+<ce:surname>Camiolo</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Stiles B.</ce:indexed-name>
+<ce:surname>Stiles</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Lindsted T.</ce:indexed-name>
+<ce:surname>Lindsted</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Schlederer M.</ce:indexed-name>
+<ce:surname>Schlederer</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Johns C.</ce:indexed-name>
+<ce:surname>Johns</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Altorki N.</ce:indexed-name>
+<ce:surname>Altorki</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>V.</ce:initials>
+<ce:indexed-name>Mittal V.</ce:indexed-name>
+<ce:surname>Mittal</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Proc. Natl. Acad. Sci. USA</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="107"/>
+<pagerange first="15535" last="15540"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Z. Yao, S. Fenoglio, D.C. Gao, M. Camiolo, B. Stiles, T. Lindsted, M. Schlederer, C. Johns, N. Altorki, and V. Mittal TGF-beta IL-6 axis mediates selective and adaptive mechanisms of resistance to molecular targeted therapy in lung cancer Proc. Natl. Acad. Sci. USA 107 2010 15535 15540</ref-fulltext>
+</reference>
+<reference id="32">
+<ref-info>
+<ref-title>
+<ref-titletext>The T790M mutation in EGFR kinase causes drug resistance by increasing the affinity for ATP</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">40049099220</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.H.</ce:initials>
+<ce:indexed-name>Yun C.H.</ce:indexed-name>
+<ce:surname>Yun</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>K.E.</ce:initials>
+<ce:indexed-name>Mengwasser K.E.</ce:indexed-name>
+<ce:surname>Mengwasser</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>A.V.</ce:initials>
+<ce:indexed-name>Toms A.V.</ce:indexed-name>
+<ce:surname>Toms</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.S.</ce:initials>
+<ce:indexed-name>Woo M.S.</ce:indexed-name>
+<ce:surname>Woo</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Greulich H.</ce:indexed-name>
+<ce:surname>Greulich</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>K.K.</ce:initials>
+<ce:indexed-name>Wong K.K.</ce:indexed-name>
+<ce:surname>Wong</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Meyerson M.</ce:indexed-name>
+<ce:surname>Meyerson</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>M.J.</ce:initials>
+<ce:indexed-name>Eck M.J.</ce:indexed-name>
+<ce:surname>Eck</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Proc. Natl. Acad. Sci. USA</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-volisspag>
+<voliss volume="105"/>
+<pagerange first="2070" last="2075"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>C.H. Yun, K.E. Mengwasser, A.V. Toms, M.S. Woo, H. Greulich, K.K. Wong, M. Meyerson, and M.J. Eck The T790M mutation in EGFR kinase causes drug resistance by increasing the affinity for ATP Proc. Natl. Acad. Sci. USA 105 2008 2070 2075</ref-fulltext>
+</reference>
+<reference id="33">
+<ref-info>
+<ref-title>
+<ref-titletext>Non-Smad pathways in TGF-beta signaling</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">58149213801</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.E.</ce:initials>
+<ce:indexed-name>Zhang Y.E.</ce:indexed-name>
+<ce:surname>Zhang</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cell Res.</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-volisspag>
+<voliss volume="19"/>
+<pagerange first="128" last="139"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Y.E. Zhang Non-Smad pathways in TGF-beta signaling Cell Res. 19 2009 128 139</ref-fulltext>
+</reference>
+<reference id="34">
+<ref-info>
+<ref-title>
+<ref-titletext>NCBI GEO: Archive for functional genomics data sets - 10 years on</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">78651339534</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Barrett T.</ce:indexed-name>
+<ce:surname>Barrett</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.B.</ce:initials>
+<ce:indexed-name>Troup D.B.</ce:indexed-name>
+<ce:surname>Troup</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.E.</ce:initials>
+<ce:indexed-name>Wilhite S.E.</ce:indexed-name>
+<ce:surname>Wilhite</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Ledoux P.</ce:indexed-name>
+<ce:surname>Ledoux</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Evangelista C.</ce:indexed-name>
+<ce:surname>Evangelista</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>I.F.</ce:initials>
+<ce:indexed-name>Kim I.F.</ce:indexed-name>
+<ce:surname>Kim</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Tomashevsky M.</ce:indexed-name>
+<ce:surname>Tomashevsky</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>K.A.</ce:initials>
+<ce:indexed-name>Marshall K.A.</ce:indexed-name>
+<ce:surname>Marshall</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>K.H.</ce:initials>
+<ce:indexed-name>Phillippy K.H.</ce:indexed-name>
+<ce:surname>Phillippy</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>P.M.</ce:initials>
+<ce:indexed-name>Sherman P.M.</ce:indexed-name>
+<ce:surname>Sherman</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Nucleic Acids Res.</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="39"/>
+</ref-volisspag>
+<ref-text>(Database issue), D,1005-D1010</ref-text>
+</ref-info>
+<ref-fulltext>Barrett, T.; Troup, D.B.; Wilhite, S.E.; Ledoux, P.; Evangelista, C.; Kim, I.F.; Tomashevsky, M.; Marshall, K.A.; Phillippy, K.H.; Sherman, P.M.; et al. (2011). NCBI GEO: archive for functional genomics data sets - 10 years on. Nucleic Acids Res. 39(Database issue), D,1005-D1010.</ref-fulltext>
+</reference>
+<reference id="35">
+<ref-info>
+<ref-title>
+<ref-titletext>Quantitative gene expression profiling in formalin-fixed paraffin-embedded tissues using universal bead arrays</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">7244245443</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Bibikova M.</ce:indexed-name>
+<ce:surname>Bibikova</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Talantov D.</ce:indexed-name>
+<ce:surname>Talantov</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Chudin E.</ce:indexed-name>
+<ce:surname>Chudin</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.M.</ce:initials>
+<ce:indexed-name>Yeakley J.M.</ce:indexed-name>
+<ce:surname>Yeakley</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Chen J.</ce:indexed-name>
+<ce:surname>Chen</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Doucet D.</ce:indexed-name>
+<ce:surname>Doucet</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Wickham E.</ce:indexed-name>
+<ce:surname>Wickham</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Atkins D.</ce:indexed-name>
+<ce:surname>Atkins</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Barker D.</ce:indexed-name>
+<ce:surname>Barker</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Chee M.</ce:indexed-name>
+<ce:surname>Chee</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Am. J. Pathol.</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-volisspag>
+<voliss volume="165"/>
+<pagerange first="1799" last="1807"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Bibikova, M.; Talantov, D.; Chudin, E.; Yeakley, J.M.; Chen, J.; Doucet, D.; Wickham, E.; Atkins, D.; Barker, D.; Chee, M.; et al. (2004). Quantitative gene expression profiling in formalin-fixed paraffin-embedded tissues using universal bead arrays. Am. J. Pathol. 165, 1799-1807.</ref-fulltext>
+</reference>
+<reference id="36">
+<ref-info>
+<ref-title>
+<ref-titletext>A system for stable expression of short interfering RNAs in mammalian cells</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0037134020</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.R.</ce:initials>
+<ce:indexed-name>Brummelkamp T.R.</ce:indexed-name>
+<ce:surname>Brummelkamp</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Agami R.</ce:indexed-name>
+<ce:surname>Agami</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Science</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-volisspag>
+<voliss volume="296"/>
+<pagerange first="550" last="553"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Brummelkamp, T.R.; Bernards, R.; and Agami, R. (2002). A system for stable expression of short interfering RNAs in mammalian cells. Science 296, 550-553.</ref-fulltext>
+</reference>
+<reference id="37">
+<ref-info>
+<ref-title>
+<ref-titletext>An shRNA barcode screen provides insight into cancer cell vulnerability to MDM2 inhibitors</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">33646343474</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.R.</ce:initials>
+<ce:indexed-name>Brummelkamp T.R.</ce:indexed-name>
+<ce:surname>Brummelkamp</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.W.</ce:initials>
+<ce:indexed-name>Fabius A.W.</ce:indexed-name>
+<ce:surname>Fabius</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Mullenders J.</ce:indexed-name>
+<ce:surname>Mullenders</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Madiredjo M.</ce:indexed-name>
+<ce:surname>Madiredjo</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Velds A.</ce:indexed-name>
+<ce:surname>Velds</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Kerkhoven R.M.</ce:indexed-name>
+<ce:surname>Kerkhoven</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>R.L.</ce:initials>
+<ce:indexed-name>Beijersbergen R.L.</ce:indexed-name>
+<ce:surname>Beijersbergen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nat. Chem. Biol.</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-volisspag>
+<voliss volume="2"/>
+<pagerange first="202" last="206"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Brummelkamp, T.R.; Fabius, A.W.; Mullenders, J.; Madiredjo, M.; Velds, A.; Kerkhoven, R.M.; Bernards, R.; and Beijersbergen, R.L. (2006). An shRNA barcode screen provides insight into cancer cell vulnerability to MDM2 inhibitors. Nat. Chem. Biol. 2, 202-206.</ref-fulltext>
+</reference>
+<reference id="38">
+<ref-info>
+<ref-title>
+<ref-titletext>A versatile assay for high-throughput gene expression profiling on universal array matrices</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">2442689079</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.B.</ce:initials>
+<ce:indexed-name>Fan J.B.</ce:indexed-name>
+<ce:surname>Fan</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.M.</ce:initials>
+<ce:indexed-name>Yeakley J.M.</ce:indexed-name>
+<ce:surname>Yeakley</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Bibikova M.</ce:indexed-name>
+<ce:surname>Bibikova</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Chudin E.</ce:indexed-name>
+<ce:surname>Chudin</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Wickham E.</ce:indexed-name>
+<ce:surname>Wickham</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Chen J.</ce:indexed-name>
+<ce:surname>Chen</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Doucet D.</ce:indexed-name>
+<ce:surname>Doucet</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Rigault P.</ce:indexed-name>
+<ce:surname>Rigault</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Zhang B.</ce:indexed-name>
+<ce:surname>Zhang</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Shen R.</ce:indexed-name>
+<ce:surname>Shen</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Genome Res.</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-volisspag>
+<voliss volume="14"/>
+<pagerange first="878" last="885"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Fan, J.B.; Yeakley, J.M.; Bibikova, M.; Chudin, E.; Wickham, E.; Chen, J.; Doucet, D.; Rigault, P.; Zhang, B.; Shen, R.; et al. (2004). A versatile assay for high-throughput gene expression profiling on universal array matrices. Genome Res. 14, 878-885.</ref-fulltext>
+</reference>
+<reference id="39">
+<ref-info>
+<ref-title>
+<ref-titletext>COSMIC (the Catalogue of Somatic Mutations in Cancer): A resource to investigate acquired mutations in human cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">84871041055</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.A.</ce:initials>
+<ce:indexed-name>Forbes S.A.</ce:indexed-name>
+<ce:surname>Forbes</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>G.</ce:initials>
+<ce:indexed-name>Tang G.</ce:indexed-name>
+<ce:surname>Tang</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>N.</ce:initials>
+<ce:indexed-name>Bindal N.</ce:indexed-name>
+<ce:surname>Bindal</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Bamford S.</ce:indexed-name>
+<ce:surname>Bamford</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Dawson E.</ce:indexed-name>
+<ce:surname>Dawson</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Cole C.</ce:indexed-name>
+<ce:surname>Cole</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>C.Y.</ce:initials>
+<ce:indexed-name>Kok C.Y.</ce:indexed-name>
+<ce:surname>Kok</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Jia M.</ce:indexed-name>
+<ce:surname>Jia</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Ewing R.</ce:indexed-name>
+<ce:surname>Ewing</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Menzies A.</ce:indexed-name>
+<ce:surname>Menzies</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Nucleic Acids Res.</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="38"/>
+</ref-volisspag>
+<ref-text>(Database issue), D,652-D657</ref-text>
+</ref-info>
+<ref-fulltext>Forbes, S.A.; Tang, G.; Bindal, N.; Bamford, S.; Dawson, E.; Cole, C.; Kok, C.Y.; Jia, M.; Ewing, R.; Menzies, A.; et al. (2010). COSMIC (the Catalogue of Somatic Mutations in Cancer): a resource to investigate acquired mutations in human cancer. Nucleic Acids Res. 38(Database issue), D,652-D657.</ref-fulltext>
+</reference>
+<reference id="40">
+<ref-info>
+<ref-title>
+<ref-titletext>Characterization of a membrane receptor for transforming growth factor-beta in normal rat kidney fibroblasts</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0021202508</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.A.</ce:initials>
+<ce:indexed-name>Frolik C.A.</ce:indexed-name>
+<ce:surname>Frolik</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.M.</ce:initials>
+<ce:indexed-name>Wakefield L.M.</ce:indexed-name>
+<ce:surname>Wakefield</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.M.</ce:initials>
+<ce:indexed-name>Smith D.M.</ce:indexed-name>
+<ce:surname>Smith</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.B.</ce:initials>
+<ce:indexed-name>Sporn M.B.</ce:indexed-name>
+<ce:surname>Sporn</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>J. Biol. Chem.</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<ref-volisspag>
+<voliss volume="259"/>
+<pagerange first="10995" last="11000"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Frolik, C.A.; Wakefield, L.M.; Smith, D.M.; and Sporn, M.B. (1984). Characterization of a membrane receptor for transforming growth factor-beta in normal rat kidney fibroblasts. J. Biol. Chem. 259, 10995-11000.</ref-fulltext>
+</reference>
+<reference id="41">
+<ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">1342288026</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Gautier L.</ce:indexed-name>
+<ce:surname>Gautier</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Cope L.</ce:indexed-name>
+<ce:surname>Cope</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>B.M.</ce:initials>
+<ce:indexed-name>Bolstad B.M.</ce:indexed-name>
+<ce:surname>Bolstad</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>R.A.</ce:initials>
+<ce:indexed-name>Irizarry R.A.</ce:indexed-name>
+<ce:surname>Irizarry</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Affy - Analysis of Affymetrix GeneChip data at the probe level. Bioinformatics</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-volisspag>
+<voliss volume="20"/>
+<pagerange first="307" last="315"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Gautier, L.; Cope, L.; Bolstad, B.M.; and Irizarry, R.A. (2004). affy - analysis of Affymetrix GeneChip data at the probe level. Bioinformatics 20, 307-315.</ref-fulltext>
+</reference>
+<reference id="42">
+<ref-info>
+<ref-title>
+<ref-titletext>Bioconductor: Open software development for computational biology and bioinformatics</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">28744458859</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.C.</ce:initials>
+<ce:indexed-name>Gentleman R.C.</ce:indexed-name>
+<ce:surname>Gentleman</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>V.J.</ce:initials>
+<ce:indexed-name>Carey V.J.</ce:indexed-name>
+<ce:surname>Carey</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.M.</ce:initials>
+<ce:indexed-name>Bates D.M.</ce:indexed-name>
+<ce:surname>Bates</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Bolstad B.</ce:indexed-name>
+<ce:surname>Bolstad</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Dettling M.</ce:indexed-name>
+<ce:surname>Dettling</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Dudoit S.</ce:indexed-name>
+<ce:surname>Dudoit</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Ellis B.</ce:indexed-name>
+<ce:surname>Ellis</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Gautier L.</ce:indexed-name>
+<ce:surname>Gautier</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>Y.</ce:initials>
+<ce:indexed-name>Ge Y.</ce:indexed-name>
+<ce:surname>Ge</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Gentry J.</ce:indexed-name>
+<ce:surname>Gentry</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Genome Biol.</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-volisspag>
+<voliss volume="5"/>
+<pages>R80</pages>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Gentleman, R.C.; Carey, V.J.; Bates, D.M.; Bolstad, B.; Dettling, M.; Dudoit, S.; Ellis, B.; Gautier, L.; Ge, Y.; Gentry, J.; et al. (2004). Bioconductor: open software development for computational biology and bioinformatics. Genome Biol. 5, R80.</ref-fulltext>
+</reference>
+<reference id="43">
+<ref-info>
+<ref-title>
+<ref-titletext>The dip test of unimodality</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0002643986</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Hartigan J.A.</ce:indexed-name>
+<ce:surname>Hartigan</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Hartigan P.</ce:indexed-name>
+<ce:surname>Hartigan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ann. Stat.</ref-sourcetitle>
+<ref-publicationyear first="1985"/>
+<ref-volisspag>
+<voliss volume="13"/>
+<pagerange first="70" last="84"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Hartigan, J.A.; and Hartigan, P. (1985). The dip test of unimodality. Ann. Stat. 13, 70-84.</ref-fulltext>
+</reference>
+<reference id="44">
+<ref-info>
+<ref-title>
+<ref-titletext>NF1 is a tumor suppressor in neuroblastoma that determines retinoic acid response and disease outcome</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">77955038485</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Holzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Huang S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Koster J.</ce:indexed-name>
+<ce:surname>Koster</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>I.</ce:initials>
+<ce:indexed-name>Ora I.</ce:indexed-name>
+<ce:surname>Ora</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Lakeman A.</ce:indexed-name>
+<ce:surname>Lakeman</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Caron H.</ce:indexed-name>
+<ce:surname>Caron</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Nijkamp W.</ce:indexed-name>
+<ce:surname>Nijkamp</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Xie J.</ce:indexed-name>
+<ce:surname>Xie</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>T.</ce:initials>
+<ce:indexed-name>Callens T.</ce:indexed-name>
+<ce:surname>Callens</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Asgharzadeh S.</ce:indexed-name>
+<ce:surname>Asgharzadeh</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Cell</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="142"/>
+<pagerange first="218" last="229"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Hölzel, M.; Huang, S.; Koster, J.; Ora, I.; Lakeman, A.; Caron, H.; Nijkamp, W.; Xie, J.; Callens, T.; Asgharzadeh, S.; et al. (2010). NF1 is a tumor suppressor in neuroblastoma that determines retinoic acid response and disease outcome. Cell 142, 218-229.</ref-fulltext>
+</reference>
+<reference id="45">
+<ref-info>
+<ref-title>
+<ref-titletext>ZNF423 is critically required for retinoic acid-induced differentiation and is a marker of neuroblastoma outcome</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">63449100807</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Huang S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Laoukili J.</ce:indexed-name>
+<ce:surname>Laoukili</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.T.</ce:initials>
+<ce:indexed-name>Epping M.T.</ce:indexed-name>
+<ce:surname>Epping</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Koster J.</ce:indexed-name>
+<ce:surname>Koster</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Holzel M.</ce:indexed-name>
+<ce:surname>Hölzel</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>B.A.</ce:initials>
+<ce:indexed-name>Westerman B.A.</ce:indexed-name>
+<ce:surname>Westerman</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>Nijkamp W.</ce:indexed-name>
+<ce:surname>Nijkamp</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Hata A.</ce:indexed-name>
+<ce:surname>Hata</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Asgharzadeh S.</ce:indexed-name>
+<ce:surname>Asgharzadeh</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>R.C.</ce:initials>
+<ce:indexed-name>Seeger R.C.</ce:indexed-name>
+<ce:surname>Seeger</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Cancer Cell</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-volisspag>
+<voliss volume="15"/>
+<pagerange first="328" last="340"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Huang, S.; Laoukili, J.; Epping, M.T.; Koster, J.; Hölzel, M.; Westerman, B.A.; Nijkamp, W.; Hata, A.; Asgharzadeh, S.; Seeger, R.C.; et al. (2009). ZNF423 is critically required for retinoic acid-induced differentiation and is a marker of neuroblastoma outcome. Cancer Cell 15, 328-340.</ref-fulltext>
+</reference>
+<reference id="46">
+<ref-info>
+<ref-title>
+<ref-titletext>Metastasis-associated gene expression changes predict poor outcomes in patients with dukes stage B and C colorectal cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">73349088103</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.N.</ce:initials>
+<ce:indexed-name>Jorissen R.N.</ce:indexed-name>
+<ce:surname>Jorissen</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Gibbs P.</ce:indexed-name>
+<ce:surname>Gibbs</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Christie M.</ce:indexed-name>
+<ce:surname>Christie</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Prakash S.</ce:indexed-name>
+<ce:surname>Prakash</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Lipton L.</ce:indexed-name>
+<ce:surname>Lipton</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Desai J.</ce:indexed-name>
+<ce:surname>Desai</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Kerr D.</ce:indexed-name>
+<ce:surname>Kerr</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>L.A.</ce:initials>
+<ce:indexed-name>Aaltonen L.A.</ce:indexed-name>
+<ce:surname>Aaltonen</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Arango D.</ce:indexed-name>
+<ce:surname>Arango</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Kruhoffer M.</ce:indexed-name>
+<ce:surname>Kruhoffer</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Clin. Cancer Res.</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-volisspag>
+<voliss volume="15"/>
+<pagerange first="7642" last="7651"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Jorissen, R.N.; Gibbs, P.; Christie, M.; Prakash, S.; Lipton, L.; Desai, J.; Kerr, D.; Aaltonen, L.A.; Arango, D.; Kruhoffer, M.; et al. (2009). Metastasis-associated gene expression changes predict poor outcomes in patients with dukes stage B and C colorectal cancer. Clin. Cancer Res. 15, 7642-7651.</ref-fulltext>
+</reference>
+<reference id="47">
+<ref-info>
+<ref-title>
+<ref-titletext>Plasminogen activator inhibitor-1 is a critical downstream target of p53 in the induction of replicative senescence</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">33746616991</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Kortlever R.M.</ce:indexed-name>
+<ce:surname>Kortlever</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.J.</ce:initials>
+<ce:indexed-name>Higgins P.J.</ce:indexed-name>
+<ce:surname>Higgins</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bernards R.</ce:indexed-name>
+<ce:surname>Bernards</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nat. Cell Biol.</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-volisspag>
+<voliss volume="8"/>
+<pagerange first="877" last="884"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Kortlever, R.M.; Higgins, P.J.; and Bernards, R. (2006). Plasminogen activator inhibitor-1 is a critical downstream target of p53 in the induction of replicative senescence. Nat. Cell Biol. 8, 877-884.</ref-fulltext>
+</reference>
+<reference id="48">
+<ref-info>
+<ref-title>
+<ref-titletext>EMT is the dominant program in human colon cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">84864936518</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Loboda A.</ce:indexed-name>
+<ce:surname>Loboda</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.V.</ce:initials>
+<ce:indexed-name>Nebozhyn M.V.</ce:indexed-name>
+<ce:surname>Nebozhyn</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>W.</ce:initials>
+<ce:indexed-name>James W.</ce:indexed-name>
+<ce:surname>James</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.W.</ce:initials>
+<ce:indexed-name>Watters J.W.</ce:indexed-name>
+<ce:surname>Watters</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Carolyne A.</ce:indexed-name>
+<ce:surname>Carolyne</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>C.A.</ce:initials>
+<ce:indexed-name>Buser C.A.</ce:indexed-name>
+<ce:surname>Buser</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>P.M.</ce:initials>
+<ce:indexed-name>Shaw P.M.</ce:indexed-name>
+<ce:surname>Shaw</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>P.S.</ce:initials>
+<ce:indexed-name>Huang P.S.</ce:indexed-name>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>L.J.</ce:initials>
+<ce:indexed-name>Van'T Veer L.J.</ce:indexed-name>
+<ce:surname>Van'T Veer</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>R.A.E.M.</ce:initials>
+<ce:indexed-name>Tollenaar R.A.E.M.</ce:indexed-name>
+<ce:surname>Tollenaar</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>BMC Medical Genomics</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<pagerange first="4" last="9"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Loboda, A.; Nebozhyn, M.V.; James, W.; Watters, J.W.; Carolyne, A.; Buser, C.A.; Shaw, P.M.; Huang, P.S.; Van't Veer, L.J.; Tollenaar, R.A.E.M.; et al. (2011). EMT is the dominant program in human colon cancer. BMC Medical Genomics 2011, 4-9.</ref-fulltext>
+</reference>
+<reference id="49">
+<ref-info>
+<ref-title>
+<ref-titletext>Gene expression profiles from formalin fixed paraffin embedded breast cancer tissue are largely comparable to fresh frozen matched tissue</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">79951818662</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Mittempergher L.</ce:indexed-name>
+<ce:surname>Mittempergher</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.J.</ce:initials>
+<ce:indexed-name>De Ronde J.J.</ce:indexed-name>
+<ce:surname>De Ronde</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Nieuwland M.</ce:indexed-name>
+<ce:surname>Nieuwland</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Kerkhoven R.M.</ce:indexed-name>
+<ce:surname>Kerkhoven</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>I.</ce:initials>
+<ce:indexed-name>Simon I.</ce:indexed-name>
+<ce:surname>Simon</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>E.J.</ce:initials>
+<ce:indexed-name>Rutgers E.J.</ce:indexed-name>
+<ce:surname>Rutgers</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>L.F.</ce:initials>
+<ce:indexed-name>Wessels L.F.</ce:indexed-name>
+<ce:surname>Wessels</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>L.J.</ce:initials>
+<ce:indexed-name>Van'T Veer L.J.</ce:indexed-name>
+<ce:surname>Van'T Veer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>PLoS ONE</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="6"/>
+<pages>e17163</pages>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Mittempergher, L.; de Ronde, J.J.; Nieuwland, M.; Kerkhoven, R.M.; Simon, I.; Rutgers, E.J.; Wessels, L.F.; and Van't Veer, L.J. (2011). Gene expression profiles from formalin fixed paraffin embedded breast cancer tissue are largely comparable to fresh frozen matched tissue. PLoS ONE 6 e17163.</ref-fulltext>
+</reference>
+<reference id="50">
+<ref-info>
+<ref-title>
+<ref-titletext>Gene expression signature to improve prognosis prediction of stage II and III colorectal cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">79951506562</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Salazar R.</ce:indexed-name>
+<ce:surname>Salazar</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Roepman P.</ce:indexed-name>
+<ce:surname>Roepman</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:indexed-name>Capella G.</ce:indexed-name>
+<ce:surname>Capella</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>V.</ce:initials>
+<ce:indexed-name>Moreno V.</ce:indexed-name>
+<ce:surname>Moreno</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>I.</ce:initials>
+<ce:indexed-name>Simon I.</ce:indexed-name>
+<ce:surname>Simon</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Dreezen C.</ce:indexed-name>
+<ce:surname>Dreezen</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Lopez-Doriga A.</ce:indexed-name>
+<ce:surname>Lopez-Doriga</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Santos C.</ce:indexed-name>
+<ce:surname>Santos</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Marijnen C.</ce:indexed-name>
+<ce:surname>Marijnen</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Westerga J.</ce:indexed-name>
+<ce:surname>Westerga</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>J. Clin. Oncol.</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-volisspag>
+<voliss volume="29"/>
+<pagerange first="17" last="24"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Salazar, R.; Roepman, P.; Capella, G.; Moreno, V.; Simon, I.; Dreezen, C.; Lopez-Doriga, A.; Santos, C.; Marijnen, C.; Westerga, J.; et al. (2011). Gene expression signature to improve prognosis prediction of stage II and III colorectal cancer. J. Clin. Oncol. 29, 17-24.</ref-fulltext>
+</reference>
+<reference id="51">
+<ref-info>
+<ref-title>
+<ref-titletext>Experimentally derived metastasis gene expression profile predicts recurrence and death in patients with colon cancer</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">77249143960</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.J.</ce:initials>
+<ce:indexed-name>Smith J.J.</ce:indexed-name>
+<ce:surname>Smith</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.G.</ce:initials>
+<ce:indexed-name>Deane N.G.</ce:indexed-name>
+<ce:surname>Deane</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>F.</ce:initials>
+<ce:indexed-name>Wu F.</ce:indexed-name>
+<ce:surname>Wu</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>N.B.</ce:initials>
+<ce:indexed-name>Merchant N.B.</ce:indexed-name>
+<ce:surname>Merchant</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>B.</ce:initials>
+<ce:indexed-name>Zhang B.</ce:indexed-name>
+<ce:surname>Zhang</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Jiang A.</ce:indexed-name>
+<ce:surname>Jiang</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Lu P.</ce:indexed-name>
+<ce:surname>Lu</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>J.C.</ce:initials>
+<ce:indexed-name>Johnson J.C.</ce:indexed-name>
+<ce:surname>Johnson</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Schmidt C.</ce:indexed-name>
+<ce:surname>Schmidt</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>C.E.</ce:initials>
+<ce:indexed-name>Bailey C.E.</ce:indexed-name>
+<ce:surname>Bailey</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Gastroenterology</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="138"/>
+<pagerange first="958" last="968"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Smith, J.J.; Deane, N.G.; Wu, F.; Merchant, N.B.; Zhang, B.; Jiang, A.; Lu, P.; Johnson, J.C.; Schmidt, C.; Bailey, C.E.; et al. (2010). Experimentally derived metastasis gene expression profile predicts recurrence and death in patients with colon cancer. Gastroenterology 138, 958-968.</ref-fulltext>
+</reference>
+<reference id="52">
+<ref-info>
+<ref-title>
+<ref-titletext>Core epithelial-to-mesenchymal transition interactome gene-expression signature is associated with claudin-low and metaplastic breast cancer subtypes</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">77957262381</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.H.</ce:initials>
+<ce:indexed-name>Taube J.H.</ce:indexed-name>
+<ce:surname>Taube</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.I.</ce:initials>
+<ce:indexed-name>Herschkowitz J.I.</ce:indexed-name>
+<ce:surname>Herschkowitz</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Komurov K.</ce:indexed-name>
+<ce:surname>Komurov</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>A.Y.</ce:initials>
+<ce:indexed-name>Zhou A.Y.</ce:indexed-name>
+<ce:surname>Zhou</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Gupta S.</ce:indexed-name>
+<ce:surname>Gupta</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Yang J.</ce:indexed-name>
+<ce:surname>Yang</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Hartwell K.</ce:indexed-name>
+<ce:surname>Hartwell</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>T.T.</ce:initials>
+<ce:indexed-name>Onder T.T.</ce:indexed-name>
+<ce:surname>Onder</ce:surname>
+</author>
+<author seq="9">
+<ce:initials>P.B.</ce:initials>
+<ce:indexed-name>Gupta P.B.</ce:indexed-name>
+<ce:surname>Gupta</ce:surname>
+</author>
+<author seq="10">
+<ce:initials>K.W.</ce:initials>
+<ce:indexed-name>Evans K.W.</ce:indexed-name>
+<ce:surname>Evans</ce:surname>
+</author>
+<et-al/>
+</ref-authors>
+<ref-sourcetitle>Proc. Natl. Acad. Sci. USA</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="107"/>
+<pagerange first="15449" last="15454"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Taube, J.H.; Herschkowitz, J.I.; Komurov, K.; Zhou, A.Y.; Gupta, S.; Yang, J.; Hartwell, K.; Onder, T.T.; Gupta, P.B.; Evans, K.W.; et al. (2010). Core epithelial-to-mesenchymal transition interactome gene-expression signature is associated with claudin-low and metaplastic breast cancer subtypes. Proc. Natl. Acad. Sci. USA 107, 15449-15454.</ref-fulltext>
+</reference>
+<reference id="53">
+<ref-info>
+<ref-title>
+<ref-titletext>TopHat: Discovering splice junctions with RNA-Seq</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">65449136284</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:indexed-name>Trapnell C.</ce:indexed-name>
+<ce:surname>Trapnell</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Pachter L.</ce:indexed-name>
+<ce:surname>Pachter</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.L.</ce:initials>
+<ce:indexed-name>Salzberg S.L.</ce:indexed-name>
+<ce:surname>Salzberg</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bioinformatics</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-volisspag>
+<voliss volume="25"/>
+<pagerange first="1105" last="1111"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Trapnell, C.; Pachter, L.; and Salzberg, S.L. (2009). TopHat: discovering splice junctions with RNA-Seq. Bioinformatics 25, 1105-1111.</ref-fulltext>
+</reference>
+<reference id="54">
+<ref-info>
+<ref-title>
+<ref-titletext>DEGseq: An R package for identifying differentially expressed genes from RNA-seq data</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">75249095274</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Wang L.</ce:indexed-name>
+<ce:surname>Wang</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Z.</ce:initials>
+<ce:indexed-name>Feng Z.</ce:indexed-name>
+<ce:surname>Feng</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>X.</ce:initials>
+<ce:indexed-name>Wang X.</ce:indexed-name>
+<ce:surname>Wang</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>X.</ce:initials>
+<ce:indexed-name>Wang X.</ce:indexed-name>
+<ce:surname>Wang</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>X.</ce:initials>
+<ce:indexed-name>Zhang X.</ce:indexed-name>
+<ce:surname>Zhang</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bioinformatics</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-volisspag>
+<voliss volume="26"/>
+<pagerange first="136" last="138"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Wang, L.; Feng, Z.; Wang, X.; Wang, X.; and Zhang, X. (2010). DEGseq: an R package for identifying differentially expressed genes from RNA-seq data. Bioinformatics 26, 136-138.</ref-fulltext>
+</reference>
+<reference id="55">
+<ref-info>
+<ref-title>
+<ref-titletext>Osteogenic protein-1 binds to activin type II receptors and induces certain activin-like effects</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0029003377</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Yamashita H.</ce:indexed-name>
+<ce:surname>Yamashita</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Ten Dijke P.</ce:indexed-name>
+<ce:surname>Ten Dijke</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Huylebroeck D.</ce:indexed-name>
+<ce:surname>Huylebroeck</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.K.</ce:initials>
+<ce:indexed-name>Sampath T.K.</ce:indexed-name>
+<ce:surname>Sampath</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Andries M.</ce:indexed-name>
+<ce:surname>Andries</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>J.C.</ce:initials>
+<ce:indexed-name>Smith J.C.</ce:indexed-name>
+<ce:surname>Smith</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>C.H.</ce:initials>
+<ce:indexed-name>Heldin C.H.</ce:indexed-name>
+<ce:surname>Heldin</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>K.</ce:initials>
+<ce:indexed-name>Miyazono K.</ce:indexed-name>
+<ce:surname>Miyazono</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>J. Cell Biol.</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<ref-volisspag>
+<voliss volume="130"/>
+<pagerange first="217" last="226"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>Yamashita, H.; ten Dijke, P.; Huylebroeck, D.; Sampath, T.K.; Andries, M.; Smith, J.C.; Heldin, C.H.; and Miyazono, K. (1995). Osteogenic protein-1 binds to activin type II receptors and induces certain activin-like effects. J. Cell Biol. 130, 217-226.</ref-fulltext>
+</reference>
+</bibliography></tail></bibrecord></item></abstracts-retrieval-response>

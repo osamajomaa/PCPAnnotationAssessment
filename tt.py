@@ -1,7 +1,8 @@
-heading = "Audiometry/*methods"
-term = "methods"
+import cPickle
 
-if heading.lower().find(term) != -1:
-    print 'found!'
-else:
-    print 'not found!!'
+pmid_pmid = cPickle.load(open("SCOPUS_API_Files/"+"pmid_pmid_mouse"))
+
+for pmid in pmid_pmid:
+    print pmid
+    print pmid_pmid[pmid]
+    print "\n\n"
