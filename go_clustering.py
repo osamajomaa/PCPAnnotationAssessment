@@ -67,7 +67,7 @@ def build_clusters(species):
     pickle_data(pmid_go_cc, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_go_cc_"+species))
     pickle_data(pmid_go_bp, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_go_bp_"+species))
     pickle_data(pmid_go, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_go_"+species))
-    
+
     pickle_data(pmid_prot_mf, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_prot_mf_"+species))
     pickle_data(pmid_prot_cc, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_prot_cc_"+species))
     pickle_data(pmid_prot_bp, os.path.join(CURR_PATH, "Pickled_Data/"+species+"/pmid_prot_bp_"+species))

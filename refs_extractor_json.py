@@ -2,12 +2,14 @@ from Bio.UniProt import GOA
 import httplib
 from urllib import urlencode
 import json
+import os
 import cPickle
 from _mysql_exceptions import Error
 
 RESPONSE_FORMAT = "application/json"
 API_KEY = "eeeeac63bdcbd8551deacd2d4d445a00"
 CONN_STRING = "api.elsevier.com:80"
+CURR_PATH = os.path.dirname(os.path.realpath(__file__))
 
 def get_pmids_from_gaf(gaf_file):
     """
@@ -116,16 +118,14 @@ def create_err_file(paper_errors, species):
     
 if __name__ == "__main__":
     
-    
-    gaf_file = "GOA_Files/gene_association.goa_mouse"
-    pmid_list = get_pmids_from_gaf(gaf_file)
-    pmid_refs, paper_errors = ref_grabber(pmid_list)
+    pmid_list = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/mouse/pmid_mouse")))
+    pmid_refs, paper_errors = ref_grabber(pmid_list[:4])
     create_ref_file(pmid_refs, "mouse")
     create_err_file(paper_errors, "mouse")
+    print "finished Mouse!"
     
-    gaf_file = "GOA_Files/gene_association.goa_human"
-    pmid_list = get_pmids_from_gaf(gaf_file)
-    pmid_refs, paper_errors = ref_grabber(pmid_list)
-    create_ref_file(pmid_refs, "human")
-    create_err_file(paper_errors, "human")
+#     pmid_list = cPickle.load(open(os.path.join(CURR_PATH,"Pickled_Data/human/pmid_human")))
+#     pmid_refs, paper_errors = ref_grabber(pmid_list)
+#     create_ref_file(pmid_refs, "human")
+#     create_err_file(paper_errors, "human")
     
