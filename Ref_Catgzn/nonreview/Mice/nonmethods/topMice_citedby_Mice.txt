@@ -1,0 +1,652 @@
+Top 50 Mice papers that are cited by Mice papers:
+
+PMID: 8837770
+Number of times this paper has been cited = 98
+Title: Cyclopia and defective axial patterning in mice lacking Sonic hedgehog gene function.
+Journal: Nature
+Publication Date: Oct, 1996
+Abstract:
+Targeted gene disruption in the mouse shows that the Sonic hedgehog (Shh) gene plays a critical role in patterning of vertebrate embryonic tissues, including the brain and spinal cord, the axial skeleton and the limbs. Early defects are observed in the establishment or maintenance of midline structures, such as the notochord and the floorplate, and later defects include absence of distal limb structures, cyclopia, absence of ventral cell types within the neural tube, and absence of the spinal column and most of the ribs. Defects in all tissues extend beyond the normal sites of Shh transcription, confirming the proposed role of Shh proteins as an extracellular signal required for the tissue-organizing properties of several vertebrate patterning centres.
+
+
+
+
+
+
+PMID: 9916792
+Number of times this paper has been cited = 73
+Title: Generalized lacZ expression with the ROSA26 Cre reporter strain.
+Journal: Nature genetics
+Publication Date: Jan, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 8378314
+Number of times this paper has been cited = 64
+Title: Derivation of completely cell culture-derived mice from early-passage embryonic stem cells.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Publication Date: Sep, 1993
+Abstract:
+Several newly generated mouse embryonic stem (ES) cell lines were tested for their ability to produce completely ES cell-derived mice at early passage numbers by ES cell <==> tetraploid embryo aggregation. One line, designated R1, produced live offspring which were completely ES cell-derived as judged by isoenzyme analysis and coat color. These cell culture-derived animals were normal, viable, and fertile. However, prolonged in vitro culture negatively affected this initial totipotency of R1, and after passage 14, ES cell-derived newborns died at birth. However, one of the five subclones (R1-S3) derived from single cells at passage 12 retained the original totipotency and gave rise to viable, completely ES cell-derived animals. The total in vitro culture time of the sublines at the time of testing was equivalent to passage 24 of the original line. Fully potent early passage R1 cells and the R1-S3 subclone should be very useful not only for ES cell-based genetic manipulations but also in defining optimal in vitro culture conditions for retaining the initial totipotency of ES cells.
+
+
+
+
+
+
+PMID: 8075499
+Number of times this paper has been cited = 58
+Title: Maps from two interspecific backcross DNA panels available as a community genetic mapping resource.
+Journal: Mammalian genome : official journal of the International Mammalian Genome Society
+Publication Date: May, 1994
+Abstract:
+We established two mouse interspecific backcross DNA panels, one containing 94 N2 animals from the cross (C57BL/6J x Mus spretus)F1 x C57BL/6J, and another from 94 N2 animals from the reciprocal backcross (C57BL/6J x SPRET/Ei)F1 x SPRET/Ei. We prepared large quantities of DNA from most tissues of each animal to create a community resource of interspecific backcross DNA for use by laboratories interested in mapping loci in the mouse. Initial characterization of the genetic maps of both panels has been completed. We used MIT SSLP markers, proviral loci, and several other sequence-defined genes to anchor our maps to other published maps. The BSB panel map (from the backcross to C57BL/6J) contains 215 loci and is anchored by 45 SSLP and 32 gene sequence loci. The BSS panel map (from the backcross to SPRET/Ei) contains 451 loci and is anchored by 49 SSLP loci, 43 proviral loci, and 60 gene sequence loci. To obtain a high density of markers, we used motif-primed PCR to "fingerprint" the panel DNAs. We constructed two maps, each representing one of the two panels. All new loci can be located with a high degree of certainty on the maps at current marker density. Segregation patterns in these data reveal several examples of transmission ratio distortion and permit analysis of the distribution of crossovers on individual chromosomes.
+
+
+
+
+
+
+PMID: 2065352
+Number of times this paper has been cited = 53
+Title: Neonatal lethality and lymphopenia in mice with a homozygous disruption of the c-abl proto-oncogene.
+Journal: Cell
+Publication Date: Jun, 1991
+Abstract:
+The c-abl proto-oncogene, which encodes a cytoplasmic protein-tyrosine kinase, is expressed throughout murine gestation and ubiquitously in adult mouse tissues. However, its levels are highest in thymus, spleen, and testes. To examine the in vivo role of c-abl, the gene was disrupted in embryonic stem cells, and the resulting genetically modified cells were used to establish a mouse strain carrying the mutation. Most mice homozygous for the c-abl mutation became runted and died 1 to 2 weeks after birth. In addition, many showed thymic and splenic atrophy and a T and B cell lymphopenia.
+
+
+
+
+
+
+PMID: 7566118
+Number of times this paper has been cited = 51
+Title: Parkinsonian-like locomotor impairment in mice lacking dopamine D2 receptors.
+Journal: Nature
+Publication Date: Oct, 1995
+Abstract:
+Dopaminergic neuronal pathways arise from mesencephalic nuclei and project axons to the striatum, cortex, limbic system and hypothalamus. Through these pathways dopamine affects many physiological functions, such as the control of coordinated movement and hormone secretion. Here we have studied the physiological involvement of the dopamine D2 receptors in dopaminergic transmission, using homologous recombination to generate D2-receptor-deficient mice. Absence of D2 receptors leads to animals that are akinetic and bradykinetic in behavioural tests, and which show significantly reduced spontaneous movements. This phenotype presents analogies with symptoms characteristic of Parkinson's disease. Our study shows that D2 receptors have a key role in the dopaminergic control of nervous function. These mice have therapeutic potential as a model for investigating and correcting dysfunctions of the dopaminergic system.
+
+
+
+
+
+
+PMID: 12787505
+Number of times this paper has been cited = 49
+Title: Functional expression cloning of Nanog, a pluripotency sustaining factor in embryonic stem cells.
+Journal: Cell
+Publication Date: May, 2003
+Abstract:
+Embryonic stem (ES) cells undergo extended proliferation while remaining poised for multilineage differentiation. A unique network of transcription factors may characterize self-renewal and simultaneously suppress differentiation. We applied expression cloning in mouse ES cells to isolate a self-renewal determinant. Nanog is a divergent homeodomain protein that directs propagation of undifferentiated ES cells. Nanog mRNA is present in pluripotent mouse and human cell lines, and absent from differentiated cells. In preimplantation embryos, Nanog is restricted to founder cells from which ES cells can be derived. Endogenous Nanog acts in parallel with cytokine stimulation of Stat3 to drive ES cell self-renewal. Elevated Nanog expression from transgene constructs is sufficient for clonal expansion of ES cells, bypassing Stat3 and maintaining Oct4 levels. Cytokine dependence, multilineage differentiation, and embryo colonization capacity are fully restored upon transgene excision. These findings establish a central role for Nanog in the transcription factor hierarchy that defines ES cell identity.
+
+
+
+
+
+
+PMID: 10631169
+Number of times this paper has been cited = 49
+Title: An important role for the IIIb isoform of fibroblast growth factor receptor 2 (FGFR2) in mesenchymal-epithelial signalling during mouse organogenesis.
+Journal: Development (Cambridge, England)
+Publication Date: Feb, 2000
+Abstract:
+The fibroblast growth factor receptor 2 gene is differentially spliced to encode two transmembrane tyrosine kinase receptor proteins that have different ligand-binding specificities and exclusive tissue distributions. We have used Cre-mediated excision to generate mice lacking the IIIb form of fibroblast growth factor receptor 2 whilst retaining expression of the IIIc form. Fibroblast growth factor receptor 2(IIIb) null mice are viable until birth, but have severe defects of the limbs, lung and anterior pituitary gland. The development of these structures appears to initiate, but then fails with the tissues undergoing extensive apoptosis. There are also developmental abnormalities of the salivary glands, inner ear, teeth and skin, as well as minor defects in skull formation. Our findings point to a key role for fibroblast growth factor receptor 2(IIIb) in mesenchymal-epithelial signalling during early organogenesis.
+
+
+
+
+
+
+PMID: 10049358
+Number of times this paper has been cited = 48
+Title: Bmp4 is required for the generation of primordial germ cells in the mouse embryo.
+Journal: Genes & development
+Publication Date: Feb, 1999
+Abstract:
+In many organisms the allocation of primordial germ cells (PGCs) is determined by the inheritance of maternal factors deposited in the egg. However, in mammals, inductive cell interactions are required around gastrulation to establish the germ line. Here, we show that Bmp4 homozygous null embryos contain no PGCs. They also lack an allantois, an extraembryonic mesodermal tissue derived, like the PGCs, from precursors in the proximal epiblast. Heterozygotes have fewer PGCs than normal, due to a reduction in the size of the founding population and not to an effect on its subsequent expansion. Analysis of beta-galactosidase activity in Bmp4(lacZneo) embryos reveals that prior to gastrulation, Bmp4 is expressed in the extraembryonic ectoderm. Later, Bmp4 is expressed in the extraembryonic mesoderm, but not in PGCs. Chimera analysis indicates that it is the Bmp4 expression in the extraembryonic ectoderm that regulates the formation of allantois and primordial germ cell precursors, and the size of the founding population of PGCs. The initiation of the germ line in the mouse therefore depends on a secreted signal from the previously segregated, extraembryonic, trophectoderm lineage.
+
+
+
+
+
+
+PMID: 10830170
+Number of times this paper has been cited = 48
+Title: A homeodomain protein code specifies progenitor cell identity and neuronal fate in the ventral neural tube.
+Journal: Cell
+Publication Date: May, 2000
+Abstract:
+Distinct classes of neurons are generated at defined positions in the ventral neural tube in response to a gradient of Sonic Hedgehog (Shh) activity. A set of homeodomain transcription factors expressed by neural progenitors act as intermediaries in Shh-dependent neural patterning. These homeodomain factors fall into two classes: class I proteins are repressed by Shh and class II proteins require Shh signaling for their expression. The profile of class I and class II protein expression defines five progenitor domains, each of which generates a distinct class of postmitotic neurons. Cross-repressive interactions between class I and class II proteins appear to refine and maintain these progenitor domains. The combinatorial expression of three of these proteins--Nkx6.1, Nkx2.2, and Irx3--specifies the identity of three classes of neurons generated in the ventral third of the neural tube.
+
+
+
+
+
+
+PMID: 7589793
+Number of times this paper has been cited = 47
+Title: Hedgehog and Bmp genes are coexpressed at many diverse sites of cell-cell interaction in the mouse embryo.
+Journal: Developmental biology
+Publication Date: Nov, 1995
+Abstract:
+The mouse Hedgehog gene family consists of three members, Sonic, Desert, and Indian hedgehog (Shh, Dhh, and Ihh, respectively), relatives of the Drosophila segment polarity gene, hedgehog (hh). All encode secreted proteins implicated in cell-cell interactions. One of these, Shh, is expressed in and mediates the signaling activities of several key organizing centers which regulate central nervous system, limb, and somite polarity. However, nothing is known of the roles of Dhh or Ihh, nor of the possible function of Shh during later embryogenesis. We have used serial-section in situ hybridization to obtain a detailed profile of mouse Hh gene expression from 11.5 to 16.5 days post coitum. Apart from the gut, which expresses both Shh and Ihh, there is no overlap in the various Hh expression domains. Shh is predominantly expressed in epithelia at numerous sites of epithelial-mesenchymal interactions, including the tooth, hair, whisker, rugae, gut, bladder, urethra, vas deferens, and lung, Dhh in Schwann and Sertoli cell precursors, and Ihh in gut and cartilage. Thus, it is likely that Hh signaling plays a central role in a diverse array of morphogenetic processes. Furthermore, we have compared Hh expression with that of a second family of signaling molecules, the Bone morphogenetic proteins (Bmps), vertebrate relatives of decapentaplegic, a target of the Drosophila Hh signaling pathway. The frequent expression of Bmp-2, -4, and -6 in similar or adjacent cell populations suggests a conserved role for Hh/Bmp interactions in vertebrate development.
+
+
+
+
+
+
+PMID: 9784490
+Number of times this paper has been cited = 46
+Title: Fgf-10 is required for both limb and lung development and exhibits striking functional similarity to Drosophila branchless.
+Journal: Genes & development
+Publication Date: Oct, 1998
+Abstract:
+Fgf-10-deficient mice (Fgf-10(-/-)) were generated to determine the role(s) of Fgf-10 in vertebrate development. Limb bud initiation was abolished in Fgf-10(-/-) mice. Strikingly, Fgf-10(-/-) fetuses continued to develop until birth, despite the complete absence of both fore- and hindlimbs. Fgf-10 is necessary for apical ectodermal ridge (AER) formation and acts epistatically upstream of Fgf-8, the earliest known AER marker in mice. Fgf-10(-/-) mice exhibited perinatal lethality associated with complete absence of lungs. Although tracheal development was normal, main-stem bronchial formation, as well as all subsequent pulmonary branching morphogenesis, was completely disrupted. The pulmonary phenotype of Fgf-10(-/-) mice is strikingly similar to that of the Drosophila mutant branchless, an Fgf homolog.
+
+
+
+
+
+
+PMID: 10725237
+Number of times this paper has been cited = 45
+Title: Fate of the mammalian cardiac neural crest.
+Journal: Development (Cambridge, England)
+Publication Date: Apr, 2000
+Abstract:
+A subpopulation of neural crest termed the cardiac neural crest is required in avian embryos to initiate reorganization of the outflow tract of the developing cardiovascular system. In mammalian embryos, it has not been previously experimentally possible to study the long-term fate of this population, although there is strong inference that a similar population exists and is perturbed in a number of genetic and teratogenic contexts. We have employed a two-component genetic system based on Cre/lox recombination to label indelibly the entire mouse neural crest population at the time of its formation, and to detect it at any time thereafter. Labeled cells are detected throughout gestation and in postnatal stages in major tissues that are known or predicted to be derived from neural crest. Labeling is highly specific and highly efficient. In the region of the heart, neural-crest-derived cells surround the pharyngeal arch arteries from the time of their formation and undergo an altered distribution coincident with the reorganization of these vessels. Labeled cells populate the aorticopulmonary septum and conotruncal cushions prior to and during overt septation of the outflow tract, and surround the thymus and thyroid as these organs form. Neural-crest-derived mesenchymal cells are abundantly distributed in midgestation (E9.5-12.5), and adult derivatives of the third, fourth and sixth pharyngeal arch arteries retain a substantial contribution of labeled cells. However, the population of neural-crest-derived cells that infiltrates the conotruncus and which surrounds the noncardiac pharyngeal organs is either overgrown or selectively eliminated as development proceeds, resulting for these tissues in a modest to marginal contribution in late fetal and postnatal life.
+
+
+
+
+
+
+PMID: 12787504
+Number of times this paper has been cited = 45
+Title: The homeoprotein Nanog is required for maintenance of pluripotency in mouse epiblast and ES cells.
+Journal: Cell
+Publication Date: May, 2003
+Abstract:
+Embryonic stem (ES) cells derived from the inner cell mass (ICM) of blastocysts grow infinitely while maintaining pluripotency. Leukemia inhibitory factor (LIF) can maintain self-renewal of mouse ES cells through activation of Stat3. However, LIF/Stat3 is dispensable for maintenance of ICM and human ES cells, suggesting that the pathway is not fundamental for pluripotency. In search of a critical factor(s) that underlies pluripotency in both ICM and ES cells, we performed in silico differential display and identified several genes specifically expressed in mouse ES cells and preimplantation embryos. We found that one of them, encoding the homeoprotein Nanog, was capable of maintaining ES cell self-renewal independently of LIF/Stat3. nanog-deficient ICM failed to generate epiblast and only produced parietal endoderm-like cells. nanog-deficient ES cells lost pluripotency and differentiated into extraembryonic endoderm lineage. These data demonstrate that Nanog is a critical factor underlying pluripotency in both ICM and ES cells.
+
+
+
+
+
+
+PMID: 12514105
+Number of times this paper has been cited = 44
+Title: Multipotent cell lineages in early mouse development depend on SOX2 function.
+Journal: Genes & development
+Publication Date: Jan, 2003
+Abstract:
+Each cell lineage specified in the preimplantation mammalian embryo depends on intrinsic factors for its development, but there is also mutual interdependence between them. OCT4 is required for the ICM/epiblast lineage, and at transient high levels for extraembryonic endoderm, but also indirectly through its role in regulating Fgf4 expression, for the establishment and proliferation of extraembryonic ectoderm from polar trophectoderm. The transcription factor SOX2 has also been implicated in the regulation of Fgf4 expression. We have used gene targeting to inactivate Sox2, examining the phenotypic consequences in mutant embryos and in chimeras in which the epiblast is rescued with wild-type ES cells. We find a cell-autonomous requirement for the gene in both epiblast and extraembryonic ectoderm, the multipotent precursors of all embryonic and trophoblast cell types, respectively. However, an earlier role within the ICM may be masked by the persistence of maternal protein, whereas the lack of SOX2 only becomes critical in the chorion after 7.5 days postcoitum. Our data suggest that maternal components could be involved in establishing early cell fate decisions and that a combinatorial code, requiring SOX2 and OCT4, specifies the first three lineages present at implantation.
+
+
+
+
+
+
+PMID: 10217145
+Number of times this paper has been cited = 44
+Title: Homeobox gene Nkx2.2 and specification of neuronal identity by graded Sonic hedgehog signalling.
+Journal: Nature
+Publication Date: Apr, 1999
+Abstract:
+During vertebrate development, the specification of distinct cell types is thought to be controlled by inductive signals acting at different concentration thresholds. The degree of receptor activation in response to these signals is a known determinant of cell fate, but the later steps at which graded signals are converted into all-or-none distinctions in cell identity remain poorly resolved. In the ventral neural tube, motor neuron and interneuron generation depends on the graded activity of the signalling protein Sonic hedgehog (Shh). These neuronal subtypes derive from distinct progenitor cell populations that express the homeodomain proteins Nkx2.2 or Pax6 in response to graded Shh signalling. In mice lacking Pax6, progenitor cells generate neurons characteristic of exposure to greater Shh activity. However, Nkx2.2 expression expands dosally in Pax6 mutants, raising the possibility that Pax6 controls neuronal pattern indirectly. Here we provide evidence that Nkx2.2 has a primary role in ventral neuronal patterning. In Nkx2.2 mutants, Pax6 expression is unchanged but cells undergo a ventral-to-dorsal transformation in fate and generate motor neurons rather than interneurons. Thus, Nkx2.2 has an essential role in interpreting graded Shh signals and selecting neuronal identity.
+
+
+
+
+
+
+PMID: 9428423
+Number of times this paper has been cited = 44
+Title: Fibroblast growth factor 10 (FGF10) and branching morphogenesis in the embryonic mouse lung.
+Journal: Development (Cambridge, England)
+Publication Date: Dec, 1997
+Abstract:
+During mouse lung morphogenesis, the distal mesenchyme regulates the growth and branching of adjacent endoderm. We report here that fibroblast growth factor 10 (Fgf10) is expressed dynamically in the mesenchyme adjacent to the distal buds from the earliest stages of lung development. The temporal and spatial pattern of gene expression suggests that Fgf10 plays a role in directional outgrowth and possibly induction of epithelial buds, and that positive and negative regulators of Fgf10 are produced by the endoderm. In transgenic lungs overexpressing Shh in the endoderm, Fgf10 transcription is reduced, suggesting that high levels of SHH downregulate Fgf10. Addition of FGF10 to embryonic day 11.5 lung tissue (endoderm plus mesenchyme) in Matrigel or collagen gel culture elicits a cyst-like expansion of the endoderm after 24 hours. In Matrigel, but not collagen, this is followed by extensive budding after 48-60 hours. This response involves an increase in the rate of endodermal cell proliferation. The activity of FGF1, FGF7 and FGF10 was also tested directly on isolated endoderm in Matrigel culture. Under these conditions, FGF1 elicits immediate endodermal budding, while FGF7 and FGF10 initially induce expansion of the endoderm. However, within 24 hours, samples treated with FGF10 give rise to multiple buds, while FGF7-treated endoderm never progresses to bud formation, at all concentrations of factor tested. Although exogenous FGF1, FGF7 and FGF10 have overlapping activities in vitro, their in vivo expression patterns are quite distinct in relation to early branching events. We conclude that, during early lung development, localized sources of FGF10 in the mesoderm regulate endoderm proliferation and bud outgrowth.
+
+
+
+
+
+
+PMID: 9431803
+Number of times this paper has been cited = 44
+Title: Cerberus-like is a secreted factor with neutralizing activity expressed in the anterior primitive endoderm of the mouse gastrula.
+Journal: Mechanisms of development
+Publication Date: Nov, 1997
+Abstract:
+We report the isolation of mouse cerberus-like (cer-l), a gene encoding a novel secreted protein that is specifically expressed in the anterior visceral endoderm during early gastrulation. Expression in the primitive endoderm starts before the appearance of the primitive streak and lasts until the head-fold stage. In later stages, a second region of expression is found in newly formed somites. Mouse cer-l shares some sequence similarity with Xenopus cerberus (Xcer). In Xenopus assays cer-l, like Xcer, mRNA acts as a potent neuralizing factor that induces forebrain markers and endoderm, but is unable to induce ectopic head-like structures as Xcer does. In addition to cer-l, anterior visceral endoderm was found to express the transcription factors Lim1, goosecoid and HNF-3beta that are also present in trunk organizer cells. A model of how head and trunk development might be regulated is discussed. Given its neuralizing activity, the secreted protein Cer-l is a candidate for mediating inductive activities of anterior visceral endoderm.
+
+
+
+
+
+
+PMID: 12414734
+Number of times this paper has been cited = 43
+Title: The transcription factor Sox9 has essential roles in successive steps of the chondrocyte differentiation pathway and is required for expression of Sox5 and Sox6.
+Journal: Genes & development
+Publication Date: Nov, 2002
+Abstract:
+To examine whether the transcription factor Sox9 has an essential role during the sequential steps of chondrocyte differentiation, we have used the Cre/loxP recombination system to generate mouse embryos in which either Sox9 is missing from undifferentiated mesenchymal cells of limb buds or the Sox9 gene is inactivated after chondrogenic mesenchymal condensations. Inactivation of Sox9 in limb buds before mesenchymal condensations resulted in a complete absence of both cartilage and bone, but markers for the different axes of limb development showed a normal pattern of expression. Apoptotic domains within the developing limbs were expanded, suggesting that Sox9 suppresses apoptosis. Expression of Sox5 and Sox6, two other Sox genes involved in chondrogenesis, was no longer detected. Moreover, expression of Runx2, a transcription factor needed for osteoblast differentiation, was also abolished. Embryos, in which Sox9 was deleted after mesenchymal condensations, exhibited a severe generalized chondrodysplasia, similar to that in Sox5; Sox6 double-null mutant mice. Most cells were arrested as condensed mesenchymal cells and did not undergo overt differentiation into chondrocytes. Furthermore, chondrocyte proliferation was severely inhibited and joint formation was defective. Although Indian hedgehog, Patched1, parathyroid hormone-related peptide (Pthrp), and Pth/Pthrp receptor were expressed, their expression was down-regulated. Our experiments further suggested that Sox9 is also needed to prevent conversion of proliferating chondrocytes into hypertrophic chondrocytes. We conclude that Sox9 is required during sequential steps of the chondrocyte differentiation pathway.
+
+
+
+
+
+
+PMID: 14667410
+Number of times this paper has been cited = 43
+Title: Isl1 identifies a cardiac progenitor population that proliferates prior to differentiation and contributes a majority of cells to the heart.
+Journal: Developmental cell
+Publication Date: Dec, 2003
+Abstract:
+Hearts of mice lacking Isl1, a LIM homeodomain transcription factor, are completely missing the outflow tract, right ventricle, and much of the atria. isl1 expression and lineage tracing of isl1-expressing progenitors demonstrate that Isl1 is a marker for a distinct population of undifferentiated cardiac progenitors that give rise to the cardiac segments missing in isl1 mutants. Isl1 function is required for these progenitors to contribute to the heart. In isl1 mutants, isl1-expressing progenitors are progressively reduced in number, and FGF and BMP growth factors are downregulated. Our studies define two sets of cardiogenic precursors, one of which expresses and requires Isl1 and the other of which does not. Our results have implications for the development of specific cardiac lineages, left-right asymmetry, cardiac evolution, and isolation of cardiac progenitor cells.
+
+
+
+
+
+
+PMID: 10319868
+Number of times this paper has been cited = 43
+Title: Sox9 is required for cartilage formation.
+Journal: Nature genetics
+Publication Date: May, 1999
+Abstract:
+Chondrogenesis results in the formation of cartilages, initial skeletal elements that can serve as templates for endochondral bone formation. Cartilage formation begins with the condensation of mesenchyme cells followed by their differentiation into chondrocytes. Although much is known about the terminal differentiation products that are expressed by chondrocytes, little is known about the factors that specify the chondrocyte lineage. SOX9 is a high-mobility-group (HMG) domain transcription factor that is expressed in chondrocytes and other tissues. In humans, SOX9 haploinsufficiency results in campomelic dysplasia, a lethal skeletal malformation syndrome, and XY sex reversal. During embryogenesis, Sox9 is expressed in all cartilage primordia and cartilages, coincident with the expression of the collagen alpha1(II) gene (Col2a1) . Sox9 is also expressed in other tissues, including the central nervous and urogenital systems. Sox9 binds to essential sequences in the Col2a1 and collagen alpha2(XI) gene (Col11a2) chondrocyte-specific enhancers and can activate these enhancers in non-chondrocytic cells. Here, Sox9 is identified as a regulator of the chondrocyte lineage. In mouse chimaeras, Sox9-/- cells are excluded from all cartilages but are present as a juxtaposed mesenchyme that does not express the chondrocyte-specific markers Col2a1, Col9a2, Col11a2 and Agc. This exclusion occurred cell autonomously at the condensing mesenchyme stage of chondrogenesis. Moreover, no cartilage developed in teratomas derived from Sox9-/- embryonic stem (ES) cells. Our results identify Sox9 as the first transcription factor that is essential for chondrocyte differentiation and cartilage formation.
+
+
+
+
+
+
+PMID: 3194019
+Number of times this paper has been cited = 42
+Title: Disruption of the proto-oncogene int-2 in mouse embryo-derived stem cells: a general strategy for targeting mutations to non-selectable genes.
+Journal: Nature
+Publication Date: Nov, 1988
+Abstract:
+Gene targeting--homologous recombination of DNA sequences residing in the chromosome with newly introduced DNA sequences--in mouse embryo-derived stem cells promises to provide a means to generate mice of any desired genotype. We describe a positive nd negative selection procedure that enriches 2,000-fold for those cells that contain a targeted mutation. The procedure was applied to the isolation of hprt- and int-2- mutants, but it should be applicable to any gene.
+
+
+
+
+
+
+PMID: 9851930
+Number of times this paper has been cited = 40
+Title: Defective LPS signaling in C3H/HeJ and C57BL/10ScCr mice: mutations in Tlr4 gene.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 1998
+Abstract:
+Mutations of the gene Lps selectively impede lipopolysaccharide (LPS) signal transduction in C3H/HeJ and C57BL/10ScCr mice, rendering them resistant to endotoxin yet highly susceptible to Gram-negative infection. The codominant Lpsd allele of C3H/HeJ mice was shown to correspond to a missense mutation in the third exon of the Toll-like receptor-4 gene (Tlr4), predicted to replace proline with histidine at position 712 of the polypeptide chain. C57BL/10ScCr mice are homozygous for a null mutation of Tlr4. Thus, the mammalian Tlr4 protein has been adapted primarily to subserve the recognition of LPS and presumably transduces the LPS signal across the plasma membrane. Destructive mutations of Tlr4 predispose to the development of Gram-negative sepsis, leaving most aspects of immune function intact.
+
+
+
+
+
+
+PMID: 9916808
+Number of times this paper has been cited = 40
+Title: Fgf10 is essential for limb and lung formation.
+Journal: Nature genetics
+Publication Date: Jan, 1999
+Abstract:
+The interactions between fibroblast growth factors (FGF) and their receptors have important roles in mediating mesenchymal-epithelial cell interactions during embryogenesis. In particular, Fgf10 is predicted to function as a regulator of brain, lung and limb development on the basis of its spatiotemporal expression pattern in the developing embryo. To define the role of Fgf10, we generated Fgf10-deficient mice. Fgf10-/- mice died at birth due to the lack of lung development. Trachea was formed, but subsequent pulmonary branching morphogenesis was disrupted. In addition, mutant mice had complete truncation of the fore- and hindlimbs. In Fgf10-/- embryos, limb bud formation was initiated but outgrowth of the limb buds did not occur; however, formation of the clavicles was not affected. Analysis of the expression of marker genes in the mutant limb buds indicated that the apical ectodermal ridge (AER) and the zone of polarizing activity (ZPA) did not form. Thus, we show here that Fgf10 serves as an essential regulator of lung and limb formation.
+
+
+
+
+
+
+PMID: 7596435
+Number of times this paper has been cited = 40
+Title: Failure of blood-island formation and vasculogenesis in Flk-1-deficient mice.
+Journal: Nature
+Publication Date: Jul, 1995
+Abstract:
+The receptor tyrosine kinase Flk-1 (ref. 1) is believed to play a pivotal role in endothelial development. Expression of the Flk-1 receptor is restricted to endothelial cells and their embryonic precursors, and is complementary to that of its ligand, vascular endothelial growth factor (VEGF), which is an endothelial-specific mitogen. Highest levels of flk-1 expression are observed during embryonic vasculogenesis and angiogenesis, and during pathological processes associated with neovascularization, such as tumour angiogenesis. Because flk-1 expression can be detected in presumptive mesodermal yolk-sac blood-island progenitors as early as 7.0 days postcoitum, Flk-1 may mark the putative common embryonic endothelial and haematopoietic precursor, the haemangioblast, and thus may also be involved in early haematopoiesis. Here we report the generation of mice deficient in Flk-1 by disruption of the gene using homologous recombination in embryonic stem (ES) cells. Embryos homozygous for this mutation die in utero between 8.5 and 9.5 days post-coitum, as a result of an early defect in the development of haematopoietic and endothelial cells. Yolk-sac blood islands were absent at 7.5 days, organized blood vessels could not be observed in the embryo or yolk sac at any stage, and haematopoietic progenitors were severely reduced. These results indicate that Flk-1 is essential for yolk-sac blood-island formation and vasculogenesis in the mouse embryo.
+
+
+
+
+
+
+PMID: 11262227
+Number of times this paper has been cited = 38
+Title: Inactivation of the beta-catenin gene by Wnt1-Cre-mediated deletion results in dramatic brain malformation and failure of craniofacial development.
+Journal: Development (Cambridge, England)
+Publication Date: Apr, 2001
+Abstract:
+beta-Catenin is a central component of both the cadherin-catenin cell adhesion complex and the Wnt signaling pathway. We have investigated the role of beta-catenin during brain morphogenesis, by specifically inactivating the beta-catenin gene in the region of Wnt1 expression. To achieve this, mice with a conditional ('floxed') allele of beta-catenin with required exons flanked by loxP recombination sequences were intercrossed with transgenic mice that expressed Cre recombinase under control of Wnt1 regulatory sequences. beta-Catenin gene deletion resulted in dramatic brain malformation and failure of craniofacial development. Absence of part of the midbrain and all of the cerebellum is reminiscent of the conventional Wnt1 knockout (Wnt1(-/-)), suggesting that Wnt1 acts through beta-catenin in controlling midbrain-hindbrain development. The craniofacial phenotype, not observed in embryos that lack Wnt1, indicates a role for beta-catenin in the fate of neural crest cells. Analysis of neural tube explants shows that (beta-catenin is efficiently deleted in migrating neural crest cell precursors. This, together with an increased apoptosis in cells migrating to the cranial ganglia and in areas of prechondrogenic condensations, suggests that removal of beta-catenin affects neural crest cell survival and/or differentiation. Our results demonstrate the pivotal role of beta-catenin in morphogenetic processes during brain and craniofacial development.
+
+
+
+
+
+
+PMID: 14603322
+Number of times this paper has been cited = 38
+Title: Hedgehog signalling in the mouse requires intraflagellar transport proteins.
+Journal: Nature
+Publication Date: Nov, 2003
+Abstract:
+Intraflagellar transport (IFT) proteins were first identified as essential factors for the growth and maintenance of flagella in the single-celled alga Chlamydomonas reinhardtii. In a screen for embryonic patterning mutations induced by ethylnitrosourea, here we identify two mouse mutants, wimple (wim) and flexo (fxo), that lack ventral neural cell types and show other phenotypes characteristic of defects in Sonic hedgehog signalling. Both mutations disrupt IFT proteins: the wim mutation is an allele of the previously uncharacterized mouse homologue of IFT172; and fxo is a new hypomorphic allele of polaris, the mouse homologue of IFT88. Genetic analysis shows that Wim, Polaris and the IFT motor protein Kif3a are required for Hedgehog signalling at a step downstream of Patched1 (the Hedgehog receptor) and upstream of direct targets of Hedgehog signalling. Our data show that IFT machinery has an essential and vertebrate-specific role in Hedgehog signal transduction.
+
+
+
+
+
+
+PMID: 9136933
+Number of times this paper has been cited = 38
+Title: Requirement of the transcription factor GATA4 for heart tube formation and ventral morphogenesis.
+Journal: Genes & development
+Publication Date: Apr, 1997
+Abstract:
+The zinc finger transcription factor GATA4 has been implicated in heart development based on its early expression in precardiogenic splanchnic mesoderm and its ability to activate the expression of a number of cardiac-specific genes. To determine the role of GATA4 in embryogenesis, we generated mice homozygous for a GATA4 null allele. Homozygous GATA4 null mice arrested in development between E7.0 and E9.5 because of severe developmental abnormalities. Mutant embryos most notably lacked a primitive heart tube and foregut and developed partially outside the yolk sac. In the mutants, the two bilaterally symmetric promyocardial primordia failed to migrate ventrally but instead remained lateral and generated two independent heart tubes that contained differentiated cardiomyocytes. We show that these deformities resulted from a general loss in lateral to ventral folding throughout the embryo. GATA4 is most highly expressed within the precardiogenic splanchnic mesoderm at the posterior lip of the anterior intestinal portal, corresponding to the region of the embryo that undergoes ventral fusion. We propose that GATA4 is required for the migration or folding morphogenesis of the precardiogenic splanchnic mesodermal cells at the level of the AIP.
+
+
+
+
+
+
+PMID: 9136932
+Number of times this paper has been cited = 38
+Title: GATA4 transcription factor is required for ventral morphogenesis and heart tube formation.
+Journal: Genes & development
+Publication Date: Apr, 1997
+Abstract:
+Previous studies have suggested that the GATA4 transcription factor plays an important role in regulating mammalian cardiac development. In the studies described in this report we have used gene targeting to produce GATA4-deficient mice. Homozygous GATA4-deficient (GATA4-/-) mice died between 8.5 and 10.5 days post coitum (dpc). GATA4-/- embryos displayed severe defects in both rostral-to-caudal and lateral-to-ventral folding, which were reflected in a generalized disruption of the ventral body pattern. This resulted in the defective formation of an organized foregut and anterior intestinal pore, the failure to close both the amniotic cavity and yolk sac, and the uniform lack of a ventral pericardial cavity and heart tube. Analysis of cardiac development in the GATA4-/- mice demonstrated that these embryos developed splanchnic mesoderm, which differentiated into primitive cardiac myocytes that expressed contractile proteins. However, consistent with the observed defect in ventral morphogenesis, these GATA4-/- procardiomyocytes failed to migrate to the ventral midline to form a linear heart tube and instead formed aberrant cardiac structures in the anterior and dorsolateral regions of the embryo. The defect in ventral migration of the GATA4-/- procardiomyocytes was not cell intrinsic because GATA4-/- cardiac myocytes and endocardial cells populated the hearts of GATA4-/- -C57BL/6 chimeric mice. Taken together, these results demonstrated that GATA4 is not essential for the specification of the cardiac cell lineages. However, they define a critical role for GATA4 in regulating the rostral-to-caudal and lateral-to-ventral folding of the embryo that is needed for normal cardiac morphogenesis.
+
+
+
+
+
+
+PMID: 8557195
+Number of times this paper has been cited = 38
+Title: The T/ebp null mouse: thyroid-specific enhancer-binding protein is essential for the organogenesis of the thyroid, lung, ventral forebrain, and pituitary.
+Journal: Genes & development
+Publication Date: Jan, 1996
+Abstract:
+The thyroid-specific enhancer-binding protein (T/ebp) gene was disrupted by homologous recombination in embryonic stem cells to generate mice lacking T/EBP expression. Heterozygous animals developed normally, whereas mice homozygous for the disrupted gene were born dead and lacked the lung parenchyma. Instead, they had a rudimentary bronchial tree associated with an abnormal epithelium in their pleural cavities. Furthermore, the homozygous mice had no thyroid gland but had a normal parathyroid. In addition, extensive defects were found in the brain of the homozygous mice, especially in the ventral region of the forebrain. The entire pituitary, including the anterior, intermediate, and posterior pituitary, was also missing. In situ hybridization showed that the T/ebp gene is expressed in the normal thyroid, lung bronchial epithelium, and specific areas of the forebrain during early embryogenesis. These results establish that the expression of T/EBP, a transcription factor known to control thyroid-specific gene transcription, is also essential for organogenesis of the thyroid, lung, ventral forebrain, and pituitary.
+
+
+
+
+
+
+PMID: 9814708
+Number of times this paper has been cited = 37
+Title: Formation of pluripotent stem cells in the mammalian embryo depends on the POU transcription factor Oct4.
+Journal: Cell
+Publication Date: Oct, 1998
+Abstract:
+Oct4 is a mammalian POU transcription factor expressed by early embryo cells and germ cells. We report that the activity of Oct4 is essential for the identity of the pluripotential founder cell population in the mammalian embryo. Oct4-deficient embryos develop to the blastocyst stage, but the inner cell mass cells are not pluripotent. Instead, they are restricted to differentiation along the extraembryonic trophoblast lineage. Furthermore, in the absence of a true inner cell mass, trophoblast proliferation is not maintained in Oct4-/- embryos. Expansion of trophoblast precursors is restored, however, by an Oct4 target gene product, fibroblast growth factor-4. Therefore, Oct4 also determines paracrine growth factor signaling from stem cells to the trophectoderm.
+
+
+
+
+
+
+PMID: 11371349
+Number of times this paper has been cited = 37
+Title: beta-Catenin controls hair follicle morphogenesis and stem cell differentiation in the skin.
+Journal: Cell
+Publication Date: May, 2001
+Abstract:
+beta-Catenin is an essential molecule in Wnt/wingless signaling, which controls decisive steps in embryogenesis. To study the role of beta-catenin in skin development, we introduced a conditional mutation of the gene in the epidermis and hair follicles using Cre/loxP technology. When beta-catenin is mutated during embryogenesis, formation of placodes that generate hair follicles is blocked. We show that beta-catenin is required genetically downstream of tabby/downless and upstream of bmp and shh in placode formation. If beta-catenin is deleted after hair follicles have formed, hair is completely lost after the first hair cycle. Further analysis demonstrates that beta-catenin is essential for fate decisions of skin stem cells: in the absence of beta-catenin, stem cells fail to differentiate into follicular keratinocytes, but instead adopt an epidermal fate.
+
+
+
+
+
+
+PMID: 11017169
+Number of times this paper has been cited = 37
+Title: Specification of ventral neuron types is mediated by an antagonistic interaction between Shh and Gli3.
+Journal: Nature neuroscience
+Publication Date: Oct, 2000
+Abstract:
+Specification of distinct neuron types in the ventral spinal cord is thought to be mediated by a graded concentration of Sonic hedgehog (Shh), a secreted signaling protein. Shh is made in the notochord, the most ventral part of the spinal cord, and in mice lacking Shh, ventral cell types are reduced or absent. The response to Shh depends on transcription factors of the Gli family, but the detailed mechanism is not understood. Here we show that Gli3 represses ventral fates in a dose-dependent manner. Whereas Shh -/- mutant mice show reductions in several classes of ventral interneurons and a complete absence of motor neurons, these cell types were rescued in Shh-/-;Gli3 -/- double mutants. This rescue of the Shh null phenotype depended on the level of Gli3 function; a partial rescue was observed in Shh-/-;Gli3 +/- embryos. We propose that Shh is required to antagonize Gli3, which would otherwise repress ventral fates. Differences between rostral and caudal regions suggest that other signaling molecules-in addition to Shh-may be involved in specifying ventral fates, particularly in the caudal region of the spinal cord.
+
+
+
+
+
+
+PMID: 7569956
+Number of times this paper has been cited = 36
+Title: Bax-deficient mice with lymphoid hyperplasia and male germ cell death.
+Journal: Science (New York, N.Y.)
+Publication Date: Oct, 1995
+Abstract:
+BAX, a heterodimeric partner of BCL2, counters BCL2 and promotes apoptosis in gain-of-function experiments. A Bax knockout mouse was generated that proved viable but displayed lineage-specific aberrations in cell death. Thymocytes and B cells in this mouse displayed hyperplasia, and Bax-deficient ovaries contained unusual atretic follicles with excess granulosa cells. In contrast, Bax-deficient males were infertile as a result of disordered seminiferous tubules with an accumulation of atypical premeiotic germ cells, but no mature haploid sperm. Multinucleated giant cells and dysplastic cells accompanied massive cell death. Thus, the loss of Bax results in hyperplasia or hypoplasia, depending on the cellular context.
+
+
+
+
+
+
+PMID: 7791788
+Number of times this paper has been cited = 36
+Title: Identification of a new family of tissue-specific basic helix-loop-helix proteins with a two-hybrid system.
+Journal: Molecular and cellular biology
+Publication Date: Jul, 1995
+Abstract:
+With modified two-hybrid technology, we have isolated a member of a new family of basic helix-loop-helix (bHLH) transcription factors. Thing1 (Th1) was identified in a screen of a mouse embryo cDNA library as a partner for the Drosophila E protein daughterless. RNA in situ hybridization and reverse transcriptase-PCR demonstrate a stage- and tissue-specific distribution for the expression of Th1. Although tissue specific, the expression pattern of Th1 is fairly complex. During development, Th1 mRNA is widely expressed in extraembryonic tissues, portions of the heart, autonomic ganglia, the gut, and pharyngeal arches. At embryonic day 7.5 (E7.5), extraembryonic derivatives show robust Th1 expression. By E8.5, expression in the embryonic heart becomes detectable. During the next 2 days of development, the signal also includes gut and pharyngeal arches. Predominant expression at E13.5 is in neural crest derivatives, especially the autonomic nervous system and adrenal medulla. Expression of Th1 persists in the adult, in which it is localized to the smooth muscle cells of the gut. In vitro, Th1 protein recognizes a set of DNA sites that are more degenerate than has been determined for other bHLH factors, indicating a reduced binding specificity. Transient transfection of NIH 3T3 cells with GAL4-Th1 fusions reveals a repression activity mediated by the Th1 bHLH domain. In combination, these properties define Th1 as a new bHLH protein with a unique set of properties.
+
+
+
+
+
+
+PMID: 11029008
+Number of times this paper has been cited = 36
+Title: An LDL-receptor-related protein mediates Wnt signalling in mice.
+Journal: Nature
+Publication Date: Sep, 2000
+Abstract:
+Wnt genes comprise a large family of secreted polypeptides that are expressed in spatially and tissue-restricted patterns during vertebrate embryonic development. Mutational analysis in mice has shown the importance of Wnts in controlling diverse developmental processes such as patterning of the body axis, central nervous system and limbs, and the regulation of inductive events during organogenesis. Although many components of the Wnt signalling pathway have been identified, little is known about how Wnts and their cognate Frizzled receptors signal to downstream effector molecules. Here we present evidence that a new member of the low-density lipoprotein (LDL)-receptor-related protein family, LRP6 (ref. 3), is critical for Wnt signalling in mice. Embryos homozygous for an insertion mutation in the LRP6 gene exhibit developmental defects that are a striking composite of those caused by mutations in individual Wnt genes. Furthermore, we show a genetic enhancement of a Wnt mutant phenotype in mice lacking one functional copy of LRP6. Together, our results support a broad role for LRP6 in the transduction of several Wnt signals in mammals.
+
+
+
+
+
+
+PMID: 7768185
+Number of times this paper has been cited = 36
+Title: The mouse Fgf8 gene encodes a family of polypeptides and is expressed in regions that direct outgrowth and patterning in the developing embryo.
+Journal: Development (Cambridge, England)
+Publication Date: Feb, 1995
+Abstract:
+Evidence is accumulating that members of the FGF gene family provide signals that act locally to regulate growth and patterning in vertebrate embryos. In this report, we provide a detailed analysis of the mouse Fgf8 gene. We have mapped the Fgf8 locus to the distal region of mouse chromosome 19, and sequenced the 5' coding region of the gene. Our data identify a new coding exon, and locate multiple splice donor and splice acceptor sites that can be used to produce at least seven transcripts encoding a family of secreted FGF8 proteins with different N termini. From these results, it appears that Fgf8 is structurally the most complex member of the FGF family described to date. In the embryo, many of the regions in which Fgf8 RNA is localized are known to direct outgrowth and patterning, including the apical ectodermal ridge of the limb bud, the primitive streak and tail bud, the surface ectoderm overlying the facial primorida and the midbrain-hindbrain junction, suggesting that FGF8 may be a component of the regulatory signals that emanate from these regions.
+
+
+
+
+
+
+PMID: 10742100
+Number of times this paper has been cited = 36
+Title: Quantitative expression of Oct-3/4 defines differentiation, dedifferentiation or self-renewal of ES cells.
+Journal: Nature genetics
+Publication Date: Apr, 2000
+Abstract:
+Cell fate during development is defined by transcription factors that act as molecular switches to activate or repress specific gene expression programmes. The POU transcription factor Oct-3/4 (encoded by Pou5f1) is a candidate regulator in pluripotent and germline cells and is essential for the initial formation of a pluripotent founder cell population in the mammalian embryo. Here we use conditional expression and repression in embryonic stem (ES) cells to determine requirements for Oct-3/4 in the maintenance of developmental potency. Although transcriptional determination has usually been considered as a binary on-off control system, we found that the precise level of Oct-3/4 governs three distinct fates of ES cells. A less than twofold increase in expression causes differentiation into primitive endoderm and mesoderm. In contrast, repression of Oct-3/4 induces loss of pluripotency and dedifferentiation to trophectoderm. Thus a critical amount of Oct-3/4 is required to sustain stem-cell self-renewal, and up- or downregulation induce divergent developmental programmes. Our findings establish a role for Oct-3/4 as a master regulator of pluripotency that controls lineage commitment and illustrate the sophistication of critical transcriptional regulators and the consequent importance of quantitative analyses.
+
+
+
+
+
+
+PMID: 14723851
+Number of times this paper has been cited = 35
+Title: All mouse ventral spinal cord patterning by hedgehog is Gli dependent and involves an activator function of Gli3.
+Journal: Developmental cell
+Publication Date: Jan, 2004
+Abstract:
+An important question is how the gradient of Hedgehog is interpreted by cells at the level of the Gli transcription factors. The full range of Gli activity and its dependence on Hh have not been determined, although the Gli2 activator and Gli3 repressor have been implicated. Using the spinal cord as a model system, we demonstrate that Gli3 can transduce Hedgehog signaling as an activator. All expression of the Hh target gene Gli1 is dependent on both Gli2 and Gli3. Unlike Gli2, however, Gli3 requires endogenous Gli1 for induction of floor plate and V3 interneurons. Strikingly, embryos lacking all Gli function develop motor neurons and three ventral interneuron subtypes, similar to embryos lacking Hh signaling and Gli3. Therefore, in the spinal cord all Hh signaling is Gli dependent. Furthermore, a combination of Gli2 and Gli3 is required to regulate motor neuron development and spatial patterning of ventral spinal cord progenitors.
+
+
+
+
+
+
+PMID: 8595881
+Number of times this paper has been cited = 35
+Title: Conservation of the hedgehog/patched signaling pathway from flies to mice: induction of a mouse patched gene by Hedgehog.
+Journal: Genes & development
+Publication Date: Feb, 1996
+Abstract:
+The signaling protein Hedgehog (Hh) controls cell fate and polarizes tissues in both flies and vertebrates. In flies, Hh exerts its effects by opposing the function of a novel transmembrane protein, Patched, while also locally inducing patched (ptc) transcription. We have identified a mouse homolog of ptc which in many tissues is transcribed near cells making either Sonic or Indian hedgehog. In addition, ectopic Sonic hedgehog expression in the mouse central nervous system induces ptc transcription. As in flies, mouse ptc transcription appears to be indicative of hedgehog signal reception. The results support the existence of a conserved signaling pathway used for pattern formation in insects and mammals.
+
+
+
+
+
+
+PMID: 12626757
+Number of times this paper has been cited = 35
+Title: Mapping Wnt/beta-catenin signaling during mouse development and in colorectal tumors.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Publication Date: Mar, 2003
+Abstract:
+Wntbeta-catenin signaling plays key roles in several developmental and pathological processes. Domains of Wnt expression have been extensively investigated in the mouse, but the tissues receiving the signal remain largely unidentified. To define which cells respond to activated beta-catenin during mammalian development, we generated the beta-catenin-activated transgene driving expression of nuclear beta-galactosidase reporter (BAT-gal) transgenic mice, expressing the lacZ gene under the control of beta-cateninT cell factor responsive elements. Reporter gene activity is found in known organizing centers, such as the midhindbrain border and the limb apical ectodermal ridge. Moreover, BAT-gal expression identifies novel sites of Wnt signaling, like notochord, endothelia, and areas of the adult brain, revealing an unsuspected dynamic pattern of beta-catenin transcriptional activity. Expression of the transgene was analyzed in mutant backgrounds. In lipoprotein receptor-related protein 6-null homozygous mice, which lack a Wnt coreceptor, BAT-gal staining is absent in mutant tissues, indicating that BAT-gal mice are bona fide in vivo indicators of Wntbeta-catenin signaling. Analyses of BAT-gal expression in the adenomatous polyposis coli (multiple intestinal neoplasia+) background revealed betacatenin transcriptional activity in intestinal adenomas but surprisingly not in normal crypt cells. In summary, BAT-gal mice unveil the entire complexity of Wntbeta-catenin signaling in mammals and have broad application potentials for the identification of Wnt-responsive cell populations in development and disease.
+
+
+
+
+
+
+PMID: 9006067
+Number of times this paper has been cited = 35
+Title: Involvement of Sonic hedgehog (Shh) in mouse embryonic lung growth and morphogenesis.
+Journal: Development (Cambridge, England)
+Publication Date: Jan, 1997
+Abstract:
+Branching morphogenesis of the embryonic lung requires interactions between the epithelium and the mesenchyme. Previously, we reported that Sonic hedgehog (Shh) transcripts are present in the epithelium of the developing mouse lung, with highest levels in the terminal buds. Here, we report that transcripts of mouse patched (Ptc), the homologue of a Drosophila gene encoding a putative transmembrane protein required for hedgehog signaling, are expressed at high levels in the mesenchyme adjacent to the end buds. To investigate the function of SHH in lung development, Shh was overexpressed throughout the distal epithelium, using the surfactant protein-C (SP-C)-enhancer/promoter. Beginning around 16.5 dpc, when Shh and Ptc RNA levels are normally both declining, this treatment caused an increase in the ratio of interstitial mesenchyme to epithelial tubules in transgenic compared to normal lungs. Transgenic newborn mice die soon after birth. Histological analysis of the lungs at the light and electron microscope level shows an abundance of mesenchyme and the absence of typical alveoli. In vivo BrdU labeling indicates that Shh overexpression results in increased mesenchymal and epithelial cell proliferation at 16.5 and 17.5 dpc. However, analysis of CC-10 and SP-C expression reveals no significant inhibition in the differentiation of proximal and distal epithelial cells. The expression of genes potentially regulated by SHH was also examined. No difference could be observed between transgenic and control lungs in either the level or distribution of Bmp4, Wnt2 and Fgf7 RNA. By contrast, Ptc is clearly upregulated in the transgenic lung. These results thus establish a role for SHH in lung morphogenesis, and suggest that SHH normally regulates lung mesenchymal cell proliferation in vivo.
+
+
+
+
+
+
+PMID: 8090202
+Number of times this paper has been cited = 35
+Title: Essential role of Mash-2 in extraembryonic development.
+Journal: Nature
+Publication Date: Sep, 1994
+Abstract:
+The outer layer of the blastocyst, or trophectoderm, is the first cell lineage to differentiate in the mouse embryo, but little is known about the genetic control of its development. Lineage-specific transcription factors may be important in lineage specification, and the product of the Mash-2 gene fulfils the criteria for such a factor. Mash-2 is a mammalian member of the achaete-scute family which encodes basic-helix-loop-helix transcription factors and is strongly expressed in the extraembryonic trophoblast lineage. Mash-2 transcripts are found in the female germ line and in the embryo throughout preimplantation development, but are highly expressed later only in the ectoplacental cone, the chorion and their derivatives in the placenta. Mash-2 transcripts are not found in primary and secondary giant cells, yolk sac or allantois at any post-implantation stage, and are present only transiently and at low levels in the embryo during gastrulation. To analyse the role of Mash-2 in development, we have used gene targeting to generate mice having no Mash-2 function. We report here that Mash-2-/- embryos die from placental failure at 10 days postcoitum. In mutant placentas, spongiotrophoblast cells and their precursors are absent and chorionic ectoderm is reduced. We have rescued this placental mutant phenotype by constructing chimaeras with tetraploid wild-type embryos which contribute almost exclusively to extraembryonic tissues. Mash-2-/- embryos developed normally and adult Mash-2-/- mice were viable, demonstrating that Mash-2 has no major role in the embryo itself. Mash-2 is the first transcription factor shown to play a critical part in the development of the mammalian trophoblast lineage.
+
+
+
+
+
+
+PMID: 8602242
+Number of times this paper has been cited = 35
+Title: Heterozygous embryonic lethality induced by targeted inactivation of the VEGF gene.
+Journal: Nature
+Publication Date: Apr, 1996
+Abstract:
+Angiogenesis is required for a wide variety of physiological and pathological processes. The endothelial cell-specific mitogen vascular endothelial growth factor (VEGF) is a major mediator of pathological angiogenesis. Also, the expression of VEGF and its two receptors, Flt-1 and Flk-1/KDR, is related to the formation of blood vessels in mouse and rat embryos. Mice homozygous for mutations that inactivate either receptor die in utero between days 8.5 and 9.5. However, ligand(s) other than VEGF might activate such receptors. To assess the role of VEGF directly, we disrupted the VEGF gene in embryonic stem cells. Here we report the unexpected finding that loss of a single VEGF allele is lethal in the mouse embryo between days 11 and 12. Angiogenesis and blood-island formation were impaired, resulting in several developmental anomalies. Furthermore, VEGF-null embryonic stem cells exhibit a dramatically reduced ability to form tumours in nude mice.
+
+
+
+
+
+
+PMID: 10677506
+Number of times this paper has been cited = 35
+Title: neurogenin3 is required for the development of the four endocrine cell lineages of the pancreas.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Publication Date: Feb, 2000
+Abstract:
+In the mammalian pancreas, the endocrine cell types of the islets of Langerhans, including the alpha-, beta-, delta-, and pancreatic polypeptide cells as well as the exocrine cells, derive from foregut endodermal progenitors. Recent genetic studies have identified a network of transcription factors, including Pdx1, Isl1, Pax4, Pax6, NeuroD, Nkx2.2, and Hlxb9, regulating the development of islet cells at different stages, but the molecular mechanisms controlling the specification of pancreatic endocrine precursors remain unknown. neurogenin3 (ngn3) is a member of a family of basic helix-loop-helix transcription factors that is involved in the determination of neural precursor cells in the neuroectoderm. ngn3 is expressed in discrete regions of the nervous system and in scattered cells in the embryonic pancreas. We show herein that ngn3-positive cells coexpress neither insulin nor glucagon, suggesting that ngn3 marks early precursors of pancreatic endocrine cells. Mice lacking ngn3 function fail to generate any pancreatic endocrine cells and die postnatally from diabetes. Expression of Isl1, Pax4, Pax6, and NeuroD is lost, and endocrine precursors are lacking in the mutant pancreatic epithelium. Thus, ngn3 is required for the specification of a common precursor for the four pancreatic endocrine cell types.
+
+
+
+
+
+
+PMID: 10498690
+Number of times this paper has been cited = 35
+Title: Multiple roles for activated LEF/TCF transcription complexes during hair follicle development and differentiation.
+Journal: Development (Cambridge, England)
+Publication Date: Oct, 1999
+Abstract:
+LEF/TCF DNA-binding proteins act in concert with activated beta -catenin, the product of Wnt signaling, to transactivate downstream target genes. To probe the role of activated LEF/TCF transcription factor complexes in hair follicle morphogenesis and differentiation, we engineered mice harboring TOPGAL, a beta -galactosidase gene under the control of a LEF/TCF and beta -catenin inducible promoter. In mice, TOPGAL expression was directly stimulated by a stabilized form of beta -catenin, but was also dependent upon LEF1/TCF3 in skin. During embryogenesis, TOPGAL activation occurred transiently in a subset of LEF1-positive cells of pluripotent ectoderm and underlying mesenchyme. Downgrowth of initiated follicles proceeded in the absence of detectable TOPGAL expression, even though LEF1 was still expressed. While proliferative matrix cells expressed the highest levels of Lef1 mRNAs, LEF1 concentrated in the precursor cells to the hair shaft, where TOPGAL expression was co-induced with hair-specific keratin genes containing LEF/TCF-binding motifs. LEF1 and TOPGAL expression ceased during catagen and telogen, but reappeared at the start of the postnatal hair cycle, concomitant with precortex formation. In contrast to hair shaft precursor cells, postnatal outer root sheath expressed TCF3, but not TOPGAL. TCF3 was also expressed in the putative follicle stem cells, and while TOPGAL was generally silent in this compartment, it was stimulated at the start of the hair cycle in a fashion that appeared to be dependent upon stabilization of beta -catenin. Taken together, our findings demonstrate that LEF1/TCF3 is necessary but not sufficient for TOPGAL activation, revealing the existence of positive and negative regulators of these factors in the skin. Furthermore, our findings unveil the importance of activated LEF/TCF complexes at distinct times in hair development and cycling when changes in cell fate and differentiation commitments take place.
+
+
+
+
+
+
+PMID: 9162005
+Number of times this paper has been cited = 35
+Title: Control of mouse cardiac morphogenesis and myogenesis by transcription factor MEF2C.
+Journal: Science (New York, N.Y.)
+Publication Date: May, 1997
+Abstract:
+Members of the myocyte enhancer factor-2 (MEF2) family of MADS (MCM1, agamous, deficiens, serum response factor)-box transcription factors bind an A-T-rich DNA sequence associated with muscle-specific genes. The murine MEF2C gene is expressed in heart precursor cells before formation of the linear heart tube. In mice homozygous for a null mutation of MEF2C, the heart tube did not undergo looping morphogenesis, the future right ventricle did not form, and a subset of cardiac muscle genes was not expressed. The absence of the right ventricular region of the mutant heart correlated with down-regulation of the dHAND gene, which encodes a basic helix-loop-helix transcription factor required for cardiac morphogenesis. Thus, MEF2C is an essential regulator of cardiac myogenesis and right ventricular development.
+
+
+
+
+
+
+PMID: 9334308
+Number of times this paper has been cited = 35
+Title: Interneuron migration from basal forebrain to neocortex: dependence on Dlx genes.
+Journal: Science (New York, N.Y.)
+Publication Date: Oct, 1997
+Abstract:
+Although previous analyses indicate that neocortical neurons originate from the cortical proliferative zone, evidence suggests that a subpopulation of neocortical interneurons originates within the subcortical telencephalon. For example, gamma-aminobutyric acid (GABA)-expressing cells migrate in vitro from the subcortical telencephalon into the neocortex. The number of GABA-expressing cells in neocortical slices is reduced by separating the neocortex from the subcortical telencephalon. Finally, mice lacking the homeodomain proteins DLX-1 and DLX-2 show no detectable cell migration from the subcortical telencephalon to the neocortex and also have few GABA-expressing cells in the neocortex.
+
+
+
+
+
+
+PMID: 8069909
+Number of times this paper has been cited = 35
+Title: HNF-3 beta is essential for node and notochord formation in mouse development.
+Journal: Cell
+Publication Date: Aug, 1994
+Abstract:
+HNF-3 beta, a member of the HNF-3/fork head family of transcription factors, is expressed in the node, notochord, floor plate, and gut in mouse embryos. A null mutation of this gene leads to embryonic lethality. The primary defect of HNF-3 beta -/- embryos is an absence of organized node and notochord formation, which leads to secondary defects in dorsal-ventral patterning of the neural tube. In contrast, patterning along the anterior-posterior axis was surprisingly little affected. Although HNF-3 beta is required for node and notochord formation, some organizer activity persists in the absence of these structures. HNF-3 beta is not required for the development of definitive endoderm cells, but foregut morphogenesis is severely affected in HNF-3 beta -/- embryos.
+
+
+
+
+
+
+PMID: 11792318
+Number of times this paper has been cited = 34
+Title: The novel zinc finger-containing transcription factor osterix is required for osteoblast differentiation and bone formation.
+Journal: Cell
+Publication Date: Jan, 2002
+Abstract:
+We have identified a novel zinc finger-containing transcription factor, called Osterix (Osx), that is specifically expressed in all developing bones. In Osx null mice, no bone formation occurs. In endochondral skeletal elements of Osx null mice, mesenchymal cells, together with osteoclasts and blood vessels, invade the mineralized cartilage matrix. However, the mesenchymal cells do not deposit bone matrix. Similarly, cells in the periosteum and in the condensed mesenchyme of membranous skeletal elements cannot differentiate into osteoblasts. These cells do, however, express Runx2/Cbfa1, another transcription factor required for bone formation. In contrast, Osx is not expressed in Runx2/Cbfa1 null mice. Thus, Osx acts downstream of Runx2/Cbfa1. Because Osx null preosteoblasts express typical chondrocyte marker genes, we propose that Runx2/Cbfa1-expressing preosteoblasts are still bipotential cells.
+
+
+
+
+
+

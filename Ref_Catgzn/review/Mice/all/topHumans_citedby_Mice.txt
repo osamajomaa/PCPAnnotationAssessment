@@ -1,0 +1,652 @@
+Top 50 Humans papers that are cited by Mice papers:
+
+PMID: 9254694
+Number of times this paper has been cited = 173
+Title: Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.
+Journal: Nucleic acids research
+Publication Date: Sep, 1997
+Abstract:
+The BLAST programs are widely used tools for searching protein and DNA databases for sequence similarities. For protein comparisons, a variety of definitional, algorithmic and statistical refinements described here permits the execution time of the BLAST programs to be decreased substantially while enhancing their sensitivity to weak similarities. A new criterion for triggering the extension of word hits, combined with a new heuristic for generating gapped alignments, yields a gapped BLAST program that runs at approximately three times the speed of the original. In addition, a method is introduced for automatically combining statistically significant alignments produced by BLAST into a position-specific score matrix, and searching the database using this matrix. The resulting Position-Specific Iterated BLAST (PSI-BLAST) program runs at approximately the same speed per iteration as gapped BLAST, but in many cases is much more sensitive to weak but biologically relevant sequence similarities. PSI-BLAST is used to uncover several new and interesting members of the BRCT superfamily.
+
+
+
+
+
+
+PMID: 11731473
+Number of times this paper has been cited = 81
+Title: Hedgehog signaling in animal development: paradigms and principles.
+Journal: Genes & development
+Publication Date: Dec, 2001
+Abstract:
+
+
+
+
+
+
+
+PMID: 10221902
+Number of times this paper has been cited = 74
+Title: Notch signaling: cell fate control and signal integration in development.
+Journal: Science (New York, N.Y.)
+Publication Date: Apr, 1999
+Abstract:
+Notch signaling defines an evolutionarily ancient cell interaction mechanism, which plays a fundamental role in metazoan development. Signals exchanged between neighboring cells through the Notch receptor can amplify and consolidate molecular differences, which eventually dictate cell fates. Thus, Notch signals control how cells respond to intrinsic or extrinsic developmental cues that are necessary to unfold specific developmental programs. Notch activity affects the implementation of differentiation, proliferation, and apoptotic programs, providing a general developmental tool to influence organ formation and morphogenesis.
+
+
+
+
+
+
+PMID: 15473860
+Number of times this paper has been cited = 70
+Title: The Wnt signaling pathway in development and disease.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 2004
+Abstract:
+Tight control of cell-cell communication is essential for the generation of a normally patterned embryo. A critical mediator of key cell-cell signaling events during embryogenesis is the highly conserved Wnt family of secreted proteins. Recent biochemical and genetic analyses have greatly enriched our understanding of how Wnts signal, and the list of canonical Wnt signaling components has exploded. The data reveal that multiple extracellular, cytoplasmic, and nuclear regulators intricately modulate Wnt signaling levels. In addition, receptor-ligand specificity and feedback loops help to determine Wnt signaling outputs. Wnts are required for adult tissue maintenance, and perturbations in Wnt signaling promote both human degenerative diseases and cancer. The next few years are likely to see novel therapeutic reagents aimed at controlling Wnt signaling in order to alleviate these conditions.
+
+
+
+
+
+
+PMID: 9438836
+Number of times this paper has been cited = 63
+Title: Rho GTPases and the actin cytoskeleton.
+Journal: Science (New York, N.Y.)
+Publication Date: Jan, 1998
+Abstract:
+The actin cytoskeleton mediates a variety of essential biological functions in all eukaryotic cells. In addition to providing a structural framework around which cell shape and polarity are defined, its dynamic properties provide the driving force for cells to move and to divide. Understanding the biochemical mechanisms that control the organization of actin is thus a major goal of contemporary cell biology, with implications for health and disease. Members of the Rho family of small guanosine triphosphatases have emerged as key regulators of the actin cytoskeleton, and furthermore, through their interaction with multiple target proteins, they ensure coordinated control of other cellular activities such as gene transcription and adhesion.
+
+
+
+
+
+
+PMID: 9988215
+Number of times this paper has been cited = 56
+Title: Axis development and early asymmetry in mammals.
+Journal: Cell
+Publication Date: Jan, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 9407023
+Number of times this paper has been cited = 53
+Title: Wnt signaling: a common theme in animal development.
+Journal: Genes & development
+Publication Date: Dec, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 9759503
+Number of times this paper has been cited = 48
+Title: TGF-beta signal transduction.
+Journal: Annual review of biochemistry
+Publication Date: , 1998
+Abstract:
+The transforming growth factor beta (TGF-beta) family of growth factors control the development and homeostasis of most tissues in metazoan organisms. Work over the past few years has led to the elucidation of a TGF-beta signal transduction network. This network involves receptor serine/threonine kinases at the cell surface and their substrates, the SMAD proteins, which move into the nucleus, where they activate target gene transcription in association with DNA-binding partners. Distinct repertoires of receptors, SMAD proteins, and DNA-binding partners seemingly underlie, in a cell-specific manner, the multifunctional nature of TGF-beta and related factors. Mutations in these pathways are the cause of various forms of human cancer and developmental disorders.
+
+
+
+
+
+
+PMID: 17081971
+Number of times this paper has been cited = 46
+Title: Wnt/beta-catenin signaling in development and disease.
+Journal: Cell
+Publication Date: Nov, 2006
+Abstract:
+A remarkable interdisciplinary effort has unraveled the WNT (Wingless and INT-1) signal transduction cascade over the last two decades. Wnt genes encode small secreted proteins that are found in all animal genomes. Wnt signaling is involved in virtually every aspect of embryonic development and also controls homeostatic self-renewal in a number of adult tissues. Germline mutations in the Wnt pathway cause several hereditary diseases, and somatic mutations are associated with cancer of the intestine and a variety of other tissues.
+
+
+
+
+
+
+PMID: 8679005
+Number of times this paper has been cited = 43
+Title: Interpreting cDNA sequences: some insights from studies on translation.
+Journal: Mammalian genome : official journal of the International Mammalian Genome Society
+Publication Date: Aug, 1996
+Abstract:
+This review discusses some rules for assessing the completeness of a cDNA sequence and identifying the start site for translation. Features commonly invoked-such as an ATG codon in a favorable context for initiation, or the presence of an upstream in-frame terminator codon, or the prediction of a signal peptide-like sequence at the amino terminus-have some validity; but examples drawn from the literature illustrate limitations to each of these criteria. The best advice is to inspect a cDNA sequence not only for these positive features but also for the absence of certain negative indicators. Three specific warning signs are discussed and documented: (i) The presence of numerous ATG codons upstream from the presumptive start site for translation often indicates an aberration (sometimes a retained intron) at the 5' end of the cDNA. (ii) Even one strong, upstream, out-of-frame ATG codon poses a problem if the reading frame set by the upstream ATG overlaps the presumptive start of the major open reading frame. Many cDNAs that display this arrangement turn out to be incomplete; that is, the out-of-frame ATG codon is within, rather than upstream from, the protein coding domain. (iii) A very weak context at the putative start site for translation often means that the cDNA lacks the authentic initiator codon. In addition to presenting some criteria that may aid in recognizing incomplete cDNA sequences, the review includes some advice for using in vitro translation systems for the expression of cDNAs. Some unresolved questions about translational regulation are discussed by way of illustrating the importance of verifying mRNA structures before making deductions about translation.
+
+
+
+
+
+
+PMID: 9109485
+Number of times this paper has been cited = 43
+Title: Mechanisms of angiogenesis.
+Journal: Nature
+Publication Date: Apr, 1997
+Abstract:
+After the developing embryo has formed a primary vascular plexus by a process termed vasculogenesis, further blood vessels are generated by both sprouting and non-sprouting angiogenesis, which are progressively pruned and remodelled into a functional adult circulatory system. Recent results, particularly from the study of mice lacking some of the signalling systems involved, have greatly improved our understanding of the molecular basis underlying these events, and may suggest new approaches for treating conditions such as cancer that depend on angiogenesis.
+
+
+
+
+
+
+PMID: 12478284
+Number of times this paper has been cited = 41
+Title: Rho GTPases in cell biology.
+Journal: Nature
+Publication Date: Dec, 2002
+Abstract:
+Rho GTPases are molecular switches that control a wide variety of signal transduction pathways in all eukaryotic cells. They are known principally for their pivotal role in regulating the actin cytoskeleton, but their ability to influence cell polarity, microtubule dynamics, membrane transport pathways and transcription factor activity is probably just as significant. Underlying this biological complexity is a simple biochemical idea, namely that by switching on a single GTPase, several distinct signalling pathways can be coordinately activated. With spatial and temporal activation of multiple switches factored in, it is not surprising to find Rho GTPases having such a prominent role in eukaryotic cell biology.
+
+
+
+
+
+
+PMID: 15084453
+Number of times this paper has been cited = 41
+Title: LDL receptor-related proteins 5 and 6 in Wnt/beta-catenin signaling: arrows point the way.
+Journal: Development (Cambridge, England)
+Publication Date: Apr, 2004
+Abstract:
+Wnt signaling through the canonical beta-catenin pathway plays essential roles in development and disease. Low-density-lipoprotein receptor-related proteins 5 and 6 (Lrp5 and Lrp6) in vertebrates, and their Drosophila ortholog Arrow, are single-span transmembrane proteins that are indispensable for Wnt/beta-catenin signaling, and are likely to act as Wnt co-receptors. This review highlights recent progress and unresolved issues in understanding the function and regulation of Arrow/Lrp5/Lrp6 in Wnt signaling. We discuss Arrow/Lrp5/Lrp6 interactions with Wnt and the Frizzled family of Wnt receptors, and with the intracellular beta-catenin degradation apparatus. We also discuss the regulation of Lrp5/Lrp6 by other extracellular ligands, and LRP5 mutations associated with familial osteoporosis and other disorders.
+
+
+
+
+
+
+PMID: 10921899
+Number of times this paper has been cited = 41
+Title: Wnt signaling and cancer.
+Journal: Genes & development
+Publication Date: Aug, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 9735050
+Number of times this paper has been cited = 39
+Title: The Bcl-2 protein family: arbiters of cell survival.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 1998
+Abstract:
+Bcl-2 and related cytoplasmic proteins are key regulators of apoptosis, the cell suicide program critical for development, tissue homeostasis, and protection against pathogens. Those most similar to Bcl-2 promote cell survival by inhibiting adapters needed for activation of the proteases (caspases) that dismantle the cell. More distant relatives instead promote apoptosis, apparently through mechanisms that include displacing the adapters from the pro-survival proteins. Thus, for many but not all apoptotic signals, the balance between these competing activities determines cell fate. Bcl-2 family members are essential for maintenance of major organ systems, and mutations affecting them are implicated in cancer.
+
+
+
+
+
+
+PMID: 12094208
+Number of times this paper has been cited = 39
+Title: Proneural genes and the specification of neural cell types.
+Journal: Nature reviews. Neuroscience
+Publication Date: Jul, 2002
+Abstract:
+Certain morphological, physiological and molecular characteristics are shared by all neurons. However, despite these similarities, neurons constitute the most diverse cell population of any organism. Recently, considerable attention has been focused on identifying the molecular mechanisms that underlie this cellular diversity. Parallel studies in Drosophila and vertebrates have revealed that proneural genes are key regulators of neurogenesis, coordinating the acquisition of a generic neuronal fate and of specific subtype identities that are appropriate for the location and time of neuronal generation. These studies reveal that, in spite of differences between invertebrate and vertebrate neural lineages, Drosophila and vertebrate proneural genes have remarkably similar roles.
+
+
+
+
+
+
+PMID: 9393997
+Number of times this paper has been cited = 39
+Title: TGF-beta signalling from cell membrane to nucleus through SMAD proteins.
+Journal: Nature
+Publication Date: Dec, 1997
+Abstract:
+The recent identification of the SMAD family of signal transducer proteins has unravelled the mechanisms by which transforming growth factor-beta (TGF-beta) signals from the cell membrane to the nucleus. Pathway-restricted SMADs are phosphorylated by specific cell-surface receptors that have serine/threonine kinase activity, then they oligomerize with the common mediator Smad4 and translocate to the nucleus where they direct transcription to effect the cell's response to TGF-beta. Inhibitory SMADs have been identified that block the activation of these pathway-restricted SMADs.
+
+
+
+
+
+
+PMID: 7913880
+Number of times this paper has been cited = 38
+Title: Hox genes in vertebrate development.
+Journal: Cell
+Publication Date: Jul, 1994
+Abstract:
+
+
+
+
+
+
+
+PMID: 9039259
+Number of times this paper has been cited = 38
+Title: p53, the cellular gatekeeper for growth and division.
+Journal: Cell
+Publication Date: Feb, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 10652267
+Number of times this paper has been cited = 38
+Title: The coregulator exchange in transcriptional functions of nuclear receptors.
+Journal: Genes & development
+Publication Date: Jan, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 8521507
+Number of times this paper has been cited = 37
+Title: The nuclear receptor superfamily: the second decade.
+Journal: Cell
+Publication Date: Dec, 1995
+Abstract:
+
+
+
+
+
+
+
+PMID: 12809600
+Number of times this paper has been cited = 37
+Title: Mechanisms of TGF-beta signaling from cell membrane to the nucleus.
+Journal: Cell
+Publication Date: Jun, 2003
+Abstract:
+TGF-beta signaling controls a plethora of cellular responses and figures prominently in animal development. Recent cellular, biochemical, and structural studies have revealed significant insight into the mechanisms of the activation of TGF-beta receptors through ligand binding, the activation of Smad proteins through phosphorylation, the transcriptional regulation of target gene expression, and the control of Smad protein activity and degradation. This article reviews these latest advances and presents our current understanding on the mechanisms of TGF-beta signaling from cell membrane to the nucleus.
+
+
+
+
+
+
+PMID: 17320507
+Number of times this paper has been cited = 37
+Title: Chromatin modifications and their function.
+Journal: Cell
+Publication Date: Feb, 2007
+Abstract:
+The surface of nucleosomes is studded with a multiplicity of modifications. At least eight different classes have been characterized to date and many different sites have been identified for each class. Operationally, modifications function either by disrupting chromatin contacts or by affecting the recruitment of nonhistone proteins to chromatin. Their presence on histones can dictate the higher-order chromatin structure in which DNA is packaged and can orchestrate the ordered recruitment of enzyme complexes to manipulate DNA. In this way, histone modifications have the potential to influence many fundamental biological processes, some of which may be epigenetically inherited.
+
+
+
+
+
+
+PMID: 9620845
+Number of times this paper has been cited = 35
+Title: The roles of FGFs in the early development of vertebrate limbs.
+Journal: Genes & development
+Publication Date: Jun, 1998
+Abstract:
+
+
+
+
+
+
+
+PMID: 3313277
+Number of times this paper has been cited = 34
+Title: An analysis of 5'-noncoding sequences from 699 vertebrate messenger RNAs.
+Journal: Nucleic acids research
+Publication Date: Oct, 1987
+Abstract:
+5'-Noncoding sequences have been compiled from 699 vertebrate mRNAs. (GCC) GCCA/GCCATGG emerges as the consensus sequence for initiation of translation in vertebrates. The most highly conserved position in that motif is the purine in position -3 (three nucleotides upstream from the ATG codon); 97% of vertebrate mRNAs have a purine, most often A, in that position. The periodical occurrence of G (in positions -3, -6, -9) is discussed. Upstream ATG codons occur in fewer than 10% of vertebrate mRNAs-at-large; a notable exception are oncogene transcripts, two-thirds of which have ATG codons preceding the start of the major open reading frame. The leader sequences of most vertebrate mRNAs fall in the size range of 20 to 100 nucleotides. The significance of shorter and longer 5'-noncoding sequences is discussed.
+
+
+
+
+
+
+PMID: 7985020
+Number of times this paper has been cited = 34
+Title: Implantation and the placenta: key pieces of the development puzzle.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 1994
+Abstract:
+The mammalian embryo cannot develop without the placenta. Its specialized cells (trophoblast, endoderm, and extraembryonic mesoderm) form early in development. They attach the embryo to the uterus (implantation) and form vascular connections necessary for nutrient transport. In addition, the placenta redirects maternal endocrine, immune, and metabolic functions to the embryo's advantage. These complex activities are sensitive to disruption, as shown by the high incidence of early embryonic mortality and pregnancy diseases in humans, as well as the numerous peri-implantation lethal mutations in mice. Integration of molecular and developmental approaches has recently produced insights into the molecules that control these processes.
+
+
+
+
+
+
+PMID: 11007473
+Number of times this paper has been cited = 33
+Title: RING finger proteins: mediators of ubiquitin ligase activity.
+Journal: Cell
+Publication Date: Sep, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 7531822
+Number of times this paper has been cited = 33
+Title: Protein modules and signalling networks.
+Journal: Nature
+Publication Date: Feb, 1995
+Abstract:
+Communication between cells assumes particular importance in multicellular organisms. The growth, migration and differentiation of cells in the embryo, and their organization into specific tissues, depend on signals transmitted from one cell to another. In the adult, cell signalling orchestrates normal cellular behaviour and responses to wounding and infection. The consequences of breakdowns in this signalling underlie cancer, diabetes and disorders of the immune and cardiovascular systems. Conserved protein domains that act as key regulatory participants in many of these different signalling pathways are highlighted.
+
+
+
+
+
+
+PMID: 10611221
+Number of times this paper has been cited = 33
+Title: Helix-loop-helix proteins: regulators of transcription in eucaryotic organisms.
+Journal: Molecular and cellular biology
+Publication Date: Jan, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 11071752
+Number of times this paper has been cited = 32
+Title: Phylogeny of the SOX family of developmental transcription factors based on sequence and structural indicators.
+Journal: Developmental biology
+Publication Date: Nov, 2000
+Abstract:
+Members of the SOX family of transcription factors are found throughout the animal kingdom, are characterized by the presence of a DNA-binding HMG domain, and are involved in a diverse range of developmental processes. Previous attempts to group SOX genes and deduce their structural, functional, and evolutionary relationships have relied largely on complete or partial HMG box sequence of a limited number of genes. In this study, we have used complete HMG domain sequence, full-length protein structure, and gene organization data to study the pattern of evolution within the family. For the first time, a substantial number of invertebrate SOX sequences have been included in the analysis. We find support for subdivision of the family into groups A-H, as has been suggested in some previous studies, and for the assignment of two new groups, I and J. For vertebrate genes, it appears that relatedness as suggested by HMG domain sequence is congruent with relatedness as indicated by overall structure of the full-length protein and intron-exon structure of the genes. Most of the SOX groups identified in vertebrates were represented by a single SOX sequence in each invertebrate species studied. We have named anonymous sequences and, where appropriate, have suggested systematic names for some previously identified sequences. In addition, we identify an HMG domain signature motif which may be considered representative of the SOX family. Based on our data, we propose a robust phylogeny of SOX genes that reflects their evolutionary history in metazoans.
+
+
+
+
+
+
+PMID: 10444588
+Number of times this paper has been cited = 32
+Title: BCL-2 family members and the mitochondria in apoptosis.
+Journal: Genes & development
+Publication Date: Aug, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 11283303
+Number of times this paper has been cited = 31
+Title: PDZ domains and the organization of supramolecular complexes.
+Journal: Annual review of neuroscience
+Publication Date: , 2001
+Abstract:
+PDZ domains are modular protein interaction domains that bind in a sequence-specific fashion to short C-terminal peptides or internal peptides that fold in a beta-finger. The diversity of PDZ binding specificities can be explained by variable amino acids lining the peptide-binding groove of the PDZ domain. Abundantly represented in Caenorhabditis elegans, Drosophila melanogaster, and mammalian genomes, PDZ domains are frequently found in multiple copies or are associated with other protein-binding motifs in multidomain scaffold proteins. PDZ-containing proteins are typically involved in the assembly of supramolecular complexes that perform localized signaling functions at particular subcellular locations. Organization around a PDZ-based scaffold allows the stable localization of interacting proteins and enhances the rate and fidelity of signal transduction within the complex. Some PDZ-containing proteins are more dynamically regulated in distribution and may also be involved in the trafficking of interacting proteins within the cell.
+
+
+
+
+
+
+PMID: 12509125
+Number of times this paper has been cited = 31
+Title: Developmental roles and clinical significance of hedgehog signaling.
+Journal: Current topics in developmental biology
+Publication Date: , 2003
+Abstract:
+Cell signaling plays a key role in the development of all multicellular organisms. Numerous studies have established the importance of Hedgehog signaling in a wide variety of regulatory functions during the development of vertebrate and invertebrate organisms. Several reviews have discussed the signaling components in this pathway, their various interactions, and some of the general principles that govern Hedgehog signaling mechanisms. This review focuses on the developing systems themselves, providing a comprehensive survey of the role of Hedgehog signaling in each of these. We also discuss the increasing significance of Hedgehog signaling in the clinical setting.
+
+
+
+
+
+
+PMID: 7834743
+Number of times this paper has been cited = 31
+Title: Modular binding domains in signal transduction proteins.
+Journal: Cell
+Publication Date: Jan, 1995
+Abstract:
+
+
+
+
+
+
+
+PMID: 9988217
+Number of times this paper has been cited = 30
+Title: Morphogenesis.
+Journal: Cell
+Publication Date: Jan, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 8608588
+Number of times this paper has been cited = 30
+Title: Cell adhesion: the molecular basis of tissue architecture and morphogenesis.
+Journal: Cell
+Publication Date: Feb, 1996
+Abstract:
+A variety of cell adhesion mechanisms underlie the way that cells are organized in tissues. Stable cell interactions are needed to maintain the structural integrity of tissues, and dynamic changes in cell adhesion participate in the morphogenesis of developing tissues. Stable interactions actually require active adhesion mechanisms that are very similar to those involved in tissue dynamics. Adhesion mechanisms are highly regulated during tissue morphogenesis and are intimately related to the processes of cell motility and cell migration. In particular, the cadherins and the integrins have been implicated in the control of cell movement. Cadherin mediated cell compaction and cellular rearrangements may be analogous to integrin-mediated cell spreading and motility on the ECM. Regulation of cell adhesion can occur at several levels, including affinity modulation, clustering, and coordinated interactions with the actin cytoskeleton. Structural studies have begun to provide a picture of how the binding properties of adhesion receptors themselves might be regulated. However, regulation of tissue morphogenesis requires complex interactions between the adhesion receptors, the cytoskeleton, and networks of signaling pathways. Signals generated locally by the adhesion receptors themselves are involved in the regulation of cell adhesion. These regulatory pathways are also influenced by extrinsic signals arising from the classic growth factor receptors. Furthermore, signals generated locally be adhesion junctions can interact with classic signal transduction pathways to help control cell growth and differentiation. This coupling between physical adhesion and developmental signaling provides a mechanism to tightly integrate physical aspects of tissue morphogenesis with cell growth and differentiation, a coordination that is essential to achieve the intricate patterns of cells in tissues.
+
+
+
+
+
+
+PMID: 9721089
+Number of times this paper has been cited = 30
+Title: Death receptors: signaling and modulation.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 1998
+Abstract:
+Apoptosis is a cell suicide mechanism that enables metazoans to control cell number in tissues and to eliminate individual cells that threaten the animal's survival. Certain cells have unique sensors, termed death receptors, on their surface. Death receptors detect the presence of extracellular death signals and, in response, they rapidly ignite the cell's intrinsic apoptosis machinery.
+
+
+
+
+
+
+PMID: 11179871
+Number of times this paper has been cited = 30
+Title: Specification of neuronal fates in the ventral neural tube.
+Journal: Current opinion in neurobiology
+Publication Date: Feb, 2001
+Abstract:
+The generation of distinct classes of neurons at defined positions is a fundamental step in the development of the vertebrate central nervous system. Recent work has begun to reveal the extracellular signals and transcriptional mediators that direct the pattern of generation of distinct neuronal subtypes in the neural tube. This work has provided a framework to understand the patterning of the ventral neural tube and is permitting molecular analyses of the assembly of functional neuronal circuits.
+
+
+
+
+
+
+PMID: 12415299
+Number of times this paper has been cited = 29
+Title: Intraflagellar transport.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Nov, 2002
+Abstract:
+Eukaryotic cilia and flagella, including primary cilia and sensory cilia, are highly conserved organelles that project from the surfaces of many cells. The assembly and maintenance of these nearly ubiquitous structures are dependent on a transport system--known as 'intraflagellar transport' (IFT)--which moves non-membrane-bound particles from the cell body out to the tip of the cilium or flagellum, and then returns them to the cell body. Recent results indicate that defects in IFT might be a primary cause of some human diseases.
+
+
+
+
+
+
+PMID: 8895455
+Number of times this paper has been cited = 29
+Title: The molecular biology of axon guidance.
+Journal: Science (New York, N.Y.)
+Publication Date: Nov, 1996
+Abstract:
+Neuronal growth cones navigate over long distances along specific pathways to find their correct targets. The mechanisms and molecules that direct this pathfinding are the topics of this review. Growth cones appear to be guided by at least four different mechanisms: contact attraction, chemoattraction, contact repulsion, and chemorepulsion. Evidence is accumulating that these mechanisms act simultaneously and in a coordinated manner to direct pathfinding and that they are mediated by mechanistically and evolutionarily conserved ligand-receptor systems.
+
+
+
+
+
+
+PMID: 8861899
+Number of times this paper has been cited = 29
+Title: Lessons from hereditary colorectal cancer.
+Journal: Cell
+Publication Date: Oct, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 11276432
+Number of times this paper has been cited = 29
+Title: Fibroblast growth factors.
+Journal: Genome biology
+Publication Date: , 2001
+Abstract:
+Fibroblast growth factors (FGFs) make up a large family of polypeptide growth factors that are found in organisms ranging from nematodes to humans. In vertebrates, the 22 members of the FGF family range in molecular mass from 17 to 34 kDa and share 13-71% amino acid identity. Between vertebrate species, FGFs are highly conserved in both gene structure and amino-acid sequence. FGFs have a high affinity for heparan sulfate proteoglycans and require heparan sulfate to activate one of four cell-surface FGF receptors. During embryonic development, FGFs have diverse roles in regulating cell proliferation, migration and differentiation. In the adult organism, FGFs are homeostatic factors and function in tissue repair and response to injury. When inappropriately expressed, some FGFs can contribute to the pathogenesis of cancer. A subset of the FGF family, expressed in adult tissue, is important for neuronal signal transduction in the central and peripheral nervous systems.
+
+
+
+
+
+
+PMID: 11057903
+Number of times this paper has been cited = 29
+Title: Linking colorectal cancer to Wnt signaling.
+Journal: Cell
+Publication Date: Oct, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 10446041
+Number of times this paper has been cited = 29
+Title: Integrin signaling.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 1999
+Abstract:
+Cells reside in a protein network, the extracellular matrix (ECM), which they secrete and mold into the intercellular space. The ECM exerts profound control over cells. The effects of the matrix are primarily mediated by integrins, a family of cell surface receptors that attach cells to the matrix and mediate mechanical and chemical signals from it. These signals regulate the activities of cytoplasmic kinases, growth factor receptors, and ion channels and control the organization of the intracellular actin cytoskeleton. Many integrin signals converge on cell cycle regulation, directing cells to live or die, to proliferate, or to exit the cell cycle and differentiate.
+
+
+
+
+
+
+PMID: 16314867
+Number of times this paper has been cited = 28
+Title: The cell biology of neurogenesis.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Oct, 2005
+Abstract:
+During the development of the mammalian central nervous system, neural stem cells and their derivative progenitor cells generate neurons by asymmetric and symmetric divisions. The proliferation versus differentiation of these cells and the type of division are closely linked to their epithelial characteristics, notably, their apical-basal polarity and cell-cycle length. Here, we discuss how these features change during development from neuroepithelial to radial glial cells, and how this transition affects cell fate and neurogenesis.
+
+
+
+
+
+
+PMID: 8614825
+Number of times this paper has been cited = 27
+Title: Molecular pathways controlling heart development.
+Journal: Science (New York, N.Y.)
+Publication Date: May, 1996
+Abstract:
+Heart formation requires complex interactions among cells from multiple embryonic origins. Recent studies have begun to reveal the genetic pathways that control cardiac morphogenesis. Many of the genes within these pathways are conserved across vast phylogenetic distances, which has allowed cardiac development to be dissected in organisms ranging from flies to mammals. Studies of cardiac development have also revealed the molecular defects underlying several congenital cardiac malformations in humans and may ultimately provide opportunities for genetic testing and intervention.
+
+
+
+
+
+
+PMID: 12270951
+Number of times this paper has been cited = 27
+Title: Molecular physiology of P2X receptors.
+Journal: Physiological reviews
+Publication Date: Oct, 2002
+Abstract:
+P2X receptors are membrane ion channels that open in response to the binding of extracellular ATP. Seven genes in vertebrates encode P2X receptor subunits, which are 40-50% identical in amino acid sequence. Each subunit has two transmembrane domains, separated by an extracellular domain (approximately 280 amino acids). Channels form as multimers of several subunits. Homomeric P2X1, P2X2, P2X3, P2X4, P2X5, and P2X7 channels and heteromeric P2X2/3 and P2X1/5 channels have been most fully characterized following heterologous expression. Some agonists (e.g., alphabeta-methylene ATP) and antagonists [e.g., 2',3'-O-(2,4,6-trinitrophenyl)-ATP] are strongly selective for receptors containing P2X1 and P2X3 subunits. All P2X receptors are permeable to small monovalent cations; some have significant calcium or anion permeability. In many cells, activation of homomeric P2X7 receptors induces a permeability increase to larger organic cations including some fluorescent dyes and also signals to the cytoskeleton; these changes probably involve additional interacting proteins. P2X receptors are abundantly distributed, and functional responses are seen in neurons, glia, epithelia, endothelia, bone, muscle, and hemopoietic tissues. The molecular composition of native receptors is becoming understood, and some cells express more than one type of P2X receptor. On smooth muscles, P2X receptors respond to ATP released from sympathetic motor nerves (e.g., in ejaculation). On sensory nerves, they are involved in the initiation of afferent signals in several viscera (e.g., bladder, intestine) and play a key role in sensing tissue-damaging and inflammatory stimuli. Paracrine roles for ATP signaling through P2X receptors are likely in neurohypophysis, ducted glands, airway epithelia, kidney, bone, and hemopoietic tissues. In the last case, P2X7 receptor activation stimulates cytokine release by engaging intracellular signaling pathways.
+
+
+
+
+
+
+PMID: 11031233
+Number of times this paper has been cited = 27
+Title: Molecular regulation of adipogenesis.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 2000
+Abstract:
+Adipogenesis, or the development of fat cells from preadipocytes, has been one of the most intensely studied models of cellular differentiation. In part this has been because of the availability of in vitro models that faithfully recapitulate most of the critical aspects of fat cell formation in vivo. More recently, studies of adipogenesis have proceeded with the hope that manipulation of this process in humans might one day lead to a reduction in the burden of obesity and diabetes. This review explores some of the highlights of a large and burgeoning literature devoted to understanding adipogenesis at the molecular level. The hormonal and transcriptional control of adipogenesis is reviewed, as well as studies on a less well known type of fat cell, the brown adipocyte. Emphasis is placed, where possible, on in vivo studies with the hope that the results discussed may one day shed light on basic questions of cellular growth and differentiation in addition to possible benefits in human health.
+
+
+
+
+
+
+PMID: 11520916
+Number of times this paper has been cited = 27
+Title: Neurotrophins: roles in neuronal development and function.
+Journal: Annual review of neuroscience
+Publication Date: , 2001
+Abstract:
+Neurotrophins regulate development, maintenance, and function of vertebrate nervous systems. Neurotrophins activate two different classes of receptors, the Trk family of receptor tyrosine kinases and p75NTR, a member of the TNF receptor superfamily. Through these, neurotrophins activate many signaling pathways, including those mediated by ras and members of the cdc-42/ras/rho G protein families, and the MAP kinase, PI-3 kinase, and Jun kinase cascades. During development, limiting amounts of neurotrophins function as survival factors to ensure a match between the number of surviving neurons and the requirement for appropriate target innervation. They also regulate cell fate decisions, axon growth, dendrite pruning, the patterning of innervation and the expression of proteins crucial for normal neuronal function, such as neurotransmitters and ion channels. These proteins also regulate many aspects of neural function. In the mature nervous system, they control synaptic function and synaptic plasticity, while continuing to modulate neuronal survival.
+
+
+
+
+
+
+PMID: 9721092
+Number of times this paper has been cited = 27
+Title: Mitochondria and apoptosis.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 1998
+Abstract:
+A variety of key events in apoptosis focus on mitochondria, including the release of caspase activators (such as cytochrome c), changes in electron transport, loss of mitochondrial transmembrane potential, altered cellular oxidation-reduction, and participation of pro- and antiapoptotic Bcl-2 family proteins. The different signals that converge on mitochondria to trigger or inhibit these events and their downstream effects delineate several major pathways in physiological cell death.
+
+
+
+
+
+

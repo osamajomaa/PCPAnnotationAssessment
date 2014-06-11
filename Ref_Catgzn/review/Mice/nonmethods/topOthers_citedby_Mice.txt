@@ -1,0 +1,652 @@
+Top 50 Others papers that are cited by Mice papers:
+
+PMID: 8682290
+Number of times this paper has been cited = 46
+Title: Bone morphogenetic proteins: multifunctional regulators of vertebrate development.
+Journal: Genes & development
+Publication Date: Jul, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 9759494
+Number of times this paper has been cited = 44
+Title: The ubiquitin system.
+Journal: Annual review of biochemistry
+Publication Date: , 1998
+Abstract:
+The selective degradation of many short-lived proteins in eukaryotic cells is carried out by the ubiquitin system. In this pathway, proteins are targeted for degradation by covalent ligation to ubiquitin, a highly conserved small protein. Ubiquitin-mediated degradation of regulatory proteins plays important roles in the control of numerous processes, including cell-cycle progression, signal transduction, transcriptional regulation, receptor down-regulation, and endocytosis. The ubiquitin system has been implicated in the immune response, development, and programmed cell death. Abnormalities in ubiquitin-mediated processes have been shown to cause pathological conditions, including malignant transformation. In this review we discuss recent information on functions and mechanisms of the ubiquitin system. Since the selectivity of protein degradation is determined mainly at the stage of ligation to ubiquitin, special attention is focused on what we know, and would like to know, about the mode of action of ubiquitin-protein ligation systems and about signals in proteins recognized by these systems.
+
+
+
+
+
+
+PMID: 12748651
+Number of times this paper has been cited = 41
+Title: Developmental regulation of the growth plate.
+Journal: Nature
+Publication Date: May, 2003
+Abstract:
+Vertebrates do not look like jellyfish because the bones of their skeletons are levers that allow movement and protect vital organs. Bones come in an enormous variety of shapes and sizes to accomplish these goals, but, with few exceptions, use one process--endochondral bone formation--to generate the skeleton. The past few years have seen an enormous increase in understanding of the signalling pathways and the transcription factors that control endochondral bone development.
+
+
+
+
+
+
+PMID: 12297042
+Number of times this paper has been cited = 41
+Title: Integrins: bidirectional, allosteric signaling machines.
+Journal: Cell
+Publication Date: Sep, 2002
+Abstract:
+In their roles as major adhesion receptors, integrins signal across the plasma membrane in both directions. Recent structural and cell biological data suggest models for how integrins transmit signals between their extracellular ligand binding adhesion sites and their cytoplasmic domains, which link to the cytoskeleton and to signal transduction pathways. Long-range conformational changes couple these functions via allosteric equilibria.
+
+
+
+
+
+
+PMID: 11498575
+Number of times this paper has been cited = 37
+Title: Translating the histone code.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 2001
+Abstract:
+Chromatin, the physiological template of all eukaryotic genetic information, is subject to a diverse array of posttranslational modifications that largely impinge on histone amino termini, thereby regulating access to the underlying DNA. Distinct histone amino-terminal modifications can generate synergistic or antagonistic interaction affinities for chromatin-associated proteins, which in turn dictate dynamic transitions between transcriptionally active or transcriptionally silent chromatin states. The combinatorial nature of histone amino-terminal modifications thus reveals a "histone code" that considerably extends the information potential of the genetic code. We propose that this epigenetic marking system represents a fundamental regulatory mechanism that has an impact on most, if not all, chromatin-templated processes, with far-reaching consequences for cell fate decisions and both normal and pathological development.
+
+
+
+
+
+
+PMID: 12471249
+Number of times this paper has been cited = 34
+Title: Molecular mechanisms of axon guidance.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 2002
+Abstract:
+Axons are guided along specific pathways by attractive and repulsive cues in the extracellular environment. Genetic and biochemical studies have led to the identification of highly conserved families of guidance molecules, including netrins, Slits, semaphorins, and ephrins. Guidance cues steer axons by regulating cytoskeletal dynamics in the growth cone through signaling pathways that are still only poorly understood. Elaborate regulatory mechanisms ensure that a given cue elicits the right response from the right axons at the right time but is otherwise ignored. With such regulatory mechanisms in place, a relatively small number of guidance factors can be used to generate intricate patterns of neuronal wiring.
+
+
+
+
+
+
+PMID: 14534577
+Number of times this paper has been cited = 32
+Title: Smad-dependent and Smad-independent pathways in TGF-beta family signalling.
+Journal: Nature
+Publication Date: Oct, 2003
+Abstract:
+Transforming growth factor-beta (TGF-beta) proteins regulate cell function, and have key roles in development and carcinogenesis. The intracellular effectors of TGF-beta signalling, the Smad proteins, are activated by receptors and translocate into the nucleus, where they regulate transcription. Although this pathway is inherently simple, combinatorial interactions in the heteromeric receptor and Smad complexes, receptor-interacting and Smad-interacting proteins, and cooperation with sequence-specific transcription factors allow substantial versatility and diversification of TGF-beta family responses. Other signalling pathways further regulate Smad activation and function. In addition, TGF-beta receptors activate Smad-independent pathways that not only regulate Smad signalling, but also allow Smad-independent TGF-beta responses.
+
+
+
+
+
+
+PMID: 11395416
+Number of times this paper has been cited = 32
+Title: Mechanisms underlying ubiquitination.
+Journal: Annual review of biochemistry
+Publication Date: , 2001
+Abstract:
+The conjugation of ubiquitin to other cellular proteins regulates a broad range of eukaryotic cell functions. The high efficiency and exquisite selectivity of ubiquitination reactions reflect the properties of enzymes known as ubiquitin-protein ligases or E3s. An E3 recognizes its substrates based on the presence of a specific ubiquitination signal, and catalyzes the formation of an isopeptide bond between a substrate (or ubiquitin) lysine residue and the C terminus of ubiquitin. Although a great deal is known about the molecular basis of E3 specificity, much less is known about molecular mechanisms of catalysis by E3s. Recent findings reveal that all known E3s utilize one of just two catalytic domains--a HECT domain or a RING finger--and crystal structures have provided the first detailed views of an active site of each type. The new findings shed light on many aspects of E3 structure, function, and mechanism, but also emphasize that key features of E3 catalysis remain to be elucidated.
+
+
+
+
+
+
+PMID: 11970890
+Number of times this paper has been cited = 31
+Title: Reaching a genetic and molecular understanding of skeletal development.
+Journal: Developmental cell
+Publication Date: Apr, 2002
+Abstract:
+In the last ten years, we have made considerable progress in our genetic and molecular understanding of all aspects of skeletal development, chondrogenesis, joint formation, and osteogenesis. This review addresses the role of the principal growth factors and transcription factors affecting these different processes and presents, in several cases, the genetic cascade leading to cell differentiation.
+
+
+
+
+
+
+PMID: 8801176
+Number of times this paper has been cited = 30
+Title: A decade of molecular biology of retinoic acid receptors.
+Journal: FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+Publication Date: Jul, 1996
+Abstract:
+Retinoids play an important role in development, differentiation, and homeostasis. The discovery of retinoid receptors belonging to the superfamily of nuclear ligand-activated transcriptional regulators has revolutionized our molecular understanding as to how these structurally simple molecules exert their pleiotropic effects. Diversity in the control of gene expression by retinoid signals is generated through complexity at different levels of the signaling pathway. A major source of diversity originates from the existence of two families of retinoid acid (RA) receptors (R), the RAR isotypes (alpha, beta, and gamma) and the three RXR isotypes (alpha, beta, and gamma), and their numerous isoforms, which bind as RXR/RAR heterodimers to the polymorphic cis-acting response elements of RA target genes. The possibility of cross-modulation (cross-talk) with cell-surface receptors signaling pathways, as well as the finding that RARs and RXRs interact with multiple putative coactivators and/or corepressors, generates additional levels of complexity for the array of combinatorial effects that underlie the pleiotropic effects of retinoids. This review focuses on recent developments, particularly in the area of structure-function relationships.
+
+
+
+
+
+
+PMID: 8895453
+Number of times this paper has been cited = 30
+Title: Patterning the vertebrate neuraxis.
+Journal: Science (New York, N.Y.)
+Publication Date: Nov, 1996
+Abstract:
+Neuraxial patterning is a continuous process that extends over a protracted period of development. During gastrulation a crude anteroposterior pattern, detectable by molecular markers, is conferred on the neuroectoderm by signals from the endomesoderm that are largely inseparable from those of neural induction itself. This coarse-grained pattern is subsequently reinforced and refined by diverse, locally acting mechanisms. Segmentation and long-range signaling from organizing centers are prominent among the emerging principles governing regional pattern.
+
+
+
+
+
+
+PMID: 11057897
+Number of times this paper has been cited = 29
+Title: Signal transduction by the JNK group of MAP kinases.
+Journal: Cell
+Publication Date: Oct, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 12548545
+Number of times this paper has been cited = 29
+Title: HES and HERP families: multiple effectors of the Notch signaling pathway.
+Journal: Journal of cellular physiology
+Publication Date: Mar, 2003
+Abstract:
+Notch signaling dictates cell fate and critically influences cell proliferation, differentiation, and apoptosis in metazoans. Multiple factors at each step-ligands, receptors, signal transducers and effectors-play critical roles in executing the pleiotropic effects of Notch signaling. Ligand-binding results in proteolytic cleavage of Notch receptors to release the signal-transducing Notch intracellular domain (NICD). NICD migrates into the nucleus and associates with the nuclear proteins of the RBP-Jkappa family (also known as CSL or CBF1/Su(H)/Lag-1). RBP-Jkappa, when complexed with NICD, acts as a transcriptional activator, and the RBP-Jkappa-NICD complex activates expression of primary target genes of Notch signaling such as the HES and enhancer of split [E(spl)] families. HES/E(spl) is a basic helix-loop-helix (bHLH) type of transcriptional repressor, and suppresses expression of downstream target genes such as tissue-specific transcriptional activators. Thus, HES/E(spl) directly affects cell fate decisions as a primary Notch effector. HES/E(spl) had been the only known effector of Notch signaling until a recent discovery of a related but distinct bHLH protein family, termed HERP (HES-related repressor protein, also called Hey/Hesr/HRT/CHF/gridlock). In this review, we summarize the recent data supporting the idea of HERP being a new Notch effector, and provide an overview of the similarities and differences between HES and HERP in their biochemical properties as well as their tissue distribution. One key observation derived from identification of HERP is that HES and HERP form a heterodimer and cooperate for transcriptional repression. The identification of the HERP family as a Notch effector that cooperates with HES/E(spl) family has opened a new avenue to our understanding of the Notch signaling pathway.
+
+
+
+
+
+
+PMID: 9530499
+Number of times this paper has been cited = 29
+Title: The ephrins and Eph receptors in neural development.
+Journal: Annual review of neuroscience
+Publication Date: , 1998
+Abstract:
+The Eph receptors are the largest known family of receptor tyrosine kinases. Initially all of them were identified as orphan receptors without known ligands, and their specific functions were not well understood. During the past few years, a corresponding family of ligands has been identified, called the ephrins, and specific functions have now been identified in neural development. The ephrins and Eph receptors are implicated as positional labels that may guide the development of neural topographic maps. They have also been implicated in pathway selection by axons, the guidance of cell migration, and the establishment of regional pattern in the nervous system. The ligands are anchored to cell surfaces, and most of the functions so far identified can be interpreted as precise guidance of cell or axon movement. This large family of ligands and receptors may make a major contribution to the accurate spatial patterning of connections and cell position in the nervous system.
+
+
+
+
+
+
+PMID: 9405336
+Number of times this paper has been cited = 28
+Title: Signaling through scaffold, anchoring, and adaptor proteins.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 1997
+Abstract:
+The process by which extracellular signals are relayed from the plasma membrane to specific intracellular sites is an essential facet of cellular regulation. Many signaling pathways do so by altering the phosphorylation state of tyrosine, serine, or threonine residues of target proteins. Recently, it has become apparent that regulatory mechanisms exist to influence where and when protein kinases and phosphatases are activated in the cell. The role of scaffold, anchoring, and adaptor proteins that contribute to the specificity of signal transduction events by recruiting active enzymes into signaling networks or by placing enzymes close to their substrates is discussed.
+
+
+
+
+
+
+PMID: 12376100
+Number of times this paper has been cited = 27
+Title: Extracellular regulation of BMP signaling in vertebrates: a cocktail of modulators.
+Journal: Developmental biology
+Publication Date: Oct, 2002
+Abstract:
+The transforming growth factor-beta (TGF-beta) superfamily contains a variety of growth factors which all share common sequence elements and structural motifs. These proteins are known to exert a wide spectrum of biological responses on a large variety of cell types in both vertebrates and invertebrates. Many of them have important functions during embryonic development in pattern formation and tissue specification, and in adult tissues, they are involved in processes such as wound healing, bone repair, and bone remodeling. The family is divided into two general branches: the BMP/GDF and the TGF-beta/Activin/Nodal branches, whose members have diverse, often complementary effects. It is obvious that an orchestered regulation of different actions of these proteins is necessary for proper functioning. The TGF-beta family members act by binding extracellularly to a complex of serine/threonine kinase receptors, which consequently activate Smad molecules by phosphorylation. These Smads translocate to the nucleus, where they modulate transcription of specific genes. Three levels by which this signaling pathway is regulated could be distinguished. First, a control mechanism exists in the intracellular space, where inhibitory Smads and Smurfs prevent further signaling and activation of target genes. Second, at the membrane site, the pseudoreceptor BAMBI/Nma is able to inhibit further signaling within the cells. Finally, a range of extracellular mediators are identified which modulate the functioning of members of the TGF-beta superfamily. Here, we review the insights in the extracellular regulation of members of the BMP subfamily of secreted growth factors with a major emphasis on vertebrate BMP modulation.
+
+
+
+
+
+
+PMID: 9039799
+Number of times this paper has been cited = 27
+Title: Basic helix-loop-helix genes in neural development.
+Journal: Current opinion in neurobiology
+Publication Date: Feb, 1997
+Abstract:
+Several major advances in the understanding of the regulation of vertebrate neurogenesis by members of the basic helix-loop-helix (bHLH) protein family have been made in the past year. Specifically, a number of bHLH genes have been cloned and shown to convert non-neuronal fate to neuronal fate when expressed ectopically. In particular, studies on NeuroD and Neurogenin suggest a regulatory pathway, providing powerful molecular tools to study vertebrate neurogenesis.
+
+
+
+
+
+
+PMID: 11252952
+Number of times this paper has been cited = 27
+Title: Rab proteins as membrane organizers.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Feb, 2001
+Abstract:
+Cellular organelles in the exocytic and endocytic pathways have a distinctive spatial distribution and communicate through an elaborate system of vesiculo-tubular transport. Rab proteins and their effectors coordinate consecutive stages of transport, such as vesicle formation, vesicle and organelle motility, and tethering of vesicles to their target compartment. These molecules are highly compartmentalized in organelle membranes, making them excellent candidates for determining transport specificity and organelle identity.
+
+
+
+
+
+
+PMID: 10202540
+Number of times this paper has been cited = 27
+Title: The specification of dorsal cell fates in the vertebrate central nervous system.
+Journal: Annual review of neuroscience
+Publication Date: , 1999
+Abstract:
+The generation of distinct classes of neurons at defined positions within the developing vertebrate nervous system depends on inductive signals provided by local cell groups that act as organizing centers. Genetic and embryological studies have begun to elucidate the processes that control the pattern and identity of neuronal cell types. Here we discuss the cellular interactions and molecular mechanisms that direct neuronal cell fates in the dorsal half of the vertebrate central nervous system. The specification of dorsal neuronal cell fates appears to depend on a cascade of inductive signals initiated by cells of the epidermal ectoderm that flank the neural plate and propagated by roof plate cells within the neural tube. Members of the transforming growth factor-beta (TGF beta) family of secreted proteins have a prominent role in mediating these dorsalizing signals. Additional signals involving members of the Wnt and fibroblast growth factor (FGF) families may also contribute to the proliferation and differentiation of dorsal neuronal cell types.
+
+
+
+
+
+
+PMID: 8812123
+Number of times this paper has been cited = 27
+Title: NK-2 homeobox genes and heart development.
+Journal: Developmental biology
+Publication Date: Sep, 1996
+Abstract:
+Analysis of the phylogenetically ancient NK-2 class of homeobox genes has opened up an entirely new approach to molecular, genetic, and biochemical analysis of early heart development. The Drosophila NK-2 homeobox gene tinman plays an essential role in segregating cardiac and visceral muscle potentiality, as well as that of some somatic muscles, in nascent mesoderm of the fly embryo. In its absence, precursor cells for these muscles do not form. tinman homologues have now been isolated from vertebrate genomes and at least one of them, Nkx2-5, is expressed in heart progenitor cells and is essential for myogenic and morphogenetic differentiation of the mammalian heart. Signaling pathways that establish the tin expression domain also appear to be conserved in vertebrates. These findings suggest that heart development in flies and vertebrates utilize similar genetic pathways and engender optimism that the dissection of mammalian heart development will profoundly profit from the rich genetics of Drosophila. The findings also prompt the questions: are the hearts of vertebrates and invertebrates actually homologous, and how much can we learn from the comparative approach? In the sections below, the structure, regulation, function, and evolution of NK class homeobox genes will be reviewed, emphasizing and contrasting the roles of tinman and Nkx2-5 in heart development.
+
+
+
+
+
+
+PMID: 9323126
+Number of times this paper has been cited = 27
+Title: Molecular models for vertebrate limb development.
+Journal: Cell
+Publication Date: Sep, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 11532397
+Number of times this paper has been cited = 27
+Title: New aspects of Wnt signaling pathways in higher vertebrates.
+Journal: Current opinion in genetics & development
+Publication Date: Oct, 2001
+Abstract:
+The development of tissues and organs in embryos is controlled by an interplay of several signaling pathways that cross-talk to provide positional information and induce cell fate specification. One of the major signaling systems is the Wnt pathway which was recently shown to split into several intracellular branches which regulate multiple cellular functions. In the present review, we discuss novel members and their role in the diversification of the Wnt pathway. Many of these components were studied in model organisms such as C.elegans, Drosophila and Xenopus. Here we focus on recent studies of mutant phenotypes in Mouse and Zebrafish which implicate members of the Wnt pathway in processes such as axis and mesoderm formation, initiation of organ development and stem cell differentiation.
+
+
+
+
+
+
+PMID: 11687490
+Number of times this paper has been cited = 26
+Title: Early eye development in vertebrates.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 2001
+Abstract:
+This review provides a synthesis that combines data from classical experimentation and recent advances in our understanding of early eye development. Emphasis is placed on the events that underlie and direct neural retina formation and lens induction. Understanding these events represents a longstanding problem in developmental biology. Early interest can be attributed to the curiosity generated by the relatively frequent occurrence of disorders such as cyclopia and anophthalmia, in which dramatic changes in eye development are readily observed. However, it was the advent of experimental embryology at the turn of the century that transformed curiosity into active investigation. Pioneered by investigators such as Spemann and Adelmann, these embryological manipulations have left a profound legacy. Questions about early eye development first addressed using tissue manipulations remain topical as we try to understand the molecular basis of this process.
+
+
+
+
+
+
+PMID: 10037800
+Number of times this paper has been cited = 25
+Title: From head to toes: the multiple facets of Sox proteins.
+Journal: Nucleic acids research
+Publication Date: Mar, 1999
+Abstract:
+Sox proteins belong to the HMG box superfamily of DNA-binding proteins and are found throughout the animal kingdom. They are involved in the regulation of such diverse developmental processes as germ layer formation, organ development and cell type specifi-cation. Hence, deletion or mutation of Sox proteins often results in developmental defects and congenital disease in humans. Sox proteins perform their function in a complex interplay with other transcription factors in a manner highly dependent on cell type and promoter context. They exhibit a remarkable crosstalk and functional redundancy among each other.
+
+
+
+
+
+
+PMID: 8817449
+Number of times this paper has been cited = 24
+Title: Five years on the wings of fork head.
+Journal: Mechanisms of development
+Publication Date: Jun, 1996
+Abstract:
+Since its discovery five years ago the conserved family of fork head/HNF-3-related transcription factors has gained increasing importance for the analysis of gene regulatory mechanisms during embryonic development and in differentiated cells. Different members of this family, which is defined by a conserved 110 amino acid residues encompassing DNA binding domain of winged helix structure, serve as regulatory keys in embryogenesis, in tumorigenesis or in the maintenance of differentiated cell states. The purpose of this review is to summarize the accumulating amount of data on structure, expression and function of fork head/HNF-3-related transcription factors.
+
+
+
+
+
+
+PMID: 9039261
+Number of times this paper has been cited = 23
+Title: Programmed cell death in animal development.
+Journal: Cell
+Publication Date: Feb, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 16613830
+Number of times this paper has been cited = 23
+Title: Regulation of early lung morphogenesis: questions, facts and controversies.
+Journal: Development (Cambridge, England)
+Publication Date: May, 2006
+Abstract:
+During early respiratory system development, the foregut endoderm gives rise to the tracheal and lung cell progenitors. Through branching morphogenesis, and in coordination with vascular development, a tree-like structure of epithelial tubules forms and differentiates to produce the airways and alveoli. Recent studies have implicated the fibroblast growth factor, sonic hedgehog, bone morphogenetic protein, retinoic acid and Wnt signaling pathways, and various transcription factors in regulating the initial stages of lung development. However, the precise roles of these molecules and how they interact in the developing lung is subject to debate. Here, we review early stages in lung development and highlight questions and controversies regarding their molecular regulation.
+
+
+
+
+
+
+PMID: 9388783
+Number of times this paper has been cited = 23
+Title: Helix-loop-helix factors in growth and differentiation of the vertebrate nervous system.
+Journal: Current opinion in genetics & development
+Publication Date: Oct, 1997
+Abstract:
+Neural development involves the initial growth phase of dividing precursor cells and the subsequent differentiation phase of postmitotic cells. Recent studies indicate that the transition from the former phase to the latter is controlled antagonistically by multiple helix-loop-helix (HLH) genes. Cascades of neuronal HLH genes promote differentiation whereas anti-neuronal HLH genes repress them under the control of Notch and keep cells at the precursor stage. This antagonistic regulation may be essential for generation of the proper number of neurons and for morphogenesis of the nervous system.
+
+
+
+
+
+
+PMID: 11001064
+Number of times this paper has been cited = 22
+Title: A genetic blueprint for cardiac development.
+Journal: Nature
+Publication Date: Sep, 2000
+Abstract:
+Congenital heart disease is the leading non-infectious cause of death in children. It is becoming increasingly clear that many cardiac abnormalities once thought to have multifactorial aetiologies are attributable to mutations in developmental control genes. The consequences of these mutations can be manifest at birth as life-threatening cardiac malformations or later as more subtle cardiac abnormalities. Understanding the genetic underpinnings of cardiac development has important implications not only for understanding congenital heart disease, but also for the possibility of cardiac repair through genetic reprogramming of non-cardiac cells to a cardiogenic fate.
+
+
+
+
+
+
+PMID: 8421494
+Number of times this paper has been cited = 22
+Title: A synaptic model of memory: long-term potentiation in the hippocampus.
+Journal: Nature
+Publication Date: Jan, 1993
+Abstract:
+Long-term potentiation of synaptic transmission in the hippocampus is the primary experimental model for investigating the synaptic basis of learning and memory in vertebrates. The best understood form of long-term potentiation is induced by the activation of the N-methyl-D-aspartate receptor complex. This subtype of glutamate receptor endows long-term potentiation with Hebbian characteristics, and allows electrical events at the postsynaptic membrane to be transduced into chemical signals which, in turn, are thought to activate both pre- and postsynaptic mechanisms to generate a persistent increase in synaptic strength.
+
+
+
+
+
+
+PMID: 12600310
+Number of times this paper has been cited = 22
+Title: Cellular motility driven by assembly and disassembly of actin filaments.
+Journal: Cell
+Publication Date: Feb, 2003
+Abstract:
+Motile cells extend a leading edge by assembling a branched network of actin filaments that produces physical force as the polymers grow beneath the plasma membrane. A core set of proteins including actin, Arp2/3 complex, profilin, capping protein, and ADF/cofilin can reconstitute the process in vitro, and mathematical models of the constituent reactions predict the rate of motion. Signaling pathways converging on WASp/Scar proteins regulate the activity of Arp2/3 complex, which mediates the initiation of new filaments as branches on preexisting filaments. After a brief spurt of growth, capping protein terminates the elongation of the filaments. After filaments have aged by hydrolysis of their bound ATP and dissociation of the gamma phosphate, ADF/cofilin proteins promote debranching and depolymerization. Profilin catalyzes the exchange of ADP for ATP, refilling the pool of ATP-actin monomers bound to profilin, ready for elongation.
+
+
+
+
+
+
+PMID: 9442883
+Number of times this paper has been cited = 22
+Title: Formation and function of Spemann's organizer.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 1997
+Abstract:
+The organizer is formed in an equatorial sector of the blastula stage amphibian embryo by cells that have responded to two maternal agents: a general mesoendoderm inducer (involving the TFG-beta signaling pathway) and a dorsal modifier (probably involving the Wnt signaling pathway). The meso-endoderm inducer is secreted by most vegetal cells, those containing maternal materials that had been localized in the vegetal hemisphere of the oocyte during oogenesis. As a consequence of the inducer's distribution and action, the competence domains of prospective ectoderm, mesoderm, and endoderm are established in an animal-to-vegetal order in the blastula. The dorsal modifier signal is secreted by a sector of cells of the animal and vegetal hemispheres on one side of the blastula. These cells contain maternal materials transported there in the first cell cycle from the vegetal pole of the egg along microtubules aligned by cortical rotation. The Nieuwkoop center is the region of blastula cells secreting both maternal signals, and hence specifying the organizer in an equatorial sector. Final steps of organizer formation at the late blastula or early gastrula stage may involve locally secreted zygotic signals as well. At the gastrula stage, the organizer secretes a variety of zygotic proteins that act as antagonists to various members of the BMP and Wnt families of ligands, which are secreted by cells of the competence domains surrounding the organizer. BMPs and Wnts favor ventral development, and cells near the organizer are protected from these agents by the organizer's inducers. The nearby cells are derepressed in their inherent capacity for dorsal development, which is apparent in the neural induction of the ectoderm, dorsalization of the mesoderm, and anteriorization of the endoderm. The organizer also engages in extensive specialized morphogenesis, which brings it within range of responsive cell groups. It also self-differentiates to a variety of axial tissues of the body.
+
+
+
+
+
+
+PMID: 8318734
+Number of times this paper has been cited = 22
+Title: A Macintosh program for storage and analysis of experimental genetic mapping data.
+Journal: Mammalian genome : official journal of the International Mammalian Genome Society
+Publication Date: , 1993
+Abstract:
+
+
+
+
+
+
+
+PMID: 11057895
+Number of times this paper has been cited = 22
+Title: Cell signaling by receptor tyrosine kinases.
+Journal: Cell
+Publication Date: Oct, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 9735945
+Number of times this paper has been cited = 20
+Title: The cells and molecules that make a cerebellum.
+Journal: Trends in neurosciences
+Publication Date: Sep, 1998
+Abstract:
+The molecular underpinnings of cerebellar development are being established through the identification of naturally occurring mutated genes and the knockout of other genes. Sets of genes expressed in the regions of the mes- and metencephalon have been shown to play a crucial role in specifying the cerebellar anlage. Other genes have been shown to be crucial to early granule-cell development, migration of Purkinje and granule cells, and neuron-glia interactions. However, the process of development will ultimately be understood in terms of cellular interactions and the roles that each cell type plays in the assembly of cerebellar structure. One of the most important interactions is between granule and Purkinje cells. This relationship has been shown to be crucial for the control of cell number, migration of neuroblasts and cell differentiation.
+
+
+
+
+
+
+PMID: 8252617
+Number of times this paper has been cited = 20
+Title: HLH proteins, fly neurogenesis, and vertebrate myogenesis.
+Journal: Cell
+Publication Date: Dec, 1993
+Abstract:
+
+
+
+
+
+
+
+PMID: 9488658
+Number of times this paper has been cited = 20
+Title: Caveolins, a family of scaffolding proteins for organizing "preassembled signaling complexes" at the plasma membrane.
+Journal: The Journal of biological chemistry
+Publication Date: Mar, 1998
+Abstract:
+
+
+
+
+
+
+
+PMID: 10856930
+Number of times this paper has been cited = 19
+Title: PDZ domains in synapse assembly and signalling.
+Journal: Trends in cell biology
+Publication Date: Jul, 2000
+Abstract:
+Synaptic junctions are highly specialized structures designed to promote the rapid and efficient transmission of signals from the presynaptic terminal to the postsynaptic membrane within the central nervous system. Proteins containing PDZ domains play a fundamental organizational role at both the pre- and postsynaptic plasma membranes. This review focuses on recent advances in our understanding of the mechanisms underlying the assembly of synapses in the central nervous system.
+
+
+
+
+
+
+PMID: 1939050
+Number of times this paper has been cited = 19
+Title: Structural features in eukaryotic mRNAs that modulate the initiation of translation.
+Journal: The Journal of biological chemistry
+Publication Date: Oct, 1991
+Abstract:
+
+
+
+
+
+
+
+PMID: 10858654
+Number of times this paper has been cited = 19
+Title: The Wnt/Ca2+ pathway: a new vertebrate Wnt signaling pathway takes shape.
+Journal: Trends in genetics : TIG
+Publication Date: Jul, 2000
+Abstract:
+Members of the vertebrate Wnt family have been subdivided into two functional classes according to their biological activities. Some Wnts signal through the canonical Wnt-1/wingless pathway by stabilizing cytoplasmic beta-catenin. By contrast other Wnts stimulate intracellular Ca2+ release and activate two kinases, CamKII and PKC, in a G-protein-dependent manner. Moreover, putative Wnt receptors belonging to the Frizzled gene family have been identified that preferentially couple to the two prospective pathways in the absence of ectopic Wnt ligand and that might account for the signaling specificity of the Wnt pathways. As Ca2+ release was the first described feature of the noncanonical pathway, and as Ca2+ probably plays a key role in the activation of CamKII and PKC, we have named this Wnt pathway the Wnt/Ca2+ pathway.
+
+
+
+
+
+
+PMID: 10775259
+Number of times this paper has been cited = 19
+Title: Transcriptional control by the TGF-beta/Smad signaling system.
+Journal: The EMBO journal
+Publication Date: Apr, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 12077401
+Number of times this paper has been cited = 18
+Title: Unique chromatin remodeling and transcriptional regulation in spermatogenesis.
+Journal: Science (New York, N.Y.)
+Publication Date: Jun, 2002
+Abstract:
+Most of our knowledge of transcriptional regulation comes from studies in somatic cells. However, increasing evidence reveals that gene regulation mechanisms are different in haploid germ cells. A number of highly specialized strategies operate during spermatogenesis. These include a unique chromatin reorganization program and the use of distinct promoter elements and specific transcription factors. Deciphering the rules governing transcriptional control during spermatogenesis will provide valuable insights of biomedical importance.
+
+
+
+
+
+
+PMID: 11136969
+Number of times this paper has been cited = 18
+Title: BH3-Only proteins-essential initiators of apoptotic cell death.
+Journal: Cell
+Publication Date: Dec, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 8918191
+Number of times this paper has been cited = 17
+Title: Coiled coils: new structures and new functions.
+Journal: Trends in biochemical sciences
+Publication Date: Oct, 1996
+Abstract:
+Over the past five years, the structures of more than 20 proteins containing coiled-coil domains have been solved to high resolution. This has provided many new insights into the structure of coiled coils, their discontinuities, their relationship with other helical bundles and the problems connected with their prediction from protein sequences.
+
+
+
+
+
+
+PMID: 15205520
+Number of times this paper has been cited = 17
+Title: The Hedgehog response network: sensors, switches, and routers.
+Journal: Science (New York, N.Y.)
+Publication Date: Jun, 2004
+Abstract:
+The Hedgehog (Hh) signaling pathway is intimately linked to cell growth and differentiation, with normal roles in embryonic pattern formation and adult tissue homeostasis and pathological roles in tumor initiation and growth. Recent advances in our understanding of Hh response have resulted from the identification of new pathway components and new mechanisms of action for old pathway components. The most striking new finding is that signal transmission from membrane to cytoplasm proceeds through recruitment, by the seven-transmembrane protein Smoothened, of an atypical kinesin, which routes pathway activation by interaction with other components of a complex that includes the latent zinc finger transcription factor, Ci.
+
+
+
+
+
+
+PMID: 9604925
+Number of times this paper has been cited = 17
+Title: PDZ proteins organize synaptic signaling pathways.
+Journal: Cell
+Publication Date: May, 1998
+Abstract:
+
+
+
+
+
+
+
+PMID: 12560810
+Number of times this paper has been cited = 17
+Title: Pattern formation: old models out on a limb.
+Journal: Nature reviews. Genetics
+Publication Date: Feb, 2003
+Abstract:
+
+
+
+
+
+
+
+PMID: 11242034
+Number of times this paper has been cited = 17
+Title: Mammalian MAP kinase signalling cascades.
+Journal: Nature
+Publication Date: Mar, 2001
+Abstract:
+Mitogen-activated protein kinases (MAPKs) are important signal transducing enzymes, unique to eukaryotes, that are involved in many facets of cellular regulation. Initial research concentrated on defining the components and organization of MAPK signalling cascades, but recent studies have begun to shed light on the physiological functions of these cascades in the control of gene expression, cell proliferation and programmed cell death.
+
+
+
+
+
+
+PMID: 10202544
+Number of times this paper has been cited = 17
+Title: Development of the vertebrate neuromuscular junction.
+Journal: Annual review of neuroscience
+Publication Date: , 1999
+Abstract:
+We describe the formation, maturation, elimination, maintenance, and regeneration of vertebrate neuromuscular junctions (NMJs), the best studied of all synapses. The NMJ forms in a series of steps that involve the exchange of signals among its three cellular components--nerve terminal, muscle fiber, and Schwann cell. Although essentially any motor axon can form NMJs with any muscle fiber, an additional set of cues biases synapse formation in favor of appropriate partners. The NMJ is functional at birth but undergoes numerous alterations postnatally. One step in maturation is the elimination of excess inputs, a competitive process in which the muscle is an intermediary. Once elimination is complete, the NMJ is maintained stably in a dynamic equilibrium that can be perturbed to initiate remodeling. NMJs regenerate following damage to nerve or muscle, but this process differs in fundamental ways from embryonic synaptogenesis. Finally, we consider the extent to which the NMJ is a suitable model for development of neuron-neuron synapses.
+
+
+
+
+
+
+PMID: 11559745
+Number of times this paper has been cited = 17
+Title: p300/CBP proteins: HATs for transcriptional bridges and scaffolds.
+Journal: Journal of cell science
+Publication Date: Jul, 2001
+Abstract:
+p300/CBP transcriptional co-activator proteins play a central role in co-ordinating and integrating multiple signal-dependent events with the transcription apparatus, allowing the appropriate level of gene activity to occur in response to diverse physiological cues that influence, for example, proliferation, differentiation and apoptosis. p300/CBP activity can be under aberrant control in human disease, particularly in cancer, which may inactivate a p300/CBP tumour-suppressor-like activity. The transcription regulating-properties of p300 and CBP appear to be exerted through multiple mechanisms. They act as protein bridges, thereby connecting different sequence-specific transcription factors to the transcription apparatus. Providing a protein scaffold upon which to build a multicomponent transcriptional regulatory complex is likely to be an important feature of p300/CBP control. Another key property is the presence of histone acetyltransferase (HAT) activity, which endows p300/CBP with the capacity to influence chromatin activity by modulating nucleosomal histones. Other proteins, including the p53 tumour suppressor, are targets for acetylation by p300/CBP. With the current intense level of research activity, p300/CBP will continue to be in the limelight and, we can be confident, yield new and important information on fundamental processes involved in transcriptional control.
+
+
+
+
+
+

@@ -1,0 +1,652 @@
+Top 50 Others papers that are cited by Humans papers:
+
+PMID: 9759494
+Number of times this paper has been cited = 75
+Title: The ubiquitin system.
+Journal: Annual review of biochemistry
+Publication Date: , 1998
+Abstract:
+The selective degradation of many short-lived proteins in eukaryotic cells is carried out by the ubiquitin system. In this pathway, proteins are targeted for degradation by covalent ligation to ubiquitin, a highly conserved small protein. Ubiquitin-mediated degradation of regulatory proteins plays important roles in the control of numerous processes, including cell-cycle progression, signal transduction, transcriptional regulation, receptor down-regulation, and endocytosis. The ubiquitin system has been implicated in the immune response, development, and programmed cell death. Abnormalities in ubiquitin-mediated processes have been shown to cause pathological conditions, including malignant transformation. In this review we discuss recent information on functions and mechanisms of the ubiquitin system. Since the selectivity of protein degradation is determined mainly at the stage of ligation to ubiquitin, special attention is focused on what we know, and would like to know, about the mode of action of ubiquitin-protein ligation systems and about signals in proteins recognized by these systems.
+
+
+
+
+
+
+PMID: 11395416
+Number of times this paper has been cited = 71
+Title: Mechanisms underlying ubiquitination.
+Journal: Annual review of biochemistry
+Publication Date: , 2001
+Abstract:
+The conjugation of ubiquitin to other cellular proteins regulates a broad range of eukaryotic cell functions. The high efficiency and exquisite selectivity of ubiquitination reactions reflect the properties of enzymes known as ubiquitin-protein ligases or E3s. An E3 recognizes its substrates based on the presence of a specific ubiquitination signal, and catalyzes the formation of an isopeptide bond between a substrate (or ubiquitin) lysine residue and the C terminus of ubiquitin. Although a great deal is known about the molecular basis of E3 specificity, much less is known about molecular mechanisms of catalysis by E3s. Recent findings reveal that all known E3s utilize one of just two catalytic domains--a HECT domain or a RING finger--and crystal structures have provided the first detailed views of an active site of each type. The new findings shed light on many aspects of E3 structure, function, and mechanism, but also emphasize that key features of E3 catalysis remain to be elucidated.
+
+
+
+
+
+
+PMID: 1939050
+Number of times this paper has been cited = 70
+Title: Structural features in eukaryotic mRNAs that modulate the initiation of translation.
+Journal: The Journal of biological chemistry
+Publication Date: Oct, 1991
+Abstract:
+
+
+
+
+
+
+
+PMID: 9405336
+Number of times this paper has been cited = 55
+Title: Signaling through scaffold, anchoring, and adaptor proteins.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 1997
+Abstract:
+The process by which extracellular signals are relayed from the plasma membrane to specific intracellular sites is an essential facet of cellular regulation. Many signaling pathways do so by altering the phosphorylation state of tyrosine, serine, or threonine residues of target proteins. Recently, it has become apparent that regulatory mechanisms exist to influence where and when protein kinases and phosphatases are activated in the cell. The role of scaffold, anchoring, and adaptor proteins that contribute to the specificity of signal transduction events by recruiting active enzymes into signaling networks or by placing enzymes close to their substrates is discussed.
+
+
+
+
+
+
+PMID: 11252952
+Number of times this paper has been cited = 44
+Title: Rab proteins as membrane organizers.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Feb, 2001
+Abstract:
+Cellular organelles in the exocytic and endocytic pathways have a distinctive spatial distribution and communicate through an elaborate system of vesiculo-tubular transport. Rab proteins and their effectors coordinate consecutive stages of transport, such as vesicle formation, vesicle and organelle motility, and tethering of vesicles to their target compartment. These molecules are highly compartmentalized in organelle membranes, making them excellent candidates for determining transport specificity and organelle identity.
+
+
+
+
+
+
+PMID: 12297042
+Number of times this paper has been cited = 41
+Title: Integrins: bidirectional, allosteric signaling machines.
+Journal: Cell
+Publication Date: Sep, 2002
+Abstract:
+In their roles as major adhesion receptors, integrins signal across the plasma membrane in both directions. Recent structural and cell biological data suggest models for how integrins transmit signals between their extracellular ligand binding adhesion sites and their cytoplasmic domains, which link to the cytoskeleton and to signal transduction pathways. Long-range conformational changes couple these functions via allosteric equilibria.
+
+
+
+
+
+
+PMID: 11498575
+Number of times this paper has been cited = 38
+Title: Translating the histone code.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 2001
+Abstract:
+Chromatin, the physiological template of all eukaryotic genetic information, is subject to a diverse array of posttranslational modifications that largely impinge on histone amino termini, thereby regulating access to the underlying DNA. Distinct histone amino-terminal modifications can generate synergistic or antagonistic interaction affinities for chromatin-associated proteins, which in turn dictate dynamic transitions between transcriptionally active or transcriptionally silent chromatin states. The combinatorial nature of histone amino-terminal modifications thus reveals a "histone code" that considerably extends the information potential of the genetic code. We propose that this epigenetic marking system represents a fundamental regulatory mechanism that has an impact on most, if not all, chromatin-templated processes, with far-reaching consequences for cell fate decisions and both normal and pathological development.
+
+
+
+
+
+
+PMID: 7877684
+Number of times this paper has been cited = 38
+Title: Principles of CDK regulation.
+Journal: Nature
+Publication Date: Mar, 1995
+Abstract:
+As key regulators of the cell cycle, the cyclin-dependent kinases must be tightly regulated by extra- and intracellular signals. The activity of cyclin-dependent kinases is controlled by four highly conserved biochemical mechanisms, forming a web of regulatory pathways unmatched in its elegance and intricacy.
+
+
+
+
+
+
+PMID: 11057897
+Number of times this paper has been cited = 38
+Title: Signal transduction by the JNK group of MAP kinases.
+Journal: Cell
+Publication Date: Oct, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 8982460
+Number of times this paper has been cited = 37
+Title: Ubiquitin-dependent protein degradation.
+Journal: Annual review of genetics
+Publication Date: , 1996
+Abstract:
+A growing number of cellular regulatory mechanisms are being linked to protein modification by the polypeptide ubiquitin. These include key transitions in the cell cycle, class I antigen processing, signal transduction pathways, and receptor-mediated endocytosis. In most, but not all, of these examples, ubiquitination of a protein leads to its degradation by the 26S proteasome. Following attachment of ubiquitin to a substrate and binding of the ubiquitinated protein to the proteasome, the bound substrate must be unfolded (and eventually deubiquitinated) and translocated through a narrow set of channels that leads to the proteasome interior, where the polypeptide is cleaved into short peptides. Protein ubiquitination and deubiquitination are both mediated by large enzyme families, and the proteasome itself comprises a family of related but functionally distinct particles. This diversity underlies both the high substrate specificity of the ubiquitin system and the variety of regulatory mechanisms that it serves.
+
+
+
+
+
+
+PMID: 14534577
+Number of times this paper has been cited = 36
+Title: Smad-dependent and Smad-independent pathways in TGF-beta family signalling.
+Journal: Nature
+Publication Date: Oct, 2003
+Abstract:
+Transforming growth factor-beta (TGF-beta) proteins regulate cell function, and have key roles in development and carcinogenesis. The intracellular effectors of TGF-beta signalling, the Smad proteins, are activated by receptors and translocate into the nucleus, where they regulate transcription. Although this pathway is inherently simple, combinatorial interactions in the heteromeric receptor and Smad complexes, receptor-interacting and Smad-interacting proteins, and cooperation with sequence-specific transcription factors allow substantial versatility and diversification of TGF-beta family responses. Other signalling pathways further regulate Smad activation and function. In addition, TGF-beta receptors activate Smad-independent pathways that not only regulate Smad signalling, but also allow Smad-independent TGF-beta responses.
+
+
+
+
+
+
+PMID: 7969419
+Number of times this paper has been cited = 35
+Title: Mechanisms of intracellular protein transport.
+Journal: Nature
+Publication Date: Nov, 1994
+Abstract:
+Recent advances have uncovered the general protein apparatus used by all eukaryotes for intracellular transport, including secretion and endocytosis, and for triggered exocytosis of hormones and neurotransmitters. Membranes are shaped into vesicles by cytoplasmic coats which then dissociate upon GTP hydrolysis. Both vesicles and their acceptor membranes carry targeting proteins which interact specifically to initiate docking. A general apparatus then assembles at the docking site and fuses the vesicle with its target.
+
+
+
+
+
+
+PMID: 7701562
+Number of times this paper has been cited = 33
+Title: The PHD finger: implications for chromatin-mediated transcriptional regulation.
+Journal: Trends in biochemical sciences
+Publication Date: Feb, 1995
+Abstract:
+
+
+
+
+
+
+
+PMID: 11242034
+Number of times this paper has been cited = 32
+Title: Mammalian MAP kinase signalling cascades.
+Journal: Nature
+Publication Date: Mar, 2001
+Abstract:
+Mitogen-activated protein kinases (MAPKs) are important signal transducing enzymes, unique to eukaryotes, that are involved in many facets of cellular regulation. Initial research concentrated on defining the components and organization of MAPK signalling cascades, but recent studies have begun to shed light on the physiological functions of these cascades in the control of gene expression, cell proliferation and programmed cell death.
+
+
+
+
+
+
+PMID: 11171037
+Number of times this paper has been cited = 32
+Title: Protein phosphatase 2A: a highly regulated family of serine/threonine phosphatases implicated in cell growth and signalling.
+Journal: The Biochemical journal
+Publication Date: Feb, 2001
+Abstract:
+Protein phosphatase 2A (PP2A) comprises a family of serine/threonine phosphatases, minimally containing a well conserved catalytic subunit, the activity of which is highly regulated. Regulation is accomplished mainly by members of a family of regulatory subunits, which determine the substrate specificity, (sub)cellular localization and catalytic activity of the PP2A holoenzymes. Moreover, the catalytic subunit is subject to two types of post-translational modification, phosphorylation and methylation, which are also thought to be important regulatory devices. The regulatory ability of PTPA (PTPase activator), originally identified as a protein stimulating the phosphotyrosine phosphatase activity of PP2A, will also be discussed, alongside the other regulatory inputs. The use of specific PP2A inhibitors and molecular genetics in yeast, Drosophila and mice has revealed roles for PP2A in cell cycle regulation, cell morphology and development. PP2A also plays a prominent role in the regulation of specific signal transduction cascades, as witnessed by its presence in a number of macromolecular signalling modules, where it is often found in association with other phosphatases and kinases. Additionally, PP2A interacts with a substantial number of other cellular and viral proteins, which are PP2A substrates, target PP2A to different subcellular compartments or affect enzyme activity. Finally, the de-regulation of PP2A in some specific pathologies will be touched upon.
+
+
+
+
+
+
+PMID: 8918191
+Number of times this paper has been cited = 32
+Title: Coiled coils: new structures and new functions.
+Journal: Trends in biochemical sciences
+Publication Date: Oct, 1996
+Abstract:
+Over the past five years, the structures of more than 20 proteins containing coiled-coil domains have been solved to high resolution. This has provided many new insights into the structure of coiled coils, their discontinuities, their relationship with other helical bundles and the problems connected with their prediction from protein sequences.
+
+
+
+
+
+
+PMID: 10775259
+Number of times this paper has been cited = 32
+Title: Transcriptional control by the TGF-beta/Smad signaling system.
+Journal: The EMBO journal
+Publication Date: Apr, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 7923371
+Number of times this paper has been cited = 32
+Title: The ubiquitin-proteasome proteolytic pathway.
+Journal: Cell
+Publication Date: Oct, 1994
+Abstract:
+
+
+
+
+
+
+
+PMID: 11057895
+Number of times this paper has been cited = 30
+Title: Cell signaling by receptor tyrosine kinases.
+Journal: Cell
+Publication Date: Oct, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 12600310
+Number of times this paper has been cited = 29
+Title: Cellular motility driven by assembly and disassembly of actin filaments.
+Journal: Cell
+Publication Date: Feb, 2003
+Abstract:
+Motile cells extend a leading edge by assembling a branched network of actin filaments that produces physical force as the polymers grow beneath the plasma membrane. A core set of proteins including actin, Arp2/3 complex, profilin, capping protein, and ADF/cofilin can reconstitute the process in vitro, and mathematical models of the constituent reactions predict the rate of motion. Signaling pathways converging on WASp/Scar proteins regulate the activity of Arp2/3 complex, which mediates the initiation of new filaments as branches on preexisting filaments. After a brief spurt of growth, capping protein terminates the elongation of the filaments. After filaments have aged by hydrolysis of their bound ATP and dissociation of the gamma phosphate, ADF/cofilin proteins promote debranching and depolymerization. Profilin catalyzes the exchange of ADP for ATP, refilling the pool of ATP-actin monomers bound to profilin, ready for elongation.
+
+
+
+
+
+
+PMID: 8811184
+Number of times this paper has been cited = 29
+Title: The structure and function of proteins involved in mammalian pre-mRNA splicing.
+Journal: Annual review of biochemistry
+Publication Date: , 1996
+Abstract:
+Intervening sequences are removed from nuclear pre-mRNAs in a well-defined multi-step pathway. Small nuclear ribonucleoprotein particles (snRNPs) and numerous protein factors are essential for the formation of the active spliceosome in which intron excision proceeds in two successive transesterification reactions. Important elements for catalysis are the RNA moieties of the snRNPs that align the pre-mRNA splice sites in the active center of the spliceosome. Although pre-mRNA splicing is almost certainly RNA-mediated, both snRNA-associated proteins and non-snRNP splicing factors participate in each step of the splicing reaction. Splicing proteins exert auxiliary functions in the recognition, selection, and juxtaposition of the splice sites and drive conformational changes during spliceosome assembly and catalysis. Many splicing factors have been isolated in recent years and corresponding cDNAs have been cloned. This review summarizes the structure and function of mammalian proteins which are essential components of the constitutive splicing machinery.
+
+
+
+
+
+
+PMID: 9759490
+Number of times this paper has been cited = 26
+Title: Nucleocytoplasmic transport: the soluble phase.
+Journal: Annual review of biochemistry
+Publication Date: , 1998
+Abstract:
+Active transport between the nucleus and cytoplasm involves primarily three classes of macromolecules: substrates, adaptors, and receptors. Some transport substrates bind directly to an import or an export receptor while others require one or more adaptors to mediate formation of a receptor-substrate complex. Once assembled, these transport complexes are transferred in one direction across the nuclear envelope through aqueous channels that are part of the nuclear pore complexes (NPCs). Dissociation of the transport complex must then take place, and both adaptors and receptors must be recycled through the NPC to allow another round of transport to occur. Directionality of either import or export therefore depends on association between a substrate and its receptor on one side of the nuclear envelope and dissociation on the other. The Ran GTPase is critical in generating this asymmetry. Regulation of nucleocytoplasmic transport generally involves specific inhibition of the formation of a transport complex; however, more global forms of regulation also occur.
+
+
+
+
+
+
+PMID: 9039261
+Number of times this paper has been cited = 26
+Title: Programmed cell death in animal development.
+Journal: Cell
+Publication Date: Feb, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 10872469
+Number of times this paper has been cited = 25
+Title: eIF4 initiation factors: effectors of mRNA recruitment to ribosomes and regulators of translation.
+Journal: Annual review of biochemistry
+Publication Date: , 1999
+Abstract:
+Eukaryotic translation initiation factor 4F (eIF4F) is a protein complex that mediates recruitment of ribosomes to mRNA. This event is the rate-limiting step for translation under most circumstances and a primary target for translational control. Functions of the constituent proteins of eIF4F include recognition of the mRNA 5' cap structure (eIF4E), delivery of an RNA helicase to the 5' region (eIF4A), bridging of the mRNA and the ribosome (eIF4G), and circularization of the mRNA via interaction with poly(A)-binding protein (eIF4G). eIF4 activity is regulated by transcription, phosphorylation, inhibitory proteins, and proteolytic cleavage. Extracellular stimuli evoke changes in phosphorylation that influence eIF4F activity, especially through the phosphoinositide 3-kinase (PI3K) and Ras signaling pathways. Viral infection and cellular stresses also affect eIF4F function. The recent determination of the structure of eIF4E at atomic resolution has provided insight about how translation is initiated and regulated. Evidence suggests that eIF4F is also implicated in malignancy and apoptosis.
+
+
+
+
+
+
+PMID: 10657980
+Number of times this paper has been cited = 25
+Title: The importance of being proline: the interaction of proline-rich motifs in signaling proteins with their cognate domains.
+Journal: FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+Publication Date: Feb, 2000
+Abstract:
+Acommon focus among molecular and cellular biologists is the identification of proteins that interact with each other. Yeast two-hybrid, cDNA expression library screening, and coimmunoprecipitation experiments are powerful methods for identifying novel proteins that bind to one's favorite protein for the purpose of learning more regarding its cellular function. These same techniques, coupled with truncation and mutagenesis experiments, have been used to define the region of interaction between pairs of proteins. One conclusion from this work is that many interactions occur over short regions, often less than 10 amino acids in length within one protein. For example, mapping studies and 3-dimensional analyses of antigen-antibody interactions have revealed that epitopes are typically 4-7 residues long (1). Other examples include protein-interaction modules, such as Src homology (SH) 2 and 3 domains, phosphotyrosine binding domains (PTB), postsynaptic density/disc-large/ZO1 (PDZ) domains, WW domains, Eps15 homology (EH) domains, and 14-3-3 proteins that typically recognize linear regions of 3-9 amino acids. Each of these domains has been the subject of recent reviews published elsewhere (2 3 4 5 6 7). Among the primary structures of many ligands for protein-protein interactions, the amino acid proline is critical. In particular, SH3, WW, and several new protein-interaction domains prefer ligand sequences that are proline-rich. In addition, even though ligands for EH domains and 14-3-3 domains are not proline-rich, they do include a single proline residue. This review highlights the analysis of those protein-protein interactions that involve proline residues, the biochemistry of proline, and current drug discovery efforts based on proline peptidomimetics.-Kay, B. K., Williamson, M. P., Sudol, M. The importance of being proline: the interaction of proline-rich motifs in signaling proteins with their cognate domains.
+
+
+
+
+
+
+PMID: 8817449
+Number of times this paper has been cited = 25
+Title: Five years on the wings of fork head.
+Journal: Mechanisms of development
+Publication Date: Jun, 1996
+Abstract:
+Since its discovery five years ago the conserved family of fork head/HNF-3-related transcription factors has gained increasing importance for the analysis of gene regulatory mechanisms during embryonic development and in differentiated cells. Different members of this family, which is defined by a conserved 110 amino acid residues encompassing DNA binding domain of winged helix structure, serve as regulatory keys in embryogenesis, in tumorigenesis or in the maintenance of differentiated cell states. The purpose of this review is to summarize the accumulating amount of data on structure, expression and function of fork head/HNF-3-related transcription factors.
+
+
+
+
+
+
+PMID: 7834739
+Number of times this paper has been cited = 25
+Title: MAP kinase pathways in yeast: for mating and more.
+Journal: Cell
+Publication Date: Jan, 1995
+Abstract:
+
+
+
+
+
+
+
+PMID: 9604925
+Number of times this paper has been cited = 24
+Title: PDZ proteins organize synaptic signaling pathways.
+Journal: Cell
+Publication Date: May, 1998
+Abstract:
+
+
+
+
+
+
+
+PMID: 17522673
+Number of times this paper has been cited = 24
+Title: The complex language of chromatin regulation during transcription.
+Journal: Nature
+Publication Date: May, 2007
+Abstract:
+An important development in understanding the influence of chromatin on gene regulation has been the finding that DNA methylation and histone post-translational modifications lead to the recruitment of protein complexes that regulate transcription. Early interpretations of this phenomenon involved gene regulation reflecting predictive activating or repressing types of modification. However, further exploration reveals that transcription occurs against a backdrop of mixtures of complex modifications, which probably have several roles. Although such modifications were initially thought to be a simple code, a more likely model is of a sophisticated, nuanced chromatin 'language' in which different combinations of basic building blocks yield dynamic functional outcomes.
+
+
+
+
+
+
+PMID: 8755249
+Number of times this paper has been cited = 24
+Title: PEST sequences and regulation by proteolysis.
+Journal: Trends in biochemical sciences
+Publication Date: Jul, 1996
+Abstract:
+In 1986, we proposed that polypeptide sequences enriched in proline (P), glutamic acid (E), serine (S) and threonine (T) target proteins for rapid destruction. For much of the past decade there were only sporadic experimental tests of the hypothesis. This situation changed markedly during the past two years with a number of papers providing strong evidence that PEST regions do, in fact, serve as proteolytic signals. Here, we briefly review the properties of PEST regions and some interesting examples of the conditional nature of such signals. Most of the article, however, focuses on recent experimental support for the hypothesis and on mechanisms responsible for the rapid degradation of proteins that contain PEST regions.
+
+
+
+
+
+
+PMID: 15040445
+Number of times this paper has been cited = 24
+Title: Endocytic recycling.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Feb, 2004
+Abstract:
+After endocytosis, most membrane proteins and lipids return to the cell surface, but some membrane components are delivered to late endosomes or the Golgi. We now understand that the pathways taken by internalized molecules that eventually recycle to the cell surface can be surprisingly complex and can involve a series of sorting events that occur in several organelles. The molecular basis for many of these sorting processes is only partly understood.
+
+
+
+
+
+
+PMID: 11239407
+Number of times this paper has been cited = 23
+Title: The TNF and TNF receptor superfamilies: integrating mammalian biology.
+Journal: Cell
+Publication Date: Feb, 2001
+Abstract:
+
+
+
+
+
+
+
+PMID: 8939848
+Number of times this paper has been cited = 23
+Title: Cell cycle checkpoints: preventing an identity crisis.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 1996
+Abstract:
+Cell cycle checkpoints are regulatory pathways that control the order and timing of cell cycle transitions and ensure that critical events such as DNA replication and chromosome segregation are completed with high fidelity. In addition, checkpoints respond to damage by arresting the cell cycle to provide time for repair and by inducing transcription of genes that facilitate repair. Checkpoint loss results in genomic instability and has been implicated in the evolution of normal cells into cancer cells. Recent advances have revealed signal transduction pathways that transmit checkpoint signals in response to DNA damage, replication blocks, and spindle damage. Checkpoint pathways have components shared among all eukaryotes, underscoring the conservation of cell cycle regulatory machinery.
+
+
+
+
+
+
+PMID: 8599108
+Number of times this paper has been cited = 23
+Title: Coat proteins and vesicle budding.
+Journal: Science (New York, N.Y.)
+Publication Date: Mar, 1996
+Abstract:
+The trafficking of proteins within eukaryotic cells is achieved by the capture of cargo and targeting molecules into vesicles that bud from a donor membrane and deliver their contents to a receiving department. This process is bidirectional and may involve multiple organelles within a cell. Distinct coat proteins mediate each budding event, serving both to shape the transport vesicle and to select by direct or indirect interaction the desired set of cargo molecules. Secretion, which has been viewed as a default pathway, may require sorting and packaging signals on transported molecules to ensure their rapid delivery to the cell surface.
+
+
+
+
+
+
+PMID: 10079096
+Number of times this paper has been cited = 23
+Title: PDZ domains: fundamental building blocks in the organization of protein complexes at the plasma membrane.
+Journal: The Journal of clinical investigation
+Publication Date: Mar, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 16261189
+Number of times this paper has been cited = 23
+Title: The diverse functions of histone lysine methylation.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Nov, 2005
+Abstract:
+Covalent modifications of histone tails have fundamental roles in chromatin structure and function. One such modification, lysine methylation, has important functions in many biological processes that include heterochromatin formation, X-chromosome inactivation and transcriptional regulation. Here, we summarize recent advances in our understanding of how lysine methylation functions in these diverse biological processes, and raise questions that need to be addressed in the future.
+
+
+
+
+
+
+PMID: 9126736
+Number of times this paper has been cited = 22
+Title: Nucleocytoplasmic transport: signals, mechanisms and regulation.
+Journal: Nature
+Publication Date: Apr, 1997
+Abstract:
+In eukaryotic organisms, DNA replication and RNA biogenesis occur in the cell nucleus, whereas protein synthesis occurs in the cytoplasm. Integration of these activities depends on selective transport of proteins and ribonucleoprotein particles between the two compartments. Transport across the nuclear envelope occurs through large multiprotein structures, termed nuclear pore complexes. It is signal-mediated and requires both energy and soluble factors, including shuttling carriers. Here I summarize current understanding of nucleocytoplasmic transport and illustrate the importance of regulated transport for signal transduction.
+
+
+
+
+
+
+PMID: 7797459
+Number of times this paper has been cited = 21
+Title: How MAP kinases are regulated.
+Journal: The Journal of biological chemistry
+Publication Date: Jun, 1995
+Abstract:
+
+
+
+
+
+
+
+PMID: 7878463
+Number of times this paper has been cited = 21
+Title: Mechanisms and genes of cellular suicide.
+Journal: Science (New York, N.Y.)
+Publication Date: Mar, 1995
+Abstract:
+Apoptosis is a morphologically distinct form of programmed cell death that plays a major role during development, homeostasis, and in many diseases including cancer, acquired immunodeficiency syndrome, and neurodegenerative disorders. Apoptosis occurs through the activation of a cell-intrinsic suicide program. The basic machinery to carry out apoptosis appears to be present in essentially all mammalian cells at all times, but the activation of the suicide program is regulated by many different signals that originate from both the intracellular and the extracellular milieu. Genetic studies in the nematode Caenorhabditis elegans and in the fruit fly Drosophila melanogaster have led to the isolation of genes that are specifically required for the induction of programmed cell death. At least some components of the apoptotic program have been conserved among worms, insects, and vertebrates.
+
+
+
+
+
+
+PMID: 11413487
+Number of times this paper has been cited = 21
+Title: Lipid rafts and signal transduction.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Oct, 2000
+Abstract:
+Signal transduction is initiated by complex protein-protein interactions between ligands, receptors and kinases, to name only a few. It is now becoming clear that lipid micro-environments on the cell surface -- known as lipid rafts -- also take part in this process. Lipid rafts containing a given set of proteins can change their size and composition in response to intra- or extracellular stimuli. This favours specific protein-protein interactions, resulting in the activation of signalling cascades.
+
+
+
+
+
+
+PMID: 11701921
+Number of times this paper has been cited = 21
+Title: The guanine nucleotide-binding switch in three dimensions.
+Journal: Science (New York, N.Y.)
+Publication Date: Nov, 2001
+Abstract:
+Guanine nucleotide-binding proteins regulate a variety of processes, including sensual perception, protein synthesis, various transport processes, and cell growth and differentiation. They act as molecular switches and timers that cycle between inactive guanosine diphosphate (GDP)-bound and active guanosine triphosphate (GTP)-bound states. Recent structural studies show that the switch apparatus itself is a conserved fundamental module but that its regulators and effectors are quite diverse in their structures and modes of interaction. Here we will try to define some underlying principles.
+
+
+
+
+
+
+PMID: 17604717
+Number of times this paper has been cited = 20
+Title: AKT/PKB signaling: navigating downstream.
+Journal: Cell
+Publication Date: Jun, 2007
+Abstract:
+The serine/threonine kinase Akt, also known as protein kinase B (PKB), is a central node in cell signaling downstream of growth factors, cytokines, and other cellular stimuli. Aberrant loss or gain of Akt activation underlies the pathophysiological properties of a variety of complex diseases, including type-2 diabetes and cancer. Here, we review the molecular properties of Akt and the approaches used to characterize its true cellular targets. In addition, we discuss those Akt substrates that are most likely to contribute to the diverse cellular roles of Akt, which include cell survival, growth, proliferation, angiogenesis, metabolism, and migration.
+
+
+
+
+
+
+PMID: 12049731
+Number of times this paper has been cited = 20
+Title: The anaphase-promoting complex: proteolysis in mitosis and beyond.
+Journal: Molecular cell
+Publication Date: May, 2002
+Abstract:
+Key events in mitosis such as sister chromatid separation and subsequent inactivation of cyclin-dependent kinase 1 are regulated by ubiquitin-dependent proteolysis. These events are mediated by the anaphase-promoting complex (APC), a cell cycle-regulated ubiquitin ligase that assembles multiubiquitin chains on regulatory proteins such as securin and cyclins and thereby targets them for destruction by the 26S proteasome.
+
+
+
+
+
+
+PMID: 16134966
+Number of times this paper has been cited = 20
+Title: Specificity and versatility of SH3 and other proline-recognition domains: structural basis and implications for cellular signal transduction.
+Journal: The Biochemical journal
+Publication Date: Sep, 2005
+Abstract:
+Protein-protein interactions occurring via the recognition of short peptide sequences by modular interaction domains play a central role in the assembly of signalling protein complexes and larger protein networks that regulate cellular behaviour. In addition to spatial and temporal factors, the specificity of signal transduction is intimately associated with the specificity of many co-operative, pairwise binding events upon which various pathways are built. Although protein interaction domains are usually identified via the recognition code, the consensus sequence motif, to which they selectively bind, they are highly versatile and play diverse roles in the cell. For example, a given interaction domain can bind to multiple sequences that exhibit no apparent identity, and, on the other hand, domains of the same class or different classes may favour a given consensus motif. This promiscuity in ligand selection is typified by the SH3 (Src homology 3) domain and several other interaction modules that commonly recognize proline-rich sequences. Furthermore, interaction domains are highly adaptable, a property that is essential for the evolution of novel pathways and modulation of signalling dynamics. The ability of certain interaction domains to perform multiple tasks, however, poses a challenge for the cell to control signalling specificity when cross-talk between pathways is undesired. Extensive structural and biochemical analysis of many interaction domains in recent years has started to shed light on the molecular basis underlying specific compared with diverse binding events that are mediated by interaction domains and the role affinity plays in affecting domain specificity and regulating cellular signal transduction.
+
+
+
+
+
+
+PMID: 15774750
+Number of times this paper has been cited = 20
+Title: The molecular requirements for cytokinesis.
+Journal: Science (New York, N.Y.)
+Publication Date: Mar, 2005
+Abstract:
+After anaphase onset, animal cells build an actomyosin contractile ring that constricts the plasma membrane to generate two daughter cells connected by a cytoplasmic bridge. The bridge is ultimately severed to complete cytokinesis. Myriad techniques have been used to identify proteins that participate in cytokinesis in vertebrates, insects, and nematodes. A conserved core of about 20 proteins are individually involved with cytokinesis in most animal cells. These components are found in the contractile ring, on the central spindle, within the RhoA pathway, and on vesicles that expand the membrane and sever the bridge. Cytokinesis involves additional proteins, but they, or their requirement in cytokinesis, are not conserved among animal cells.
+
+
+
+
+
+
+PMID: 12702867
+Number of times this paper has been cited = 20
+Title: Assembly of cell regulatory systems through protein interaction domains.
+Journal: Science (New York, N.Y.)
+Publication Date: Apr, 2003
+Abstract:
+The sequencing of complete genomes provides a list that includes the proteins responsible for cellular regulation. However, this does not immediately reveal what these proteins do, nor how they are assembled into the molecular machines and functional networks that control cellular behavior. The regulation of many different cellular processes requires the use of protein interaction domains to direct the association of polypeptides with one another and with phospholipids, small molecules, or nucleic acids. The modular nature of these domains, and the flexibility of their binding properties, have likely facilitated the evolution of cellular pathways. Conversely, aberrant interactions can induce abnormal cellular behavior and disease. The fundamental properties of protein interaction domains are discussed in this review and in detailed reviews on individual domains at Science's STKE at http://www.sciencemag.org/cgi/content/full/300/5618/445/DC1.
+
+
+
+
+
+
+PMID: 12621426
+Number of times this paper has been cited = 20
+Title: Regulated portals of entry into the cell.
+Journal: Nature
+Publication Date: Mar, 2003
+Abstract:
+The plasma membrane is the interface between cells and their harsh environment. Uptake of nutrients and all communication among cells and between cells and their environment occurs through this interface. 'Endocytosis' encompasses several diverse mechanisms by which cells internalize macromolecules and particles into transport vesicles derived from the plasma membrane. It controls entry into the cell and has a crucial role in development, the immune response, neurotransmission, intercellular communication, signal transduction, and cellular and organismal homeostasis. As the complexity of molecular interactions governing endocytosis are revealed, it has become increasingly clear that it is tightly coordinated and coupled with overall cell physiology and thus, must be viewed in a broader context than simple vesicular trafficking.
+
+
+
+
+
+
+PMID: 16882731
+Number of times this paper has been cited = 20
+Title: Rabs and their effectors: achieving specificity in membrane traffic.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Publication Date: Aug, 2006
+Abstract:
+Rab proteins constitute the largest branch of the Ras GTPase superfamily. Rabs use the guanine nucleotide-dependent switch mechanism common to the superfamily to regulate each of the four major steps in membrane traffic: vesicle budding, vesicle delivery, vesicle tethering, and fusion of the vesicle membrane with that of the target compartment. These different tasks are carried out by a diverse collection of effector molecules that bind to specific Rabs in their GTP-bound state. Recent advances have not only greatly extended the number of known Rab effectors, but have also begun to define the mechanisms underlying their distinct functions. By binding to the guanine nucleotide exchange proteins that activate the Rabs certain effectors act to establish positive feedback loops that help to define and maintain tightly localized domains of activated Rab proteins, which then serve to recruit other effector molecules. Additionally, Rab cascades and Rab conversions appear to confer directionality to membrane traffic and couple each stage of traffic with the next along the pathway.
+
+
+
+
+
+
+PMID: 10926821
+Number of times this paper has been cited = 20
+Title: Signal-dependent membrane targeting by pleckstrin homology (PH) domains.
+Journal: The Biochemical journal
+Publication Date: Aug, 2000
+Abstract:
+Pleckstrin homology (PH) domains are small protein modules of around 120 amino acids found in many proteins involved in cell signalling, cytoskeletal rearrangement and other processes. Although several different protein ligands have been proposed for PH domains, their only clearly demonstrated physiological function to date is to bind membrane phosphoinositides. The PH domain from phospholipase C-delta(1) binds specifically to PtdIns(4,5)P(2) and its headgroup, and has become a valuable tool for studying cellular PtdIns(4,5)P(2) functions. More recent developments have demonstrated that a subset of PH domains recognizes the products of agonist-stimulated phosphoinositide 3-kinases. Fusion of these PH domains to green fluorescent protein has allowed dramatic demonstrations of their independent ability to drive signal-dependent recruitment of their host proteins to the plasma membrane. We discuss the structural basis for this 3-phosphoinoistide recognition and the role that it plays in cellular signalling. PH domains that bind specifically to phosphoinositides comprise only a minority (perhaps 15%) of those known, raising questions as to the physiological role of the remaining 85% of PH domains. Most (if not all) PH domains bind weakly and non-specifically to phosphoinositides. Studies of dynamin-1 have indicated that oligomerization of its PH domain may be important in driving membrane association. We discuss the possibility that membrane targeting by PH domains with low affinity for phosphoinositides could be driven by alteration of their oligomeric state and thus the avidity of their membrane binding.
+
+
+
+
+
+
+PMID: 9759489
+Number of times this paper has been cited = 19
+Title: How cells respond to interferons.
+Journal: Annual review of biochemistry
+Publication Date: , 1998
+Abstract:
+Interferons play key roles in mediating antiviral and antigrowth responses and in modulating immune response. The main signaling pathways are rapid and direct. They involve tyrosine phosphorylation and activation of signal transducers and activators of transcription factors by Janus tyrosine kinases at the cell membrane, followed by release of signal transducers and activators of transcription and their migration to the nucleus, where they induce the expression of the many gene products that determine the responses. Ancillary pathways are also activated by the interferons, but their effects on cell physiology are less clear. The Janus kinases and signal transducers and activators of transcription, and many of the interferon-induced proteins, play important alternative roles in cells, raising interesting questions as to how the responses to the interferons intersect with more general aspects of cellular physiology and how the specificity of cytokine responses is maintained.
+
+
+
+
+
+

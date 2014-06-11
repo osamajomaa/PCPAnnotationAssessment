@@ -1,0 +1,652 @@
+Top 50 Mice papers that are cited by Humans papers:
+
+PMID: 15229469
+Number of times this paper has been cited = 33
+Title: Toll-like receptor signalling.
+Journal: Nature reviews. Immunology
+Publication Date: Jul, 2004
+Abstract:
+
+
+
+
+
+
+
+PMID: 8304236
+Number of times this paper has been cited = 29
+Title: Interleukin-8 and related chemotactic cytokines--CXC and CC chemokines.
+Journal: Advances in immunology
+Publication Date: , 1994
+Abstract:
+
+
+
+
+
+
+
+PMID: 8898190
+Number of times this paper has been cited = 28
+Title: From form to function: signaling by protein tyrosine phosphatases.
+Journal: Cell
+Publication Date: Nov, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 9242519
+Number of times this paper has been cited = 28
+Title: Chemokines.
+Journal: Blood
+Publication Date: Aug, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 7584949
+Number of times this paper has been cited = 24
+Title: Angiogenesis in cancer, vascular, rheumatoid and other disease.
+Journal: Nature medicine
+Publication Date: Jan, 1995
+Abstract:
+Recent discoveries of endogenous negative regulators of angiogenesis, thrombospondin, angiostatin and glioma-derived angiogenesis inhibitory factor, all associated with neovascularized tumours, suggest a new paradigm of tumorigenesis. It is now helpful to think of the switch to the angiogenic phenotype as a net balance of positive and negative regulators of blood vessel growth. The extent to which the negative regulators are decreased during this switch may dictate whether a primary tumour grows rapidly or slowly and whether metastases grow at all.
+
+
+
+
+
+
+PMID: 8660993
+Number of times this paper has been cited = 24
+Title: Human/mouse homology relationships.
+Journal: Genomics
+Publication Date: May, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 9891778
+Number of times this paper has been cited = 22
+Title: Mechanisms of Wnt signaling in development.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 1998
+Abstract:
+Wnt genes encode a large family of secreted, cysteine-rich proteins that play key roles as intercellular signaling molecules in development. Genetic studies in Drosophila and Caenorhabditis elegans, ectopic gene expression in Xenopus, and gene knockouts in the mouse have demonstrated the involvement of Wnts in processes as diverse as segmentation, CNS patterning, and control of asymmetric cell divisions. The transduction of Wnt signals between cells proceeds in a complex series of events including post-translational modification and secretion of Wnts, binding to transmembrane receptors, activation of cytoplasmic effectors, and, finally, transcriptional regulation of target genes. Over the past two years our understanding of Wnt signaling has been substantially improved by the identification of Frizzled proteins as cell surface receptors for Wnts and by the finding that beta-catenin, a component downstream of the receptor, can translocate to the nucleus and function as a transcriptional activator. Here we review recent data that have started to unravel the mechanisms of Wnt signaling.
+
+
+
+
+
+
+PMID: 12781359
+Number of times this paper has been cited = 19
+Title: Chk1 and Chk2 kinases in checkpoint control and cancer.
+Journal: Cancer cell
+Publication Date: May, 2003
+Abstract:
+Accumulation of mutations and chromosomal aberrations is one of the hallmarks of cancer cells. This enhanced genetic instability is fueled by defects in the genome maintenance mechanisms including DNA repair and cell cycle checkpoint pathways. Here, we discuss the emerging roles of the mammalian Chk1 and Chk2 kinases as key signal transducers within the complex network of genome integrity checkpoints, as candidate tumor suppressors disrupted in sporadic as well as some hereditary malignancies and as potential targets of new anticancer therapies.
+
+
+
+
+
+
+PMID: 10346810
+Number of times this paper has been cited = 18
+Title: Stress signaling from the lumen of the endoplasmic reticulum: coordination of gene transcriptional and translational controls.
+Journal: Genes & development
+Publication Date: May, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 9744859
+Number of times this paper has been cited = 18
+Title: Tumor necrosis factor receptor-associated factors (TRAFs)--a family of adapter proteins that regulates life and death.
+Journal: Genes & development
+Publication Date: Sep, 1998
+Abstract:
+
+
+
+
+
+
+
+PMID: 2068781
+Number of times this paper has been cited = 17
+Title: Development and applications of a molecular genetic linkage map of the mouse genome.
+Journal: Trends in genetics : TIG
+Publication Date: Apr, 1991
+Abstract:
+Interspecific mouse backcrosses provide almost limitless genetic variation for gene mapping. We have used interspecific backcrosses to develop the first comprehensive molecular genetic linkage map of the mouse genome. More than 600 loci have been positioned on the map; the current average map resolution is less than 3 cM. Since all loci were mapped using a single backcross panel, gene order can be determined unambiguously. With this level of resolution, it is now possible to position any new locus on the linkage map with virtually 100% certainty. In this article, we review how interspecific linkage maps are constructed, the salient features of our linkage map, and some of the many applications of interspecific linkage maps, in general, for future research.
+
+
+
+
+
+
+PMID: 17128209
+Number of times this paper has been cited = 17
+Title: Regulating the p53 pathway: in vitro hypotheses, in vivo veritas.
+Journal: Nature reviews. Cancer
+Publication Date: Dec, 2006
+Abstract:
+Mutations in TP53, the gene that encodes the tumour suppressor p53, are found in 50% of human cancers, and increased levels of its negative regulators MDM2 and MDM4 (also known as MDMX) downregulate p53 function in many of the rest. Understanding p53 regulation remains a crucial goal to design broadly applicable anticancer strategies based on this pathway. This Review of in vitro studies, human tumour data and recent mouse models shows that p53 post-translational modifications have modulatory roles, and MDM2 and MDM4 have more profound roles for regulating p53. Importantly, MDM4 emerges as an independent target for drug development, as its inactivation is crucial for full p53 activation.
+
+
+
+
+
+
+PMID: 15688002
+Number of times this paper has been cited = 17
+Title: GEF means go: turning on RHO GTPases with guanine nucleotide-exchange factors.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Feb, 2005
+Abstract:
+Guanine nucleotide-exchange factors (GEFs) are directly responsible for the activation of Rho-family GTPases in response to diverse extracellular stimuli, and ultimately regulate numerous cellular responses such as proliferation, differentiation and movement. With 69 distinct homologues, Dbl-related GEFs represent the largest family of direct activators of Rho GTPases in humans, and they activate Rho GTPases within particular spatio-temporal contexts. The failure to do so can have significant consequences and is reflected in the aberrant function of Dbl-family GEFs in some human diseases.
+
+
+
+
+
+
+PMID: 12360211
+Number of times this paper has been cited = 17
+Title: NF-kappaB regulation in the immune system.
+Journal: Nature reviews. Immunology
+Publication Date: Oct, 2002
+Abstract:
+The nuclear factor-kappaB (NF-kappaB)/REL family of transcription factors has a central role in coordinating the expression of a wide variety of genes that control immune responses. There has been intense scientific activity in the NF-kappaB field owing to the involvement of these factors in the activation and regulation of key molecules that are associated with diseases ranging from inflammation to cancer. In this review, we focus on our current understanding of NF-kappaB regulation and its role in the immune system and inflammatory diseases. We also discuss the role of NF-kappaB proteins as potential therapeutic targets in clinical applications.
+
+
+
+
+
+
+PMID: 10579998
+Number of times this paper has been cited = 17
+Title: Cellular survival: a play in three Akts.
+Journal: Genes & development
+Publication Date: Nov, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 13130303
+Number of times this paper has been cited = 16
+Title: Targeting HIF-1 for cancer therapy.
+Journal: Nature reviews. Cancer
+Publication Date: Oct, 2003
+Abstract:
+Hypoxia-inducible factor 1 (HIF-1) activates the transcription of genes that are involved in crucial aspects of cancer biology, including angiogenesis, cell survival, glucose metabolism and invasion. Intratumoral hypoxia and genetic alterations can lead to HIF-1alpha overexpression, which has been associated with increased patient mortality in several cancer types. In preclinical studies, inhibition of HIF-1 activity has marked effects on tumour growth. Efforts are underway to identify inhibitors of HIF-1 and to test their efficacy as anticancer therapeutics.
+
+
+
+
+
+
+PMID: 16227978
+Number of times this paper has been cited = 15
+Title: Coordinating ERK/MAPK signalling through scaffolds and inhibitors.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Nov, 2005
+Abstract:
+The pathway from Ras through Raf and MEK (MAPK and ERK kinase) to ERK/MAPK (extracellular signal-regulated kinase/mitogen-activated protein kinase) regulates many fundamental cellular processes. Recently, a number of scaffolding proteins and endogenous inhibitors have been identified, and their important roles in regulating signalling through this pathway are now emerging. Some scaffolds augment the signal flux, but also mediate crosstalk with other pathways; certain adaptors target MEK-ERK/MAPK complexes to subcellular localizations; others provide regulated inhibition. Computational modelling indicates that, together, these modulators can determine the dynamic biological behaviour of the pathway.
+
+
+
+
+
+
+PMID: 17079682
+Number of times this paper has been cited = 15
+Title: Mammalian sirtuins--emerging roles in physiology, aging, and calorie restriction.
+Journal: Genes & development
+Publication Date: Nov, 2006
+Abstract:
+Sir2 is an NAD-dependent deacetylase that connects metabolism with longevity in yeast, worms and flies. Mammals contain seven homologs of yeast Sir2, SIRT1-7. Here, we review recent findings demonstrating the role of these mammalian sirtuins as regulators of physiology, calorie restriction, and aging. The current findings sharpen our understanding of sirtuins as potential pharmacological targets to treat the major diseases of aging.
+
+
+
+
+
+
+PMID: 12766759
+Number of times this paper has been cited = 15
+Title: NODs: intracellular proteins involved in inflammation and apoptosis.
+Journal: Nature reviews. Immunology
+Publication Date: May, 2003
+Abstract:
+NOD (nucleotide-binding oligomerization domain) proteins are members of a family that includes the apoptosis regulator APAF1 (apoptotic protease activating factor 1), mammalian NOD-LRR (leucine-rich repeat) proteins and plant disease-resistance gene products. Several NOD proteins have been implicated in the induction of nuclear factor-kappaB (NF-kappaB) activity and in the activation of caspases. Two members of the NOD family, NOD1 and NOD2, mediate the recognition of specific bacterial components. Notably, genetic variation in the genes encoding the NOD proteins NOD2, cryopyrin and CIITA (MHC class II transactivator) in humans and Naip5 (neuronal apoptosis inhibitory protein 5) in mice is associated with inflammatory disease or increased susceptibility to bacterial infections. Mammalian NOD proteins seem to function as cytosolic sensors for the induction of apoptosis, as well as for innate recognition of microorganisms and regulation of inflammatory responses.
+
+
+
+
+
+
+PMID: 12612652
+Number of times this paper has been cited = 14
+Title: RecQ helicases: caretakers of the genome.
+Journal: Nature reviews. Cancer
+Publication Date: Mar, 2003
+Abstract:
+RecQ helicases are highly conserved from bacteria to man. Germline mutations in three of the five known family members in humans give rise to debilitating disorders that are characterized by, amongst other things, a predisposition to the development of cancer. One of these disorders--Bloom's syndrome--is uniquely associated with a predisposition to cancers of all types. So how do RecQ helicases protect against cancer? They seem to maintain genomic stability by functioning at the interface between DNA replication and DNA repair.
+
+
+
+
+
+
+PMID: 7574495
+Number of times this paper has been cited = 14
+Title: Transcriptional responses to polypeptide ligands: the JAK-STAT pathway.
+Journal: Annual review of biochemistry
+Publication Date: , 1995
+Abstract:
+Cytokines and growth factors regulate multiple aspects of cell growth through their interactions with specific receptors. These receptors initiate signals directed at both the cytoplasmic and the nuclear compartments. Many of the nuclear signals culminate in the induction of new genes. Characterization of the ability of IFN-alpha to rapidly induce new genes has led to the identification of a new signaling paradigm, the JAK-STAT (Signal Transducers and Activators of Transcription) pathway. In the IFN-alpha pathway, two receptor associated tyrosine kinases from the JAK family, Jak1 and Tyk2, mediate the activation of two latent cytoplasmic transcription factors, Stat1 and Stat2. More recent studies have not only determined that this pathway is used extensively, but have led to the identification of additional components (e.g., Jak2, Jak3, Stat3, Stat4, Stat5, and Stat6). This review will examine how these components mediate the transduction of signal directly from receptor to nucleus.
+
+
+
+
+
+
+PMID: 10919634
+Number of times this paper has been cited = 13
+Title: The Pezcoller lecture: cancer cell cycles revisited.
+Journal: Cancer research
+Publication Date: Jul, 2000
+Abstract:
+Genetic lesions that disable key regulators of G1 phase progression in mammalian cells are present in most human cancers. Mitogen-dependent, cyclin D-dependent kinases (cdk4 and cdk6) phosphorylate the retinoblastoma (Rb) tumor suppressor protein, helping to cancel its growth-inhibitory effects and enabling E2F transcription factors to activate genes required for entry into the DNA synthetic phase (S) of the cell division cycle. Among the E2F-responsive genes are cyclins E and A, which combine with and activate cdk2 to facilitate S phase entry and progression. Accumulation of cyclin D-dependent kinases during G1 phase sequesters cdk2 inhibitors of the Cip/Kip family, complementing the effects of the E2F transcriptional program by facilitating cyclin E-cdk2 activation at the G1-S transition. Disruption of "the Rb pathway" results from direct mutational inactivation of Rb function, by overexpression of cyclin D-dependent kinases, or through loss of p16(INK4a), an inhibitor of the cyclin D-dependent kinases. Reduction in levels of p27(Kip1) and increased expression of cyclin E also occur and carry a poor prognostic significance in many common forms of cancer. The ARF tumor suppressor, encoded by an alternative reading frame of the INK4a-ARF locus, senses "mitogenic current" flowing through the Rb pathway and is induced by abnormal growth promoting signals. By antagonizing Mdm2, a negative regulator of the p53 tumor suppressor, ARF triggers a p53-dependent transcriptional response that diverts incipient cancer cells to undergo growth arrest or apoptosis. Although ARF is not directly activated by signals that damage DNA, its loss not only dampens the p53 response to abnormal mitogenic signals but also renders tumor cells resistant to treatment by cytotoxic drugs and irradiation. Lesions in the p16--cyclin D-CDK4--Rb and ARF--Mdm2--p53 pathways occur so frequently in cancer, regardless of patient age or tumor type, that they appear to be part of the life history of most, if not all, cancer cells.
+
+
+
+
+
+
+PMID: 11902584
+Number of times this paper has been cited = 13
+Title: Hypoxia--a key regulatory factor in tumour growth.
+Journal: Nature reviews. Cancer
+Publication Date: Jan, 2002
+Abstract:
+Cells undergo a variety of biological responses when placed in hypoxic conditions, including activation of signalling pathways that regulate proliferation, angiogenesis and death. Cancer cells have adapted these pathways, allowing tumours to survive and even grow under hypoxic conditions, and tumour hypoxia is associated with poor prognosis and resistance to radiation therapy. Many elements of the hypoxia-response pathway are therefore good candidates for therapeutic targeting.
+
+
+
+
+
+
+PMID: 12094235
+Number of times this paper has been cited = 13
+Title: The phosphatidylinositol 3-Kinase AKT pathway in human cancer.
+Journal: Nature reviews. Cancer
+Publication Date: Jul, 2002
+Abstract:
+
+
+
+
+
+
+
+PMID: 16493418
+Number of times this paper has been cited = 13
+Title: Complex networks orchestrate epithelial-mesenchymal transitions.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Feb, 2006
+Abstract:
+Epithelial-mesenchymal transition is an indispensable mechanism during morphogenesis, as without mesenchymal cells, tissues and organs will never be formed. However, epithelial-cell plasticity, coupled to the transient or permanent formation of mesenchyme, goes far beyond the problem of cell-lineage segregation. Understanding how mesenchymal cells arise from an epithelial default status will also have a strong impact in unravelling the mechanisms that control fibrosis and cancer progression.
+
+
+
+
+
+
+PMID: 8712067
+Number of times this paper has been cited = 13
+Title: Proteins of the Myc network: essential regulators of cell growth and differentiation.
+Journal: Advances in cancer research
+Publication Date: , 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 7574488
+Number of times this paper has been cited = 12
+Title: Collagens: molecular biology, diseases, and potentials for therapy.
+Journal: Annual review of biochemistry
+Publication Date: , 1995
+Abstract:
+The collagen superfamily of proteins now contains at least 19 proteins formally defined as collagens and an additional ten proteins that have collagen-like domains. The most abundant collagens form extracellular fibrils or network-like structures, but the others fulfill a variety of biological functions. Some of the eight highly specific post-translational enzymes involved in collagen biosynthesis have recently been cloned. Over 400 mutations in 6 different collagens cause a variety of human diseases that include osteogenesis imperfecta, chondrodysplasias, some forms of osteoporosis, some forms of osteoarthritis, and the renal disease known as the Alport syndrome. Many of the disease phenotypes have been produced in transgenic mice with mutated collagen genes. There has been increasing interest in the possibility that the unique post-translational enzymes involved in collagen biosynthesis offer attractive targets for specifically inhibiting excessive fibrotic reactions in a number of diseases. A number of experiments suggest it may be possible to inhibit collagen synthesis with oligo-nucleotides or antisense genes.
+
+
+
+
+
+
+PMID: 9649497
+Number of times this paper has been cited = 12
+Title: Groucho proteins: transcriptional corepressors for specific subsets of DNA-binding transcription factors in vertebrates and invertebrates.
+Journal: Genes & development
+Publication Date: Jul, 1998
+Abstract:
+
+
+
+
+
+
+
+PMID: 11283727
+Number of times this paper has been cited = 12
+Title: Cbl: many adaptations to regulate protein tyrosine kinases.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Apr, 2001
+Abstract:
+Responses to extracellular stimuli are often transduced from cell-surface receptors to protein tyrosine kinases which, when activated, initiate the formation of protein complexes that transmit signals throughout the cell. A prominent component of these complexes is the product of the proto-oncogene c-Cbl, which specifically targets activated protein tyrosine kinases and regulates their signalling. How, then, does this multidomain protein shape the responses generated by these signalling complexes?
+
+
+
+
+
+
+PMID: 12524386
+Number of times this paper has been cited = 12
+Title: Toll-like receptors.
+Journal: Annual review of immunology
+Publication Date: , 2003
+Abstract:
+The innate immune system in drosophila and mammals senses the invasion of microorganisms using the family of Toll receptors, stimulation of which initiates a range of host defense mechanisms. In drosophila antimicrobial responses rely on two signaling pathways: the Toll pathway and the IMD pathway. In mammals there are at least 10 members of the Toll-like receptor (TLR) family that recognize specific components conserved among microorganisms. Activation of the TLRs leads not only to the induction of inflammatory responses but also to the development of antigen-specific adaptive immunity. The TLR-induced inflammatory response is dependent on a common signaling pathway that is mediated by the adaptor molecule MyD88. However, there is evidence for additional pathways that mediate TLR ligand-specific biological responses.
+
+
+
+
+
+
+PMID: 17506691
+Number of times this paper has been cited = 12
+Title: Cilia and developmental signaling.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 2007
+Abstract:
+Recent studies have revealed unexpected connections between the mammalian Hedgehog (Hh) signal transduction pathway and the primary cilium, a microtubule-based organelle that protrudes from the surface of most vertebrate cells. Intraflagellar transport proteins, which are required for the construction of cilia, are essential for all responses to mammalian Hh proteins, and proteins required for Hh signal transduction are enriched in primary cilia. The phenotypes of different mouse mutants that affect ciliary proteins suggest that cilia may act as processive machines that organize sequential steps in the Hh signal transduction pathway. Cilia on vertebrate cells are likely to be important in additional developmental signaling pathways and are required for PDGF receptor alpha signaling in cultured fibroblasts. Cilia are not essential for either canonical or noncanonical Wnt signaling, although cell-type-specific modulation of cilia components may link cilia and Wnt signaling in some tissues. Because ciliogenesis in invertebrates is limited to a very small number of specialized cell types, the role of cilia in developmental signaling pathways is likely a uniquely vertebrate phenomenon.
+
+
+
+
+
+
+PMID: 15336958
+Number of times this paper has been cited = 11
+Title: S100 proteins in mouse and man: from evolution to function and pathology (including an update of the nomenclature).
+Journal: Biochemical and biophysical research communications
+Publication Date: Oct, 2004
+Abstract:
+The S100 protein family is the largest subgroup within the superfamily of proteins carrying the Ca2+-binding EF-hand motif. Despite their small molecular size and their conserved functional domain of two distinct EF-hands, S100 proteins developed a plethora of tissue-specific intra- and extracellular functions. Accordingly, various diseases such as cardiomyopathies, neurodegenerative and inflammatory disorders, and cancer are associated with altered S100 protein levels. Here, we review the different S100 protein functions and related diseases from an evolutionary point of view. We analyzed the structural variations, which are the basis of functional diversification, as well as the genomic organization of the S100 family in human and compared it with the S100 repertoires in mouse and rat. S100 genes and proteins are highly conserved between the different mammalian species. Moreover, we identified evolutionary related subgroups of S100 proteins within the three species, which share functional similarity and form subclusters on the genomic level. The available S100-specific mouse models are summarized and the consequences of our results are discussed with regard to the use of genetically engineered mice as human disease models. An update of the S100 nomenclature is included, because some of the recently identified S100 genes and pseudogenes had to be renamed.
+
+
+
+
+
+
+PMID: 10877819
+Number of times this paper has been cited = 11
+Title: Lysosome-related organelles.
+Journal: FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+Publication Date: Jul, 2000
+Abstract:
+Lysosomes are membrane-bound cytoplasmic organelles involved in intracellular protein degradation. They contain an assortment of soluble acid-dependent hydrolases and a set of highly glycosylated integral membrane proteins. Most of the properties of lysosomes are shared with a group of cell type-specific compartments referred to as 'lysosome-related organelles', which include melanosomes, lytic granules, MHC class II compartments, platelet-dense granules, basophil granules, azurophil granules, and Drosophila pigment granules. In addition to lysosomal proteins, these organelles contain cell type-specific components that are responsible for their specialized functions. Abnormalities in both lysosomes and lysosome-related organelles have been observed in human genetic diseases such as the Chediak-Higashi and Hermansky-Pudlak syndromes, further demonstrating the close relationship between these organelles. Identification of genes mutated in these human diseases, as well as in mouse and Drosophila: pigmentation mutants, is beginning to shed light on the molecular machinery involved in the biogenesis of lysosomes and lysosome-related organelles.
+
+
+
+
+
+
+PMID: 12949498
+Number of times this paper has been cited = 11
+Title: Signalling pathways of the TNF superfamily: a double-edged sword.
+Journal: Nature reviews. Immunology
+Publication Date: Sep, 2003
+Abstract:
+Two different tumour-necrosis factors (TNFs), first isolated in 1984, were found to be cytotoxic to tumour cells and to induce tumour regression in mice. Research during the past two decades has shown the existence of a superfamily of TNF proteins consisting of 19 members that signal through 29 receptors. These ligands, while regulating normal functions such as immune responses, haematopoiesis and morphogenesis, have also been implicated in tumorigenesis, transplant rejection, septic shock, viral replication, bone resorption, rheumatoid arthritis and diabetes; so indicating their role as 'double-edged swords'. These cytokines either induce cellular proliferation, survival, differentiation or apoptosis. Blockers of TNF have been approved for human use in treating TNF-linked autoimmune diseases in the United States and other countries.
+
+
+
+
+
+
+PMID: 19410540
+Number of times this paper has been cited = 10
+Title: Blinded by the Light: The Growing Complexity of p53.
+Journal: Cell
+Publication Date: May, 2009
+Abstract:
+While the tumor suppressor functions of p53 have long been recognized, the contribution of p53 to numerous other aspects of disease and normal life is only now being appreciated. This burgeoning range of responses to p53 is reflected by an increasing variety of mechanisms through which p53 can function, although the ability to activate transcription remains key to p53's modus operandi. Control of p53's transcriptional activity is crucial for determining which p53 response is activated, a decision we must understand if we are to exploit efficiently the next generation of drugs that selectively activate or inhibit p53.
+
+
+
+
+
+
+PMID: 11731267
+Number of times this paper has been cited = 10
+Title: The six hyaluronidase-like genes in the human and mouse genomes.
+Journal: Matrix biology : journal of the International Society for Matrix Biology
+Publication Date: Dec, 2001
+Abstract:
+The human genome contains six hyaluronidase-like genes. Three genes (HYAL1, HYAL2 and HYAL3) are clustered on chromosome 3p21.3, and another two genes (HYAL4 and PH-20/SPAM1) and one expressed pseudogene (HYALP1) are similarly clustered on chromosome 7q31.3. The extensive homology between the different hyaluronidase genes suggests ancient gene duplication, followed by en masse block duplication, events that occurred before the emergence of modern mammals. Very recently we have found that the mouse genome also has six hyaluronidase-like genes that are also grouped into two clusters of three, in regions syntenic with the human genome. Surprisingly, the mouse ortholog of HYALP1 does not contain any mutations, and unlike its human counterpart may actually encode an active enzyme. Hyal-1 is the only hyaluronidase in mammalian plasma and urine, and is also found at high levels in major organs such as liver, kidney, spleen, and heart. A model is proposed suggesting that Hyal-2 and Hyal-1 are the major mammalian hyaluronidases in somatic tissues, and that they act in concert to degrade high molecular weight hyaluronan to the tetrasaccharide. Twenty-kDa hyaluronan fragments are generated at the cell surface in unique endocytic vesicles resulting from digestion by the glycosylphosphatidyl-inositol-anchored Hyal-2, transported intracellularly by an unknown process, and then further digested by Hyal-1. The two beta-exoglycosidases, beta-glucuronidase and beta-N-acetyl glucosaminidase, remove sugars from reducing termini of hyaluronan oligomers, and supplement the hyaluronidases in the catabolism of hyaluronan.
+
+
+
+
+
+
+PMID: 9061011
+Number of times this paper has been cited = 10
+Title: Dbl family proteins.
+Journal: Biochimica et biophysica acta
+Publication Date: Feb, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 18272355
+Number of times this paper has been cited = 10
+Title: MDA5/RIG-I and virus recognition.
+Journal: Current opinion in immunology
+Publication Date: Feb, 2008
+Abstract:
+The innate immune system initially recognizes RNA virus infection and evokes antiviral responses by producing type I interferons (IFNs). Toll-like receptors (TLRs) and cytoplasmic retinoic acid-inducible gene I (RIG-I)-like helicases (RLHs) are the two major receptor systems for detecting RNA viruses. The RLH signaling pathways play essential roles in the recognition of RNA viruses in various cells, with the exception of plasmacytoid dendritic cells, which utilize TLRs for virus recognition. The route of infection determines the cell types responsible for type I IFN production. Recent studies have suggested that TLRs are critical for activation of adaptive immune responses against several virus infections, although it may be premature to draw such a conclusion for virus infections in general. In this review, we will discuss recent advances toward clarifying the signaling pathways activated by RLHs and TLRs.
+
+
+
+
+
+
+PMID: 11883532
+Number of times this paper has been cited = 10
+Title: Rho GTPases in transformation and metastasis.
+Journal: Advances in cancer research
+Publication Date: , 2002
+Abstract:
+During the development and progression of human cancer, cells undergo numerous changes in morphology, proliferation, and transcriptional profile. Over the past couple of decades there have been intense efforts to understand the molecular mechanisms involved, and members of the Ras superfamily of small GTPases have emerged as important players. Mutated versions of the Ras genes were first identified in human cancers some 20 years ago, but more recently, the Rho branch of the family has been receiving increased attention. In addition to the experimental evidence implicating Rho GTPase signaling in promoting malignant transformation, genetic analysis of human cancers has now revealed a few examples of direct alterations in the genes encoding regulators of Rho GTPases. In this review, we discuss the evidence implicating Rho GTPases in transformation and metastasis, as well as the progress made toward identifying their biochemical mechanism of action.
+
+
+
+
+
+
+PMID: 8810257
+Number of times this paper has been cited = 10
+Title: The MutT proteins or "Nudix" hydrolases, a family of versatile, widely distributed, "housecleaning" enzymes.
+Journal: The Journal of biological chemistry
+Publication Date: Oct, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 8898189
+Number of times this paper has been cited = 10
+Title: Form and function in protein dephosphorylation.
+Journal: Cell
+Publication Date: Nov, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 12466190
+Number of times this paper has been cited = 9
+Title: Genetic analysis of the mammalian transforming growth factor-beta superfamily.
+Journal: Endocrine reviews
+Publication Date: Dec, 2002
+Abstract:
+Members of the TGF-beta superfamily, which includes TGF-betas, growth differentiation factors, bone morphogenetic proteins, activins, inhibins, and glial cell line-derived neurotrophic factor, are synthesized as prepropeptide precursors and then processed and secreted as homodimers or heterodimers. Most ligands of the family signal through transmembrane serine/threonine kinase receptors and SMAD proteins to regulate cellular functions. Many studies have reported the characterization of knockout and knock-in transgenic mice as well as humans or other mammals with naturally occurring genetic mutations in superfamily members or their regulatory proteins. These investigations have revealed that TGF-beta superfamily ligands, receptors, SMADs, and upstream and downstream regulators function in diverse developmental and physiological pathways. This review attempts to collate and integrate the extensive body of in vivo mammalian studies produced over the last decade.
+
+
+
+
+
+
+PMID: 8639758
+Number of times this paper has been cited = 9
+Title: The transcriptional control of hematopoiesis.
+Journal: Blood
+Publication Date: May, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 11139331
+Number of times this paper has been cited = 9
+Title: The human histone deacetylase family.
+Journal: Experimental cell research
+Publication Date: Jan, 2001
+Abstract:
+Since the identification of the first histone deacetylase (Taunton et al., Science 272, 408-411), several new members have been isolated. They can loosely be separated into entities on the basis of their similarity to various yeast histone deacetylases. The first class is represented by its closeness to the yeast Rpd3-like proteins, and the second most recently discovered class has similarities to yeast Hda1-like proteins. However, due to the fact that several different research groups isolated the Hda1-like histone deacetylases independently, there have been various different nomenclatures used to describe the various members, which can lead to confusion in the interpretation of this family's functions and interactions. With the discovery of another novel murine histone deacetylase, homologous to yeast Sir2, the number of members of this family is set to increase, as 7 human homologues of this gene have been isolated. In the light of these recent discoveries, we have examined the literature data and conducted a database analysis of the isolated histone deacetylases and potential candidates. The results obtained suggest that the number of histone deacetylases within the human genome may be as high as 17 and are discussed in relation to their homology to the yeast histone deacetylases.
+
+
+
+
+
+
+PMID: 8864835
+Number of times this paper has been cited = 9
+Title: Molecular cloning and functional analysis of sialyltransferases.
+Journal: Journal of biochemistry
+Publication Date: Jul, 1996
+Abstract:
+To elucidate the regulatory mechanism for carbohydrate expression and to understand the meaning of the carbohydrate-structural diversity, we started to clone sialyltransferase (ST) genes based on two different strategies, i.e. expression and homology cloning. So far, 13 STs have been cloned in our laboratory, 7 of which turned out to be new ones. The primary enzyme structures deduced from all the cloned ST genes suggest a putative domain structure with a type II transmembrane topology. There are no significant amino acid sequence similarities among these cloned STs, except for in two sialyl motifs, L and S, which are proposed to be the CMP-sialic acid recognition and/or catalytic sites. Northern blot analysis revealed the developmental stage-dependent and/or tissue-specific expression of most of the cloned STs. The cloned STs are classified into four families according to the carbohydrate linkages they synthesize, i.e. the ST3Gal-, ST6Gal-, ST6GalNAc-, and ST8Sia-families. Generally, enzymes in these families exhibit strong activity toward certain acceptor groups but show very weak activity toward other acceptor groups, and the substrate specificities of the enzymes overlap one another, as indicated by in vitro experiments. Enzymes in the ST3Gal-family are expressed mainly in a tissue-specific manner. However, those in the ST6GalNAc- and ST8Sia-families are expressed in a tissue-as well as developmental stage-specific manner. In vivo conditions are supposed to be more complex. Therefore, it is quite important to examine their substrate specificities in vivo and the mechanism of their expression to elucidate the physiological role of each enzyme and the meaning of the diversity in carbohydrate structure. Using cloned cDNAs and expressed enzymes, we have been studying how sialylcarbohydrate expression is regulated and what the functions of sialylcarbohydrate chains are. Recently, we found that transfection of the GD3 synthase, an alpha 2,8-ST (ST8Sia I), gene triggers cholinergic neuritogenesis in Neuro2a cells through the de novo expression of GD3, suggesting that the GD3 synthase gene behaves as a neural differentiation inducer.
+
+
+
+
+
+
+PMID: 15935754
+Number of times this paper has been cited = 9
+Title: Apoptotic pathways: ten minutes to dead.
+Journal: Cell
+Publication Date: Jun, 2005
+Abstract:
+For more than a decade, it has been apparent that apoptosis and other forms of cell death are often controlled at one or more crucial steps involving the mitochondria. Recent findings, including an elegant investigation in a recent issue of Cell (Hao et al., 2005), have helped to elucidate fundamental aspects of this involvement while raising puzzling new questions about mitochondrial routes to cellular demise. The emerging, if preliminary, perspective these new studies provide may represent either a refinement of our views of how cells die or, perhaps, the beginnings of what amounts to a reformulation of our ideas.
+
+
+
+
+
+
+PMID: 10089876
+Number of times this paper has been cited = 9
+Title: Generic signals and specific outcomes: signaling through Ca2+, calcineurin, and NF-AT.
+Journal: Cell
+Publication Date: Mar, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 11063931
+Number of times this paper has been cited = 9
+Title: Regulation of G(1) cyclin-dependent kinases in the mammalian cell cycle.
+Journal: Current opinion in cell biology
+Publication Date: Dec, 2000
+Abstract:
+Cyclin-dependent kinases are the key regulators of cell-cycle transitions. In mammalian cells, Cdk2, Cdk4, Cdk6 and associated cyclins control the G(1) to S phase transition. Because proper regulation of this transition is critical for an organism's survival, these protein kinases are exquisitely regulated at different mechanistic levels and in response to a large variety of intrinsic and extrinsic signals.
+
+
+
+
+
+
+PMID: 11796263
+Number of times this paper has been cited = 9
+Title: Rab GTPases, intracellular traffic and disease.
+Journal: Trends in molecular medicine
+Publication Date: Jan, 2002
+Abstract:
+Membrane and protein traffic in the secretory and endocytic pathways is mediated by vesicular transport. Recent studies of certain key regulators of vesicular transport, the Rab GTPases, have linked Rab dysfunction to human disease. Mutations in Rab27a result in Griscelli syndrome, caused by defects in melanosome transport in melanocytes and loss of cytotoxic killing activity in Tcells. Other genetic diseases are caused by partial dysfunction of multiple Rab proteins resulting from mutations in general regulators of Rab activity; Rab escort protein-1 (choroideremia), Rab geranylgeranyl transferase (Hermansky-Pudlak syndrome) and Rab GDP dissociation inhibitor-alpha (X-linked mental retardation). In infectious diseases caused by intracellular microorganisms, the function of endocytic Rabs is altered either as part of host defences or as part of survival strategy of the pathogen. The human genome is predicted to contain 60 RAB genes, suggesting that future work could reveal further links between Rab dysfunction and disease.
+
+
+
+
+
+
+PMID: 11994736
+Number of times this paper has been cited = 9
+Title: The snail superfamily of zinc-finger transcription factors.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Mar, 2002
+Abstract:
+The Snail superfamily of zinc-finger transcription factors is involved in processes that imply pronounced cell movements, both during embryonic development and in the acquisition of invasive and migratory properties during tumour progression. Different family members have also been implicated in the signalling cascade that confers left right identity, as well as in the formation of appendages, neural differentiation, cell division and cell survival.
+
+
+
+
+
+

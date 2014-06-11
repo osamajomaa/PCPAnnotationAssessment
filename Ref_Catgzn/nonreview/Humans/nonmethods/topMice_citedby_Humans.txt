@@ -1,0 +1,652 @@
+Top 50 Mice papers that are cited by Humans papers:
+
+PMID: 7536630
+Number of times this paper has been cited = 56
+Title: Rho, rac, and cdc42 GTPases regulate the assembly of multimolecular focal complexes associated with actin stress fibers, lamellipodia, and filopodia.
+Journal: Cell
+Publication Date: Apr, 1995
+Abstract:
+Rho and rac, two members of the ras-related superfamily of small GTPases, regulate the polymerization of actin to produce stress fibers and lamellipodia, respectively. We report here that cdc42, another member of the rho family, triggers the formation of a third type of actin-based structure found at the cell periphery, filopodia. In addition to stress fibers, rho controls the assembly of focal adhesion complexes. We now show that rac and cdc42 also stimulate the assembly of multimolecular focal complexes at the plasma membrane. These complexes, which are associated with lamellipodia and filopodia, contain vinculin, paxillin, and focal adhesion kinase, but are distinct from and formed independently of rho-induced focal adhesions. Activation of cdc42 in Swiss 3T3 cells leads to the sequential activation of rac and then rho, suggesting a molecular model for the coordinated control of cell motility by members of the rho family of GTPases.
+
+
+
+
+
+
+PMID: 9192902
+Number of times this paper has been cited = 48
+Title: A signature motif in transcriptional co-activators mediates binding to nuclear receptors.
+Journal: Nature
+Publication Date: Jun, 1997
+Abstract:
+The binding of lipophilic hormones, retinoids and vitamins to members of the nuclear-receptor superfamily modifies the DNA-binding and transcriptional properties of these receptors, resulting in the activation or repression of target genes. Ligand binding induces conformational changes in nuclear receptors and promotes their association with a diverse group of nuclear proteins, including SRC-1/p160, TIF-2/GRIP-1 and CBP/p300 which function as co-activators of transcription, and RIP-140, TIF-1 and TRIP-1/SUG-1 whose functions are unclear. Here we report that a short sequence motif LXXLL (where L is leucine and X is any amino acid) present in RIP-140, SRC-1 and CBP is necessary and sufficient to mediate the binding of these proteins to liganded nuclear receptors. We show that the ability of SRC-1 to bind the oestrogen receptor and enhance its transcriptional activity is dependent upon the integrity of the LXXLL motifs and on key hydrophobic residues in a conserved helix (helix 12) of the oestrogen receptor that are required for its ligand-induced activation function. We propose that the LXXLL motif is a signature sequence that facilitates the interaction of different proteins with nuclear receptors, and is thus a defining feature of a new family of nuclear proteins.
+
+
+
+
+
+
+PMID: 16127453
+Number of times this paper has been cited = 45
+Title: IPS-1, an adaptor triggering RIG-I- and Mda5-mediated type I interferon induction.
+Journal: Nature immunology
+Publication Date: Oct, 2005
+Abstract:
+Type I interferons are central mediators for antiviral responses. Using high-throughput functional screening of interferon inducers, we have identified here a molecule we call interferon-beta promoter stimulator 1 (IPS-1). Overexpression of IPS-1 induced type I interferon and interferon-inducible genes through activation of IRF3, IRF7 and NF-kappaB transcription factors. TBK1 and IKKi protein kinases were required for the IPS-1-mediated interferon induction. IPS-1 contained an N-terminal CARD-like structure that mediated interaction with the CARD of RIG-I and Mda5, which are cytoplasmic RNA helicases that sense viral infection. 'Knockdown' of IPS-1 by small interfering RNA blocked interferon induction by virus infection. Thus, IPS-1 is an adaptor involved in RIG-I- and Mda5-mediated antiviral immune responses.
+
+
+
+
+
+
+PMID: 17525332
+Number of times this paper has been cited = 41
+Title: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage.
+Journal: Science (New York, N.Y.)
+Publication Date: May, 2007
+Abstract:
+Cellular responses to DNA damage are mediated by a number of protein kinases, including ATM (ataxia telangiectasia mutated) and ATR (ATM and Rad3-related). The outlines of the signal transduction portion of this pathway are known, but little is known about the physiological scope of the DNA damage response (DDR). We performed a large-scale proteomic analysis of proteins phosphorylated in response to DNA damage on consensus sites recognized by ATM and ATR and identified more than 900 regulated phosphorylation sites encompassing over 700 proteins. Functional analysis of a subset of this data set indicated that this list is highly enriched for proteins involved in the DDR. This set of proteins is highly interconnected, and we identified a large number of protein modules and networks not previously linked to the DDR. This database paints a much broader landscape for the DDR than was previously appreciated and opens new avenues of investigation into the responses to DNA damage in mammals.
+
+
+
+
+
+
+PMID: 16177806
+Number of times this paper has been cited = 40
+Title: Cardif is an adaptor protein in the RIG-I antiviral pathway and is targeted by hepatitis C virus.
+Journal: Nature
+Publication Date: Oct, 2005
+Abstract:
+Antiviral immunity against a pathogen is mounted upon recognition by the host of virally associated structures. One of these viral 'signatures', double-stranded (ds) RNA, is a replication product of most viruses within infected cells and is sensed by Toll-like receptor 3 (TLR3) and the recently identified cytosolic RNA helicases RIG-I (retinoic acid inducible gene I, also known as Ddx58) and Mda5 (melanoma differentiation-associated gene 5, also known as Ifih1 or Helicard). Both helicases detect dsRNA, and through their protein-interacting CARD domains, relay an undefined signal resulting in the activation of the transcription factors interferon regulatory factor 3 (IRF3) and NF-kappaB. Here we describe Cardif, a new CARD-containing adaptor protein that interacts with RIG-I and recruits IKKalpha, IKKbeta and IKKvarepsilon kinases by means of its C-terminal region, leading to the activation of NF-kappaB and IRF3. Overexpression of Cardif results in interferon-beta and NF-kappaB promoter activation, and knockdown of Cardif by short interfering RNA inhibits RIG-I-dependent antiviral responses. Cardif is targeted and inactivated by NS3-4A, a serine protease from hepatitis C virus known to block interferon-beta production. Cardif thus functions as an adaptor, linking the cytoplasmic dsRNA receptor RIG-I to the initiation of antiviral programmes.
+
+
+
+
+
+
+PMID: 8334704
+Number of times this paper has been cited = 38
+Title: Mammalian Ras interacts directly with the serine/threonine kinase Raf.
+Journal: Cell
+Publication Date: Jul, 1993
+Abstract:
+We have identified proteins that interact with H-Ras using a two hybrid system screen of a mouse cDNA library. Approximately 50% of the clones identified encoded portions of the c-Raf and A-Raf serine/threonine kinases. Overlaps among these clones define a conserved 81 residue region of the N-terminus of Raf as the Ras interaction region. We show that Raf interacts with wild-type and activated Ras, but not with an effector domain mutant of Ras or with a dominant-interfering Ras mutant. Using purified bacterially expressed fusion proteins, we show, furthermore, that Ras and the N-terminal region of Raf associate directly in vitro and that this interaction is dependent on GTP bound to Ras.
+
+
+
+
+
+
+PMID: 14976264
+Number of times this paper has been cited = 38
+Title: Stress-dependent regulation of FOXO transcription factors by the SIRT1 deacetylase.
+Journal: Science (New York, N.Y.)
+Publication Date: Mar, 2004
+Abstract:
+The Sir2 deacetylase modulates organismal life-span in various species. However, the molecular mechanisms by which Sir2 increases longevity are largely unknown. We show that in mammalian cells, the Sir2 homolog SIRT1 appears to control the cellular response to stress by regulating the FOXO family of Forkhead transcription factors, a family of proteins that function as sensors of the insulin signaling pathway and as regulators of organismal longevity. SIRT1 and the FOXO transcription factor FOXO3 formed a complex in cells in response to oxidative stress, and SIRT1 deacetylated FOXO3 in vitro and within cells. SIRT1 had a dual effect on FOXO3 function: SIRT1 increased FOXO3's ability to induce cell cycle arrest and resistance to oxidative stress but inhibited FOXO3's ability to induce cell death. Thus, one way in which members of the Sir2 family of proteins may increase organismal longevity is by tipping FOXO-dependent responses away from apoptosis and toward stress resistance.
+
+
+
+
+
+
+PMID: 8075499
+Number of times this paper has been cited = 38
+Title: Maps from two interspecific backcross DNA panels available as a community genetic mapping resource.
+Journal: Mammalian genome : official journal of the International Mammalian Genome Society
+Publication Date: May, 1994
+Abstract:
+We established two mouse interspecific backcross DNA panels, one containing 94 N2 animals from the cross (C57BL/6J x Mus spretus)F1 x C57BL/6J, and another from 94 N2 animals from the reciprocal backcross (C57BL/6J x SPRET/Ei)F1 x SPRET/Ei. We prepared large quantities of DNA from most tissues of each animal to create a community resource of interspecific backcross DNA for use by laboratories interested in mapping loci in the mouse. Initial characterization of the genetic maps of both panels has been completed. We used MIT SSLP markers, proviral loci, and several other sequence-defined genes to anchor our maps to other published maps. The BSB panel map (from the backcross to C57BL/6J) contains 215 loci and is anchored by 45 SSLP and 32 gene sequence loci. The BSS panel map (from the backcross to SPRET/Ei) contains 451 loci and is anchored by 49 SSLP loci, 43 proviral loci, and 60 gene sequence loci. To obtain a high density of markers, we used motif-primed PCR to "fingerprint" the panel DNAs. We constructed two maps, each representing one of the two panels. All new loci can be located with a high degree of certainty on the maps at current marker density. Segregation patterns in these data reveal several examples of transmission ratio distortion and permit analysis of the distribution of crossovers on individual chromosomes.
+
+
+
+
+
+
+PMID: 16625202
+Number of times this paper has been cited = 36
+Title: Differential roles of MDA5 and RIG-I helicases in the recognition of RNA viruses.
+Journal: Nature
+Publication Date: May, 2006
+Abstract:
+The innate immune system senses viral infection by recognizing a variety of viral components (including double-stranded (ds)RNA) and triggers antiviral responses. The cytoplasmic helicase proteins RIG-I (retinoic-acid-inducible protein I, also known as Ddx58) and MDA5 (melanoma-differentiation-associated gene 5, also known as Ifih1 or Helicard) have been implicated in viral dsRNA recognition. In vitro studies suggest that both RIG-I and MDA5 detect RNA viruses and polyinosine-polycytidylic acid (poly(I:C)), a synthetic dsRNA analogue. Although a critical role for RIG-I in the recognition of several RNA viruses has been clarified, the functional role of MDA5 and the relationship between these dsRNA detectors in vivo are yet to be determined. Here we use mice deficient in MDA5 (MDA5-/-) to show that MDA5 and RIG-I recognize different types of dsRNAs: MDA5 recognizes poly(I:C), and RIG-I detects in vitro transcribed dsRNAs. RNA viruses are also differentially recognized by RIG-I and MDA5. We find that RIG-I is essential for the production of interferons in response to RNA viruses including paramyxoviruses, influenza virus and Japanese encephalitis virus, whereas MDA5 is critical for picornavirus detection. Furthermore, RIG-I-/- and MDA5-/- mice are highly susceptible to infection with these respective RNA viruses compared to control mice. Together, our data show that RIG-I and MDA5 distinguish different RNA viruses and are critical for host antiviral responses.
+
+
+
+
+
+
+PMID: 8242752
+Number of times this paper has been cited = 35
+Title: WAF1, a potential mediator of p53 tumor suppression.
+Journal: Cell
+Publication Date: Nov, 1993
+Abstract:
+The ability of p53 to activate transcription from specific sequences suggests that genes induced by p53 may mediate its biological role as a tumor suppressor. Using a subtractive hybridization approach, we identified a gene, named WAF1, whose induction was associated with wild-type but not mutant p53 gene expression in a human brain tumor cell line. The WAF1 gene was localized to chromosome 6p21.2, and its sequence, structure, and activation by p53 was conserved in rodents. Introduction of WAF1 cDNA suppressed the growth of human brain, lung, and colon tumor cells in culture. Using a yeast enhancer trap, a p53-binding site was identified 2.4 kb upstream of WAF1 coding sequences. The WAF1 promoter, including this p53-binding site, conferred p53-dependent inducibility upon a heterologous reporter gene. These studies define a gene whose expression is directly induced by p53 and that could be an important mediator of p53-dependent tumor growth suppression.
+
+
+
+
+
+
+PMID: 17038590
+Number of times this paper has been cited = 35
+Title: 5'-Triphosphate RNA is the ligand for RIG-I.
+Journal: Science (New York, N.Y.)
+Publication Date: Nov, 2006
+Abstract:
+The structural basis for the distinction of viral RNA from abundant self RNA in the cytoplasm of virally infected cells is largely unknown. We demonstrated that the 5'-triphosphate end of RNA generated by viral polymerases is responsible for retinoic acid-inducible protein I (RIG-I)-mediated detection of RNA molecules. Detection of 5'-triphosphate RNA is abrogated by capping of the 5'-triphosphate end or by nucleoside modification of RNA, both occurring during posttranscriptional RNA processing in eukaryotes. Genomic RNA prepared from a negative-strand RNA virus and RNA prepared from virus-infected cells (but not from noninfected cells) triggered a potent interferon-alpha response in a phosphatase-sensitive manner. 5'-triphosphate RNA directly binds to RIG-I. Thus, uncapped 5'-triphosphate RNA (now termed 3pRNA) present in viruses known to be recognized by RIG-I, but absent in viruses known to be detected by MDA-5 such as the picornaviruses, serves as the molecular signature for the detection of viral infection by RIG-I.
+
+
+
+
+
+
+PMID: 8136842
+Number of times this paper has been cited = 35
+Title: Isolation of genes from complex sources of mammalian genomic DNA using exon amplification.
+Journal: Nature genetics
+Publication Date: Jan, 1994
+Abstract:
+Modifications to exon amplification have been instituted that increase its speed, efficiency and reliability. Exons were isolated from target human or mouse genomic DNA sources ranging from 30 kilobases (kb) to 3 megabases (Mb) in complexity. The efficiency was dependent upon the amount of input DNA, and ranged from isolation of an exon for every 20 kb to an exon for every 80 kb of target genomic DNA. In these studies, several novel genes and a smaller number of genes isolated previously that reside on human chromosome 9 have been identified. These results indicate that exon amplification is presently adaptable to large scale isolation of exons from complex sources of genomic DNA.
+
+
+
+
+
+
+PMID: 7758105
+Number of times this paper has been cited = 34
+Title: The TNF receptor 1-associated protein TRADD signals cell death and NF-kappa B activation.
+Journal: Cell
+Publication Date: May, 1995
+Abstract:
+Many diverse activities of tumor necrosis factor (TNF) are signaled through TNF receptor 1 (TNFR1). We have identified a novel 34 kDa protein, designated TRADD, that specifically interacts with an intracellular domain of TNFR1 known to be essential for mediating programmed cell death. Overexpression of TRADD leads to two major TNF-induced responses, apoptosis and activation of NF-kappa B. The C-terminal 118 amino acids of TRADD are sufficient to trigger both of these activities and likewise sufficient for interaction with the death domain of TNFR1. TRADD-mediated cell death can be suppressed by the crmA gene, which encodes a specific inhibitor of the interleukin-1 beta-converting enzyme. However, NF-kappa B activation by TRADD is not inhibited by crmA expression, demonstrating that the signaling pathways for TNF-induced cell death and NF-kappa B activation are distinct.
+
+
+
+
+
+
+PMID: 9153395
+Number of times this paper has been cited = 34
+Title: Mdm2 promotes the rapid degradation of p53.
+Journal: Nature
+Publication Date: May, 1997
+Abstract:
+The p53 tumour-suppressor protein exerts antiproliferative effects, including growth arrest and apoptosis, in response to various types of stress. The activity of p53 is abrogated by mutations that occur frequently in tumours, as well as by several viral and cellular proteins. The Mdm2 oncoprotein is a potent inhibitor of p53. Mdm2 binds the transcriptional activation domain of p53 and blocks its ability to regulate target genes and to exert antiproliferative effects. On the other hand, p53 activates the expression of the mdm2 gene in an autoregulatory feedback loop. The interval between p53 activation and consequent Mdm2 accumulation defines a time window during which p53 exerts its effects. We now report that Mdm2 also promotes the rapid degradation of p53 under conditions in which p53 is otherwise stabilized. This effect of Mdm2 requires binding of p53; moreover, a small domain of p53, encompassing the Mdm2-binding site, confers Mdm2-dependent detstabilization upon heterologous proteins. Raised amounts of Mdm2 strongly repress mutant p53 accumulation in tumour-derived cells. During recovery from DNA damage, maximal Mdm2 induction coincides with rapid p53 loss. We propose that the Mdm2-promoted degradation of p53 provides a new mechanism to ensure effective termination of the p53 signal.
+
+
+
+
+
+
+PMID: 8565075
+Number of times this paper has been cited = 33
+Title: TRADD-TRAF2 and TRADD-FADD interactions define two distinct TNF receptor 1 signal transduction pathways.
+Journal: Cell
+Publication Date: Jan, 1996
+Abstract:
+Tumor necrosis factor (TNF) can induce apoptosis and activate NF-kappa B through signaling cascades emanating from TNF receptor 1 (TNFR1). TRADD is a TNFR1-associated signal transducer that is involved in activating both pathways. Here we show that TRADD directly interacts with TRAF2 and FADD, signal transducers that activate NF-kappa B and induce apoptosis, respectively. A TRAF2 mutant lacking its N-terminal RING finger domain is a dominant-negative inhibitor of TNF-mediated NF-kappa B activation, but does not affect TNF-induced apoptosis. Conversely, a FADD mutant lacking its N-terminal 79 amino acids is a dominant-negative inhibitor of TNF-induced apoptosis, but does not inhibit NF-kappa B activation. Thus, these two TNFR1-TRADD signaling cascades appear to bifurcate at TRADD.
+
+
+
+
+
+
+PMID: 11326099
+Number of times this paper has been cited = 33
+Title: Proapoptotic BAX and BAK: a requisite gateway to mitochondrial dysfunction and death.
+Journal: Science (New York, N.Y.)
+Publication Date: Apr, 2001
+Abstract:
+Multiple death signals influence mitochondria during apoptosis, yet the critical initiating event for mitochondrial dysfunction in vivo has been unclear. tBID, the caspase-activated form of a "BH3-domain-only" BCL-2 family member, triggers the homooligomerization of "multidomain" conserved proapoptotic family members BAK or BAX, resulting in the release of cytochrome c from mitochondria. We find that cells lacking both Bax and Bak, but not cells lacking only one of these components, are completely resistant to tBID-induced cytochrome c release and apoptosis. Moreover, doubly deficient cells are resistant to multiple apoptotic stimuli that act through disruption of mitochondrial function: staurosporine, ultraviolet radiation, growth factor deprivation, etoposide, and the endoplasmic reticulum stress stimuli thapsigargin and tunicamycin. Thus, activation of a "multidomain" proapoptotic member, BAX or BAK, appears to be an essential gateway to mitochondrial dysfunction required for cell death in response to diverse stimuli.
+
+
+
+
+
+
+PMID: 7511210
+Number of times this paper has been cited = 33
+Title: Specific motifs recognized by the SH2 domains of Csk, 3BP2, fps/fes, GRB-2, HCP, SHC, Syk, and Vav.
+Journal: Molecular and cellular biology
+Publication Date: Apr, 1994
+Abstract:
+Src homology 2 (SH2) domains provide specificity to intracellular signaling by binding to specific phosphotyrosine (phospho-Tyr)-containing sequences. We recently developed a technique using a degenerate phosphopeptide library to predict the specificity of individual SH2 domains (src family members, Abl, Nck, Sem5, phospholipase C-gamma, p85 subunit of phosphatidylinositol-3-kinase, and SHPTP2 (Z. Songyang, S. E. Shoelson, M. Chaudhuri, G. Gish, T. Pawson, W. G. Haser, F. King, T. Roberts, S. Ratnofsky, R. J. Lechleider, B. G. Neel, R. B. Birge, J. E. Fajardo, M. M. Chou, H. Hanafusa, B. Schaffhausen, and L. C. Cantley, Cell 72:767-778, 1993). We report here the optimal recognition motifs for SH2 domains from GRB-2, Drk, Csk, Vav, fps/fes, SHC, Syk (carboxy-terminal SH2), 3BP2, and HCP (amino-terminal SH2 domain, also called PTP1C and SHPTP1). As predicted, SH2 domains from proteins that fall into group I on the basis of a Phe or Tyr at the beta D5 position (GRB-2, 3BP2, Csk, fps/fes, Syk C-terminal SH2) select phosphopeptides with the general motif phospho-Tyr-hydrophilic (residue)-hydrophilic (residue)-hydrophobic (residue). The SH2 domains of SHC and HCP (group III proteins with Ile, Leu, of Cys at the beta D5 position) selected the general motif phospho-Tyr-hydrophobic-Xxx-hydrophobic, also as predicted. Vav, which has a Thr at the beta D5 position, selected phospho-Tyr-Met-Glu-Pro as the optimal motif. Each SH2 domain selected a unique optimal motif distinct from motifs previously determined for other SH2 domains. These motifs are used to predict potential sites in signaling proteins for interaction with specific SH2 domain-containing proteins. The Syk SH2 domain is predicted to bind to Tyr-hydrophilic-hydrophilic-Leu/Ile motifs like those repeated at 10-residue intervals in T- and B-cell receptor-associated proteins. SHC is predicted to bind to a subgroup og these same motifs. A structural basis for the association of Csk with Src family members is also suggested from these studies.
+
+
+
+
+
+
+PMID: 7600582
+Number of times this paper has been cited = 33
+Title: Selective activation of the JNK signaling cascade and c-Jun transcriptional activity by the small GTPases Rac and Cdc42Hs.
+Journal: Cell
+Publication Date: Jun, 1995
+Abstract:
+The Rho subfamily of GTPases is involved in control of cell morphology in mammals and yeast. The mammalian Rac and Cdc42 proteins control formation of lamellipodia and filopodia, respectively. These proteins also activate MAP kinase (MAPK) cascades that regulate gene expression. Constitutively activated forms of Rac and Cdc42Hs are efficient activators of a cascade leading to JNK and p38/Mpk2 activation. RhoA did not exhibit this activity, and none of the proteins activated the ERK subgroup of MAPKs. JNK, but not ERK, activation was also observed in response to Dbl, an oncoprotein that acts as a nucleotide exchange factor for Cdc42Hs. Results with dominant interfering alleles place Rac1 as an intermediate between Ha-Ras and MEKK in the signaling cascade leading from growth factor receptors and v-Src to JNK activation. JNK and p38 activation are likely to contribute to the biological effects of Rac, Cdc42Hs, and Dbl on cell growth and proliferation.
+
+
+
+
+
+
+PMID: 11292862
+Number of times this paper has been cited = 32
+Title: HIFalpha targeted for VHL-mediated destruction by proline hydroxylation: implications for O2 sensing.
+Journal: Science (New York, N.Y.)
+Publication Date: Apr, 2001
+Abstract:
+HIF (hypoxia-inducible factor) is a transcription factor that plays a pivotal role in cellular adaptation to changes in oxygen availability. In the presence of oxygen, HIF is targeted for destruction by an E3 ubiquitin ligase containing the von Hippel-Lindau tumor suppressor protein (pVHL). We found that human pVHL binds to a short HIF-derived peptide when a conserved proline residue at the core of this peptide is hydroxylated. Because proline hydroxylation requires molecular oxygen and Fe(2+), this protein modification may play a key role in mammalian oxygen sensing.
+
+
+
+
+
+
+PMID: 9851930
+Number of times this paper has been cited = 32
+Title: Defective LPS signaling in C3H/HeJ and C57BL/10ScCr mice: mutations in Tlr4 gene.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 1998
+Abstract:
+Mutations of the gene Lps selectively impede lipopolysaccharide (LPS) signal transduction in C3H/HeJ and C57BL/10ScCr mice, rendering them resistant to endotoxin yet highly susceptible to Gram-negative infection. The codominant Lpsd allele of C3H/HeJ mice was shown to correspond to a missense mutation in the third exon of the Toll-like receptor-4 gene (Tlr4), predicted to replace proline with histidine at position 712 of the polypeptide chain. C57BL/10ScCr mice are homozygous for a null mutation of Tlr4. Thus, the mammalian Tlr4 protein has been adapted primarily to subserve the recognition of LPS and presumably transduces the LPS signal across the plasma membrane. Destructive mutations of Tlr4 predispose to the development of Gram-negative sepsis, leaving most aspects of immune function intact.
+
+
+
+
+
+
+PMID: 7744009
+Number of times this paper has been cited = 31
+Title: The N-terminal part of TIF1, a putative mediator of the ligand-dependent activation function (AF-2) of nuclear receptors, is fused to B-raf in the oncogenic protein T18.
+Journal: The EMBO journal
+Publication Date: May, 1995
+Abstract:
+Nuclear receptors (NRs) bound to response elements mediate the effects of cognate ligands on gene expression. Their ligand-dependent activation function, AF-2, presumably acts on the basal transcription machinery through intermediary proteins/mediators. We have isolated a mouse nuclear protein, TIF1, which enhances RXR and RAR AF-2 in yeast and interacts in a ligand-dependent manner with several NRs in yeast and mammalian cells, as well as in vitro. Remarkably, these interactions require the amino acids constituting the AF-2 activating domain conserved in all active NRs. Moreover, the oestrogen receptor (ER) AF-2 antagonist hydroxytamoxifen cannot promote ER-TIF1 interaction. We propose that TIF1, which contains several conserved domains found in transcriptional regulatory proteins, is a mediator of ligand-dependent AF-2. Interestingly, the TIF1 N-terminal moiety is fused to B-raf in the mouse oncoprotein T18.
+
+
+
+
+
+
+PMID: 7600583
+Number of times this paper has been cited = 31
+Title: The Rho family GTPases RhoA, Rac1, and CDC42Hs regulate transcriptional activation by SRF.
+Journal: Cell
+Publication Date: Jun, 1995
+Abstract:
+The c-fos serum response element (SRE) forms a ternary complex with the transcription factors SRF (serum response factor) and TCF (ternary complex factor). By itself, SRF can mediate transcriptional activation induced by serum, lysophosphatidic acid, or intracellular activation of heterotrimeric G proteins. Activated forms of the Rho family GTPases RhoA, Rac1, and CDC42Hs also activate transcription via SRF and act synergistically at the SRE with signals that activate TCF. Functional Rho is required for signaling to SRF by several stimuli, but not by activated CDC42Hs or Rac1. Activation of the SRF-linked signaling pathway does not correlate with activation of the MAP kinases ERK, SAPK/JNK, or MPK2/p38. Functional Rho is required for regulated activity of the c-fos promoter. These results establish SRF as a nuclear target of a novel Rho-mediated signaling pathway.
+
+
+
+
+
+
+PMID: 9153396
+Number of times this paper has been cited = 31
+Title: Regulation of p53 stability by Mdm2.
+Journal: Nature
+Publication Date: May, 1997
+Abstract:
+The tumour-suppressor p53 is a short-lived protein that is maintained at low, often undetectable, levels in normal cells. Stabilization of the protein in response to an activating signal, such as DNA damage, results in a rapid rise in p53 levels and subsequent inhibition of cell growth. Tight regulation of p53 function is critical for normal cell growth and development, and one mechanism by which p53 function is controlled is through interaction with the Mdm2 protein. Mdm2 inhibits p53 cell-cycle arrest and apoptic functions and we show here that interaction with Mdm2 can also result in a large reduction in p53 protein levels through enhanced proteasome-dependent degradation. Endogenous levels of Mdm2 are sufficient to regulate p53 stability, and overexpression of Mdm2 can reduce the amount of endogenous p53. Because mdm2 is transcriptionally activated by p53, this degradative pathway may contribute to the maintenance of low p53 concentrations in normal cells. Furthermore, mechanisms regulating the Mdm2-induced degradation of p53 may play a role in controlling the extent and duration of the p53 response.
+
+
+
+
+
+
+PMID: 8649511
+Number of times this paper has been cited = 31
+Title: Identification of a major co-receptor for primary isolates of HIV-1.
+Journal: Nature
+Publication Date: Jun, 1996
+Abstract:
+Entry of HIV-1 into target cells requires cell-surface CD4 and additional host cell cofactors. A cofactor required for infection with virus adapted for growth in transformed T-cell lines was recently identified and named fusin. However, fusin does not promote entry of macrophage-tropic viruses, which are believed to be the key pathogenic strains in vivo. The principal cofactor for entry mediated by the envelope glycoproteins of primary macrophage-tropic strains of HIV-1 is CC-CKR-5, a receptor for the beta-chemokines RANTES, MIP-1alpha and MIP-1beta.
+
+
+
+
+
+
+PMID: 12477932
+Number of times this paper has been cited = 30
+Title: Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Publication Date: Dec, 2002
+Abstract:
+The National Institutes of Health Mammalian Gene Collection (MGC) Program is a multiinstitutional effort to identify and sequence a cDNA clone containing a complete ORF for each human and mouse gene. ESTs were generated from libraries enriched for full-length cDNAs and analyzed to identify candidate full-ORF clones, which then were sequenced to high accuracy. The MGC has currently sequenced and verified the full ORF for a nonredundant set of >9,000 human and >6,000 mouse genes. Candidate full-ORF clones for an additional 7,800 human and 3,500 mouse genes also have been identified. All MGC sequences and clones are available without restriction through public databases and clone distribution networks (see http:mgc.nci.nih.gov).
+
+
+
+
+
+
+PMID: 12717448
+Number of times this paper has been cited = 30
+Title: Multiple monoubiquitination of RTKs is sufficient for their endocytosis and degradation.
+Journal: Nature cell biology
+Publication Date: May, 2003
+Abstract:
+Many cellular proteins are post-translationally modified by the addition of a single ubiquitin or a polyubiquitin chain. Among these are receptor tyrosine kinases (RTKs), which undergo ligand-dependent ubiquitination. The ubiquitination of RTKs has become recognized as an important signal for their endocytosis and degradation in the lysosome; however, it is not clear whether ubiquitination itself is sufficient for this process or simply participates in its regulation. The issue is further complicated by the fact that RTKs are thought to be polyubiquitinated - a modification that is linked to protein degradation by the proteasome. By contrast, monoubiquitination has been associated with diverse proteasome-independent cellular functions including intracellular protein movement. Here we show that the epidermal growth factor and platelet-derived growth factor receptors are not polyubiquitinated but rather are monoubiquitinated at multiple sites after their ligand-induced activation. By using different biochemical and molecular genetics approaches, we show that a single ubiquitin is sufficient for both receptor internalization and degradation. Thus, monoubiquitination is the principal signal responsible for the movement of RTKs from the plasma membrane to the lysosome.
+
+
+
+
+
+
+PMID: 7914033
+Number of times this paper has been cited = 29
+Title: A MAP kinase targeted by endotoxin and hyperosmolarity in mammalian cells.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 1994
+Abstract:
+Mammalian cells respond to endotoxic lipopolysaccharide (LPS) by activation of protein kinase cascades that lead to new gene expression. A protein kinase, p38, that was tyrosine phosphorylated in response to LPS, was cloned. The p38 enzyme and the product of the Saccharomyces cerevisiae HOG1 gene, which are both members of the mitogen-activated protein (MAP) kinase family, have sequences at and adjacent to critical phosphorylation sites that distinguish these proteins from most other MAP kinase family members. Both HOG1 and p38 are tyrosine phosphorylated after extracellular changes in osmolarity. These findings link a signaling pathway in mammalian cells with a pathway in yeast that is responsive to physiological stress.
+
+
+
+
+
+
+PMID: 9065401
+Number of times this paper has been cited = 29
+Title: Constitutive transcriptional activation by a beta-catenin-Tcf complex in APC-/- colon carcinoma.
+Journal: Science (New York, N.Y.)
+Publication Date: Mar, 1997
+Abstract:
+The adenomatous polyposis coli (APC) tumor suppressor protein binds to beta-catenin, a protein recently shown to interact with Tcf and Lef transcription factors. The gene encoding hTcf-4, a Tcf family member that is expressed in colonic epithelium, was cloned and characterized. hTcf-4 transactivates transcription only when associated with beta-catenin. Nuclei of APC-/- colon carcinoma cells were found to contain a stable beta-catenin-hTcf-4 complex that was constitutively active, as measured by transcription of a Tcf reporter gene. Reintroduction of APC removed beta-catenin from hTcf-4 and abrogated the transcriptional transactivation. Constitutive transcription of Tcf target genes, caused by loss of APC function, may be a crucial event in the early transformation of colonic epithelium.
+
+
+
+
+
+
+PMID: 8864118
+Number of times this paper has been cited = 29
+Title: An essential role for NF-kappaB in preventing TNF-alpha-induced cell death.
+Journal: Science (New York, N.Y.)
+Publication Date: Nov, 1996
+Abstract:
+Studies on mice deficient in nuclear factor kappa B (NF-kappaB) subunits have shown that this transcription factor is important for lymphocyte responses to antigens and cytokine-inducible gene expression. In particular, the RelA (p65) subunit is required for induction of tumor necrosis factor-alpha (TNF-alpha)-dependent genes. Treatment of RelA-deficient (RelA-/-) mouse fibroblasts and macrophages with TNF-alpha resulted in a significant reduction in viability, whereas RelA+/+ cells were unaffected. Cytotoxicity to both cell types was mediated by TNF receptor 1. Reintroduction of RelA into RelA-/- fibroblasts resulted in enhanced survival, demonstrating that the presence of RelA is required for protection from TNF-alpha. These results have implications for the treatment of inflammatory and proliferative diseases.
+
+
+
+
+
+
+PMID: 8438166
+Number of times this paper has been cited = 28
+Title: Identification of a ten-amino acid proline-rich SH3 binding site.
+Journal: Science (New York, N.Y.)
+Publication Date: Feb, 1993
+Abstract:
+The Src homology 3 (SH3) region is a small protein domain present in a very large group of proteins, including cytoskeletal elements and signaling proteins. It is believed that SH3 domains serve as modules that mediate protein-protein associations and, along with Src homology 2 (SH2) domains, regulate cytoplasmic signaling. The SH3 binding sites of two SH3 binding proteins were localized to a nine- or ten-amino acid stretch very rich in proline residues. Similar SH3 binding motifs exist in the formins, proteins that function in pattern formation in embryonic limbs of the mouse, and one subtype of the muscarinic acetylcholine receptor. Identification of the SH3 binding site provides a basis for understanding the interaction between the SH3 domains and their targets.
+
+
+
+
+
+
+PMID: 15208624
+Number of times this paper has been cited = 28
+Title: The RNA helicase RIG-I has an essential function in double-stranded RNA-induced innate antiviral responses.
+Journal: Nature immunology
+Publication Date: Jul, 2004
+Abstract:
+Intracellular double-stranded RNA (dsRNA) is a chief sign of replication for many viruses. Host mechanisms detect the dsRNA and initiate antiviral responses. In this report, we identify retinoic acid inducible gene I (RIG-I), which encodes a DExD/H box RNA helicase that contains a caspase recruitment domain, as an essential regulator for dsRNA-induced signaling, as assessed by functional screening and assays. A helicase domain with intact ATPase activity was responsible for the dsRNA-mediated signaling. The caspase recruitment domain transmitted 'downstream' signals, resulting in the activation of transcription factors NF-kappaB and IRF-3. Subsequent gene activation by these factors induced antiviral functions, including type I interferon production. Thus, RIG-I is key in the detection and subsequent eradication of the replicating viral genomes.
+
+
+
+
+
+
+PMID: 10066179
+Number of times this paper has been cited = 28
+Title: Increased insulin sensitivity and obesity resistance in mice lacking the protein tyrosine phosphatase-1B gene.
+Journal: Science (New York, N.Y.)
+Publication Date: Mar, 1999
+Abstract:
+Protein tyrosine phosphatase-1B (PTP-1B) has been implicated in the negative regulation of insulin signaling. Disruption of the mouse homolog of the gene encoding PTP-1B yielded healthy mice that, in the fed state, had blood glucose concentrations that were slightly lower and concentrations of circulating insulin that were one-half those of their PTP-1B+/+ littermates. The enhanced insulin sensitivity of the PTP-1B-/- mice was also evident in glucose and insulin tolerance tests. The PTP-1B-/- mice showed increased phosphorylation of the insulin receptor in liver and muscle tissue after insulin injection in comparison to PTP-1B+/+ mice. On a high-fat diet, the PTP-1B-/- and PTP-1B+/- mice were resistant to weight gain and remained insulin sensitive, whereas the PTP-1B+/+ mice rapidly gained weight and became insulin resistant. These results demonstrate that PTP-1B has a major role in modulating both insulin sensitivity and fuel metabolism, thereby establishing it as a potential therapeutic target in the treatment of type 2 diabetes and obesity.
+
+
+
+
+
+
+PMID: 18614015
+Number of times this paper has been cited = 28
+Title: A mitochondrial protein compendium elucidates complex I disease biology.
+Journal: Cell
+Publication Date: Jul, 2008
+Abstract:
+Mitochondria are complex organelles whose dysfunction underlies a broad spectrum of human diseases. Identifying all of the proteins resident in this organelle and understanding how they integrate into pathways represent major challenges in cell biology. Toward this goal, we performed mass spectrometry, GFP tagging, and machine learning to create a mitochondrial compendium of 1098 genes and their protein expression across 14 mouse tissues. We link poorly characterized proteins in this inventory to known mitochondrial pathways by virtue of shared evolutionary history. Using this approach, we predict 19 proteins to be important for the function of complex I (CI) of the electron transport chain. We validate a subset of these predictions using RNAi, including C8orf38, which we further show harbors an inherited mutation in a lethal, infantile CI deficiency. Our results have important implications for understanding CI function and pathogenesis and, more generally, illustrate how our compendium can serve as a foundation for systematic investigations of mitochondria.
+
+
+
+
+
+
+PMID: 12242151
+Number of times this paper has been cited = 28
+Title: Distinct BH3 domains either sensitize or activate mitochondrial apoptosis, serving as prototype cancer therapeutics.
+Journal: Cancer cell
+Publication Date: Sep, 2002
+Abstract:
+The "BH3-only" proteins of the BCL-2 family require "multidomain" proapoptotic members BAX and BAK to release cytochrome c from mitochondria and kill cells. We find short peptides representing the alpha-helical BH3 domains of BID or BIM are capable of inducing oligomerization of BAK and BAX to release cytochrome c. Another subset characterized by the BH3 peptides from BAD and BIK cannot directly activate BAX, BAK but instead binds antiapoptotic BCL-2, resulting in the displacement of BID-like BH3 domains that initiate mitochondrial dysfunction. Transduced BAD-like and BID-like BH3 peptides also displayed synergy in killing leukemic cells. These data support a two-class model for BH3 domains: BID-like domains that "activate" BAX, BAK and BAD-like domains that "sensitize" by occupying the pocket of antiapoptotic members.
+
+
+
+
+
+
+PMID: 11672522
+Number of times this paper has been cited = 28
+Title: Negative control of p53 by Sir2alpha promotes cell survival under stress.
+Journal: Cell
+Publication Date: Oct, 2001
+Abstract:
+The NAD-dependent histone deacetylation of Sir2 connects cellular metabolism with gene silencing as well as aging in yeast. Here, we show that mammalian Sir2alpha physically interacts with p53 and attenuates p53-mediated functions. Nicotinamide (Vitamin B3) inhibits an NAD-dependent p53 deacetylation induced by Sir2alpha, and also enhances the p53 acetylation levels in vivo. Furthermore, Sir2alpha represses p53-dependent apoptosis in response to DNA damage and oxidative stress, whereas expression of a Sir2alpha point mutant increases the sensitivity of cells in the stress response. Thus, our findings implicate a p53 regulatory pathway mediated by mammalian Sir2alpha. These results have significant implications regarding an important role for Sir2alpha in modulating the sensitivity of cells in p53-dependent apoptotic response and the possible effect in cancer therapy.
+
+
+
+
+
+
+PMID: 7791788
+Number of times this paper has been cited = 27
+Title: Identification of a new family of tissue-specific basic helix-loop-helix proteins with a two-hybrid system.
+Journal: Molecular and cellular biology
+Publication Date: Jul, 1995
+Abstract:
+With modified two-hybrid technology, we have isolated a member of a new family of basic helix-loop-helix (bHLH) transcription factors. Thing1 (Th1) was identified in a screen of a mouse embryo cDNA library as a partner for the Drosophila E protein daughterless. RNA in situ hybridization and reverse transcriptase-PCR demonstrate a stage- and tissue-specific distribution for the expression of Th1. Although tissue specific, the expression pattern of Th1 is fairly complex. During development, Th1 mRNA is widely expressed in extraembryonic tissues, portions of the heart, autonomic ganglia, the gut, and pharyngeal arches. At embryonic day 7.5 (E7.5), extraembryonic derivatives show robust Th1 expression. By E8.5, expression in the embryonic heart becomes detectable. During the next 2 days of development, the signal also includes gut and pharyngeal arches. Predominant expression at E13.5 is in neural crest derivatives, especially the autonomic nervous system and adrenal medulla. Expression of Th1 persists in the adult, in which it is localized to the smooth muscle cells of the gut. In vitro, Th1 protein recognizes a set of DNA sites that are more degenerate than has been determined for other bHLH factors, indicating a reduced binding specificity. Transient transfection of NIH 3T3 cells with GAL4-Th1 fusions reveals a repression activity mediated by the Th1 bHLH domain. In combination, these properties define Th1 as a new bHLH protein with a unique set of properties.
+
+
+
+
+
+
+PMID: 8601312
+Number of times this paper has been cited = 27
+Title: Interaction of 14-3-3 with signaling proteins is mediated by the recognition of phosphoserine.
+Journal: Cell
+Publication Date: Mar, 1996
+Abstract:
+The highly conserved and ubiquitously expressed 14-3-3 family of proteins bind to a variety of proteins involved in signal transduction and cell cycle regulation. The nature and specificity of 14-3-3 binding is, however, not known. Here we show that 14-3-3 is a specific phosphoserine-binding protein. Using a panel of phosphorylated peptides based on Raf-1, we have defined the 14-3-3 binding motif and show that most of the known 14-3-3 binding proteins contain the motif. Peptides containing the motif could disrupt 14-3-3 complexes and inhibit maturation of Xenopus laevis oocytes. These results suggest that the interactions of 14-3-3 with signaling proteins are critical for the activation of signaling proteins. Our findings also suggest novel roles for serine/threonine phosphorylation in the assembly of protein-protein complexes.
+
+
+
+
+
+
+PMID: 14980222
+Number of times this paper has been cited = 27
+Title: Mammalian SIRT1 represses forkhead transcription factors.
+Journal: Cell
+Publication Date: Feb, 2004
+Abstract:
+The NAD-dependent deacetylase SIR2 and the forkhead transcription factor DAF-16 regulate lifespan in model organisms, such as yeast and C. elegans. Here we show that the mammalian SIR2 ortholog SIRT1 deacetylates and represses the activity of the forkhead transcription factor Foxo3a and other mammalian forkhead factors. This regulation appears to be in the opposite direction from the genetic interaction of SIR2 with forkhead in C. elegans. By restraining mammalian forkhead proteins, SIRT1 also reduces forkhead-dependent apoptosis. The inhibition of forkhead activity by SIRT1 parallels the effect of this deacetylase on the tumor suppressor p53. We speculate how down-regulating these two classes of damage-responsive mammalian factors may favor long lifespan under certain environmental conditions, such as calorie restriction.
+
+
+
+
+
+
+PMID: 11607032
+Number of times this paper has been cited = 26
+Title: Recognition of double-stranded RNA and activation of NF-kappaB by Toll-like receptor 3.
+Journal: Nature
+Publication Date: Oct, 2001
+Abstract:
+Toll-like receptors (TLRs) are a family of innate immune-recognition receptors that recognize molecular patterns associated with microbial pathogens, and induce antimicrobial immune responses. Double-stranded RNA (dsRNA) is a molecular pattern associated with viral infection, because it is produced by most viruses at some point during their replication. Here we show that mammalian TLR3 recognizes dsRNA, and that activation of the receptor induces the activation of NF-kappaB and the production of type I interferons (IFNs). TLR3-deficient (TLR3-/-) mice showed reduced responses to polyinosine-polycytidylic acid (poly(I:C)), resistance to the lethal effect of poly(I:C) when sensitized with d-galactosamine (d-GalN), and reduced production of inflammatory cytokines. MyD88 is an adaptor protein that is shared by all the known TLRs. When activated by poly(I:C), TLR3 induces cytokine production through a signalling pathway dependent on MyD88. Moreover, poly(I:C) can induce activation of NF-kappaB and mitogen-activated protein (MAP) kinases independently of MyD88, and cause dendritic cells to mature.
+
+
+
+
+
+
+PMID: 8858144
+Number of times this paper has been cited = 26
+Title: NF-kappa B: ten years after.
+Journal: Cell
+Publication Date: Oct, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 3670292
+Number of times this paper has been cited = 26
+Title: High-efficiency transformation of mammalian cells by plasmid DNA.
+Journal: Molecular and cellular biology
+Publication Date: Aug, 1987
+Abstract:
+We describe a simple calcium phosphate transfection protocol and neo marker vectors that achieve highly efficient transformation of mammalian cells. In this protocol, the calcium phosphate-DNA complex is formed gradually in the medium during incubation with cells and precipitates on the cells. The crucial factors for obtaining efficient transformation are the pH (6.95) of the buffer used for the calcium phosphate precipitation, the CO2 level (3%) during the incubation of the DNA with the cells, and the amount (20 to 30 micrograms) and the form (circular) of DNA. In sharp contrast to the results with circular DNA, linear DNA is almost inactive. Under these conditions, 50% of mouse L(A9) cells can be stably transformed with pcDneo, a simian virus 40-based neo (neomycin resistance) marker vector. The NIH3T3, C127, CV1, BHK, CHO, and HeLa cell lines were transformed at efficiencies of 10 to 50% with this vector and the neo marker-incorporated pcD vectors that were used for the construction and transduction of cDNA expression libraries as well as for the expression of cloned cDNA in mammalian cells.
+
+
+
+
+
+
+PMID: 9090381
+Number of times this paper has been cited = 26
+Title: Human PEX7 encodes the peroxisomal PTS2 receptor and is responsible for rhizomelic chondrodysplasia punctata.
+Journal: Nature genetics
+Publication Date: Apr, 1997
+Abstract:
+Rhizomelic chondrodysplasia punctata (RCDP) is a rare autosomal recessive phenotype that comprises complementation group 11 of the peroxisome biogenesis disorders (PBD). PEX7, a candidate gene for RCDP identified in yeast, encodes the receptor for peroxisomal matrix proteins with the type-2 peroxisome targeting signal (PTS2). By homology probing we identified human and murine PEX7 genes and found that expression of either corrects the PTS2-import defect characteristic of RCDP cells. In a collection of 36 RCDP probands, we found two inactivating PEX7 mutations: one, L292ter, was present in 26 of the probands, all with a severe phenotype; the second, A218V, was present in three probands, including two with a milder phenotype. A third mutation, G217R, whose functional significance is yet to be determined, was present in five probands, all compound heterozygotes with L292ter. We conclude that PEX7 is responsible for RCDP (PBD CG11) and suggest a founder effect may explain the high frequency of L292ter.
+
+
+
+
+
+
+PMID: 7566114
+Number of times this paper has been cited = 26
+Title: Ligand-independent repression by the thyroid hormone receptor mediated by a nuclear receptor co-repressor.
+Journal: Nature
+Publication Date: Oct, 1995
+Abstract:
+Thyroid-hormone and retinoic-acid receptors exert their regulatory functions by acting as both activators and repressors of gene expression. A nuclear receptor co-repressor (N-CoR) of relative molecular mass 270K has been identified which mediates ligand-independent inhibition of gene transcription by these receptors, suggesting that the molecular mechanisms of repression by thyroid-hormone and retinoic-acid receptors are analogous to the co-repressor-dependent transcriptional inhibitory mechanisms of yeast and Drosophila.
+
+
+
+
+
+
+PMID: 14671306
+Number of times this paper has been cited = 25
+Title: Mono- versus polyubiquitination: differential control of p53 fate by Mdm2.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 2003
+Abstract:
+Although Mdm2-mediated ubiquitination is essential for both degradation and nuclear export of p53, the molecular basis for the differential effects of Mdm2 remains unknown. Here we show that low levels of Mdm2 activity induce monoubiquitination and nuclear export of p53, whereas high levels promote p53's polyubiquitination and nuclear degradation. A p53-ubiquitin fusion protein that mimics monoubiquitinated p53 was found to accumulate in the cytoplasm in an Mdm2-independent manner, indicating that monoubiquitination is critical for p53 trafficking. These results clarify the nature of ubiquitination-mediated p53 regulation and suggest that distinct mechanisms regulate p53 function in accordance with the levels of Mdm2 activity.
+
+
+
+
+
+
+PMID: 1660837
+Number of times this paper has been cited = 25
+Title: Efficient selection for high-expression transfectants with a novel eukaryotic vector.
+Journal: Gene
+Publication Date: Dec, 1991
+Abstract:
+We have developed a new expression vector which allows efficient selection for transfectants that express foreign genes at high levels. The vector is composed of a ubiquitously strong promoter based on the beta-actin promoter, a 69% subregion of the bovine papilloma virus genome, and a mutant neomycin phosphotransferase II-encoding gene driven by a weak promoter, which confers only marginal resistance to G418. Thus, high concentrations of G418 (approx. 800 micrograms/ml) effectively select for transfectants containing a high vector copy number (greater than 300). We tested this system by producing human interleukin-2 (IL-2) in L cells and Chinese hamster ovary (CHO) cells, and the results showed that high concentrations of G418 efficiently yielded L cell and CHO cell transfectants stably producing IL-2 at levels comparable with those previously attained using gene amplification. The vector sequences were found to have integrated into the host chromosome, and were stably maintained in the transfectants for several months.
+
+
+
+
+
+
+PMID: 17038589
+Number of times this paper has been cited = 25
+Title: RIG-I-mediated antiviral responses to single-stranded RNA bearing 5'-phosphates.
+Journal: Science (New York, N.Y.)
+Publication Date: Nov, 2006
+Abstract:
+Double-stranded RNA (dsRNA) produced during viral replication is believed to be the critical trigger for activation of antiviral immunity mediated by the RNA helicase enzymes retinoic acid-inducible gene I (RIG-I) and melanoma differentiation-associated gene 5 (MDA5). We showed that influenza A virus infection does not generate dsRNA and that RIG-I is activated by viral genomic single-stranded RNA (ssRNA) bearing 5'-phosphates. This is blocked by the influenza protein nonstructured protein 1 (NS1), which is found in a complex with RIG-I in infected cells. These results identify RIG-I as a ssRNA sensor and potential target of viral immune evasion and suggest that its ability to sense 5'-phosphorylated RNA evolved in the innate immune system as a means of discriminating between self and nonself.
+
+
+
+
+
+
+PMID: 15694340
+Number of times this paper has been cited = 25
+Title: Differential targeting of prosurvival Bcl-2 proteins by their BH3-only ligands allows complementary apoptotic function.
+Journal: Molecular cell
+Publication Date: Feb, 2005
+Abstract:
+Apoptosis is initiated when Bcl-2 and its prosurvival relatives are engaged by proapoptotic BH3-only proteins via interaction of its BH3 domain with a groove on the Bcl-2-like proteins. These interactions have been considered promiscuous, but our analysis of the affinity of eight BH3 peptides for five Bcl-2-like proteins has revealed that the interactions vary over 10,000-fold in affinity, and accordingly, only certain protein pairs associate inside cells. Bim and Puma potently engaged all the prosurvival proteins comparably. Bad, however, bound tightly to Bcl-2, Bcl-xL, and Bcl-w but only weakly to A1 and not to Mcl-1. Strikingly, Noxa bound only Mcl-1 and A1. In accord with their complementary binding, Bad and Noxa cooperated to induce potent killing. The results suggest that apoptosis relies on selective interactions between particular subsets of these proteins and that it should be feasible to discover BH3-mimetic drugs that inactivate specific prosurvival targets.
+
+
+
+
+
+
+PMID: 8658171
+Number of times this paper has been cited = 25
+Title: CC CKR5: a RANTES, MIP-1alpha, MIP-1beta receptor as a fusion cofactor for macrophage-tropic HIV-1.
+Journal: Science (New York, N.Y.)
+Publication Date: Jun, 1996
+Abstract:
+Human immunodeficiency virus-type 1 (HIV-1) entry requires fusion cofactors on the CD4+ target cell. Fusin, a heterotrimeric GTP-binding protein (G protein)-coupled receptor, serves as a cofactor for T cell line-tropic isolates. The chemokines RANTES, MIP-1alpha, and MIP-1beta, which suppress infection by macrophage-tropic isolates, selectively inhibited cell fusion mediated by the corresponding envelope glycoproteins (Envs). Recombinant CC CKR5, a G protein-coupled receptor for these chemokines, rendered CD4-expressing nonhuman cells fusion-competent preferentially with macrophage-tropic Envs. CC CKR5 messenger RNA was detected selectively in cell types susceptible to macrophage-tropic isolates. CC CKR5 is thus a fusion cofactor for macrophage-tropic HIV-1 strains.
+
+
+
+
+
+
+PMID: 9034190
+Number of times this paper has been cited = 24
+Title: A metalloproteinase disintegrin that releases tumour-necrosis factor-alpha from cells.
+Journal: Nature
+Publication Date: Feb, 1997
+Abstract:
+Mammalian cells proteolytically release (shed) the extracellular domains of many cell-surface proteins. Modification of the cell surface in this way can alter the cell's responsiveness to its environment and release potent soluble regulatory factors. The release of soluble tumour-necrosis factor-alpha (TNF-alpha) from its membrane-bound precursor is one of the most intensively studied shedding events because this inflammatory cytokine is so physiologically important. The inhibition of TNF-alpha release (and many other shedding phenomena) by hydroxamic acid-based inhibitors indicates that one or more metalloproteinases is involved. We have now purified and cloned a metalloproteinase that specifically cleaves precursor TNF-alpha. Inactivation of the gene in mouse cells caused a marked decrease in soluble TNF-alpha production. This enzyme (called the TNF-alpha-converting enzyme, or TACE) is a new member of the family of mammalian adamalysins (or ADAMs), for which no physiological catalytic function has previously been identified. Our results should facilitate the development of therapeutically useful inhibitors of TNF-alpha release, and they indicate that an important function of adamalysins may be to shed cell-surface proteins.
+
+
+
+
+
+
+PMID: 10338214
+Number of times this paper has been cited = 24
+Title: Mammalian telomeres end in a large duplex loop.
+Journal: Cell
+Publication Date: May, 1999
+Abstract:
+Mammalian telomeres contain a duplex array of telomeric repeats bound to the telomeric repeat-binding factors TRF1 and TRF2. Inhibition of TRF2 results in immediate deprotection of chromosome ends, manifested by loss of the telomeric 3' overhang, activation of p53, and end-to-end chromosome fusions. Electron microscopy reported here demonstrated that TRF2 can remodel linear telomeric DNA into large duplex loops (t loops) in vitro. Electron microscopy analysis of psoralen cross-linked telomeric DNA purified from human and mouse cells revealed abundant large t loops with a size distribution consistent with their telomeric origin. Binding of TRF1 and single strand binding protein suggested that t loops are formed by invasion of the 3' telomeric overhang into the duplex telomeric repeat array. T loops may provide a general mechanism for the protection and replication of telomeres.
+
+
+
+
+
+

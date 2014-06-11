@@ -1,0 +1,652 @@
+Top 50 Mice papers that are cited by Mice papers:
+
+PMID: 11433360
+Number of times this paper has been cited = 48
+Title: Placental development: lessons from mouse mutants.
+Journal: Nature reviews. Genetics
+Publication Date: Jul, 2001
+Abstract:
+The placenta is the first organ to form during mammalian embryogenesis. Problems in its formation and function underlie many aspects of early pregnancy loss and pregnancy complications in humans. Because the placenta is critical for survival, it is very sensitive to genetic disruption, as reflected by the ever-increasing list of targeted mouse mutations that cause placental defects. Recent studies of mouse mutants with disrupted placental development indicate that signalling interactions between the placental trophoblast and embryonic cells have a key role in placental morphogenesis. Furthering our understanding of mouse trophoblast development should provide novel insights into human placental function.
+
+
+
+
+
+
+PMID: 10704885
+Number of times this paper has been cited = 31
+Title: Reiterative signaling and patterning during mammalian tooth morphogenesis.
+Journal: Mechanisms of development
+Publication Date: Mar, 2000
+Abstract:
+Mammalian dentition consists of teeth that develop as discrete organs. From anterior to posterior, the dentition is divided into regions of incisor, canine, premolar and molar tooth types. Particularly teeth in the molar region are very diverse in shape. The development of individual teeth involves epithelial-mesenchymal interactions that are mediated by signals shared with other organs. Parts of the molecular details of signaling networks have been established, particularly in the signal families BMP, FGF, Hh and Wnt, mostly by the analysis of gene expression and signaling responses in knockout mice with arrested tooth development. Recent evidence suggests that largely the same signaling cascade is used reiteratively throughout tooth development. The successional determination of tooth region, tooth type, tooth crown base and individual cusps involves signals that regulate tissue growth and differentiation. Tooth type appears to be determined by epithelial signals and to involve differential activation of homeobox genes in the mesenchyme. This differential signaling could have allowed the evolutionary divergence of tooth shapes among the four tooth types. The advancing tooth morphogenesis is punctuated by transient signaling centers in the epithelium corresponding to the initiation of tooth buds, tooth crowns and individual cusps. The latter two signaling centers, the primary enamel knot and the secondary enamel knot, have been well characterized and are thought to direct the differential growth and subsequent folding of the dental epithelium. Several members of the FGF signal family have been implicated in the control of cell proliferation around the non-dividing enamel knots. Spatiotemporal induction of the secondary enamel knots determines the cusp patterns of individual teeth and is likely to involve repeated activation and inhibition of signaling as suggested for patterning of other epithelial organs.
+
+
+
+
+
+
+PMID: 9768363
+Number of times this paper has been cited = 28
+Title: Sonic hedgehog regulates branching morphogenesis in the mammalian lung.
+Journal: Current biology : CB
+Publication Date: Sep, 1998
+Abstract:
+The mammalian lung, like many other organs, develops by branching morphogenesis of an epithelium [1]. Development initiates with evagination of two ventral buds of foregut endoderm into the underlying splanchnic mesoderm. As the buds extend, they send out lateral branches at precise, invariant positions, establishing the primary airways and the lobes of each lung. Dichotomous branching leads to further extension of the airways. Grafting studies have demonstrated the importance of bronchial mesenchyme in inducing epithelial branching, but the significance of epithelial signaling has largely been unstudied. The morphogen Sonic hedgehog (Shh) is widely expressed in the foregut endoderm and is specifically upregulated in the distal epithelium of the lung where branching is occurring [2]. Ectopic expression of Shh disrupts branching and increases proliferation, suggesting that local Shh signaling regulates lung development [2]. We report here that Shh is essential for development of the respiratory system. In Shh null mutants, we found that the trachea and esophagus do not separate properly and the lungs form a rudimentary sac due to failure of branching and growth after formation of the primary lung buds. Interestingly, normal proximo-distal differentiation of the airway epithelium occurred, indicating that Shh is not needed for differentiation events. In addition, the transcription of several mesenchymally expressed downstream targets of Shh is abolished. These results highlight the importance of epithelially derived Shh in regulating branching morphogenesis of the lung.
+
+
+
+
+
+
+PMID: 9676530
+Number of times this paper has been cited = 27
+Title: Anterior patterning in mouse.
+Journal: Trends in genetics : TIG
+Publication Date: Jul, 1998
+Abstract:
+The anteroposterior axis of the vertebrate embryo becomes explicit during gastrulation, the process that converts a relatively featureless embryonic precursor population into new tissues assembled into a recognisable body pattern. Vertebrate embryos arrive at gastrulation in very different states in terms of their size, cell number and reliance on factors inherited from the unfertilized egg. However, they emerge from gastrulation looking very similar, and there is now extensive molecular genetic evidence to indicate that the bare essentials of the gastrulation process have been well conserved during evolution. Here, we review recent findings in the mouse that suggest that anterior identity is, in fact, established before gastrulation starts. They suggest that it is first manifest in extraembryonic tissue and that this tissue is essential for the embryo to develop normal anterior structures, such as the forebrain. We also argue that this precocious anterior pattern could have a counterpart in other non-mammalian vertebrates.
+
+
+
+
+
+
+PMID: 11042222
+Number of times this paper has been cited = 24
+Title: The zinc finger-containing transcription factors GATA-4, -5, and -6. Ubiquitously expressed regulators of tissue-specific gene expression.
+Journal: The Journal of biological chemistry
+Publication Date: Dec, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 11448624
+Number of times this paper has been cited = 23
+Title: From fertilization to gastrulation: axis formation in the mouse embryo.
+Journal: Current opinion in genetics & development
+Publication Date: Aug, 2001
+Abstract:
+Although much remains unknown about how the embryonic axis is laid down in the mouse, it is now clear that reciprocal interactions between the extraembryonic and embryonic lineages establish and reinforce patterning of the embryo. At early post-implantation stages, the extraembryonic ectoderm appears to impart proximal-posterior identity to the adjacent proximal epiblast, whereas the distal visceral endoderm signals to the underlying epiblast to restrict posterior identity as it moves anteriorward. At gastrulation, the visceral endoderm is necessary for specifying anterior primitive streak derivatives, which, in turn, pattern the anterior epiblast. Polarity of these extraembryonic tissues can be traced back to the blastocyst stage, where asymmetry has been linked to the point of sperm entry at fertilization.
+
+
+
+
+
+
+PMID: 2068781
+Number of times this paper has been cited = 23
+Title: Development and applications of a molecular genetic linkage map of the mouse genome.
+Journal: Trends in genetics : TIG
+Publication Date: Apr, 1991
+Abstract:
+Interspecific mouse backcrosses provide almost limitless genetic variation for gene mapping. We have used interspecific backcrosses to develop the first comprehensive molecular genetic linkage map of the mouse genome. More than 600 loci have been positioned on the map; the current average map resolution is less than 3 cM. Since all loci were mapped using a single backcross panel, gene order can be determined unambiguously. With this level of resolution, it is now possible to position any new locus on the linkage map with virtually 100% certainty. In this article, we review how interspecific linkage maps are constructed, the salient features of our linkage map, and some of the many applications of interspecific linkage maps, in general, for future research.
+
+
+
+
+
+
+PMID: 9187138
+Number of times this paper has been cited = 23
+Title: Fashioning the vertebrate heart: earliest embryonic decisions.
+Journal: Development (Cambridge, England)
+Publication Date: Jun, 1997
+Abstract:
+Our goal here is to set out the types of unitary decisions made by heart progenitor cells, from their appearance in the heart field until they form the simple heart tube. This provides a context to evaluate cell fate, lineage and, finally, morphogenetic decisions that configure global heart form and function. Some paradigms for cellular differentiation and for pattern generation may be borrowed from invertebrates, but neither Drosophila nor Caenorhabditis elegans suffice to unravel higher order decisions. Genetic analyses in mouse and zebrafish may provide one entrance to these pathways.
+
+
+
+
+
+
+PMID: 11988760
+Number of times this paper has been cited = 20
+Title: Life is a journey: a genetic look at neocortical development.
+Journal: Nature reviews. Genetics
+Publication Date: May, 2002
+Abstract:
+Although the basic principles of neocortical development have been known for quite some time, it is only recently that our understanding of the molecular mechanisms that are involved has improved. Such understanding has been facilitated by genetic approaches that have identified key proteins involved in neocortical development, which have been placed into signalling pathways by molecular and cell-biological studies. The challenge of current research is to understand the manner in which these various signalling pathways are interconnected to gain a more comprehensive picture of the molecular intricacies that govern neocortical development.
+
+
+
+
+
+
+PMID: 8620528
+Number of times this paper has been cited = 20
+Title: Know your neighbors: three phenotypes in null mutants of the myogenic bHLH gene MRF4.
+Journal: Cell
+Publication Date: Apr, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 9431800
+Number of times this paper has been cited = 18
+Title: Mouse gastrulation: the formation of a mammalian body plan.
+Journal: Mechanisms of development
+Publication Date: Nov, 1997
+Abstract:
+The process of gastrulation is a pivotal step in the formation of the vertebrate body plan. The primary function of gastrulation is the correct placement of precursor tissues for subsequent morphogenesis. There is now mounting evidence that the body plan is established through inductive interactions between germ layer tissues and by the global patterning activity emanating from embryonic organizers. An increasing number of mouse mutants have been described that have gastrulation defects, providing important insights into the molecular mechanisms that regulate this complex process. In this review, we explore the mouse embryo before and during gastrulation, highlighting its similarities with other vertebrate embryos and its unique characteristics.
+
+
+
+
+
+
+PMID: 11290504
+Number of times this paper has been cited = 17
+Title: Transcription factors in mouse lung development and function.
+Journal: American journal of physiology. Lung cellular and molecular physiology
+Publication Date: May, 2001
+Abstract:
+Development of the mouse lung initiates on day 9.5 postcoitum from the laryngotracheal groove and involves mesenchymal-epithelial interactions, in particular, those between the splanchnic mesoderm and epithelial cells (derived from foregut endoderm) that induce cellular proliferation, migration, and differentiation, resulting in branching morphogenesis. This developmental process mediates formation of the pulmonary bronchiole tree and integrates a terminal alveolar region with an extensive endothelial capillary bed, which facilitates efficient gas exchange with the circulatory system. The major function of the mesenchymal-epithelial signaling is to potentiate the activity or expression of cell type-specific transcription factors in the developing lung, which, in turn, cooperatively bind to distinct promoter regions and activate target gene expression. In this review, we focus on the role of transcription factors in lung morphogenesis and the maintenance of differentiated gene expression. These lung transcription factors include forkhead box A2 [also known as hepatocyte nuclear factor (HNF)-3beta], HNF-3/forkhead homolog (HFH)-8 [also known as FoxF1 or forkhead-related activator-1], HNF-3/forkhead homolog-4 (also known as FoxJ1), thyroid transcription factor-1 (Nkx2.1), and homeodomain box A5 transcription factors, the zinc finger Gli (mouse homologs of the Drosophila cubitus interruptus) and GATA transcription factors, and the basic helix-loop-helix Pod1 transcription factor. We summarize the phenotypes of transgenic and knockout mouse models, which define important functions of these transcription factors in cellular differentiation and lung branching morphogenesis.
+
+
+
+
+
+
+PMID: 11932022
+Number of times this paper has been cited = 16
+Title: The anterior heart-forming field: voyage to the arterial pole of the heart.
+Journal: Trends in genetics : TIG
+Publication Date: Apr, 2002
+Abstract:
+Studies of vertebrate heart development have identified key genes and signalling molecules involved in the formation of a myocardial tube from paired heart-forming fields in splanchnic mesoderm. The posterior region of the paired heart-forming fields subsequently contributes myocardial precursor cells to the inflow region or venous pole of the heart. Recently, a population of myocardial precursor cells in chick and mouse embryos has been identified in pharyngeal mesoderm anterior to the early heart tube. This anterior heart-forming field gives rise to myocardium of the outflow region or arterial pole of the heart. The amniote heart is therefore derived from two myocardial precursor cell populations, which appear to be regulated by distinct genetic programmes. Discovery of the anterior heart-forming field has important implications for the interpretation of cardiac defects in mouse mutants and for the study of human congenital heart disease.
+
+
+
+
+
+
+PMID: 10704886
+Number of times this paper has been cited = 16
+Title: Kidney morphogenesis: cellular and molecular regulation.
+Journal: Mechanisms of development
+Publication Date: Mar, 2000
+Abstract:
+Development of an organ is directed by cell and tissue interactions and these also occur during the formation of functional kidney. During vertebrate development inductive signalling between mesenchyme and epithelium controls the organogenesis of all three kinds of kidneys: pronephros, mesonephros and metanephros. In higher animals the metanephros differentiates into the permanent kidney and in this review we will mainly concentrate on its development. Molecular interactions currently known to function during nephrogenesis have primarily been based on the use of knockout techniques. These studies have highlighted the role for transcription factors, signalling molecules, growth factors and their receptors and also for extracellular matrix components in kidney development. Finally in this review we will represent our own model for kidney development according to the knowledge of the genes involved in the development of the functional excretory organ, kidney.
+
+
+
+
+
+
+PMID: 12587921
+Number of times this paper has been cited = 16
+Title: The formation of skeletal muscle: from somite to limb.
+Journal: Journal of anatomy
+Publication Date: Jan, 2003
+Abstract:
+During embryogenesis, skeletal muscle forms in the vertebrate limb from progenitor cells originating in the somites. These cells delaminate from the hypaxial edge of the dorsal part of the somite, the dermomyotome, and migrate into the limb bud, where they proliferate, express myogenic determination factors and subsequently differentiate into skeletal muscle. A number of regulatory factors involved in these different steps have been identified. These include Pax3 with its target c-met, Lbx1 and Mox2 as well as the myogenic determination factors Myf5 and MyoD and factors required for differentiation such as Myogenin, Mrf4 and Mef2 isoforms. Mutants for genes such as Lbx1 and Mox2, expressed uniformly in limb muscle progenitors, reveal unexpected differences between fore and hind limb muscles, also indicated by the differential expression of Tbx genes. As development proceeds, a secondary wave of myogenesis takes place, and, postnatally, satellite cells become located under the basal lamina of adult muscle fibres. Satellite cells are thought to be the progenitor cells for adult muscle regeneration, during which similar genes to those which regulate myogenesis in the embryo also play a role. In particular, Pax3 as well as its orthologue Pax7 are important. The origin of secondary/fetal myoblasts and of adult satellite cells is unclear, as is the relation of the latter to so-called SP or stem cell populations, or indeed to potential mesangioblast progenitors, present in blood vessels. The oligoclonal origin of postnatal muscles points to a small number of founder cells, whether or not these have additional origins to the progenitor cells of the somite which form the first skeletal muscles, as discussed here for the embryonic limb.
+
+
+
+
+
+
+PMID: 10209158
+Number of times this paper has been cited = 16
+Title: Regulation of LEF-1/TCF transcription factors by Wnt and other signals.
+Journal: Current opinion in cell biology
+Publication Date: Apr, 1999
+Abstract:
+LEF-1/TCF transcription factors mediate a nuclear response to Wnt signals by interacting with beta-catenin. Wnt signaling and other cellular events that increase the stability of beta-catenin result in transcriptional activation by LEF-1/TCF proteins in association with beta-catenin. In the absence of Wnt signaling, LEF-1/TCF proteins repress transcription in association with Groucho and CBP. The LEF-1/TCF transcription factors can also interact with other cofactors and play an architectural role in the assembly of multiprotein enhancer complexes, which may allow for the integration of multiple signaling pathways.
+
+
+
+
+
+
+PMID: 8763497
+Number of times this paper has been cited = 15
+Title: Extra specificity from extradenticle: the partnership between HOX and PBX/EXD homeodomain proteins.
+Journal: Trends in genetics : TIG
+Publication Date: Jul, 1996
+Abstract:
+For many DNA-binding transcription factors it is often difficult to reconcile their highly specific in vivo functions with their less specific in vitro DNA-binding properties. Cooperative DNA binding with cofactors often provides part of the answer to this paradox and recent studies have demonstrated this to be the case for the homeotic complex (HOX) family of transcription factors. However, the unique problem posed by these highly related and developmentally important transcription factors requires additional twists to the standard solution, which are beginning to become apparent from the characterization of the HOX cofactors encoded by the extradenticle and PBX genes.
+
+
+
+
+
+
+PMID: 11836504
+Number of times this paper has been cited = 15
+Title: Establishment of vertebrate left-right asymmetry.
+Journal: Nature reviews. Genetics
+Publication Date: Feb, 2002
+Abstract:
+The generation of morphological, such as left-right, asymmetry during development is an integral part of the establishment of a body plan. Until recently, the molecular basis of left-right asymmetry was a mystery, but studies indicate that Nodal and the Lefty proteins, transforming growth factor-beta-related molecules, have a central role in generating asymmetric signals. Although the initial mechanism of symmetry breaking remains unknown, developmental biologists are beginning to analyse the pathway that leads to left-right asymmetry establishment and maintenance.
+
+
+
+
+
+
+PMID: 10686599
+Number of times this paper has been cited = 13
+Title: Cre recombinase: the universal reagent for genome tailoring.
+Journal: Genesis (New York, N.Y. : 2000)
+Publication Date: Feb, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 9836511
+Number of times this paper has been cited = 13
+Title: Transcribing pancreas.
+Journal: Diabetes
+Publication Date: Dec, 1998
+Abstract:
+For approximately 30-35 years, our insight into some of the fundamental aspects of pancreas development has been based mainly on two independent studies performed in the 1960s by Golosow and Grobstein and Wessells and Cohen. By performing classical embryological experiments, these two reports described the morphogenesis of the pancreas and the epitheliomesenchymal interactions that are required for proper pancreas development. In the 1970s, the groups of LeDourain and associates and Rutter and associates showed, importantly, that despite their similarities with neurons, the pancreatic endocrine cells, like the exocrine and ductual cells, were of an endodermal origin. Then during the 1980s, studies pioneered by Rutter, but also performed by many other groups, were focused on the transcriptional regulation of endocrine and exocrine genes. This eventually lead to the cloning of various transcription factors. By using a genetic approach to study the function of these transcription factors, new insights into pancreas development have now emerged that, on a molecular level, are beginning to explain some of the earlier observations. This review discusses our current knowledge of the mechanisms by which the various pancreatic cell types are generated.
+
+
+
+
+
+
+PMID: 9000438
+Number of times this paper has been cited = 13
+Title: neurogenins, a novel family of atonal-related bHLH transcription factors, are putative mammalian neuronal determination genes that reveal progenitor cell heterogeneity in the developing CNS and PNS.
+Journal: Molecular and cellular neurosciences
+Publication Date: , 1996
+Abstract:
+We recently identified neurogenin (ngn), a neuroD-related bHLH gene, whose Xenopus homolog functions as a neuronal determination factor and upstream activator of XneuroD (Ma et al. Cell 87: 43-52, 1996). Here we identify two additional ngn's, ngn2 and ngn3, which together define a novel subfamily of atonal-related mouse genes. Comparative analysis of ngn expression indicates that these three genes define distinct progenitor populations in the developing CNS and PNS, exhibiting nonoverlapping expression in some areas and partial overlap in others. The expression of the ngn's spatially overlaps and often temporally precedes that of neuroD, suggesting that (as in Xenopus) the ngn's and neuroD function in a cascade. Thus, as in myogenesis, different bHLH determination factors may activate a common bHLH differentiation factor in different sublineages. The ngn's therefore represent both a family of putative mammalian neuronal determination genes and useful markers of the origins of neuronal diversity.
+
+
+
+
+
+
+PMID: 14512014
+Number of times this paper has been cited = 13
+Title: Primordial germ cells in the mouse.
+Journal: Developmental biology
+Publication Date: Oct, 2003
+Abstract:
+
+
+
+
+
+
+
+PMID: 10098408
+Number of times this paper has been cited = 13
+Title: Teeth. Where and how to make them.
+Journal: Trends in genetics : TIG
+Publication Date: Feb, 1999
+Abstract:
+Organs have to develop at precisely determined sites to ensure functionality of the whole organism. Organogenesis is typically regulated by a series of interactions between morphologically distinct tissues. The developing tooth of the mouse is an excellent model to study these processes and we are beginning to understand the networks regulating reciprocal tissue interactions at the molecular level. Synergistic and antagonistic effects of signaling molecules including FGFs and BMPs are recursively used to induce localized responses in the adjacent tissue layer (mesenchyme or epithelium). However, at different phases of odontogenesis these secreted growth factors have distinct effects and at the same time they are regulated by different upstream factors. The mesenchymal transcription factors Msx1 and Pax9 are initially regulated by epithelial FGFs and BMPs, but subsequently they function upstream of these signaling molecules. This cascade provides a molecular model by which reciprocal tissue interactions are controlled.
+
+
+
+
+
+
+PMID: 11181964
+Number of times this paper has been cited = 13
+Title: Molecular regulation of lung development.
+Journal: Annual review of physiology
+Publication Date: , 2001
+Abstract:
+There is increasing evidence suggesting that formation of the tracheobronchial tree and alveoli results from heterogeneity of the epithelial-mesenchymal interactions along the developing respiratory tract. Recent genetic data support this idea and show that this heterogeneity is likely the result of activation of distinct networks of signaling molecules along the proximal-distal axis. Among these signals, fibroblast growth factors, retinoids, Sonic hedgehog, and transforming growth factors appear to play prominent roles. We discuss how these and other pattern regulators may be involved in initiation, branching, and differentiation of the respiratory system.
+
+
+
+
+
+
+PMID: 11584291
+Number of times this paper has been cited = 13
+Title: Conditional control of gene expression in the mouse.
+Journal: Nature reviews. Genetics
+Publication Date: Oct, 2001
+Abstract:
+One of the most powerful tools that the molecular biology revolution has given us is the ability to turn genes on and off at our discretion. In the mouse, this has been accomplished by using binary systems in which gene expression is dependent on the interaction of two components, resulting in either transcriptional transactivation or DNA recombination. During recent years, these systems have been used to analyse complex and multi-staged biological processes, such as embryogenesis and cancer, with unprecedented precision. Here, I review these systems and discuss certain studies that exemplify the advantages and limitations of each system.
+
+
+
+
+
+
+PMID: 7788499
+Number of times this paper has been cited = 13
+Title: LIM domain proteins.
+Journal: Comptes rendus de l'Académie des sciences. Série III, Sciences de la vie
+Publication Date: Mar, 1995
+Abstract:
+The LIM domain is a cysteine-rich domain composed of 2 special zinc fingers that are joined by a 2-amino acid spacer. Some proteins are constituted by LIM domains only while others contain a variety of different functional domains. LIM proteins form a diverse group which includes transcription factors and cytoskeletal proteins. The primary role of LIM domains appears to be in protein-protein interaction, through the formation of dimers with identical or different LIM domains or by binding distinct proteins. In LIM homeodomain proteins, LIM domains seem to function as negative regulatory domains. LIM homeodomain proteins are involved in the control of cell lineage determination and the regulation of differentiation, and LIM-only proteins may have similar roles. LIM-only proteins are also implicated in the control of cell proliferation since several genes encoding such proteins are associated with oncogenic chromosome translocations. In analyzing sequence relationships between LIM domains we suggest that they may be arranged into 5 groups which appear to correlate with the structural and functional properties of the proteins containing these domains.
+
+
+
+
+
+
+PMID: 12191916
+Number of times this paper has been cited = 12
+Title: Tubulogenesis in the developing mammalian kidney.
+Journal: Trends in cell biology
+Publication Date: Aug, 2002
+Abstract:
+How do fibroblasts spontaneously organize into a polarized epithelial tube? This question has fascinated scientists studying the mammalian kidney for more than 40 years. The formation of epithelial tubules in the developing mammalian kidney involves both the aggregation of mesenchymal cells and their conversion into polarized epithelium, as well as the growth and branching morphogenesis of existing epithelium. The interactions among mesenchyme, epithelia and, more recently, the stroma, have been well characterized and provide novel insights into the regulatory mechanisms underlying complex organ development. Cell signaling pathways and transcription factors have been defined through genetic and biochemical assays such that a picture of early kidney tubulogenesis is beginning to emerge.
+
+
+
+
+
+
+PMID: 8593692
+Number of times this paper has been cited = 12
+Title: Mouse mutants and cardiac development: new molecular insights into cardiogenesis.
+Journal: Circulation research
+Publication Date: Mar, 1996
+Abstract:
+Understanding the genetic control of cardiac development has been greatly assisted by the newly acquired ability to generate targeted mutations in the mouse. A number of mutations in genes that directly or indirectly affect cardiac development have now been reported, and the phenotypes of these mutations have suggested that cardiac development is under complex genetic control. Further analysis of the mouse model system should help elucidate the etiology of human congenital cardiovascular anomalies.
+
+
+
+
+
+
+PMID: 15963972
+Number of times this paper has been cited = 12
+Title: Determinants of trophoblast lineage and cell subtype specification in the mouse placenta.
+Journal: Developmental biology
+Publication Date: Aug, 2005
+Abstract:
+Cells of the trophoblast lineage make up the epithelial compartment of the placenta, and their rapid development is essential for the establishment and maintenance of pregnancy. A diverse array of specialized trophoblast subtypes form throughout gestation and are responsible for mediating implantation, as well as promotion of blood to the implantation site, changes in maternal physiology, and nutrient and gas exchange between the fetal and maternal blood supplies. Within the last decade, targeted mutations in mice and the study of trophoblast stem cells in vitro have contributed greatly to our understanding of trophoblast lineage development. Here, we review recent insights into the molecular pathways regulating trophoblast lineage segregation, stem cell maintenance, and subtype differentiation.
+
+
+
+
+
+
+PMID: 12671645
+Number of times this paper has been cited = 12
+Title: Patterning cell types in the dorsal spinal cord: what the mouse mutants say.
+Journal: Nature reviews. Neuroscience
+Publication Date: Apr, 2003
+Abstract:
+
+
+
+
+
+
+
+PMID: 9266608
+Number of times this paper has been cited = 12
+Title: Behavioral phenotypes of inbred mouse strains: implications and recommendations for molecular studies.
+Journal: Psychopharmacology
+Publication Date: Jul, 1997
+Abstract:
+Choosing the best genetic strains of mice for developing a new knockout or transgenic mouse requires extensive knowledge of the endogenous traits of inbred strains. Background genes from the parental strains may interact with the mutated gene, in a manner which could severely compromise the interpretation of the mutant phenotype. The present overview summarizes the literature on a wide variety of behavioral traits for the 129, C57BL/6, DBA/2, and many other inbred strains of mice. Strain distributions are described for open field activity, learning and memory tasks, aggression, sexual and parental behaviors, acoustic startle and prepulse inhibition, and the behavioral actions of ethanol, nicotine, cocaine, opiates, antipsychotics, and anxiolytics. Using the referenced information, molecular geneticists can choose optimal parental strains of mice, and perhaps develop new embryonic stem cell progenitors, for new knockouts and transgenics to investigate gene function, and to serve as animal models in the development of novel therapeutics for human genetic diseases.
+
+
+
+
+
+
+PMID: 11698186
+Number of times this paper has been cited = 12
+Title: Pax6 lights-up the way for eye development.
+Journal: Current opinion in cell biology
+Publication Date: Dec, 2001
+Abstract:
+Recent reports have exposed the temporal and spatial functions of the transcription factor Pax6 in the developing vertebrate eye. Pax6 is demonstrated to play essential roles in successive steps triggering lens differentiation while in the retina it functions to maintain multipotency and proliferation of retinal progenitor cells. These findings, together with the identification of Pax6 protein partners and downstream targets, pave the way for future work aimed to understand the molecular mechanism of eye development.
+
+
+
+
+
+
+PMID: 9598348
+Number of times this paper has been cited = 12
+Title: Analysis of Fgf8 gene function in vertebrate development.
+Journal: Cold Spring Harbor symposia on quantitative biology
+Publication Date: , 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 8135766
+Number of times this paper has been cited = 11
+Title: Regulation of zygotic gene activation in the mouse.
+Journal: BioEssays : news and reviews in molecular, cellular and developmental biology
+Publication Date: Aug, 1993
+Abstract:
+Zygotic gene activation (ZGA) is the critical event that governs the transition from maternal to embryonic control of development. In the mouse, ZGA occurs during the 2-cell stage and appears to be regulated by the time following fertilization, i.e. a zygotic clock, rather than by progression through the first cell cycle. The onset of ZGA must depend on maternally inherited proteins, and post-translational modification of these maternally derived proteins is likely to play a role in ZGA. Consistent with this prediction is that protein phosphorylation catalyzed by the cAMP-dependent protein kinase is involved in ZGA and that protein synthesis is not required for ZGA. Recent results suggest that ZGA may occur earlier than previously thought, i.e. not during the 2-cell stage, but rather in G2 of the 1-cell embryo. Thus ZGA may comprise a period of minor gene activation in the 1-cell embryo that is followed by a period of major gene activation in the 2-cell embryo. Following ZGA, the expression of constitutively activated genes may require an enhancer.
+
+
+
+
+
+
+PMID: 1346368
+Number of times this paper has been cited = 11
+Title: Homeobox genes and axial patterning.
+Journal: Cell
+Publication Date: Jan, 1992
+Abstract:
+
+
+
+
+
+
+
+PMID: 10072376
+Number of times this paper has been cited = 11
+Title: The roles of intrinsic and extrinsic cues and bHLH genes in the determination of retinal cell fates.
+Journal: Current opinion in neurobiology
+Publication Date: Feb, 1999
+Abstract:
+A fundamental issue concerning development of the vertebrate retina is the relative contributions of extrinsic and intrinsic cues to the determination of cell fate. Recent findings suggest that retinal progenitors go through a series of changes in intrinsic properties that control their competence to make different cell types and that extrinsic cues influence the ratios of the cell types that they produce. Recent studies of the role of the basic helix-loop-helix genes in retinal development have indicated that they can regulate competence and/or other aspects of cell fate determination.
+
+
+
+
+
+
+PMID: 11381252
+Number of times this paper has been cited = 11
+Title: Mouse models of cell death.
+Journal: Nature genetics
+Publication Date: Jun, 2001
+Abstract:
+Cell death is critical for the development and orderly maintenance of cellular homeostasis in metazoans. Developmental genetics in model systems, including Caenorhabditis elegans and Drosophila melanogaster, have helped to identify and order the components of cell-death pathways. An even more complex network of apoptotic pathways has evolved in higher organisms that possess homologs within each set of cell-death regulators. Whereas biochemical studies provide details of molecular mechanisms, genetic models reveal the essential physiologic roles. Transgenic and gene-ablated mice have helped to elucidate mammalian apoptotic pathways and identify the principal effect of each cell death regulator. Here, we review the details of the apoptotic machinery as revealed by mice deficient in critical components of cell-death pathways; we concentrate on cell-death regulators classified as members of the caspase and Bcl2 families or, broadly, as adaptors and mitochondrial released factors.
+
+
+
+
+
+
+PMID: 9482807
+Number of times this paper has been cited = 11
+Title: Alterations in dopamine release but not dopamine autoreceptor function in dopamine D3 receptor mutant mice.
+Journal: The Journal of neuroscience : the official journal of the Society for Neuroscience
+Publication Date: Mar, 1998
+Abstract:
+Dopamine (DA) autoreceptors expressed along the somatodendritic extent of midbrain DA neurons modulate impulse activity, whereas those expressed at DA nerve terminals regulate both DA synthesis and release. Considerable evidence has indicated that these DA autoreceptors are of the D2 subtype of DA receptors. However, many pharmacological studies have suggested an autoreceptor role for the DA D3 receptor. This possibility was tested with mice lacking the D3 receptor as a result of gene targeting. The basal firing rates of DA neurons within both the substantia nigra and ventral tegmental area were not different in D3 receptor mutant and wild-type mice. The putative D3 receptor-selective agonist R(+)-trans-3,4,4a, 10b-tetrahydro-4-propyl-2H,5H-(1)benzopyrano(4,3-b)-1,4-oxazin+ ++-9-ol (PD 128907) was equipotent at inhibiting the activity of both populations of midbrain DA neurons in the two groups of mice. In the gamma-butyrolactone (GBL) model of DA autoreceptor function, mutant and wild-type mice were identical with respect to striatal DA synthesis and its suppression by PD 128907. In vivo microdialysis studies of DA release in ventral striatum revealed higher basal levels of extracellular DA in mutant mice but similar inhibitory effects of PD 128907 in mutant and wild-type mice. These results suggest that the effects of PD 128907 on dopamine cell function reflect stimulation of D2 as opposed to D3 receptors. Although D3 receptors do not seem to be significantly involved in DA autoreceptor function, they may participate in postsynaptically activated short-loop feedback modulation of DA release.
+
+
+
+
+
+
+PMID: 8575293
+Number of times this paper has been cited = 11
+Title: Longitudinal organization of the anterior neural plate and neural tube.
+Journal: Development (Cambridge, England)
+Publication Date: Dec, 1995
+Abstract:
+Over the last century, several morphological models of forebrain organization have been proposed that hypothesize alternative topological solutions for the relationships of the histogenic primordia. Central to all of these models are their definitions of the longitudinal axis and the longitudinal organization of the neural plate and neural tube. To understand the longitudinal organization of the anterior brain, we have sought to identify molecular properties that are continuous along the entire longitudinal axis of the embryonic CNS. In this essay, we describe studies of the expression of several genes in the mouse between 7.5 (presomite stage) and 10.5 days post coitum (dpc) that provide evidence for the trajectory of the anterior-posterior axis and the longitudinal organization of the anterior CNS. Specifically, we report that the expression of noggin, sonic hedgehog and Nkx-2.2 define longitudinal columns of cells that are present along the entire CNS axis. Within the forebrain, the expression of these genes, as well as that of Nkx-2.1 and BF-1, are in distinct longitudinal regions in the neural plate and tube. We demonstrate that the earliest longitudinal axon pathways of the forebrain are spatially correlated with the longitudinal domain defined by Nkx-2.2. Finally, expression of the former genes, and Otx-1 and Emx-2, suggests that the cephalic neural plate is organized into molecularly distinct domains delimited by longitudinal and transverse borders; these results provide a foundation for defining the mechanisms that pattern the neural plate.
+
+
+
+
+
+
+PMID: 7574486
+Number of times this paper has been cited = 11
+Title: Transcriptional regulation of gene expression during adipocyte differentiation.
+Journal: Annual review of biochemistry
+Publication Date: , 1995
+Abstract:
+Cell culture models (e.g. 3T3-L1 cells) have been developed for studying the process of adipocyte differentiation. Differentiation can be induced by adding insulin-like growth factor I, glucocorticoid, fatty acids, and an agent that increases intracellular cAMP level. The adipocyte differentiation program is regulated by transcriptional activators such as CCAAT/enhancer binding protein alpha (C/EBP alpha), peroxisomal proliferator activated receptor gamma 2 (PPAR gamma 2), fatty acid activated receptor (FAAR), and transcriptional repressors such as preadipocyte repressor element binding protein (PRE) and C/EBP undifferentiated protein (CUP). These transcription factors coordinate the expression of genes involved in creating and maintaining the adipocyte phenotype including the insulin-responsive glucose transporter (GLUT4), stearoyl CoA desaturase 1 (SCD1), and the fatty acid binding protein (422/aP2).
+
+
+
+
+
+
+PMID: 8791524
+Number of times this paper has been cited = 11
+Title: Defining the regulatory networks for muscle development.
+Journal: Current opinion in genetics & development
+Publication Date: Aug, 1996
+Abstract:
+The formation of skeletal muscle during vertebrate embryogenesis requires commitment of mesodermal precursor cells to the skeletal muscle lineage, withdrawal of myoblasts from the cell cycle, and transcriptional activation of dozens of muscle structural genes. The myogenic basic helix-loop-helix (bHLH) factors - MyoD, myogenin, Myf5, and MRF4 - act at multiple points in the myogenic lineage to establish myoblast identity and to control terminal differentiation. Recent studies have begun to define the inductive mechanisms that regulate myogenic bHLH gene expression and muscle cell determination in the embryo. Myogenic bHLH factors interact with components of the cell cycle machinery to control withdrawal from the cell cycle and act combinatorially with other transcription factors to induce skeletal muscle transcription. Elucidation of these aspects of the myogenic program is leading to a detailed understanding of the regulatory circuits controlling muscle development.
+
+
+
+
+
+
+PMID: 10679438
+Number of times this paper has been cited = 11
+Title: Semaphorins and their receptors in vertebrates and invertebrates.
+Journal: Current opinion in neurobiology
+Publication Date: Feb, 2000
+Abstract:
+The semaphorins are a family of intercellular signaling proteins that has grown to include 19 identified members in higher vertebrates. Several of its members act as axonal guidance molecules. One participates in signaling in the immune system. The majority, however, do not yet have known biological functions. Recent studies have shown that neuropilins and plexins act as receptors for semaphorins. The most important challenge for the future is to define the biological roles of semaphorins in vivo.
+
+
+
+
+
+
+PMID: 10410899
+Number of times this paper has been cited = 11
+Title: Distinct roles for visceral endoderm during embryonic mouse development.
+Journal: The International journal of developmental biology
+Publication Date: May, 1999
+Abstract:
+The murine visceral endoderm is an extraembryonic cell layer that appears prior to gastrulation and performs critical functions during embryogenesis. The traditional role ascribed to the visceral endoderm entails nutrient uptake and transport. Besides synthesizing a number of specialized proteins that facilitate uptake, digestion, and secretion of nutrients, the extraembryonic visceral endoderm coordinates blood cell differentiation and vessel formation in the adjoining mesoderm, thereby facilitating efficient exchange of nutrients and gases between the mother and embryo. Recent studies suggest that in addition to this nutrient exchange function the visceral endoderm overlying the egg cylinder stage embryo plays an active role in guiding early development. Cells in the anterior visceral endoderm function as an early organizer. Prior to formation of the primitive streak, these cells express specific gene products that specify the fate of underlying embryonic tissues. In this review we highlight recent investigations demonstrating this dual role for visceral endoderm as a provider of both nutrients and developmental cues for the early embryo.
+
+
+
+
+
+
+PMID: 9608509
+Number of times this paper has been cited = 10
+Title: Inducible gene targeting in mice using the Cre/lox system.
+Journal: Methods (San Diego, Calif.)
+Publication Date: Apr, 1998
+Abstract:
+Molecular techniques now allow the design of precise genetic modifications in the mouse. Not only can defined nucleotide changes be engineered into the genome of the mouse, but genetic switches can be designed to target expression or ablation of any gene (for which basic molecular information is available) to any tissue at any defined time. These strategies promise to contribute substantially to an increased understanding of individual gene function in development and pathogenesis. A powerful tool, both for the design of such genetic switches and for speeding the creation of gene-modified animals, is the Cre site-specific DNA recombinase of bacteriophage P1. Precise DNA rearrangements and genetic switches can be efficiently generated in a straightforward manner using Cre recombinase. In conjunction with inducible systems for controlling Cre expression and function, these recombination-based strategies are likely to have a profound impact on developmental biology and the generation of useful animal models of human disease.
+
+
+
+
+
+
+PMID: 9472013
+Number of times this paper has been cited = 10
+Title: Think globally, act locally: the making of a mouse mammary gland.
+Journal: Genes & development
+Publication Date: Feb, 1998
+Abstract:
+
+
+
+
+
+
+
+PMID: 12481294
+Number of times this paper has been cited = 10
+Title: What cardiovascular defect does my prenatal mouse mutant have, and why?
+Journal: Genesis (New York, N.Y. : 2000)
+Publication Date: Jan, 2003
+Abstract:
+Since the advent of mouse targeted mutations, gene traps, an escalating use of a variety of complex transgenic manipulations, and large-scale chemical mutagenesis projects yielding many mutants with cardiovascular defects, it has become increasingly evident that defects within the heart and vascular system are largely responsible for the observed in utero lethality of the embryo and early fetus. If a transgenically altered embryo survives implantation but fails to be born, it usually indicates that there is some form of lethal cardiovascular defect present. A number of embryonic organ and body systems, including the central nervous system, gut, lungs, urogenital system, and musculoskeletal system appear to have little or no survival value in utero (Copp, 1995). Cardiovascular abnormalities include the failure to establish an adequate yolk-sac vascular circulation, which results in early lethality (E8.5-10.5); poor cardiac function (E9.0-birth); failure to undergo correct looping and chamber formation of the primitive heart tube (E9.0-11.0); improper septation, including division of the common ventricle and atria and the establishment of a divided outflow tract (E11.0-13.0); inadequate establishment of the cardiac conduction system (E12.0-birth); and the failure of the in utero cardiovascular system to adapt to adult life (birth) and close the interatrial and aorta-pulmonary trunk shunts that are required for normal fetal life. Importantly, the developmental timing of lethality is usually a good indicator of both the type of the cardiovascular defect present and may also suggest the possible underlying cause/s. The purpose of this review is both to review the literature and to provide a beginner's guide for analysing cardiovascular defects in mouse mutants.
+
+
+
+
+
+
+PMID: 12671644
+Number of times this paper has been cited = 10
+Title: Thalamocortical development: how are we going to get there?
+Journal: Nature reviews. Neuroscience
+Publication Date: Apr, 2003
+Abstract:
+
+
+
+
+
+
+
+PMID: 10366853
+Number of times this paper has been cited = 10
+Title: Mammalian Krüppel-like transcription factors: more than just a pretty finger.
+Journal: Trends in biochemical sciences
+Publication Date: Jun, 1999
+Abstract:
+The transcription factor SP1 contains three Krüppel-like zinc fingers. Recently, several related proteins, including erythroid, lung and gut-enriched Krüppel-like factors, have been identified. Together with SP1, these proteins form a sizeable family of transcription factors that share homology in their zinc-finger domains but differ elsewhere. Analysis of these differences is illuminating specific mechanisms by which transcription is regulated.
+
+
+
+
+
+
+PMID: 16227977
+Number of times this paper has been cited = 10
+Title: Regulatory networks in embryo-derived pluripotent stem cells.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Nov, 2005
+Abstract:
+Mammalian development requires the specification of over 200 cell types from a single totipotent cell. Investigation of the regulatory networks that are responsible for pluripotency in embryo-derived stem cells is fundamental to understanding mammalian development and realizing therapeutic potential. Extracellular signals and second messengers modulate cell-autonomous regulators such as OCT4, SOX2 and Nanog in a combinatorial complexity. Knowledge of this circuitry might reveal how to achieve phenotypic changes without the genetic manipulation of Oct4, Nanog and other toti/pluripotency-associated genes.
+
+
+
+
+
+
+PMID: 15944185
+Number of times this paper has been cited = 10
+Title: Developmental regulation of the Hox genes during axial morphogenesis in the mouse.
+Journal: Development (Cambridge, England)
+Publication Date: Jul, 2005
+Abstract:
+The Hox genes confer positional information to the axial and paraxial tissues as they emerge gradually from the posterior aspect of the vertebrate embryo. Hox genes are sequentially activated in time and space, in a way that reflects their organisation into clusters in the genome. Although this co-linearity of expression of the Hox genes has been conserved during evolution, it is a phenomenon that is still not understood at the molecular level. This review aims to bring together recent findings that have advanced our understanding of the regulation of the Hox genes during mouse embryonic development. In particular, we highlight the integration of these transducers of anteroposterior positional information into the genetic network that drives tissue generation and patterning during axial elongation.
+
+
+
+
+
+

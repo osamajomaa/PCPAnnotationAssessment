@@ -5,7 +5,6 @@ import json
 import os
 import sys
 import cPickle
-from _mysql_exceptions import Error
 
 RESPONSE_FORMAT = "application/json"
 API_KEY = "eeeeac63bdcbd8551deacd2d4d445a00"
@@ -133,10 +132,8 @@ def create_err_file(paper_errors, species, errnum):
     
 if __name__ == "__main__":
     
-    #rqnum = sys.argv[1]
-    #species = sys.argv[2]
-    rqnum = '1'
-    species = 'mouse'
+    rqnum = sys.argv[1]
+    species = sys.argv[2]
     pmid_list = cPickle.load(open(os.path.join(CURR_PATH,"SCOPUS_API_Files/"+species+"/Requests/req"+rqnum)))
     pmid_refs, paper_errors = ref_grabber(pmid_list)
     create_ref_file(pmid_refs, species, rqnum)

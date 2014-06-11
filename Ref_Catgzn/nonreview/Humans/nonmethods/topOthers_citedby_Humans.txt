@@ -1,0 +1,652 @@
+Top 50 Others papers that are cited by Humans papers:
+
+PMID: 2231712
+Number of times this paper has been cited = 326
+Title: Basic local alignment search tool.
+Journal: Journal of molecular biology
+Publication Date: Oct, 1990
+Abstract:
+A new approach to rapid sequence comparison, basic local alignment search tool (BLAST), directly approximates alignments that optimize a measure of local similarity, the maximal segment pair (MSP) score. Recent mathematical results on the stochastic properties of MSP scores allow an analysis of the performance of this method as well as the statistical significance of alignments it generates. The basic algorithm is simple and robust; it can be implemented in a number of ways and applied in a variety of contexts including straightforward DNA and protein sequence database searches, motif searches, gene identification searches, and in the analysis of multiple regions of similarity in long DNA sequences. In addition to its flexibility and tractability to mathematical analysis, BLAST is an order of magnitude faster than existing sequence comparison tools of comparable sensitivity.
+
+
+
+
+
+
+PMID: 9757107
+Number of times this paper has been cited = 227
+Title: Crystallography & NMR system: A new software suite for macromolecular structure determination.
+Journal: Acta crystallographica. Section D, Biological crystallography
+Publication Date: Sep, 1998
+Abstract:
+A new software suite, called Crystallography & NMR System (CNS), has been developed for macromolecular structure determination by X-ray crystallography or solution nuclear magnetic resonance (NMR) spectroscopy. In contrast to existing structure-determination programs, the architecture of CNS is highly flexible, allowing for extension to other structure-determination methods, such as electron microscopy and solid-state NMR spectroscopy. CNS has a hierarchical structure: a high-level hypertext markup language (HTML) user interface, task-oriented user input files, module files, a symbolic structure-determination language (CNS language), and low-level source code. Each layer is accessible to the user. The novice user may just use the HTML interface, while the more advanced user may use any of the other layers. The source code will be distributed, thus source-code modification is possible. The CNS language is sufficiently powerful and flexible that many new algorithms can be easily implemented in the CNS language without changes to the source code. The CNS language allows the user to perform operations on data structures, such as structure factors, electron-density maps, and atomic properties. The power of the CNS language has been demonstrated by the implementation of a comprehensive set of crystallographic procedures for phasing, density modification and refinement. User-friendly task-oriented input files are available for nearly all aspects of macromolecular structure determination by X-ray crystallography and solution NMR.
+
+
+
+
+
+
+PMID: 7680959
+Number of times this paper has been cited = 62
+Title: SH2 domains recognize specific phosphopeptide sequences.
+Journal: Cell
+Publication Date: Mar, 1993
+Abstract:
+A phosphopeptide library was used to determine the sequence specificity of the peptide-binding sites of SH2 domains. One group of SH2 domains (Src, Fyn, Lck, Fgr, Abl, Crk, and Nck) preferred sequences with the general motif pTyr-hydrophilic-hydrophilic-Ile/Pro while another group (SH2 domains of p85, phospholipase C-gamma, and SHPTP2) selected the general motif pTyr-hydrophobic-X-hydrophobic. Individual members of these groups selected unique sequences, except the Src subfamily (Src, Fyn, Lck, and Fgr), which all selected the sequence pTyr-Glu-Glu-Ile. The variability in SH2 domain sequences at likely sites of contact provides a structural basis for the phosphopeptide selectivity of these families. Possible in vivo binding sites of the SH2 domains are discussed.
+
+
+
+
+
+
+PMID: 7906398
+Number of times this paper has been cited = 57
+Title: 2.2 Mb of contiguous nucleotide sequence from chromosome III of C. elegans.
+Journal: Nature
+Publication Date: Mar, 1994
+Abstract:
+As part of our effort to sequence the 100-megabase (Mb) genome of the nematode Caenorhabditis elegans, we have completed the nucleotide sequence of a contiguous 2,181,032 base pairs in the central gene cluster of chromosome III. Analysis of the finished sequence has indicated an average density of about one gene per five kilobases; comparison with the public sequence databases reveals similarities to previously known genes for about one gene in three. In addition, the genomic sequence contains several intriguing features, including putative gene duplications and a variety of other repeats with potential evolutionary implications.
+
+
+
+
+
+
+PMID: 1478671
+Number of times this paper has been cited = 50
+Title: A knowledge base for predicting protein localization sites in eukaryotic cells.
+Journal: Genomics
+Publication Date: Dec, 1992
+Abstract:
+To automate examination of massive amounts of sequence data for biological function, it is important to computerize interpretation based on empirical knowledge of sequence-function relationships. For this purpose, we have been constructing a knowledge base by organizing various experimental and computational observations as a collection of if-then rules. Here we report an expert system, which utilizes this knowledge base, for predicting localization sites of proteins only from the information on the amino acid sequence and the source origin. We collected data for 401 eukaryotic proteins with known localization sites (subcellular and extracellular) and divided them into training data and testing data. Fourteen localization sites were distinguished for animal cells and 17 for plant cells. When sorting signals were not well characterized experimentally, various sequence features were computationally derived from the training data. It was found that 66% of the training data and 59% of the testing data were correctly predicted by our expert system. This artificial intelligence approach is powerful and flexible enough to be used in genome analyses.
+
+
+
+
+
+
+PMID: 3943125
+Number of times this paper has been cited = 49
+Title: Point mutations define a sequence flanking the AUG initiator codon that modulates translation by eukaryotic ribosomes.
+Journal: Cell
+Publication Date: Jan, 1986
+Abstract:
+By analyzing the effects of single base substitutions around the ATG initiator codon in a cloned preproinsulin gene, I have identified ACCATGG as the optimal sequence for initiation by eukaryotic ribosomes. Mutations within that sequence modulate the yield of proinsulin over a 20-fold range. A purine in position -3 (i.e., 3 nucleotides upstream from the ATG codon) has a dominant effect; when a pyrimidine replaces the purine in position -3, translation becomes more sensitive to changes in positions -1, -2, and +4. Single base substitutions around an upstream, out-of-frame ATG codon affect the efficiency with which it acts as a barrier to initiating at the downstream start site for preproinsulin. The optimal sequence for initiation defined by mutagenesis is identical to the consensus sequence that emerged previously from surveys of translational start sites in eukaryotic mRNAs. The mechanism by which nucleotides flanking the ATG codon might exert their effect is discussed.
+
+
+
+
+
+
+PMID: 2547163
+Number of times this paper has been cited = 48
+Title: A novel genetic system to detect protein-protein interactions.
+Journal: Nature
+Publication Date: Jul, 1989
+Abstract:
+Protein-protein interactions between two proteins have generally been studied using biochemical techniques such as crosslinking, co-immunoprecipitation and co-fractionation by chromatography. We have generated a novel genetic system to study these interactions by taking advantage of the properties of the GAL4 protein of the yeast Saccharomyces cerevisiae. This protein is a transcriptional activator required for the expression of genes encoding enzymes of galactose utilization. It consists of two separable and functionally essential domains: an N-terminal domain which binds to specific DNA sequences (UASG); and a C-terminal domain containing acidic regions, which is necessary to activate transcription. We have generated a system of two hybrid proteins containing parts of GAL4: the GAL4 DNA-binding domain fused to a protein 'X' and a GAL4 activating region fused to a protein 'Y'. If X and Y can form a protein-protein complex and reconstitute proximity of the GAL4 domains, transcription of a gene regulated by UASG occurs. We have tested this system using two yeast proteins that are known to interact--SNF1 and SNF4. High transcriptional activity is obtained only when both hybrids are present in a cell. This system may be applicable as a general method to identify proteins that interact with a known protein by the use of a simple galactose selection.
+
+
+
+
+
+
+PMID: 10500182
+Number of times this paper has been cited = 42
+Title: RING fingers mediate ubiquitin-conjugating enzyme (E2)-dependent ubiquitination.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Publication Date: Sep, 1999
+Abstract:
+A RING finger-containing protein (AO7) that binds ubiquitin-conjugating enzymes (E2s) and is a substrate for E2-dependent ubiquitination was identified. Mutations of cation-coordinating residues within AO7's RING finger abolished ubiquitination, as did chelation of zinc. Several otherwise-unrelated RING finger proteins, including BRCA1, Siah-1, TRC8, NF-X1, kf-1, and Praja1, were assessed for their ability to facilitate E2-dependent ubiquitination. In all cases, ubiquitination was observed. The RING fingers were implicated directly in this activity through mutations of metal-coordinating residues or chelation of zinc. These findings suggest that a large number of RING finger-containing proteins, with otherwise diverse structures and functions, may play previously unappreciated roles in modulating protein levels via ubiquitination.
+
+
+
+
+
+
+PMID: 8967953
+Number of times this paper has been cited = 42
+Title: The CBP co-activator is a histone acetyltransferase.
+Journal: Nature
+Publication Date: , 
+Abstract:
+The CBP protein acts as a transcriptional adaptor for many different transcription factors by directly contacting DNA-bound activators. One mechanism by which CBP is thought to stimulate transcription is by recruiting the histone acetyltransferase (HAT) P/CAF to the promoter. Here we show that CBP has intrinsic HAT activity. The HAT domain of CBP is adjacent to the binding site for the transcriptional activator E1A. Although E1A displaces P/CAF from CBP, it does not disrupt the CBP-associated HAT activity. Thus E1A carries HAT activity when complexed with CBP. Targeting CBP-associated HAT activity to specific promoters may therefore be a mechanism by which E1A acts as a transcriptional activator.
+
+
+
+
+
+
+PMID: 8978031
+Number of times this paper has been cited = 41
+Title: Genomic libraries and a host strain designed for highly efficient two-hybrid selection in yeast.
+Journal: Genetics
+Publication Date: Dec, 1996
+Abstract:
+The two-hybrid system is a powerful technique for detecting protein-protein interactions that utilizes the well-developed molecular genetics of the yeast Saccharomyces cerevisiae. However, the full potential of this technique has not been realized due to limitations imposed by the components available for use in the system. These limitations include unwieldy plasmid vectors, incomplete or poorly designed two-hybrid libraries, and host strains that result in the selection of large numbers of false positives. We have used a novel multienzyme approach to generate a set of highly representative genomic libraries from S. cerevisiae. In addition, a unique host strain was created that contains three easily assayed reporter genes, each under the control of a different inducible promoter. This host strain is extremely sensitive to weak interactions and eliminates nearly all false positives using simple plate assays. Improved vectors were also constructed that simplify the construction of the gene fusions necessary for the two-hybrid system. Our analysis indicates that the libraries and host strain provide significant improvements in both the number of interacting clones identified and the efficiency of two-hybrid selections.
+
+
+
+
+
+
+PMID: 7569905
+Number of times this paper has been cited = 40
+Title: Domain interaction between NMDA receptor subunits and the postsynaptic density protein PSD-95.
+Journal: Science (New York, N.Y.)
+Publication Date: Sep, 1995
+Abstract:
+The N-methyl-D-aspartate (NMDA) receptor subserves synaptic glutamate-induced transmission and plasticity in central neurons. The yeast two-hybrid system was used to show that the cytoplasmic tails of NMDA receptor subunits interact with a prominent postsynaptic density protein PSD-95. The second PDZ domain in PSD-95 binds to the seven-amino acid, COOH-terminal domain containing the terminal tSXV motif (where S is serine, X is any amino acid, and V is valine) common to NR2 subunits and certain NR1 splice forms. Transcripts encoding PSD-95 are expressed in a pattern similar to that of NMDA receptors, and the NR2B subunit co-localizes with PSD-95 in cultured rat hippocampal neurons. The interaction of these proteins may affect the plasticity of excitatory synapses.
+
+
+
+
+
+
+PMID: 9396791
+Number of times this paper has been cited = 38
+Title: The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools.
+Journal: Nucleic acids research
+Publication Date: Dec, 1997
+Abstract:
+CLUSTAL X is a new windows interface for the widely-used progressive multiple sequence alignment program CLUSTAL W. The new system is easy to use, providing an integrated system for performing multiple sequence and profile alignments and analysing the results. CLUSTAL X displays the sequence alignment in a window on the screen. A versatile sequence colouring scheme allows the user to highlight conserved features in the alignment. Pull-down menus provide all the options required for traditional multiple sequence and profile alignment. New features include: the ability to cut-and-paste sequences to change the order of the alignment, selection of a subset of the sequences to be realigned, and selection of a sub-range of the alignment to be realigned and inserted back into the original alignment. Alignment quality analysis can be performed and low-scoring segments or exceptional residues can be highlighted. Quality analysis and realignment of selected residue ranges provide the user with a powerful tool to improve and refine difficult alignments and to trap errors in input sequences. CLUSTAL X has been compiled on SUN Solaris, IRIX5.3 on Silicon Graphics, Digital UNIX on DECstations, Microsoft Windows (32 bit) for PCs, Linux ELF for x86 PCs, and Macintosh PowerMac.
+
+
+
+
+
+
+PMID: 3714490
+Number of times this paper has been cited = 37
+Title: A new method for predicting signal sequence cleavage sites.
+Journal: Nucleic acids research
+Publication Date: Jun, 1986
+Abstract:
+A new method for identifying secretory signal sequences and for predicting the site of cleavage between a signal sequence and the mature exported protein is described. The predictive accuracy is estimated to be around 75-80% for both prokaryotic and eukaryotic proteins.
+
+
+
+
+
+
+PMID: 8757136
+Number of times this paper has been cited = 36
+Title: Functional interaction of beta-catenin with the transcription factor LEF-1.
+Journal: Nature
+Publication Date: Aug, 1996
+Abstract:
+The cytoplasmic proteins beta-catenin of vertebrates and armadillo of Drosophila have two functions: they link the cadherin cell-adhesion molecules to the cytoskeleton, and they participate in the wnt/wingless signal pathway. Here we show, in a yeast two-hybrid screen, that the architectural transcription factor LEF-1 (for lymphoid enhancer-binding factor) interacts with beta-catenin. In mammalian cells, coexpressed LEF-1 and beta-catenin form a complex that is localized to the nucleus and can be detected by immunoprecipitation. Moreover, LEF-1 and beta-catenin form a ternary complex with DNA that splays an altered DNA bend. Microinjection of LEF-1 into XenoPus embryos induces axis duplication, which is augmented by interaction with beta-catenin. Thus beta-catenin regulates gene expression by direct interaction with transcription factors such as LEF-1, providing a molecular mechanism for the transmission of signals, from cell-adhesion components or wnt protein to the nucleus.
+
+
+
+
+
+
+PMID: 8616895
+Number of times this paper has been cited = 36
+Title: A CBP integrator complex mediates transcriptional activation and AP-1 inhibition by nuclear receptors.
+Journal: Cell
+Publication Date: May, 1996
+Abstract:
+Nuclear receptors regulate gene expression by direct activation of target genes and inhibition of AP-1. Here we report that, unexpectedly, activation by nuclear receptors requires the actions of CREB-binding protein (CBP) and that inhibition of AP-1 activity is the apparent result of competition for limiting amounts of CBP/p300 in cells. Utilizing distinct domains, CBP directly interacts with the ligand-binding domain of multiple nuclear receptors and with the p160 nuclear receptor coactivators, which upon cloning have proven to be variants of the SRC-1 protein. Because CBP represents a common factor, required in addition to distinct coactivators for function of nuclear receptors, CREB, and AP-1, we suggest that CBP/p300 serves as an integrator of multiple signal transduction pathways within the nucleus.
+
+
+
+
+
+
+PMID: 9323133
+Number of times this paper has been cited = 35
+Title: CRM1 is an export receptor for leucine-rich nuclear export signals.
+Journal: Cell
+Publication Date: Sep, 1997
+Abstract:
+CRM1 is distantly related to receptors that mediate nuclear protein import and was previously shown to interact with the nuclear pore complex. Overexpression of CRM1 in Xenopus oocytes stimulates Rev and U snRNA export from the nucleus. Conversely, leptomycin B, a cytotoxin that is shown to bind to CRM1 protein, specifically inhibits the nuclear export of Rev and U snRNAs. In vitro, CRM1 forms a leptomycin B-sensitive complex involving cooperative binding of both RanGTP and the nuclear export signal (NES) from either the Rev or PKI proteins. We conclude that CRM1 is an export receptor for leucine-rich nuclear export signals and discuss a model for the role of RanGTP in CRM1 function and in nuclear export in general.
+
+
+
+
+
+
+PMID: 8520220
+Number of times this paper has been cited = 32
+Title: NMRPipe: a multidimensional spectral processing system based on UNIX pipes.
+Journal: Journal of biomolecular NMR
+Publication Date: Nov, 1995
+Abstract:
+The NMRPipe system is a UNIX software environment of processing, graphics, and analysis tools designed to meet current routine and research-oriented multidimensional processing requirements, and to anticipate and accommodate future demands and developments. The system is based on UNIX pipes, which allow programs running simultaneously to exchange streams of data under user control. In an NMRPipe processing scheme, a stream of spectral data flows through a pipeline of processing programs, each of which performs one component of the overall scheme, such as Fourier transformation or linear prediction. Complete multidimensional processing schemes are constructed as simple UNIX shell scripts. The processing modules themselves maintain and exploit accurate records of data sizes, detection modes, and calibration information in all dimensions, so that schemes can be constructed without the need to explicitly define or anticipate data sizes or storage details of real and imaginary channels during processing. The asynchronous pipeline scheme provides other substantial advantages, including high flexibility, favorable processing speeds, choice of both all-in-memory and disk-bound processing, easy adaptation to different data formats, simpler software development and maintenance, and the ability to distribute processing tasks on multi-CPU computers and computer networks.
+
+
+
+
+
+
+PMID: 7526465
+Number of times this paper has been cited = 31
+Title: Two binding orientations for peptides to the Src SH3 domain: development of a general model for SH3-ligand interactions.
+Journal: Science (New York, N.Y.)
+Publication Date: Nov, 1994
+Abstract:
+Solution structures of two Src homology 3 (SH3) domain-ligand complexes have been determined by nuclear magnetic resonance. Each complex consists of the SH3 domain and a nine-residue proline-rich peptide selected from a large library of ligands prepared by combinatorial synthesis. The bound ligands adopt a left-handed polyproline type II (PPII) helix, although the amino to carboxyl directionalities of their helices are opposite. The peptide orientation is determined by a salt bridge formed by the terminal arginine residues of the ligands and the conserved aspartate-99 of the SH3 domain. Residues at positions 3, 4, 6, and 7 of both peptides also intercalate into the ligand-binding site; however, the respective proline and nonproline residues show exchanged binding positions in the two complexes. These structural results led to a model for the interactions of SH3 domains with proline-rich peptides that can be used to predict critical residues in complexes of unknown structure. The model was used to identify correctly both the binding orientation and the contact and noncontact residues of a peptide derived from the nucleotide exchange factor Sos in association with the amino-terminal SH3 domain of the adaptor protein Grb2.
+
+
+
+
+
+
+PMID: 8674113
+Number of times this paper has been cited = 31
+Title: Crystal structures of a complexed and peptide-free membrane protein-binding domain: molecular basis of peptide recognition by PDZ.
+Journal: Cell
+Publication Date: Jun, 1996
+Abstract:
+Modular PDZ domains, found in many cell junction-associated proteins, mediate the clustering of membrane ion channels by binding to their C-terminus. The X-ray crystallographic structures of the third PDZ domain from the synaptic protein PSD-95 in complex with and in the absence of its peptide ligand have been determined at 1.8 angstroms and 2.3 angstroms resolution, respectively. The structures reveal that a four-residue C-terminal stretch (X-Thr/Ser-X-Val-COO(-)) engages the PDZ domain through antiparallel main chain interactions with a beta sheet of the domain. Recognition of the terminal carboxylate group of the peptide is conferred by a cradle of main chain amides provided by a Gly-Leu-Gly-Phe loop as well as by an arginine side chain. Specific side chain interactions and a prominent hydrophobic pocket explain the selective recognition of the C-terminal consensus sequence.
+
+
+
+
+
+
+PMID: 8945521
+Number of times this paper has been cited = 30
+Title: The transcriptional coactivators p300 and CBP are histone acetyltransferases.
+Journal: Cell
+Publication Date: Nov, 1996
+Abstract:
+p300/CBP is a transcriptional adaptor that integrates signals from many sequence-specific activators via direct interactions. Various cellular and viral factors target p300/CBP to modulate transcription and/or cell cycle progression. One such factor, the cellular p300/CBP associated factor (PCAF), possesses intrinsic histone acetyltransferase activity. Here, we demonstrate that p300/CBP is not only a transcriptional adaptor but also a histone acetyltransferase. p300/CBP represents a novel class of acetyltransferases in that it does not have the conserved motif found among various other acetyltransferases. p300/CBP acetylates all four core histones in nucleosomes. These observations suggest that p300/CBP acetylates nucleosomes in concert with PCAF.
+
+
+
+
+
+
+PMID: 9504803
+Number of times this paper has been cited = 29
+Title: SWISS-MODEL and the Swiss-PdbViewer: an environment for comparative protein modeling.
+Journal: Electrophoresis
+Publication Date: Dec, 1997
+Abstract:
+Comparative protein modeling is increasingly gaining interest since it is of great assistance during the rational design of mutagenesis experiments. The availability of this method, and the resulting models, has however been restricted by the availability of expensive computer hardware and software. To overcome these limitations, we have developed an environment for comparative protein modeling that consists of SWISS-MODEL, a server for automated comparative protein modeling and of the SWISS-PdbViewer, a sequence to structure workbench. The Swiss-PdbViewer not only acts as a client for SWISS-MODEL, but also provides a large selection of structure analysis and display tools. In addition, we provide the SWISS-MODEL Repository, a database containing more than 3500 automatically generated protein models. By making such tools freely available to the scientific community, we hope to increase the use of protein structures and models in the process of experiment design.
+
+
+
+
+
+
+PMID: 10640276
+Number of times this paper has been cited = 29
+Title: Isolation of a novel histone deacetylase reveals that class I and class II deacetylases promote SMRT-mediated repression.
+Journal: Genes & development
+Publication Date: Jan, 2000
+Abstract:
+The transcriptional corepressor SMRT functions by mediating the repressive effect of transcription factors involved in diverse signaling pathways. The mechanism by which SMRT represses basal transcription has been proposed to involve the indirect recruitment of histone deacetylase HDAC1 via the adaptor mSin3A. In contrast to this model, a two-hybrid screen on SMRT-interacting proteins resulted in the isolation of the recently described HDAC5 and a new family member termed HDAC7. Molecular and biochemical results indicate that this interaction is direct and in vivo evidence colocalizes SMRT, mHDAC5, and mHDAC7 to a distinct nuclear compartment. Surprisingly, HDAC7 can interact with mSin3A in yeast and in mammalian cells, suggesting association of multiple repression complexes. Taken together, our results provide the first evidence that SMRT-mediated repression is promoted by class I and class II histone deacetylases and that SMRT can recruit class II histone deacetylases in a mSin3A-independent fashion.
+
+
+
+
+
+
+PMID: 10600390
+Number of times this paper has been cited = 28
+Title: Sequence and structure-based prediction of eukaryotic protein phosphorylation sites.
+Journal: Journal of molecular biology
+Publication Date: Dec, 1999
+Abstract:
+Protein phosphorylation at serine, threonine or tyrosine residues affects a multitude of cellular signaling processes. How is specificity in substrate recognition and phosphorylation by protein kinases achieved? Here, we present an artificial neural network method that predicts phosphorylation sites in independent sequences with a sensitivity in the range from 69 % to 96 %. As an example, we predict novel phosphorylation sites in the p300/CBP protein that may regulate interaction with transcription factors and histone acetyltransferase activity. In addition, serine and threonine residues in p300/CBP that can be modified by O-linked glycosylation with N-acetylglucosamine are identified. Glycosylation may prevent phosphorylation at these sites, a mechanism named yin-yang regulation. The prediction server is available on the Internet at http://www.cbs.dtu.dk/services/NetPhos/or via e-mail to NetPhos@cbs. dtu.dk.
+
+
+
+
+
+
+PMID: 9016539
+Number of times this paper has been cited = 27
+Title: The PROSITE database, its status in 1997.
+Journal: Nucleic acids research
+Publication Date: Jan, 1997
+Abstract:
+The PROSITE database consists of biologically significant patterns and profiles formulated in such a way that with appropriate computational tools it can help to determine to which known family of protein (if any) a new sequence belongs, or which known domain(s) it contains.
+
+
+
+
+
+
+PMID: 8974401
+Number of times this paper has been cited = 26
+Title: Induction of apoptosis by ASK1, a mammalian MAPKKK that activates SAPK/JNK and p38 signaling pathways.
+Journal: Science (New York, N.Y.)
+Publication Date: Jan, 1997
+Abstract:
+Mitogen-activated protein (MAP) kinase cascades are activated in response to various extracellular stimuli, including growth factors and environmental stresses. A MAP kinase kinase kinase (MAPKKK), termed ASK1, was identified that activated two different subgroups of MAP kinase kinases (MAPKK), SEK1 (or MKK4) and MKK3/MAPKK6 (or MKK6), which in turn activated stress-activated protein kinase (SAPK, also known as JNK; c-Jun amino-terminal kinase) and p38 subgroups of MAP kinases, respectively. Overexpression of ASK1 induced apoptotic cell death, and ASK1 was activated in cells treated with tumor necrosis factor-alpha (TNF-alpha). Moreover, TNF-alpha-induced apoptosis was inhibited by a catalytically inactive form of ASK1. ASK1 may be a key element in the mechanism of stress- and cytokine-induced apoptosis.
+
+
+
+
+
+
+PMID: 8756721
+Number of times this paper has been cited = 26
+Title: XTcf-3 transcription factor mediates beta-catenin-induced axis formation in Xenopus embryos.
+Journal: Cell
+Publication Date: Aug, 1996
+Abstract:
+XTcf-3 is a maternally expressed Xenopus homolog of the mammalian HMG box factors Tcf-1 and Lef-1. The N-terminus of XTcf-3 binds to beta-catenin. Microinjection of XTcf-3 mRNA in embryos results in nuclear translocation of beta-catenin. The beta-catenin-XTcf-3 complex activates transcription in a transient reporter gene assay, while XTcf-3 by itself is silent. N-terminal deletion of XTcf-3 (delta N) abrogates the interaction with beta-catenin, as well as the consequent transcription activation. This dominant-negative delta N mutant suppresses the induction of axis duplication by microinjected beta-catenin. It also suppresses endogenous axis specification upon injection into the dorsal blastomeres of a 4-cell-stage embryo. We propose that signaling by beta-catenin involves complex formation with XTcf-3, followed by nuclear translocation and activation of specific XTcf-3 target genes.
+
+
+
+
+
+
+PMID: 6694911
+Number of times this paper has been cited = 26
+Title: Compilation and analysis of sequences upstream from the translational start site in eukaryotic mRNAs.
+Journal: Nucleic acids research
+Publication Date: Jan, 1984
+Abstract:
+5-Noncoding sequences have been tabulated for 211 messenger RNAs from higher eukaryotic cells. The 5'-proximal AUG triplet serves as the initiator codon in 95% of the mRNAs examined. The most conspicuous conserved feature is the presence of a purine (most often A) three nucleotides upstream from the AUG initiator codon; only 6 of the mRNAs in the survey have a pyrimidine in that position. There is a predominance of C in positions -1, -2, -4 and -5, just upstream from the initiator codon. The sequence CCAGCCAUG (G) thus emerges as a consensus sequence for eukaryotic initiation sites. The extent to which the ribosome binding site in a given mRNA matches the -1 to -5 consensus sequence varies: more than half of the mRNAs in the tabulation have 3 or 4 nucleotides in common with the CCACC consensus, but only ten mRNAs conform perfectly.
+
+
+
+
+
+
+PMID: 8625413
+Number of times this paper has been cited = 26
+Title: Interaction of nitric oxide synthase with the postsynaptic density protein PSD-95 and alpha1-syntrophin mediated by PDZ domains.
+Journal: Cell
+Publication Date: Mar, 1996
+Abstract:
+Neuronal nitric oxide synthase (nNOS) is concentrated at synaptic junctions in brain and motor endplates in skeletal muscle. Here, we show that the N-terminus of nNOS, which contains a PDZ protein motif, interacts with similar motifs in postsynaptic density-95 protein (PSD-95) and a related novel protein, PSD-93.nNOS and PSD-95 are coexpressed in numerous neuronal populations, and a PSD-95/nNOS complex occurs in cerebellum. PDZ domain interactions also mediate binding of nNOS to skeletal muscle syntrophin, a dystrophin-associated protein. nNOS isoforms lacking a PDZ domain, identified in nNOSdelta/delta mutant mice, do not associate with PSD-95 in brain or with skeletal muscle sarcolemma. Interaction of PDZ-containing domains therefore mediates synaptic association of nNOS and may play a more general role in formation of macromolecular signaling complexes.
+
+
+
+
+
+
+PMID: 6546423
+Number of times this paper has been cited = 25
+Title: A comprehensive set of sequence analysis programs for the VAX.
+Journal: Nucleic acids research
+Publication Date: Jan, 1984
+Abstract:
+The University of Wisconsin Genetics Computer Group (UWGCG) has been organized to develop computational tools for the analysis and publication of biological sequence data. A group of programs that will interact with each other has been developed for the Digital Equipment Corporation VAX computer using the VMS operating system. The programs available and the conditions for transfer are described.
+
+
+
+
+
+
+PMID: 14907713
+Number of times this paper has been cited = 25
+Title: Protein measurement with the Folin phenol reagent.
+Journal: The Journal of biological chemistry
+Publication Date: Nov, 1951
+Abstract:
+
+
+
+
+
+
+
+PMID: 14645856
+Number of times this paper has been cited = 25
+Title: BAR domains as sensors of membrane curvature: the amphiphysin BAR structure.
+Journal: Science (New York, N.Y.)
+Publication Date: Jan, 2004
+Abstract:
+The BAR (Bin/amphiphysin/Rvs) domain is the most conserved feature in amphiphysins from yeast to human and is also found in endophilins and nadrins. We solved the structure of the Drosophila amphiphysin BAR domain. It is a crescent-shaped dimer that binds preferentially to highly curved negatively charged membranes. With its N-terminal amphipathic helix and BAR domain (N-BAR), amphiphysin can drive membrane curvature in vitro and in vivo. The structure is similar to that of arfaptin2, which we find also binds and tubulates membranes. From this, we predict that BAR domains are in many protein families, including sorting nexins, centaurins, and oligophrenins. The universal and minimal BAR domain is a dimerization, membrane-binding, and curvature-sensing module.
+
+
+
+
+
+
+PMID: 10722742
+Number of times this paper has been cited = 25
+Title: Mdm2 is a RING finger-dependent ubiquitin protein ligase for itself and p53.
+Journal: The Journal of biological chemistry
+Publication Date: Mar, 2000
+Abstract:
+Mdm2 has been shown to regulate p53 stability by targeting the p53 protein for proteasomal degradation. We now report that Mdm2 is a ubiquitin protein ligase (E3) for p53 and that its activity is dependent on its RING finger. Furthermore, we show that Mdm2 mediates its own ubiquitination in a RING finger-dependent manner, which requires no eukaryotic proteins other than ubiquitin-activating enzyme (E1) and an ubiquitin-conjugating enzyme (E2). It is apparent, therefore, that Mdm2 manifests an intrinsic capacity to mediate ubiquitination. Mutation of putative zinc coordination residues abrogated this activity, as did chelation of divalent cations. After cation chelation, the full activity could be restored by addition of zinc. We further demonstrate that the degradation of p53 and Mdm2 in cells requires additional potential zinc-coordinating residues beyond those required for the intrinsic activity of Mdm2 in vitro. Replacement of the Mdm2 RING with that of another protein (Praja1) reconstituted ubiquitination and proteasomal degradation of Mdm2. However, this RING was ineffective in ubiquitination and proteasomal targeting of p53, suggesting that there may be specificity at the level of the RING in the recognition of heterologous substrates.
+
+
+
+
+
+
+PMID: 9385560
+Number of times this paper has been cited = 24
+Title: An extensively modified version of MolScript that includes greatly enhanced coloring capabilities.
+Journal: Journal of molecular graphics & modelling
+Publication Date: Apr, 1997
+Abstract:
+Owing to its flexibility, MolScript has become one of the most widely used programs for generating publication-quality molecular graphics. Integration with the Raster3D package, to allow the production of photorealistic rendered images, has increased its popularity still further. However, this intensive use has shown the need for enhancement of some areas of the program, especially for controlling the coloring of atoms, bonds, and molecules. This work describes a heavily modified version of MolScript that has added syntax for describing complicated coloring schemes and also has new graphics commands. Enhancements include drawing split-bond ball-and-stick models, smoothly varying the color of molecules (color ramping), abrupt color changes within secondary structural units, and the creation of dashed bonds. Making use of these added features is simple because all MolScript syntax is still supported and one typically needs only to add a few control commands. The final section of this article suggests some uses for this modified MolScript and provides illustrative examples.
+
+
+
+
+
+
+PMID: 8744354
+Number of times this paper has been cited = 24
+Title: Does this have a familiar RING?
+Journal: Trends in biochemical sciences
+Publication Date: Jun, 1996
+Abstract:
+The RING finger is a zinc-binding domain that is found in proteins from plants to humans, but whose function remains largely enigmatic. The domain itself is distinct from other zinc-finger motifs in terms of sequence homology, zinc-ligation scheme and three-dimensional structure. It appears that the RING is involved in mediating protein-protein interactions and in some cases multi-protein complexes, which might depend on the presence of other proteins and/or domains.
+
+
+
+
+
+
+PMID: 2025413
+Number of times this paper has been cited = 24
+Title: Improved methods for building protein models in electron density maps and the location of errors in these models.
+Journal: Acta crystallographica. Section A, Foundations of crystallography
+Publication Date: Mar, 1991
+Abstract:
+Map interpretation remains a critical step in solving the structure of a macromolecule. Errors introduced at this early stage may persist throughout crystallographic refinement and result in an incorrect structure. The normally quoted crystallographic residual is often a poor description for the quality of the model. Strategies and tools are described that help to alleviate this problem. These simplify the model-building process, quantify the goodness of fit of the model on a per-residue basis and locate possible errors in peptide and side-chain conformations.
+
+
+
+
+
+
+PMID: 14605208
+Number of times this paper has been cited = 24
+Title: A protein interaction map of Drosophila melanogaster.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 2003
+Abstract:
+Drosophila melanogaster is a proven model system for many aspects of human biology. Here we present a two-hybrid-based protein-interaction map of the fly proteome. A total of 10,623 predicted transcripts were isolated and screened against standard and normalized complementary DNA libraries to produce a draft map of 7048 proteins and 20,405 interactions. A computational method of rating two-hybrid interaction confidence was developed to refine this draft map to a higher confidence map of 4679 proteins and 4780 interactions. Statistical modeling of the network showed two levels of organization: a short-range organization, presumably corresponding to multiprotein complexes, and a more global organization, presumably corresponding to intercomplex connections. The network recapitulated known pathways, extended pathways, and uncovered previously unknown pathway components. This map serves as a starting point for a systems biology modeling of multicellular organisms, including humans.
+
+
+
+
+
+
+PMID: 10094049
+Number of times this paper has been cited = 24
+Title: The kinase TAK1 can activate the NIK-I kappaB as well as the MAP kinase cascade in the IL-1 signalling pathway.
+Journal: Nature
+Publication Date: Mar, 1999
+Abstract:
+Interleukin-1 (IL-1) is a proinflammatory cytokine that has several effects in the inflammation process. When it binds to its cell-surface receptor, IL-1 initiates a signalling cascade that leads to activation of the transcription factor NF-kappaB and is relayed through the protein TRAF6 and a succession of kinase enzymes, including NF-kappaB-inducing kinase (NIK) and I kappaB kinases (IKKs). However, the molecular mechanism by which NIK is activated is not understood. Here we show that the MAPKK kinase TAK1 acts upstream of NIK in the IL-1-activated signalling pathway and that TAK1 associates with TRAF6 during IL-1 signalling. Stimulation of TAK1 causes activation of NF-kappaB, which is blocked by dominant-negative mutants of NIK, and an inactive TAK1 mutant prevents activation of NF-kappaB that is mediated by IL-1 but not by NIK. Activated TAK1 phosphorylates NIK, which stimulates IKK-alpha activity. Our results indicate that TAK1 links TRAF6 to the NIK-IKK cascade in the IL-1 signalling pathway.
+
+
+
+
+
+
+PMID: 10087920
+Number of times this paper has been cited = 24
+Title: PSORT: a program for detecting sorting signals in proteins and predicting their subcellular localization.
+Journal: Trends in biochemical sciences
+Publication Date: Jan, 1999
+Abstract:
+
+
+
+
+
+
+
+PMID: 10575014
+Number of times this paper has been cited = 23
+Title: c-Ski acts as a transcriptional co-repressor in transforming growth factor-beta signaling through interaction with smads.
+Journal: The Journal of biological chemistry
+Publication Date: Dec, 1999
+Abstract:
+Smads are intracellular signaling mediators of the transforming growth factor-beta (TGF-beta) superfamily that regulates a wide variety of biological processes. Among them, Smads 2 and 3 are activated specifically by TGF-beta. We identified c-Ski as a Smad2 interacting protein. c-Ski is the cellular homologue of the v-ski oncogene product and has been shown to repress transcription by recruiting histone deacetylase (HDAC). Smad2/3 interacts with c-Ski through its C-terminal MH2 domain in a TGF-beta-dependent manner. c-Ski contains two distinct Smad-binding sites with different binding properties. c-Ski strongly inhibits transactivation of various reporter genes by TGF-beta. c-Ski is incorporated in the Smad DNA binding complex, interferes with the interaction of Smad3 with a transcriptional co-activator, p300, and in turn recruits HDAC. c-Ski is thus a transcriptional co-repressor that links Smads to HDAC in TGF-beta signaling.
+
+
+
+
+
+
+PMID: 8769649
+Number of times this paper has been cited = 23
+Title: KAP-1, a novel corepressor for the highly conserved KRAB repression domain.
+Journal: Genes & development
+Publication Date: Aug, 1996
+Abstract:
+The KRAB repression domain is one of the most widely distributed transcriptional effector domains yet identified, but its mechanism of repression is unknown. We have cloned a corepressor, KAP-1, which associates with the KRAB domain but not with KRAB mutants that have lost repression activity. KAP-1 can enhance KRAB-mediated repression and is a repressor when directly tethered to DNA. KAP-1 contains a RING finger, B boxes, and a PHD finger; the RING-B1-B2 structure is required for KRAB binding and corepression. We propose that KAP-1 may be a universal corepressor for the large family of KRAB domain-containing transcription factors.
+
+
+
+
+
+
+PMID: 10331874
+Number of times this paper has been cited = 23
+Title: Automated protein model building combined with iterative structure refinement.
+Journal: Nature structural biology
+Publication Date: May, 1999
+Abstract:
+In protein crystallography, much time and effort are often required to trace an initial model from an interpretable electron density map and to refine it until it best agrees with the crystallographic data. Here, we present a method to build and refine a protein model automatically and without user intervention, starting from diffraction data extending to resolution higher than 2.3 A and reasonable estimates of crystallographic phases. The method is based on an iterative procedure that describes the electron density map as a set of unconnected atoms and then searches for protein-like patterns. Automatic pattern recognition (model building) combined with refinement, allows a structural model to be obtained reliably within a few CPU hours. We demonstrate the power of the method with examples of a few recently solved structures.
+
+
+
+
+
+
+PMID: 11283351
+Number of times this paper has been cited = 23
+Title: A comprehensive two-hybrid analysis to explore the yeast protein interactome.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Publication Date: Apr, 2001
+Abstract:
+Protein-protein interactions play crucial roles in the execution of various biological functions. Accordingly, their comprehensive description would contribute considerably to the functional interpretation of fully sequenced genomes, which are flooded with novel genes of unpredictable functions. We previously developed a system to examine two-hybrid interactions in all possible combinations between the approximately 6,000 proteins of the budding yeast Saccharomyces cerevisiae. Here we have completed the comprehensive analysis using this system to identify 4,549 two-hybrid interactions among 3,278 proteins. Unexpectedly, these data do not largely overlap with those obtained by the other project [Uetz, P., et al. (2000) Nature (London) 403, 623-627] and hence have substantially expanded our knowledge on the protein interaction space or interactome of the yeast. Cumulative connection of these binary interactions generates a single huge network linking the vast majority of the proteins. Bioinformatics-aided selection of biologically relevant interactions highlights various intriguing subnetworks. They include, for instance, the one that had successfully foreseen the involvement of a novel protein in spindle pole body function as well as the one that may uncover a hitherto unidentified multiprotein complex potentially participating in the process of vesicular transport. Our data would thus significantly expand and improve the protein interaction map for the exploration of genome functions that eventually leads to thorough understanding of the cell as a molecular system.
+
+
+
+
+
+
+PMID: 3047011
+Number of times this paper has been cited = 23
+Title: Single-step purification of polypeptides expressed in Escherichia coli as fusions with glutathione S-transferase.
+Journal: Gene
+Publication Date: Jul, 1988
+Abstract:
+Plasmid expression vectors have been constructed that direct the synthesis of foreign polypeptides in Escherichia coli as fusions with the C terminus of Sj26, a 26-kDa glutathione S-transferase (GST; EC 2.5.1.18) encoded by the parasitic helminth Schistosoma japonicum. In the majority of cases, fusion proteins are soluble in aqueous solutions and can be purified from crude bacterial lysates under non-denaturing conditions by affinity chromatography on immobilised glutathione. Using batch wash procedures several fusion proteins can be purified in parallel in under 2 h with yields of up to 15 micrograms protein/ml of culture. The vectors have been engineered so that the GST carrier can be cleaved from fusion proteins by digestion with site-specific proteases such as thrombin or blood coagulation factor Xa, following which, the carrier and any uncleaved fusion protein can be removed by absorption on glutathione-agarose. This system has been used successfully for the expression and purification of more than 30 different eukaryotic polypeptides.
+
+
+
+
+
+
+PMID: 9632836
+Number of times this paper has been cited = 23
+Title: SOSUI: classification and secondary structure prediction system for membrane proteins.
+Journal: Bioinformatics (Oxford, England)
+Publication Date: , 1998
+Abstract:
+The system SOSUI for the discrimination of membrane proteins and soluble ones together with the prediction of transmembrane helices was developed, in which the accuracy of the classification of proteins was 99% and the corresponding value for the transmembrane helix prediction was 97%.The system SOSUI is available through internet access: http://www.tuat.ac.jp/mitaku/sosui/.sosui@biophys.bio.tuat. ac.jp.
+
+
+
+
+
+
+PMID: 17681537
+Number of times this paper has been cited = 23
+Title: Inference of macromolecular assemblies from crystalline state.
+Journal: Journal of molecular biology
+Publication Date: Sep, 2007
+Abstract:
+We discuss basic physical-chemical principles underlying the formation of stable macromolecular complexes, which in many cases are likely to be the biological units performing a certain physiological function. We also consider available theoretical approaches to the calculation of macromolecular affinity and entropy of complexation. The latter is shown to play an important role and make a major effect on complex size and symmetry. We develop a new method, based on chemical thermodynamics, for automatic detection of macromolecular assemblies in the Protein Data Bank (PDB) entries that are the results of X-ray diffraction experiments. As found, biological units may be recovered at 80-90% success rate, which makes X-ray crystallography an important source of experimental data on macromolecular complexes and protein-protein interactions. The method is implemented as a public WWW service.
+
+
+
+
+
+
+PMID: 9027315
+Number of times this paper has been cited = 23
+Title: The release of cytochrome c from mitochondria: a primary site for Bcl-2 regulation of apoptosis.
+Journal: Science (New York, N.Y.)
+Publication Date: Feb, 1997
+Abstract:
+In a cell-free apoptosis system, mitochondria spontaneously released cytochrome c, which activated DEVD-specific caspases, leading to fodrin cleavage and apoptotic nuclear morphology. Bcl-2 acted in situ on mitochondria to prevent the release of cytochrome c and thus caspase activation. During apoptosis in intact cells, cytochrome c translocation was similarly blocked by Bcl-2 but not by a caspase inhibitor, zVAD-fmk. In vitro, exogenous cytochrome c bypassed the inhibitory effect of Bcl-2. Cytochrome c release was unaccompanied by changes in mitochondrial membrane potential. Thus, Bcl-2 acts to inhibit cytochrome c translocation, thereby blocking caspase activation and the apoptotic process.
+
+
+
+
+
+
+PMID: 9808622
+Number of times this paper has been cited = 22
+Title: Structure and specificity of nuclear receptor-coactivator interactions.
+Journal: Genes & development
+Publication Date: Nov, 1998
+Abstract:
+Combinatorial regulation of transcription implies flexible yet precise assembly of multiprotein regulatory complexes in response to signals. Biochemical and crystallographic analyses revealed that hormone binding leads to the formation of a hydrophobic groove within the ligand binding domain (LBD) of the thyroid hormone receptor that interacts with an LxxLL motif-containing alpha-helix from GRIP1, a coactivator. Residues immediately adjacent to the motif modulate the affinity of the interaction; the motif and the adjacent sequences are employed to different extents in binding to different receptors. Such interactions of amphipathic alpha-helices with hydrophobic grooves define protein interfaces in other regulatory complexes as well. We suggest that these common structural elements impart flexibility to combinatorial regulation, whereas side chains at the interface impart specificity.
+
+
+
+
+
+
+PMID: 8990121
+Number of times this paper has been cited = 22
+Title: Phosphotyrosine-dependent activation of Rac-1 GDP/GTP exchange by the vav proto-oncogene product.
+Journal: Nature
+Publication Date: Jan, 1997
+Abstract:
+The oncogenic protein Vav harbours a complex array of structural motifs, including leucine-rich, Dbl-homology, pleckstrin-homology, zinc-finger, SH2 and SH3 domains. Upon stimulation by antigens or mitogens, Vav becomes phosphorylated on key tyrosine residues and associates with other signalling proteins, including the mitogen receptors Zap-70 (ref. 6), Vap-1 (ref. 5) and Slp-76 (ref. 7). Disruption of the vav locus by homologous recombination causes severe defects in signalling by primary antigen receptors, leading to abnormal lymphocyte proliferation and lymphopenia. Despite the importance of Vav cell signalling, the function of this protein remains unknown. Here we show that tyrosine-phosphorylated Vav, but not the non-phosphorylated protein, catalyses GDP/GTP exchange on Rac-1, a protein implicated in cell proliferation and cytoskeletal organization, causing this GTPase to switch from its inactive to its active state. Transfection experiments also show that phosphorylation of Vav on tyrosine residues leads to nucleotide exchange on Rac-1 in vivo and stimulates c-Jun kinase, a downstream element in the signalling pathway involving this GTPase. Our results have identified a function for Vav and define a mechanism in which engaged membrane receptors activate its signalling pathway.
+
+
+
+
+
+
+PMID: 11583631
+Number of times this paper has been cited = 22
+Title: BCL-2, BCL-X(L) sequester BH3 domain-only molecules preventing BAX- and BAK-mediated mitochondrial apoptosis.
+Journal: Molecular cell
+Publication Date: Sep, 2001
+Abstract:
+Critical issues in apoptosis include the importance of caspases versus organelle dysfunction, dominance of anti- versus proapoptotic BCL-2 members, and whether commitment occurs upstream or downstream of mitochondria. Here, we show cells deficient for the downstream effectors Apaf-1, Caspase-9, or Caspase-3 display only transient protection from "BH3 domain-only" molecules and die a caspase-independent death by mitochondrial dysfunction. Cells with an upstream defect, lacking "multidomain" BAX, BAK demonstrate long-term resistance to all BH3 domain-only members, including BAD, BIM, and NOXA. Comparison of wild-type versus mutant BCL-2, BCL-X(L) indicates these antiapoptotics sequester BH3 domain-only molecules in stable mitochondrial complexes, preventing the activation of BAX, BAK. Thus, in mammals, BH3 domain-only molecules activate multidomain proapoptotic members to trigger a mitochondrial pathway, which both releases cytochrome c to activate caspases and initiates caspase-independent mitochondrial dysfunction.
+
+
+
+
+
+
+PMID: 8744573
+Number of times this paper has been cited = 22
+Title: MOLMOL: a program for display and analysis of macromolecular structures.
+Journal: Journal of molecular graphics
+Publication Date: Feb, 1996
+Abstract:
+MOLMOL is a molecular graphics program for display, analysis, and manipulation of three-dimensional structures of biological macromolecules, with special emphasis on nuclear magnetic resonance (NMR) solution structures of proteins and nucleic acids. MOLMOL has a graphical user interface with menus, dialog boxes, and on-line help. The display possibilities include conventional presentation, as well as novel schematic drawings, with the option of combining different presentations in one view of a molecule. Covalent molecular structures can be modified by addition or removal of individual atoms and bonds, and three-dimensional structures can be manipulated by interactive rotation about individual bonds. Special efforts were made to allow for appropriate display and analysis of the sets of typically 20-40 conformers that are conventionally used to represent the result of an NMR structure determination, using functions for superimposing sets of conformers, calculation of root mean square distance (RMSD) values, identification of hydrogen bonds, checking and displaying violations of NMR constraints, and identification and listing of short distances between pairs of hydrogen atoms.
+
+
+
+
+
+

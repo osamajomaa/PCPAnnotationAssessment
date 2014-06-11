@@ -1,0 +1,652 @@
+Top 50 Humans papers that are cited by Humans papers:
+
+PMID: 9254694
+Number of times this paper has been cited = 318
+Title: Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.
+Journal: Nucleic acids research
+Publication Date: Sep, 1997
+Abstract:
+The BLAST programs are widely used tools for searching protein and DNA databases for sequence similarities. For protein comparisons, a variety of definitional, algorithmic and statistical refinements described here permits the execution time of the BLAST programs to be decreased substantially while enhancing their sensitivity to weak similarities. A new criterion for triggering the extension of word hits, combined with a new heuristic for generating gapped alignments, yields a gapped BLAST program that runs at approximately three times the speed of the original. In addition, a method is introduced for automatically combining statistically significant alignments produced by BLAST into a position-specific score matrix, and searching the database using this matrix. The resulting Position-Specific Iterated BLAST (PSI-BLAST) program runs at approximately the same speed per iteration as gapped BLAST, but in many cases is much more sensitive to weak but biologically relevant sequence similarities. PSI-BLAST is used to uncover several new and interesting members of the BRCT superfamily.
+
+
+
+
+
+
+PMID: 8679005
+Number of times this paper has been cited = 97
+Title: Interpreting cDNA sequences: some insights from studies on translation.
+Journal: Mammalian genome : official journal of the International Mammalian Genome Society
+Publication Date: Aug, 1996
+Abstract:
+This review discusses some rules for assessing the completeness of a cDNA sequence and identifying the start site for translation. Features commonly invoked-such as an ATG codon in a favorable context for initiation, or the presence of an upstream in-frame terminator codon, or the prediction of a signal peptide-like sequence at the amino terminus-have some validity; but examples drawn from the literature illustrate limitations to each of these criteria. The best advice is to inspect a cDNA sequence not only for these positive features but also for the absence of certain negative indicators. Three specific warning signs are discussed and documented: (i) The presence of numerous ATG codons upstream from the presumptive start site for translation often indicates an aberration (sometimes a retained intron) at the 5' end of the cDNA. (ii) Even one strong, upstream, out-of-frame ATG codon poses a problem if the reading frame set by the upstream ATG overlaps the presumptive start of the major open reading frame. Many cDNAs that display this arrangement turn out to be incomplete; that is, the out-of-frame ATG codon is within, rather than upstream from, the protein coding domain. (iii) A very weak context at the putative start site for translation often means that the cDNA lacks the authentic initiator codon. In addition to presenting some criteria that may aid in recognizing incomplete cDNA sequences, the review includes some advice for using in vitro translation systems for the expression of cDNAs. Some unresolved questions about translational regulation are discussed by way of illustrating the importance of verifying mRNA structures before making deductions about translation.
+
+
+
+
+
+
+PMID: 7531822
+Number of times this paper has been cited = 90
+Title: Protein modules and signalling networks.
+Journal: Nature
+Publication Date: Feb, 1995
+Abstract:
+Communication between cells assumes particular importance in multicellular organisms. The growth, migration and differentiation of cells in the embryo, and their organization into specific tissues, depend on signals transmitted from one cell to another. In the adult, cell signalling orchestrates normal cellular behaviour and responses to wounding and infection. The consequences of breakdowns in this signalling underlie cancer, diabetes and disorders of the immune and cardiovascular systems. Conserved protein domains that act as key regulatory participants in many of these different signalling pathways are highlighted.
+
+
+
+
+
+
+PMID: 3313277
+Number of times this paper has been cited = 87
+Title: An analysis of 5'-noncoding sequences from 699 vertebrate messenger RNAs.
+Journal: Nucleic acids research
+Publication Date: Oct, 1987
+Abstract:
+5'-Noncoding sequences have been compiled from 699 vertebrate mRNAs. (GCC) GCCA/GCCATGG emerges as the consensus sequence for initiation of translation in vertebrates. The most highly conserved position in that motif is the purine in position -3 (three nucleotides upstream from the ATG codon); 97% of vertebrate mRNAs have a purine, most often A, in that position. The periodical occurrence of G (in positions -3, -6, -9) is discussed. Upstream ATG codons occur in fewer than 10% of vertebrate mRNAs-at-large; a notable exception are oncogene transcripts, two-thirds of which have ATG codons preceding the start of the major open reading frame. The leader sequences of most vertebrate mRNAs fall in the size range of 20 to 100 nucleotides. The significance of shorter and longer 5'-noncoding sequences is discussed.
+
+
+
+
+
+
+PMID: 9438836
+Number of times this paper has been cited = 87
+Title: Rho GTPases and the actin cytoskeleton.
+Journal: Science (New York, N.Y.)
+Publication Date: Jan, 1998
+Abstract:
+The actin cytoskeleton mediates a variety of essential biological functions in all eukaryotic cells. In addition to providing a structural framework around which cell shape and polarity are defined, its dynamic properties provide the driving force for cells to move and to divide. Understanding the biochemical mechanisms that control the organization of actin is thus a major goal of contemporary cell biology, with implications for health and disease. Members of the Rho family of small guanosine triphosphatases have emerged as key regulators of the actin cytoskeleton, and furthermore, through their interaction with multiple target proteins, they ensure coordinated control of other cellular activities such as gene transcription and adhesion.
+
+
+
+
+
+
+PMID: 7834743
+Number of times this paper has been cited = 71
+Title: Modular binding domains in signal transduction proteins.
+Journal: Cell
+Publication Date: Jan, 1995
+Abstract:
+
+
+
+
+
+
+
+PMID: 15473860
+Number of times this paper has been cited = 63
+Title: The Wnt signaling pathway in development and disease.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 2004
+Abstract:
+Tight control of cell-cell communication is essential for the generation of a normally patterned embryo. A critical mediator of key cell-cell signaling events during embryogenesis is the highly conserved Wnt family of secreted proteins. Recent biochemical and genetic analyses have greatly enriched our understanding of how Wnts signal, and the list of canonical Wnt signaling components has exploded. The data reveal that multiple extracellular, cytoplasmic, and nuclear regulators intricately modulate Wnt signaling levels. In addition, receptor-ligand specificity and feedback loops help to determine Wnt signaling outputs. Wnts are required for adult tissue maintenance, and perturbations in Wnt signaling promote both human degenerative diseases and cancer. The next few years are likely to see novel therapeutic reagents aimed at controlling Wnt signaling in order to alleviate these conditions.
+
+
+
+
+
+
+PMID: 12471243
+Number of times this paper has been cited = 61
+Title: The protein kinase complement of the human genome.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 2002
+Abstract:
+We have catalogued the protein kinase complement of the human genome (the "kinome") using public and proprietary genomic, complementary DNA, and expressed sequence tag (EST) sequences. This provides a starting point for comprehensive analysis of protein phosphorylation in normal and disease states, as well as a detailed view of the current state of human genome analysis through a focus on one large gene family. We identify 518 putative protein kinase genes, of which 71 have not previously been reported or described as kinases, and we extend or correct the protein sequences of 56 more kinases. New genes include members of well-studied families as well as previously unidentified families, some of which are conserved in model organisms. Classification and comparison with model organism kinomes identified orthologous groups and highlighted expansions specific to human and other lineages. We also identified 106 protein kinase pseudogenes. Chromosomal mapping revealed several small clusters of kinase genes and revealed that 244 kinases map to disease loci or cancer amplicons.
+
+
+
+
+
+
+PMID: 9759503
+Number of times this paper has been cited = 56
+Title: TGF-beta signal transduction.
+Journal: Annual review of biochemistry
+Publication Date: , 1998
+Abstract:
+The transforming growth factor beta (TGF-beta) family of growth factors control the development and homeostasis of most tissues in metazoan organisms. Work over the past few years has led to the elucidation of a TGF-beta signal transduction network. This network involves receptor serine/threonine kinases at the cell surface and their substrates, the SMAD proteins, which move into the nucleus, where they activate target gene transcription in association with DNA-binding partners. Distinct repertoires of receptors, SMAD proteins, and DNA-binding partners seemingly underlie, in a cell-specific manner, the multifunctional nature of TGF-beta and related factors. Mutations in these pathways are the cause of various forms of human cancer and developmental disorders.
+
+
+
+
+
+
+PMID: 2645293
+Number of times this paper has been cited = 56
+Title: The scanning model for translation: an update.
+Journal: The Journal of cell biology
+Publication Date: Feb, 1989
+Abstract:
+The small (40S) subunit of eukaryotic ribosomes is believed to bind initially at the capped 5'-end of messenger RNA and then migrate, stopping at the first AUG codon in a favorable context for initiating translation. The first-AUG rule is not absolute, but there are rules for breaking the rule. Some anomalous observations that seemed to contradict the scanning mechanism now appear to be artifacts. A few genuine anomalies remain unexplained.
+
+
+
+
+
+
+PMID: 9039259
+Number of times this paper has been cited = 55
+Title: p53, the cellular gatekeeper for growth and division.
+Journal: Cell
+Publication Date: Feb, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 17320507
+Number of times this paper has been cited = 54
+Title: Chromatin modifications and their function.
+Journal: Cell
+Publication Date: Feb, 2007
+Abstract:
+The surface of nucleosomes is studded with a multiplicity of modifications. At least eight different classes have been characterized to date and many different sites have been identified for each class. Operationally, modifications function either by disrupting chromatin contacts or by affecting the recruitment of nonhistone proteins to chromatin. Their presence on histones can dictate the higher-order chromatin structure in which DNA is packaged and can orchestrate the ordered recruitment of enzyme complexes to manipulate DNA. In this way, histone modifications have the potential to influence many fundamental biological processes, some of which may be epigenetically inherited.
+
+
+
+
+
+
+PMID: 17081971
+Number of times this paper has been cited = 53
+Title: Wnt/beta-catenin signaling in development and disease.
+Journal: Cell
+Publication Date: Nov, 2006
+Abstract:
+A remarkable interdisciplinary effort has unraveled the WNT (Wingless and INT-1) signal transduction cascade over the last two decades. Wnt genes encode small secreted proteins that are found in all animal genomes. Wnt signaling is involved in virtually every aspect of embryonic development and also controls homeostatic self-renewal in a number of adult tissues. Germline mutations in the Wnt pathway cause several hereditary diseases, and somatic mutations are associated with cancer of the intestine and a variety of other tissues.
+
+
+
+
+
+
+PMID: 12478284
+Number of times this paper has been cited = 52
+Title: Rho GTPases in cell biology.
+Journal: Nature
+Publication Date: Dec, 2002
+Abstract:
+Rho GTPases are molecular switches that control a wide variety of signal transduction pathways in all eukaryotic cells. They are known principally for their pivotal role in regulating the actin cytoskeleton, but their ability to influence cell polarity, microtubule dynamics, membrane transport pathways and transcription factor activity is probably just as significant. Underlying this biological complexity is a simple biochemical idea, namely that by switching on a single GTPase, several distinct signalling pathways can be coordinately activated. With spatial and temporal activation of multiple switches factored in, it is not surprising to find Rho GTPases having such a prominent role in eukaryotic cell biology.
+
+
+
+
+
+
+PMID: 10921899
+Number of times this paper has been cited = 52
+Title: Wnt signaling and cancer.
+Journal: Genes & development
+Publication Date: Aug, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 16325574
+Number of times this paper has been cited = 48
+Title: A genomic and functional inventory of deubiquitinating enzymes.
+Journal: Cell
+Publication Date: Dec, 2005
+Abstract:
+Posttranslational modification of proteins by the small molecule ubiquitin is a key regulatory event, and the enzymes catalyzing these modifications have been the focus of many studies. Deubiquitinating enzymes, which mediate the removal and processing of ubiquitin, may be functionally as important but are less well understood. Here, we present an inventory of the deubiquitinating enzymes encoded in the human genome. In addition, we review the literature concerning these enzymes, with particular emphasis on their function, specificity, and the regulation of their activity.
+
+
+
+
+
+
+PMID: 10652267
+Number of times this paper has been cited = 47
+Title: The coregulator exchange in transcriptional functions of nuclear receptors.
+Journal: Genes & development
+Publication Date: Jan, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 1955461
+Number of times this paper has been cited = 47
+Title: An analysis of vertebrate mRNA sequences: intimations of translational control.
+Journal: The Journal of cell biology
+Publication Date: Nov, 1991
+Abstract:
+Five structural features in mRNAs have been found to contribute to the fidelity and efficiency of initiation by eukaryotic ribosomes. Scrutiny of vertebrate cDNA sequences in light of these criteria reveals a set of transcripts--encoding oncoproteins, growth factors, transcription factors, and other regulatory proteins--that seem designed to be translated poorly. Thus, throttling at the level of translation may be a critical component of gene regulation in vertebrates. An alternative interpretation is that some (perhaps many) cDNAs with encumbered 5' noncoding sequences represent mRNA precursors, which would imply extensive regulation at a posttranscriptional step that precedes translation.
+
+
+
+
+
+
+PMID: 11983155
+Number of times this paper has been cited = 46
+Title: Missing pieces in the NF-kappaB puzzle.
+Journal: Cell
+Publication Date: Apr, 2002
+Abstract:
+The regulation of the transcription factor NF-kappaB activity occurs at several levels including controlled cytoplasmic-nuclear shuttling and modulation of its transcriptional activity. A critical component in NF-kappaB regulation is the IkappaB kinase (IKK) complex. This review is focused on recent progress as well as unanswered questions regarding the regulation and function of NF-kappaB and IKK.
+
+
+
+
+
+
+PMID: 1664152
+Number of times this paper has been cited = 44
+Title: Nuclear targeting sequences--a consensus?
+Journal: Trends in biochemical sciences
+Publication Date: Dec, 1991
+Abstract:
+Nuclear targeting sequences are essential for the transport of proteins into the nucleus. The seven-amino-acid nuclear targeting sequence of the SV40 large T antigen has been regarded as the model; however, many nuclear targeting sequences appear to be more complex. We suggest in this review that, despite this diversity, a consensus bipartite motif can be identified.
+
+
+
+
+
+
+PMID: 12809600
+Number of times this paper has been cited = 43
+Title: Mechanisms of TGF-beta signaling from cell membrane to the nucleus.
+Journal: Cell
+Publication Date: Jun, 2003
+Abstract:
+TGF-beta signaling controls a plethora of cellular responses and figures prominently in animal development. Recent cellular, biochemical, and structural studies have revealed significant insight into the mechanisms of the activation of TGF-beta receptors through ligand binding, the activation of Smad proteins through phosphorylation, the transcriptional regulation of target gene expression, and the control of Smad protein activity and degradation. This article reviews these latest advances and presents our current understanding on the mechanisms of TGF-beta signaling from cell membrane to the nucleus.
+
+
+
+
+
+
+PMID: 9721089
+Number of times this paper has been cited = 43
+Title: Death receptors: signaling and modulation.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 1998
+Abstract:
+Apoptosis is a cell suicide mechanism that enables metazoans to control cell number in tissues and to eliminate individual cells that threaten the animal's survival. Certain cells have unique sensors, termed death receptors, on their surface. Death receptors detect the presence of extracellular death signals and, in response, they rapidly ignite the cell's intrinsic apoptosis machinery.
+
+
+
+
+
+
+PMID: 8090199
+Number of times this paper has been cited = 42
+Title: The ancient regulatory-protein family of WD-repeat proteins.
+Journal: Nature
+Publication Date: Sep, 1994
+Abstract:
+WD proteins are made up of highly conserved repeating units usually ending with Trp-Asp (WD). They are found in all eukaryotes but not in prokaryotes. They regulate cellular functions, such as cell division, cell-fate determination, gene transcription, transmembrane signalling, mRNA modification and vesicle fusion. Here we define the common features of the repeating units, and criteria for grouping such proteins into functional subfamilies.
+
+
+
+
+
+
+PMID: 8849440
+Number of times this paper has been cited = 42
+Title: A gene map of the human genome.
+Journal: Science (New York, N.Y.)
+Publication Date: Oct, 1996
+Abstract:
+The human genome is thought to harbor 50,000 to 100,000 genes, of which about half have been sampled to date in the form of expressed sequence tags. An international consortium was organized to develop and map gene-based sequence tagged site markers on a set of two radiation hybrid panels and a yeast artificial chromosome library. More than 16,000 human genes have been mapped relative to a framework map that contains about 1000 polymorphic genetic markers. The gene map unifies the existing genetic and physical maps with the nucleotide and protein sequence databases in a fashion that should speed the discovery of genes underlying inherited human disease. The integrated resource is available through a site on the World Wide Web at http://www.ncbi.nlm.nih.gov/SCIENCE96/.
+
+
+
+
+
+
+PMID: 8717528
+Number of times this paper has been cited = 42
+Title: The NF-kappa B and I kappa B proteins: new discoveries and insights.
+Journal: Annual review of immunology
+Publication Date: , 1996
+Abstract:
+The transcription factor NF-kappa B has attracted widespread attention among researchers in many fields based on the following: its unusual and rapid regulation, the wide range of genes that it controls, its central role in immunological processes, the complexity of its subunits, and its apparent involvement in several diseases. A primary level of control for NF-kappa B is through interactions with an inhibitor protein called I kappa B. Recent evidence confirms the existence of multiple forms of I kappa B that appear to regulate NF-kappa B by distinct mechanisms. NF-kappa B can be activated by exposure of cells to LPS or inflammatory cytokines such as TNF or IL-1, viral infection or expression of certain viral gene products, UV irradiation, B or T cell activation, and by other physiological and nonphysiological stimuli. Activation of NF-kappa B to move into the nucleus is controlled by the targeted phosphorylation and subsequent degradation of I kappa B. Exciting new research has elaborated several important and unexpected findings that explain mechanisms involved in the activation of NF-kappa B. In the nucleus, NF-kappa B dimers bind to target DNA elements and activate transcription of genes encoding proteins involved with immune or inflammation responses and with cell growth control. Recent data provide evidence that NF-kappa B is constitutively active in several cell types, potentially playing unexpected roles in regulation of gene expression. In addition to advances in describing the mechanisms of NF-kappa B activation, excitement in NF-kappa B research has been generated by the first report of a crystal structure for one form of NF-kappa B, the first gene knockout studies for different forms of NF-kB and of I kappa B, and the implications for therapies of diseases thought to involve the inappropriate activation of NF-kappa B.
+
+
+
+
+
+
+PMID: 8654922
+Number of times this paper has been cited = 41
+Title: p53: puzzle and paradigm.
+Journal: Genes & development
+Publication Date: May, 1996
+Abstract:
+
+
+
+
+
+
+
+PMID: 14657486
+Number of times this paper has been cited = 40
+Title: Cell migration: integrating signals from front to back.
+Journal: Science (New York, N.Y.)
+Publication Date: Dec, 2003
+Abstract:
+Cell migration is a highly integrated multistep process that orchestrates embryonic morphogenesis; contributes to tissue repair and regeneration; and drives disease progression in cancer, mental retardation, atherosclerosis, and arthritis. The migrating cell is highly polarized with complex regulatory pathways that spatially and temporally integrate its component processes. This review describes the mechanisms underlying the major steps of migration and the signaling pathways that regulate them, and outlines recent advances investigating the nature of polarity in migrating cells and the pathways that establish it.
+
+
+
+
+
+
+PMID: 11007473
+Number of times this paper has been cited = 38
+Title: RING finger proteins: mediators of ubiquitin ligase activity.
+Journal: Cell
+Publication Date: Sep, 2000
+Abstract:
+
+
+
+
+
+
+
+PMID: 7834742
+Number of times this paper has been cited = 38
+Title: Protein kinases and phosphatases: the yin and yang of protein phosphorylation and signaling.
+Journal: Cell
+Publication Date: Jan, 1995
+Abstract:
+
+
+
+
+
+
+
+PMID: 8259209
+Number of times this paper has been cited = 38
+Title: Proteins regulating Ras and its relatives.
+Journal: Nature
+Publication Date: Dec, 1993
+Abstract:
+GTPases of the Ras superfamily regulate many aspects of cell growth, differentiation and action. Their functions depend on their ability to alternate between inactive and active forms, and on their cellular localization. Numerous proteins affecting the GTPase activity, nucleotide exchange rates and membrane localization of Ras superfamily members have now been identified. Many of these proteins are much larger and more complex than their targets, containing multiple domains capable of interacting with an intricate network of cellular enzymes and structures.
+
+
+
+
+
+
+PMID: 10611974
+Number of times this paper has been cited = 38
+Title: Transport between the cell nucleus and the cytoplasm.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 1999
+Abstract:
+The compartmentation of eukaryotic cells requires all nuclear proteins to be imported from the cytoplasm, whereas, for example, transfer RNAs, messenger RNAs, and ribosomes are made in the nucleus and need to be exported to the cytoplasm. Nuclear import and export proceed through nuclear pore complexes and can occur along a great number of distinct pathways, many of which are mediated by importin beta-related nuclear transport receptors. These receptors shuttle between nucleus and cytoplasm, and they bind transport substrates either directly or via adapter molecules. They all cooperate with the RanGTPase system to regulate the interactions with their cargoes. Another focus of our review is nuclear export of messenger RNA, which apparently largely relies on export mediators distinct from importin beta-related factors. We discuss mechanistic aspects and the energetics of transport receptor function and describe a number of pathways in detail.
+
+
+
+
+
+
+PMID: 9039262
+Number of times this paper has been cited = 38
+Title: Apoptosis by death factor.
+Journal: Cell
+Publication Date: Feb, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 8521507
+Number of times this paper has been cited = 37
+Title: The nuclear receptor superfamily: the second decade.
+Journal: Cell
+Publication Date: Dec, 1995
+Abstract:
+
+
+
+
+
+
+
+PMID: 8197455
+Number of times this paper has been cited = 37
+Title: Jak-STAT pathways and transcriptional activation in response to IFNs and other extracellular signaling proteins.
+Journal: Science (New York, N.Y.)
+Publication Date: Jun, 1994
+Abstract:
+Through the study of transcriptional activation in response to interferon alpha (IFN-alpha) and interferon gamma (IFN-gamma), a previously unrecognized direct signal transduction pathway to the nucleus has been uncovered: IFN-receptor interaction at the cell surface leads to the activation of kinases of the Jak family that then phosphorylate substrate proteins called STATs (signal transducers and activators of transcription). The phosphorylated STAT proteins move to the nucleus, bind specific DNA elements, and direct transcription. Recognition of the molecules involved in the IFN-alpha and IFN-gamma pathway has led to discoveries that a number of STAT family members exist and that other polypeptide ligands also use the Jak-STAT molecules in signal transduction.
+
+
+
+
+
+
+PMID: 10221902
+Number of times this paper has been cited = 36
+Title: Notch signaling: cell fate control and signal integration in development.
+Journal: Science (New York, N.Y.)
+Publication Date: Apr, 1999
+Abstract:
+Notch signaling defines an evolutionarily ancient cell interaction mechanism, which plays a fundamental role in metazoan development. Signals exchanged between neighboring cells through the Notch receptor can amplify and consolidate molecular differences, which eventually dictate cell fates. Thus, Notch signals control how cells respond to intrinsic or extrinsic developmental cues that are necessary to unfold specific developmental programs. Notch activity affects the implementation of differentiation, proliferation, and apoptotic programs, providing a general developmental tool to influence organ formation and morphogenesis.
+
+
+
+
+
+
+PMID: 9407023
+Number of times this paper has been cited = 36
+Title: Wnt signaling: a common theme in animal development.
+Journal: Genes & development
+Publication Date: Dec, 1997
+Abstract:
+
+
+
+
+
+
+
+PMID: 10816416
+Number of times this paper has been cited = 36
+Title: Rho GTPases and their effector proteins.
+Journal: The Biochemical journal
+Publication Date: Jun, 2000
+Abstract:
+Rho GTPases are molecular switches that regulate many essential cellular processes, including actin dynamics, gene transcription, cell-cycle progression and cell adhesion. About 30 potential effector proteins have been identified that interact with members of the Rho family, but it is still unclear which of these are responsible for the diverse biological effects of Rho GTPases. This review will discuss how Rho GTPases physically interact with, and regulate the activity of, multiple effector proteins and how specific effector proteins contribute to cellular responses. To date most progress has been made in the cytoskeleton field, and several biochemical links have now been established between GTPases and the assembly of filamentous actin. The main focus of this review will be Rho, Rac and Cdc42, the three best characterized mammalian Rho GTPases, though the genetic analysis of Rho GTPases in lower eukaryotes is making increasingly important contributions to this field.
+
+
+
+
+
+
+PMID: 15340381
+Number of times this paper has been cited = 36
+Title: The SCF ubiquitin ligase: insights into a molecular machine.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Sep, 2004
+Abstract:
+Ubiquitin ligases are well suited to regulate molecular networks that operate on a post-translational timescale. The F-box family of proteins - which are the substrate-recognition components of the Skp1-Cul1-F-box-protein (SCF) ubiquitin ligase - are important players in many mammalian functions. Here we explore a unifying and structurally detailed view of SCF-mediated proteolytic control of cellular processes that has been revealed by recent studies.
+
+
+
+
+
+
+PMID: 9721091
+Number of times this paper has been cited = 35
+Title: Caspases: enemies within.
+Journal: Science (New York, N.Y.)
+Publication Date: Aug, 1998
+Abstract:
+Apoptosis, an evolutionarily conserved form of cell suicide, requires specialized machinery. The central component of this machinery is a proteolytic system involving a family of proteases called caspases. These enzymes participate in a cascade that is triggered in response to proapoptotic signals and culminates in cleavage of a set of proteins, resulting in disassembly of the cell. Understanding caspase regulation is intimately linked to the ability to rationally manipulate apoptosis for therapeutic gain.
+
+
+
+
+
+
+PMID: 16497588
+Number of times this paper has been cited = 35
+Title: Pathogen recognition and innate immunity.
+Journal: Cell
+Publication Date: Feb, 2006
+Abstract:
+Microorganisms that invade a vertebrate host are initially recognized by the innate immune system through germline-encoded pattern-recognition receptors (PRRs). Several classes of PRRs, including Toll-like receptors and cytoplasmic receptors, recognize distinct microbial components and directly activate immune cells. Exposure of immune cells to the ligands of these receptors activates intracellular signaling cascades that rapidly induce the expression of a variety of overlapping and unique genes involved in the inflammatory and immune responses. New insights into innate immunity are changing the way we think about pathogenesis and the treatment of infectious diseases, allergy, and autoimmunity.
+
+
+
+
+
+
+PMID: 12651740
+Number of times this paper has been cited = 35
+Title: Signals for sorting of transmembrane proteins to endosomes and lysosomes.
+Journal: Annual review of biochemistry
+Publication Date: , 2003
+Abstract:
+Sorting of transmembrane proteins to endosomes and lysosomes is mediated by signals present within the cytosolic domains of the proteins. Most signals consist of short, linear sequences of amino acid residues. Some signals are referred to as tyrosine-based sorting signals and conform to the NPXY or YXXO consensus motifs. Other signals known as dileucine-based signals fit [DE]XXXL[LI] or DXXLL consensus motifs. All of these signals are recognized by components of protein coats peripherally associated with the cytosolic face of membranes. YXXO and [DE]XXXL[LI] signals are recognized with characteristic fine specificity by the adaptor protein (AP) complexes AP-1, AP-2, AP-3, and AP-4, whereas DXXLL signals are recognized by another family of adaptors known as GGAs. Several proteins, including clathrin, AP-2, and Dab2, have been proposed to function as recognition proteins for NPXY signals. YXXO and DXXLL signals bind in an extended conformation to the mu2 subunit of AP-2 and the VHS domain of the GGAs, respectively. Phosphorylation events regulate signal recognition. In addition to peptide motifs, ubiquitination of cytosolic lysine residues also serves as a signal for sorting at various stages of the endosomal-lysosomal system. Conjugated ubiquitin is recognized by UIM, UBA, or UBC domains present within many components of the internalization and lysosomal targeting machinery. This complex array of signals and recognition proteins ensures the dynamic but accurate distribution of transmembrane proteins to different compartments of the endosomal-lysosomal system.
+
+
+
+
+
+
+PMID: 8036511
+Number of times this paper has been cited = 35
+Title: Conserved structures and diversity of functions of RNA-binding proteins.
+Journal: Science (New York, N.Y.)
+Publication Date: Jul, 1994
+Abstract:
+In eukaryotic cells, a multitude of RNA-binding proteins play key roles in the posttranscriptional regulation of gene expression. Characterization of these proteins has led to the identification of several RNA-binding motifs, and recent experiments have begun to illustrate how several of them bind RNA. The significance of these interactions is reflected in the recent discoveries that several human and other vertebrate genetic disorders are caused by aberrant expression of RNA-binding proteins. The major RNA-binding motifs are described and examples of how they may function are given.
+
+
+
+
+
+
+PMID: 15688063
+Number of times this paper has been cited = 35
+Title: Function and regulation of cullin-RING ubiquitin ligases.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: Jan, 2005
+Abstract:
+Cullin-RING complexes comprise the largest known class of ubiquitin ligases. Owing to the great diversity of their substrate-receptor subunits, it is possible that there are hundreds of distinct cullin-RING ubiquitin ligases in eukaryotic cells, which establishes these enzymes as key mediators of post-translational protein regulation. In this review, we focus on the composition, regulation and function of cullin-RING ligases, and describe how these enzymes can be characterized by a set of general principles.
+
+
+
+
+
+
+PMID: 7834738
+Number of times this paper has been cited = 34
+Title: Specificity of receptor tyrosine kinase signaling: transient versus sustained extracellular signal-regulated kinase activation.
+Journal: Cell
+Publication Date: Jan, 1995
+Abstract:
+A number of different intracellular signaling pathways have been shown to be activated by receptor tyrosine kinases. These activation events include the phosphoinositide 3-kinase, 70 kDa S6 kinase, mitogen-activated protein kinase (MAPK), phospholipase C-gamma, and the Jak/STAT pathways. The precise role of each of these pathways in cell signaling remains to be resolved, but studies on the differentiation of mammalian PC12 cells in tissue culture and the genetics of cell fate determination in Drosophila and Caenorhabditis suggest that the extracellular signal-regulated kinase (ERK-regulated) MAPK pathway may be sufficient for these cellular responses. Experiments with PC12 cells also suggest that the duration of ERK activation is critical for cell signaling decisions.
+
+
+
+
+
+
+PMID: 9143704
+Number of times this paper has been cited = 33
+Title: Human chemokines: an update.
+Journal: Annual review of immunology
+Publication Date: , 1997
+Abstract:
+Interleukin 8, the first chemokine to be characterized, was discovered nearly ten years ago. Today, more than 30 human chemokines are known. They are often upregulated in inflammation and act mainly on leukocytes inducing migration and release responses. The present review deals largely with the new developments of the last three years. Several structural studies have shown that most chemokines form dimers. The dimers, however, dissociate upon dilution, and the monomers constitute the biologically active form. Chemokine activities are mediated by seven-transmembrane-domain, G protein coupled receptors, five of which were discovered in the past three years. The primary receptor-binding domain of all chemokines is near the NH2 terminus, and antagonists can be obtained by truncation or substitutions in this region. Major progress has been made in the understanding of chemokine actions on T lymphocytes that respond to several CC chemokines but also to IP10 and Mig, two CXC chemokines that selectively attract T cells via a novel receptor. Effects of chemokines on angiogenesis and tumor growth have been reported, but the data are still contradictory and the mechanisms unknown. Of considerable interest is the recent discovery that some chemokines function as HIV-suppressive factors by interacting with chemokine receptors which, together with CD4, were recognized as the binding sites for HIV-1.
+
+
+
+
+
+
+PMID: 15229469
+Number of times this paper has been cited = 33
+Title: Toll-like receptor signalling.
+Journal: Nature reviews. Immunology
+Publication Date: Jul, 2004
+Abstract:
+
+
+
+
+
+
+
+PMID: 10611969
+Number of times this paper has been cited = 33
+Title: SCF and Cullin/Ring H2-based ubiquitin ligases.
+Journal: Annual review of cell and developmental biology
+Publication Date: , 1999
+Abstract:
+Protein degradation is deployed to modulate the steady-state abundance of proteins and to switch cellular regulatory circuits from one state to another by abrupt elimination of control proteins. In eukaryotes, the bulk of the protein degradation that occurs in the cytoplasm and nucleus is carried out by the 26S proteasome. In turn, most proteins are thought to be targeted to the 26S proteasome by covalent attachment of a multiubiquitin chain. Ubiquitination of proteins requires a multienzyme system. A key component of ubiquitination pathways, the ubiquitin ligase, controls both the specificity and timing of substrate ubiquitination. This review is focused on a conserved ubiquitin ligase complex known as SCF that plays a key role in marking a variety of regulatory proteins for destruction by the 26S proteasome.
+
+
+
+
+
+
+PMID: 8293463
+Number of times this paper has been cited = 33
+Title: Signal transduction by lymphocyte antigen receptors.
+Journal: Cell
+Publication Date: Jan, 1994
+Abstract:
+Despite the differences in the antigens that they recognize and in the effector functions they carry out, B and T lymphocytes utilize remarkably similar signal transduction components to initiate responses. They both use oligomeric receptors that contain distinct recognition and signal transduction subunits. Antigen receptors on both cells interact with at least two distinct families of PTKs via common sequence motifs, ARAMs, in the cytoplasmic tails of their invariant chains, which have likely evolved from a common evolutionary precursor. Coreceptors appear to serve to increase the sensitivity of both of these receptor systems through events that influence ligand binding and signal transduction. The critical role of tyrosine phosphorylation of downstream signaling components, such as phospholipase C, is the net result of changes in the balance of the action of antigen receptor-regulated PTKs and PTPases. The identification of downstream effectors, including calcineurin and Ras, that regulate cellular responses, such as lymphokine gene expression, promises the future possibility of connecting the complex pathway from the plasma membrane to the nucleus in lymphocytes. Insight gained from studies of the signaling pathways downstream of TCR and BCR stimulation is likely to contribute significantly to future understanding of mechanisms responsible for lymphocyte differentiation and for the discrimination of self from nonself in developing and mature cells.
+
+
+
+
+
+
+PMID: 1898771
+Number of times this paper has been cited = 32
+Title: The GTPase superfamily: conserved structure and molecular mechanism.
+Journal: Nature
+Publication Date: Jan, 1991
+Abstract:
+GTPases are conserved molecular switches, built according to a common structural design. Rapidly accruing knowledge of individual GTPases--crystal structures, biochemical properties, or results of molecular genetic experiments--support and generate hypotheses relating structure to function in other members of the diverse family of GTPases.
+
+
+
+
+
+
+PMID: 17426725
+Number of times this paper has been cited = 32
+Title: The spindle-assembly checkpoint in space and time.
+Journal: Nature reviews. Molecular cell biology
+Publication Date: May, 2007
+Abstract:
+In eukaryotes, the spindle-assembly checkpoint (SAC) is a ubiquitous safety device that ensures the fidelity of chromosome segregation in mitosis. The SAC prevents chromosome mis-segregation and aneuploidy, and its dysfunction is implicated in tumorigenesis. Recent molecular analyses have begun to shed light on the complex interaction of the checkpoint proteins with kinetochores--structures that mediate the binding of spindle microtubules to chromosomes in mitosis. These studies are finally starting to reveal the mechanisms of checkpoint activation and silencing during mitotic progression.
+
+
+
+
+
+
