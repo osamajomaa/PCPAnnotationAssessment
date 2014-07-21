@@ -1,0 +1,3 @@
+Number of papers = 17617
+Number of proteins = 60190
+Number of Proteins after filtering out redundencies = 33953
