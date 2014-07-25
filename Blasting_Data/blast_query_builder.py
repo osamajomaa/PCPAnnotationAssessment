@@ -23,6 +23,30 @@ def make_header(feat_list):
     print '----------'
     return header[:-1]
 
+def create_FASTA_file(sprot_file):
+    
+    handle = open(fname)
+    record = SwissProt.parse(handle);
+    frecords = []
+    for rec in record:
+        prot_id = rec.entry_name
+        prot_acc = rec.accessions
+        refs = rec.references
+        prot_refs = []
+        for ref in refs:
+            for r in ref.references:
+                if r[0] == "PubMed":
+                    prot_refs.append(r[1])                
+        sequence = rec.sequence
+        desc = make_header(prot_acc)+"|"+make_header(prot_refs)
+        frec = SeqRecord(Seq(sequence, IUPAC.protein), id=prot_id, description=desc)
+        frecords.append(frec)
+    output_handle = open("human.fasta", "w")
+    SeqIO.write(frecords, output_handle, "fasta")
+    output_handle.close()
+    return "human.fasta"
+
+
 def uniquify_list(crosspec_rec):
     
     visited = []

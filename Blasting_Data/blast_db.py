@@ -18,9 +18,7 @@ if __name__ == "__main__":
     query_file = sys.argv[1]
     db_file = sys.argv[2]
     out_file = sys.argv[3]
-    #evalue = sys.argv[3]
     #query_file = "query.fasta"
     #db_file = "humanblast.db"
-    #evalue = 10**-8
     make_BLAST_query(query_file, db_file, out_file)
     print "Finish!"
