@@ -1,3 +1,11 @@
 Number of papers = 17617
 Number of proteins = 60190
-Number of Proteins after filtering out redundencies = 33953
+Number of Proteins after filtering out redundencies using CD-HIT = 33953
+
+============================================================
+Blast Stats
+
+total number of  Hits in Swissprot =  158236
+total number of  Misses in Swissprot =  84320
+
+============================================================

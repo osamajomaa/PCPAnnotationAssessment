@@ -21,4 +21,4 @@ if __name__ == "__main__":
     #query_file = "query.fasta"
     #db_file = "humanblast.db"
     make_BLAST_query(query_file, db_file, out_file)
-    print "Finish!"
+    print "Finish!!"
